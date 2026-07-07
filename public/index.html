@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>SKB 공중선 정비관리 GIS 시스템</title>
+    <meta name="description" content="SK브로드밴드 현장 정비 요원을 위한 모바일 공중선 정비구역 및 건물 정보 조회 GIS 시스템">
+    
+    <!-- Google Fonts (Noto Sans KR, Outfit) -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Leaflet.js CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    
+    <!-- Custom Style Sheet -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="dark-theme">
+    <div class="app-container">
+        <!-- Sidebar Panel (Left) -->
+        <aside class="sidebar" id="sidebar">
+            <header class="sidebar-header">
+                <div class="logo">
+                    <!-- B Logo style icon using CSS -->
+                    <span class="logo-b">B</span>
+                    <h1>SKB 공중선 정비관리</h1>
+                </div>
+                <button class="sidebar-toggle-btn" id="sidebarToggleBtn" aria-label="사이드바 토글">
+                    <i class="fa-solid fa-chevron-left"></i>
+                </button>
+            </header>
+
+            <div class="sidebar-content">
+                <!-- Dropdown section for Area selection -->
+                <div class="form-group">
+                    <label for="areaSelect"><i class="fa-solid fa-map-location-dot"></i> 정비구역 선택</label>
+                    <div class="select-wrapper">
+                        <select id="areaSelect">
+                            <option value="" disabled selected>정비구역을 선택하세요</option>
+                            <!-- Options loaded dynamically -->
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Search box inside selected area -->
+                <div class="form-group">
+                    <label for="searchInput"><i class="fa-solid fa-magnifying-glass"></i> 건물 검색</label>
+                    <div class="search-box">
+                        <input type="text" id="searchInput" placeholder="건물명 또는 주소 검색..." disabled>
+                        <button id="clearSearchBtn" class="clear-search-btn" aria-label="검색어 초기화" style="display: none;">
+                            <i class="fa-solid fa-xmark"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Stats Cards Section -->
+                <section class="stats-section">
+                    <h2><i class="fa-solid fa-chart-simple"></i> 정비구역 통계</h2>
+                    <div class="stats-grid">
+                        <div class="stat-card total">
+                            <div class="stat-label">전체 건물수</div>
+                            <div class="stat-value" id="totalBuildings">0</div>
+                        </div>
+                        <div class="stat-card inside">
+                            <div class="stat-label">구역내 건물수</div>
+                            <div class="stat-value" id="insideBuildings">0</div>
+                        </div>
+                        <div class="stat-card buffer">
+                            <div class="stat-label">100m 건물수</div>
+                            <div class="stat-value" id="bufferBuildings">0</div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Legend Section -->
+                <section class="legend-section">
+                    <h2><i class="fa-solid fa-layer-group"></i> 범례 (Legend)</h2>
+                    <div class="legend-list">
+                        <div class="legend-item">
+                            <span class="legend-color legend-polygon"></span>
+                            <span class="legend-text">정비구역 (Polygon)</span>
+                        </div>
+                        <div class="legend-item">
+                            <span class="legend-color legend-inside-point"></span>
+                            <span class="legend-text">구역내 건물 (파란색 #0057FF)</span>
+                        </div>
+                        <div class="legend-item">
+                            <span class="legend-color legend-buffer-point"></span>
+                            <span class="legend-text">100m 이내 건물 (주황색 #F59E0B)</span>
+                        </div>
+                        <div class="legend-item">
+                            <span class="legend-color legend-hover-point"></span>
+                            <span class="legend-text">선택/호버 건물 (회색 #374151)</span>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Buildings List Section -->
+                <section class="list-section">
+                    <div class="list-header">
+                        <h2><i class="fa-solid fa-list"></i> 건물 목록 (<span id="filteredCount">0</span>)</h2>
+                    </div>
+                    <div class="building-list" id="buildingList">
+                        <div class="list-placeholder">
+                            <i class="fa-solid fa-info-circle"></i>
+                            <p>정비구역을 선택하면 건물 목록이 표시됩니다.</p>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            
+            <footer class="sidebar-footer">
+                <span class="footer-copy">&copy; 2026 SK Broadband. All Rights Reserved.</span>
+            </footer>
+        </aside>
+
+        <!-- Map Area (Right) -->
+        <main class="map-area" id="mapArea">
+            <div id="map"></div>
+            
+            <!-- Float Controls (Theme Toggle, Recenter, Mobile Sidebar Toggle Trigger) -->
+            <div class="map-controls">
+                <button class="map-ctrl-btn" id="mobileMenuBtn" title="메뉴 열기">
+                    <i class="fa-solid fa-bars"></i>
+                </button>
+                <button class="map-ctrl-btn" id="recenterBtn" title="구역 중심으로 이동" disabled>
+                    <i class="fa-solid fa-crosshairs"></i>
+                </button>
+                <button class="map-ctrl-btn" id="themeToggleBtn" title="테마 변경">
+                    <i class="fa-solid fa-moon"></i>
+                </button>
+            </div>
+
+            <!-- Loading overlay -->
+            <div class="loading-overlay" id="loadingOverlay" style="display: none;">
+                <div class="spinner">
+                    <i class="fa-solid fa-circle-notch fa-spin"></i>
+                    <span>데이터를 가져오는 중...</span>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Leaflet.js JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    
+    <!-- Application ES Modules -->
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>

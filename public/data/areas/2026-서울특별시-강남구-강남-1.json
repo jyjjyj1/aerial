@@ -1,0 +1,103 @@
+{
+  "area": {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [127.0240, 37.4950],
+          [127.0310, 37.4950],
+          [127.0310, 37.5010],
+          [127.0240, 37.5010],
+          [127.0240, 37.4950]
+        ]
+      ]
+    },
+    "properties": {
+      "area_id": "2026-seoul-gangnam-1",
+      "area_name": "2026-서울특별시-강남구-강남-1"
+    }
+  },
+  "buildings": [
+    {
+      "pnu": "1168010100108220002",
+      "match_type": "구역내",
+      "lat": 37.4979,
+      "lng": 127.0276,
+      "bld_nm": "SKB 강남지사 빌딩",
+      "jibun_addr": "서울특별시 강남구 역삼동 822-2",
+      "road_addr": "서울특별시 강남구 테헤란로 123",
+      "avail_gen_cnt": 120,
+      "int_scrbr_cnt": 85,
+      "tv_scrbr_cnt": 74,
+      "skb_pop_cnt": 45,
+      "catv_digital_cnt": 12,
+      "catv_internet_cnt": 8,
+      "catv_8vsb_cnt": 3
+    },
+    {
+      "pnu": "1168010100108230005",
+      "match_type": "구역내",
+      "lat": 37.4982,
+      "lng": 127.0255,
+      "bld_nm": "GT타워",
+      "jibun_addr": "서울특별시 강남구 서초동 1317-23",
+      "road_addr": "서울특별시 서초구 서초대로 411",
+      "avail_gen_cnt": 250,
+      "int_scrbr_cnt": 180,
+      "tv_scrbr_cnt": 165,
+      "skb_pop_cnt": 92,
+      "catv_digital_cnt": 25,
+      "catv_internet_cnt": 14,
+      "catv_8vsb_cnt": 0
+    },
+    {
+      "pnu": "1168010100108240011",
+      "match_type": "구역내",
+      "lat": 37.4965,
+      "lng": 127.0268,
+      "bld_nm": "강남역 서희스타힐스",
+      "jibun_addr": "서울특별시 강남구 역삼동 837-18",
+      "road_addr": "서울특별시 강남구 효령로77길 34",
+      "avail_gen_cnt": 340,
+      "int_scrbr_cnt": 210,
+      "tv_scrbr_cnt": 195,
+      "skb_pop_cnt": 110,
+      "catv_digital_cnt": 35,
+      "catv_internet_cnt": 20,
+      "catv_8vsb_cnt": 15
+    },
+    {
+      "pnu": "1168010100108210001",
+      "match_type": "100m",
+      "lat": 37.4940,
+      "lng": 127.0232,
+      "bld_nm": "역삼 현대아이파크 101동",
+      "jibun_addr": "서울특별시 강남구 역삼동 709-1",
+      "road_addr": "서울특별시 강남구 언주로 431",
+      "avail_gen_cnt": 85,
+      "int_scrbr_cnt": 50,
+      "tv_scrbr_cnt": 45,
+      "skb_pop_cnt": 28,
+      "catv_digital_cnt": 8,
+      "catv_internet_cnt": 4,
+      "catv_8vsb_cnt": 2
+    },
+    {
+      "pnu": "1168010100107370002",
+      "match_type": "100m",
+      "lat": 37.5020,
+      "lng": 127.0315,
+      "bld_nm": "강남 파이낸스 센터",
+      "jibun_addr": "서울특별시 강남구 역삼동 737",
+      "road_addr": "서울특별시 강남구 테헤란로 152",
+      "avail_gen_cnt": 500,
+      "int_scrbr_cnt": 380,
+      "tv_scrbr_cnt": 340,
+      "skb_pop_cnt": 190,
+      "catv_digital_cnt": 55,
+      "catv_internet_cnt": 30,
+      "catv_8vsb_cnt": 5
+    }
+  ]
+}
