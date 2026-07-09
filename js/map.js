@@ -108,7 +108,7 @@ export function renderAreaOnMap(areaData, fitBounds = true) {
     if (areaData.area) {
         // GeoJSON coordinate order is [lng, lat], Leaflet wants [lat, lng]
         // Standard L.geoJSON handles coordinates automatically
-        const polygonLayer = L.geoJSON(areaData.area, {
+        const polygonLayer = L.geoJSON(areaData.area.geojson, {
             style: {
                 color: '#0057FF',       // 진한 파랑 외곽선
                 weight: 3,              // 두께 3
@@ -123,7 +123,7 @@ export function renderAreaOnMap(areaData, fitBounds = true) {
     // 3. Draw Buildings
     if (state.filteredBuildings && state.filteredBuildings.length > 0) {
         state.filteredBuildings.forEach(bld => {
-            const markerColor = bld.match_type === '구역내' ? '#0057FF' : '#F59E0B';
+            const markerColor = bld.match_type === 'inside' ? '#0057FF' : '#F59E0B';
             
             // Create circle marker
             const marker = L.circleMarker([bld.lat, bld.lng], {
@@ -174,7 +174,7 @@ export function renderAreaOnMap(areaData, fitBounds = true) {
             marker.on('mouseout', function(e) {
                 // Restore original color ONLY if this is not the currently selected/clicked point
                 if (state.selectedBuilding !== this.buildingData) {
-                    const originalColor = this.buildingData.match_type === '구역내' ? '#0057FF' : '#F59E0B';
+                    const originalColor = this.buildingData.match_type === 'inside' ? '#0057FF' : '#F59E0B';
                     this.setStyle({
                         fillColor: originalColor,
                         weight: 1.5
@@ -221,7 +221,7 @@ function handleMarkerSelection(marker) {
     if (state.selectedBuilding) {
         const prevMarker = buildingMarkers.get(state.selectedBuilding.pnu);
         if (prevMarker && prevMarker !== marker) {
-            const originalColor = prevMarker.buildingData.match_type === '구역내' ? '#0057FF' : '#F59E0B';
+            const originalColor = prevMarker.buildingData.match_type === 'inside' ? '#0057FF' : '#F59E0B';
             prevMarker.setStyle({
                 fillColor: originalColor,
                 weight: 1.5
