@@ -38,7 +38,7 @@ export function initMap(domId) {
     });
 
     // 기본 배경은 낮 배경
-    setMapTheme('light');
+    setMapTheme(state.theme);
 
     addMyLocationControl();
     addAddressSearchControl();
