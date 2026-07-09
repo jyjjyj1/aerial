@@ -37,7 +37,14 @@ document.addEventListener('DOMContentLoaded', async () => {
                 // Render layers on map (Polygon & Building points), fitting map bounds
                 renderAreaOnMap(data, true);
             } catch (error) {
-                alert('데이터를 불러오는 중 오류가 발생했습니다.');
+                console.error(error);
+
+                alert(
+                    '데이터를 불러오는 중 오류가 발생했습니다.\n\n' +
+                    error.message +
+                    '\n\n자세한 내용은 F12 Console을 확인하세요.'
+                );
+            }
             } finally {
                 showLoading(false);
             }
