@@ -44,7 +44,6 @@ document.addEventListener('DOMContentLoaded', async () => {
                     error.message +
                     '\n\n자세한 내용은 F12 Console을 확인하세요.'
                 );
-            }
             } finally {
                 showLoading(false);
             }
