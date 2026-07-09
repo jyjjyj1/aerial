@@ -4,7 +4,7 @@
 
 import { state, filterBuildings } from './data.js';
 import { focusBuildingOnMap, resetMapFocus } from './map.js';
-import { formatNumber, debounce } from './utils.js';
+import { formatNumber, debounce, getBuildingName } from './utils.js';
 
 // DOM Elements Cache
 let elements = {};
@@ -105,7 +105,7 @@ export function renderBuildingList(buildings) {
         
         card.innerHTML = `
             <div class="bld-card-header">
-                <span class="bld-title">${bld.bld_nm || '건물명 없음'}</span>
+                <span class="bld-title">${getBuildingName(bld.bld_nm)}</span>
                 <span class="badge ${badgeClass}">${badgeText}</span>
             </div>
             <div class="bld-address">

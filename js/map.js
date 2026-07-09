@@ -3,7 +3,7 @@
  */
 
 import { state, selectBuilding } from './data.js';
-import { formatNumber } from './utils.js';
+import { formatNumber, getBuildingName } from './utils.js';
 import { updateBuildingSelectionInUI } from './ui.js';
 
 let mapInstance = null;
@@ -37,7 +37,7 @@ export function initMap(domId) {
         group.addTo(mapInstance);
     });
 
-    // 기본 배경은 낮 배경
+    // 초기 테마는 상태값(state.theme, 기본 'dark')과 일치시킴
     setMapTheme(state.theme);
 
     addMyLocationControl();
@@ -136,7 +136,7 @@ export function renderAreaOnMap(areaData, fitBounds = true) {
 
             const tooltipContent = `
                 <div class="map-tooltip">
-                    <strong>${bld.bld_nm || 'N/A'}</strong><br/>
+                    <strong>${getBuildingName(bld.bld_nm)}</strong><br/>
                     <span style="font-size:10px;">${bld.road_addr || bld.jibun_addr || '-'}</span>
                 </div>
             `;
@@ -456,7 +456,7 @@ function createBuildingPopupContent(bld) {
     return `
         <div class="popup-container">
             <div class="popup-header">
-                <div class="popup-title">${bld.bld_nm || '건물명 없음'}</div>
+                <div class="popup-title">${getBuildingName(bld.bld_nm)}</div>
             </div>
             <div class="popup-body">
                 <table class="popup-table">
