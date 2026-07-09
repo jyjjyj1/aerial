@@ -47,3 +47,15 @@ export function debounce(func, wait) {
         timeout = setTimeout(later, wait);
     };
 }
+
+/**
+ * 건물명이 없거나 'N/A'인 경우 한글 안내 텍스트로 대체.
+ * @param {string} name - 원본 bld_nm 값
+ * @returns {string} 표시용 건물명
+ */
+export function getBuildingName(name) {
+    if (!name || name.trim() === '' || name.trim().toUpperCase() === 'N/A') {
+        return '건물명 없음';
+    }
+    return name;
+}
