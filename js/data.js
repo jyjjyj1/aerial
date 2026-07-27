@@ -46,7 +46,7 @@ export async function loadAreaData(areaId) {
     }
 
     try {
-        const response = await fetch(areaMeta.file);
+        const response = await fetch(`data/areas/${areaMeta.file}`);
         if (!response.ok) {
             throw new Error(`Failed to load area data from ${areaMeta.file}: ${response.status}`);
         }
@@ -78,7 +78,7 @@ export async function loadAreaData(areaId) {
  */
 function calculateStats(buildings) {
     state.stats.total = buildings.length;
-    state.stats.inside = buildings.filter(b => b.match_type === '구역내').length;
+    state.stats.inside = buildings.filter(b => b.match_type === 'inside').length;
     state.stats.buffer = buildings.filter(b => b.match_type === '100m').length;
 }
 

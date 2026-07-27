@@ -4,7 +4,7 @@
 
 import { state, filterBuildings } from './data.js';
 import { focusBuildingOnMap, resetMapFocus } from './map.js';
-import { formatNumber, debounce } from './utils.js';
+import { formatNumber, debounce, getBuildingName } from './utils.js';
 
 // DOM Elements Cache
 let elements = {};
@@ -98,13 +98,14 @@ export function renderBuildingList(buildings) {
         card.className = 'bld-card';
         card.dataset.pnu = bld.pnu;
         
-        // Dynamic badges based on match_type
-        const badgeClass = bld.match_type === '구역내' ? 'inside' : 'buffer';
-        const badgeText = bld.match_type;
+        // Dynamic badges based on match_type ('inside' | '100m')
+        const isInside = bld.match_type === 'inside';
+        const badgeClass = isInside ? 'inside' : 'buffer';
+        const badgeText = isInside ? '구역내' : '100m 이내';
         
         card.innerHTML = `
             <div class="bld-card-header">
-                <span class="bld-title">${bld.bld_nm || '건물명 없음'}</span>
+                <span class="bld-title">${getBuildingName(bld.bld_nm)}</span>
                 <span class="badge ${badgeClass}">${badgeText}</span>
             </div>
             <div class="bld-address">
