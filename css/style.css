@@ -716,6 +716,15 @@ select:focus {
     max-width: 250px !important;
 }
 
+.leaflet-tooltip-pane .leaflet-tooltip.skb-marker-tooltip {
+    white-space: normal !important;
+    width: max-content !important;
+    max-width: 200px !important;
+    word-break: keep-all !important;
+    overflow-wrap: break-word !important;
+    line-height: 1.4 !important;
+}
+
 .leaflet-tooltip::before {
     border-right-color: var(--bg-popup) !important;
     border-left-color: var(--bg-popup) !important;
