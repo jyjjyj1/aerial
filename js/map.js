@@ -303,6 +303,15 @@ async function startMyLocationTracking() {
         return;
     }
 
+    // 위치/방향 센서는 보안 컨텍스트(HTTPS 또는 localhost)에서만 동작함
+    if (!window.isSecureContext) {
+        alert(
+            '위치 기능은 보안 연결(HTTPS)에서만 동작합니다.\n' +
+            '현재 페이지가 http:// 로 열려있다면 https:// 주소로 다시 접속해주세요.'
+        );
+        return;
+    }
+
     // iOS 13+ 는 방향센서(DeviceOrientationEvent) 접근 전에 반드시
     // "사용자 클릭 이벤트 안에서" 명시적으로 권한을 물어봐야 함
     if (typeof DeviceOrientationEvent !== 'undefined' &&
@@ -323,7 +332,7 @@ async function startMyLocationTracking() {
     }
 
     isLocationTracking = true;
-    setLocationButtonActive(true);
+    setLocationButtonActive(false, true); // "찾는 중" 표시 (아직 위치 확보 전)
 
     let firstFix = true;
 
@@ -335,20 +344,35 @@ async function startMyLocationTracking() {
 
             updateMyLocationMarker(lat, lng, heading);
 
-            // 최초 위치 확보 시에만 지도 중심 이동 (이후엔 사용자가 지도를 자유롭게 조작 가능하도록 유지)
+            // 최초 위치 확보 시에만 지도 중심 이동 + 버튼을 "활성" 상태로 전환
             if (firstFix) {
                 mapInstance.setView([lat, lng], 17, { animate: true });
+                setLocationButtonActive(true);
                 firstFix = false;
             }
         },
         error => {
-            alert('현재 위치를 가져오지 못했습니다. 브라우저 위치 권한을 확인하세요.');
-            console.error(error);
+            let reason = '알 수 없는 오류';
+
+            switch (error.code) {
+                case error.PERMISSION_DENIED:
+                    reason = '위치 권한이 거부되었습니다. 브라우저/폰 설정에서 이 사이트의 위치 접근을 허용해주세요.';
+                    break;
+                case error.POSITION_UNAVAILABLE:
+                    reason = '현재 위치를 확인할 수 없습니다. GPS/위치 서비스가 켜져 있는지 확인해주세요.';
+                    break;
+                case error.TIMEOUT:
+                    reason = '위치를 가져오는 데 시간이 너무 오래 걸립니다. 실내/지하 등 GPS 신호가 약한 곳은 아닌지 확인해주세요.';
+                    break;
+            }
+
+            console.error('[내 위치] 오류:', error.code, error.message);
+            alert(`현재 위치를 가져오지 못했습니다.\n\n${reason}`);
             stopMyLocationTracking();
         },
         {
             enableHighAccuracy: true,
-            timeout: 10000,
+            timeout: 15000,
             maximumAge: 0
         }
     );
@@ -366,10 +390,20 @@ function stopMyLocationTracking() {
     setLocationButtonActive(false);
 }
 
-function setLocationButtonActive(active) {
+function setLocationButtonActive(active, isSearching = false) {
     if (!myLocationButtonEl) return;
+
+    if (isSearching) {
+        myLocationButtonEl.style.background = '#ffffff';
+        myLocationButtonEl.innerHTML = '⏳';
+        myLocationButtonEl.title = '내 위치 찾는 중...';
+        return;
+    }
+
     myLocationButtonEl.style.background = active ? '#0057FF' : '#ffffff';
-    myLocationButtonEl.style.filter = active ? 'invert(1)' : 'none';
+    myLocationButtonEl.innerHTML = '📍';
+    myLocationButtonEl.style.filter = 'none';
+    myLocationButtonEl.style.color = active ? '#ffffff' : '#000000';
     myLocationButtonEl.title = active ? '내 위치 추적 중지' : '내 위치 (방향 포함)';
 }
 
