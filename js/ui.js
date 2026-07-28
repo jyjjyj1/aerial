@@ -14,7 +14,10 @@ let elements = {};
  */
 export function initDOMElements() {
     elements = {
-        areaSelect: document.getElementById('areaSelect'),
+        yearSelect: document.getElementById('yearSelect'),
+        sidoSelect: document.getElementById('sidoSelect'),
+        sigunguSelect: document.getElementById('sigunguSelect'),
+        areaNumberSelect: document.getElementById('areaNumberSelect'),
         searchInput: document.getElementById('searchInput'),
         clearSearchBtn: document.getElementById('clearSearchBtn'),
         totalBuildings: document.getElementById('totalBuildings'),
@@ -33,21 +36,34 @@ export function initDOMElements() {
 }
 
 /**
- * Populate area dropdown options.
- * @param {Array} areas - List of area metadata
+ * 정비구역 선택 드롭다운(연도 단계)을 초기화.
+ * 시도/시군구/번호는 state.areaHierarchy를 바탕으로 단계별로 채워짐 (setupUIEventListeners 참고).
  */
-export function updateAreaSelect(areas) {
-    if (!elements.areaSelect) return;
-    
-    // Clear except first disabled option
-    elements.areaSelect.innerHTML = '<option value="" disabled selected>정비구역을 선택하세요</option>';
-    
-    areas.forEach(area => {
+export function updateAreaSelect() {
+    if (!elements.yearSelect) return;
+
+    const years = Object.keys(state.areaHierarchy).sort((a, b) => b.localeCompare(a));
+
+    elements.yearSelect.innerHTML = '<option value="">연도 선택</option>';
+    years.forEach(year => {
         const option = document.createElement('option');
-        option.value = area.area_id;
-        option.textContent = area.area_name;
-        elements.areaSelect.appendChild(option);
+        option.value = year;
+        option.textContent = `${year}년`;
+        elements.yearSelect.appendChild(option);
     });
+
+    resetSelect(elements.sidoSelect, '시/도 선택');
+    resetSelect(elements.sigunguSelect, '시/군/구 선택');
+    resetSelect(elements.areaNumberSelect, '구역 번호 선택');
+}
+
+/**
+ * 드롭다운을 플레이스홀더 옵션 하나만 남기고 비활성화.
+ */
+function resetSelect(selectEl, placeholder) {
+    if (!selectEl) return;
+    selectEl.innerHTML = `<option value="">${placeholder}</option>`;
+    selectEl.disabled = true;
 }
 
 /**
@@ -161,9 +177,83 @@ export function setupUIEventListeners(callbacks) {
         bindMyLocationButton(elements.myLocationBtn);
     }
 
-    // 1. Area Dropdown Selection Change
-    if (elements.areaSelect) {
-        elements.areaSelect.addEventListener('change', async (e) => {
+    // 1. 연도 선택 → 시/도 목록 채우기
+    if (elements.yearSelect) {
+        elements.yearSelect.addEventListener('change', (e) => {
+            const year = e.target.value;
+
+            resetSelect(elements.sidoSelect, '시/도 선택');
+            resetSelect(elements.sigunguSelect, '시/군/구 선택');
+            resetSelect(elements.areaNumberSelect, '구역 번호 선택');
+
+            if (!year || !state.areaHierarchy[year]) return;
+
+            const sidoList = Object.keys(state.areaHierarchy[year]).sort((a, b) => a.localeCompare(b, 'ko'));
+
+            elements.sidoSelect.innerHTML = '<option value="">시/도 선택</option>';
+            sidoList.forEach(sido => {
+                const option = document.createElement('option');
+                option.value = sido;
+                option.textContent = sido;
+                elements.sidoSelect.appendChild(option);
+            });
+            elements.sidoSelect.disabled = false;
+        });
+    }
+
+    // 1-1. 시/도 선택 → 시/군/구 목록 채우기
+    if (elements.sidoSelect) {
+        elements.sidoSelect.addEventListener('change', (e) => {
+            const year = elements.yearSelect.value;
+            const sido = e.target.value;
+
+            resetSelect(elements.sigunguSelect, '시/군/구 선택');
+            resetSelect(elements.areaNumberSelect, '구역 번호 선택');
+
+            const sigunguMap = year && sido ? state.areaHierarchy[year]?.[sido] : null;
+            if (!sigunguMap) return;
+
+            const sigunguList = Object.keys(sigunguMap).sort((a, b) => a.localeCompare(b, 'ko'));
+
+            elements.sigunguSelect.innerHTML = '<option value="">시/군/구 선택</option>';
+            sigunguList.forEach(sigungu => {
+                const option = document.createElement('option');
+                option.value = sigungu;
+                option.textContent = sigungu;
+                elements.sigunguSelect.appendChild(option);
+            });
+            elements.sigunguSelect.disabled = false;
+        });
+    }
+
+    // 1-2. 시/군/구 선택 → 해당 시/군/구의 구역 번호 목록 채우기 (핵심 요청사항)
+    if (elements.sigunguSelect) {
+        elements.sigunguSelect.addEventListener('change', (e) => {
+            const year = elements.yearSelect.value;
+            const sido = elements.sidoSelect.value;
+            const sigungu = e.target.value;
+
+            resetSelect(elements.areaNumberSelect, '구역 번호 선택');
+
+            const list = year && sido && sigungu
+                ? state.areaHierarchy[year]?.[sido]?.[sigungu]
+                : null;
+            if (!list) return;
+
+            elements.areaNumberSelect.innerHTML = '<option value="">구역 번호 선택</option>';
+            list.forEach(entry => {
+                const option = document.createElement('option');
+                option.value = entry.area_id;
+                option.textContent = `${entry.suffix}구역 (건물 ${entry.building_count}개)`;
+                elements.areaNumberSelect.appendChild(option);
+            });
+            elements.areaNumberSelect.disabled = false;
+        });
+    }
+
+    // 1-3. 구역 번호 선택 → 실제 데이터 로드 (기존 areaSelect change 로직과 동일)
+    if (elements.areaNumberSelect) {
+        elements.areaNumberSelect.addEventListener('change', async (e) => {
             const areaId = e.target.value;
             if (areaId) {
                 // Enable search input
