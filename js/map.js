@@ -140,16 +140,17 @@ export function renderAreaOnMap(areaData, fitBounds = true) {
             marker.buildingData = bld;
 
             const tooltipContent = `
-                <div class="map-tooltip">
-                    <strong>${getBuildingName(bld.bld_nm)}</strong><br/>
-                    <span style="font-size:10px;">${bld.road_addr || bld.jibun_addr || '-'}</span>
+                <div class="map-tooltip" style="white-space:normal; width:max-content; max-width:200px; word-break:keep-all; overflow-wrap:break-word; line-height:1.4; text-align:left;">
+                    <strong style="white-space:normal;">${getBuildingName(bld.bld_nm)}</strong><br/>
+                    <span style="font-size:10px; white-space:normal;">${bld.road_addr || bld.jibun_addr || '-'}</span>
                 </div>
             `;
 
             marker.bindTooltip(tooltipContent, {
                 direction: 'top',
                 offset: [0, -5],
-                opacity: 0.95
+                opacity: 0.95,
+                className: 'skb-marker-tooltip'
             });
 
             marker.bindPopup(createBuildingPopupContent(bld), {
