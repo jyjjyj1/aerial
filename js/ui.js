@@ -3,7 +3,7 @@
  */
 
 import { state, filterBuildings } from './data.js';
-import { focusBuildingOnMap, resetMapFocus } from './map.js';
+import { focusBuildingOnMap, resetMapFocus, bindMyLocationButton } from './map.js';
 import { formatNumber, debounce, getBuildingName } from './utils.js';
 
 // DOM Elements Cache
@@ -26,6 +26,7 @@ export function initDOMElements() {
         sidebarToggleBtn: document.getElementById('sidebarToggleBtn'),
         mobileMenuBtn: document.getElementById('mobileMenuBtn'),
         recenterBtn: document.getElementById('recenterBtn'),
+        myLocationBtn: document.getElementById('myLocationBtn'),
         themeToggleBtn: document.getElementById('themeToggleBtn'),
         loadingOverlay: document.getElementById('loadingOverlay')
     };
@@ -154,6 +155,12 @@ export function updateBuildingSelectionInUI(pnu) {
  * @param {object} callbacks - Object containing callback functions for interactions
  */
 export function setupUIEventListeners(callbacks) {
+    // 0. 내 위치 버튼을 map.js의 위치추적 기능과 연결
+    //    (기존엔 Leaflet Control로 따로 떠 있어서 recenterBtn 등과 겹쳐 보였던 문제 수정)
+    if (elements.myLocationBtn) {
+        bindMyLocationButton(elements.myLocationBtn);
+    }
+
     // 1. Area Dropdown Selection Change
     if (elements.areaSelect) {
         elements.areaSelect.addEventListener('change', async (e) => {
