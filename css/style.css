@@ -115,21 +115,12 @@ body, html {
     gap: 12px;
 }
 
-.logo-b {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
+.logo-img {
     width: 32px;
     height: 32px;
-    background: var(--skb-blue);
-    color: #ffffff;
-    font-family: var(--font-en);
-    font-weight: 800;
-    font-size: 20px;
+    object-fit: contain;
     border-radius: 6px;
-    box-shadow: 0 4px 10px rgba(0, 87, 255, 0.3);
-    user-select: none;
-    text-shadow: 1px 1px 0px rgba(0,0,0,0.15);
+    flex-shrink: 0;
 }
 
 .logo h1 {
@@ -632,6 +623,17 @@ select:focus {
     opacity: 0.5;
     cursor: not-allowed;
     transform: none;
+}
+
+.map-ctrl-btn.active {
+    background: var(--skb-blue);
+    color: #ffffff;
+    border-color: var(--skb-blue);
+}
+
+.map-ctrl-btn.active:hover {
+    background: var(--skb-blue);
+    color: #ffffff;
 }
 
 #mobileMenuBtn {
