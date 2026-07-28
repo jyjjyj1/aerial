@@ -14,6 +14,7 @@ let myLocationWatchId = null;
 let myOrientationHandler = null;
 let isLocationTracking = false;
 let myLocationButtonEl = null;
+let myLocationIconEl = null;
 let searchResultMarker = null;
 
 export const layerGroups = {
@@ -45,7 +46,6 @@ export function initMap(domId) {
     // 초기 테마는 상태값(state.theme, 기본 'dark')과 일치시킴
     setMapTheme(state.theme);
 
-    addMyLocationControl();
     addAddressSearchControl();
 
     setTimeout(() => {
@@ -250,38 +250,19 @@ export function resetMapFocus() {
     fitCurrentBounds();
 }
 
-function addMyLocationControl() {
-    const LocationControl = L.Control.extend({
-        options: {
-            position: 'topright'
-        },
+/**
+ * index.html의 기존 버튼(#myLocationBtn)을 내 위치 기능과 연결합니다.
+ * (기존엔 별도 Leaflet Control로 떠 있어서 recenterBtn 등과 겹쳐 보이는 문제가 있었음)
+ */
+export function bindMyLocationButton(buttonEl) {
+    if (!buttonEl) return;
 
-        onAdd: function () {
-            const container = L.DomUtil.create('div', 'leaflet-bar skb-location-control');
-            const button = L.DomUtil.create('button', '', container);
+    myLocationButtonEl = buttonEl;
+    myLocationIconEl = buttonEl.querySelector('i');
 
-            button.type = 'button';
-            button.title = '내 위치 (방향 포함)';
-            button.innerHTML = '📍';
-            button.style.width = '36px';
-            button.style.height = '36px';
-            button.style.border = 'none';
-            button.style.background = '#ffffff';
-            button.style.cursor = 'pointer';
-            button.style.fontSize = '18px';
-
-            myLocationButtonEl = button;
-
-            L.DomEvent.disableClickPropagation(container);
-            L.DomEvent.on(button, 'click', function () {
-                toggleMyLocationTracking();
-            });
-
-            return container;
-        }
+    buttonEl.addEventListener('click', () => {
+        toggleMyLocationTracking();
     });
-
-    mapInstance.addControl(new LocationControl());
 }
 
 /**
@@ -289,7 +270,7 @@ function addMyLocationControl() {
  * - 꺼진 상태에서 누르면 실시간 위치추적 + 방향(나침반) 표시 시작
  * - 켜진 상태에서 누르면 추적 중지
  */
-function toggleMyLocationTracking() {
+export function toggleMyLocationTracking() {
     if (isLocationTracking) {
         stopMyLocationTracking();
     } else {
@@ -394,17 +375,20 @@ function setLocationButtonActive(active, isSearching = false) {
     if (!myLocationButtonEl) return;
 
     if (isSearching) {
-        myLocationButtonEl.style.background = '#ffffff';
-        myLocationButtonEl.innerHTML = '⏳';
+        myLocationButtonEl.classList.remove('active');
         myLocationButtonEl.title = '내 위치 찾는 중...';
+        if (myLocationIconEl) {
+            myLocationIconEl.className = 'fa-solid fa-spinner fa-spin';
+        }
         return;
     }
 
-    myLocationButtonEl.style.background = active ? '#0057FF' : '#ffffff';
-    myLocationButtonEl.innerHTML = '📍';
-    myLocationButtonEl.style.filter = 'none';
-    myLocationButtonEl.style.color = active ? '#ffffff' : '#000000';
+    myLocationButtonEl.classList.toggle('active', active);
     myLocationButtonEl.title = active ? '내 위치 추적 중지' : '내 위치 (방향 포함)';
+
+    if (myLocationIconEl) {
+        myLocationIconEl.className = 'fa-solid fa-location-crosshairs';
+    }
 }
 
 /**
