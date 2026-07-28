@@ -5,6 +5,7 @@
 // Application State
 export const state = {
     areas: [],               // List of maintenance areas (loaded from areas.json)
+    areaHierarchy: {},       // { 연도: { 시도: { 시군구: [ {area_id, suffix, ...} ] } } }
     currentAreaId: null,     // Currently active area ID
     currentAreaData: null,   // Current area polygon & building data
     searchQuery: '',         // Active search query
@@ -28,11 +29,55 @@ export async function loadAreas() {
             throw new Error(`Failed to load areas list: ${response.status}`);
         }
         state.areas = await response.json();
+        state.areaHierarchy = buildAreaHierarchy(state.areas);
         return state.areas;
     } catch (error) {
         console.error('Error loading areas metadata:', error);
         throw error;
     }
+}
+
+/**
+ * area_name("연도-시도-시군구-번호" 형식, 예: "2026-서울특별시-강남구-강남-1")을
+ * 연도 > 시도 > 시군구 > [구역목록] 계층 구조로 재구성.
+ * 정비구역 드롭다운을 연도/시도/시군구/번호 단계별로 좁혀 나갈 수 있게 하기 위함.
+ * @param {Array} areas - areas.json의 원본 배열
+ */
+function buildAreaHierarchy(areas) {
+    const hierarchy = {};
+
+    areas.forEach(area => {
+        const parts = String(area.area_name || '').split('-');
+        if (parts.length < 3) return;
+
+        const year = parts[0];
+        const sido = parts[1];
+        const sigungu = parts[2];
+        const suffix = parts.slice(3).join('-') || '1';
+
+        if (!hierarchy[year]) hierarchy[year] = {};
+        if (!hierarchy[year][sido]) hierarchy[year][sido] = {};
+        if (!hierarchy[year][sido][sigungu]) hierarchy[year][sido][sigungu] = [];
+
+        hierarchy[year][sido][sigungu].push({
+            area_id: area.area_id,
+            suffix,
+            building_count: area.building_count,
+            inside_count: area.inside_count,
+            near_count: area.near_count
+        });
+    });
+
+    // 구역 번호 순서대로 정렬 (자연 정렬: "2"가 "10"보다 앞에 오도록)
+    Object.values(hierarchy).forEach(sidoMap => {
+        Object.values(sidoMap).forEach(sigunguMap => {
+            Object.values(sigunguMap).forEach(list => {
+                list.sort((a, b) => a.suffix.localeCompare(b.suffix, 'ko', { numeric: true }));
+            });
+        });
+    });
+
+    return hierarchy;
 }
 
 /**
