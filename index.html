@@ -24,8 +24,8 @@
         <aside class="sidebar" id="sidebar">
             <header class="sidebar-header">
                 <div class="logo">
-                    <!-- 실제 SK브로드밴드 로고 이미지 -->
-                    <img src="images/logo.png" alt="SK Broadband 로고" class="logo-img">
+                    <!-- B 로고 (CSS 뱃지) -->
+                    <span class="logo-b">B</span>
                     <h1>SKB 공중선 정비관리</h1>
                 </div>
                 <button class="sidebar-toggle-btn" id="sidebarToggleBtn" aria-label="사이드바 토글">
@@ -34,14 +34,30 @@
             </header>
 
             <div class="sidebar-content">
-                <!-- Dropdown section for Area selection -->
+                <!-- Dropdown section for Area selection (연도 > 시도 > 시군구 > 번호 단계별 선택) -->
                 <div class="form-group">
-                    <label for="areaSelect"><i class="fa-solid fa-map-location-dot"></i> 정비구역 선택</label>
-                    <div class="select-wrapper">
-                        <select id="areaSelect">
-                            <option value="" disabled selected>정비구역을 선택하세요</option>
-                            <!-- Options loaded dynamically -->
-                        </select>
+                    <label><i class="fa-solid fa-map-location-dot"></i> 정비구역 선택</label>
+                    <div class="area-cascade">
+                        <div class="select-wrapper">
+                            <select id="yearSelect">
+                                <option value="">연도 선택</option>
+                            </select>
+                        </div>
+                        <div class="select-wrapper">
+                            <select id="sidoSelect" disabled>
+                                <option value="">시/도 선택</option>
+                            </select>
+                        </div>
+                        <div class="select-wrapper">
+                            <select id="sigunguSelect" disabled>
+                                <option value="">시/군/구 선택</option>
+                            </select>
+                        </div>
+                        <div class="select-wrapper">
+                            <select id="areaNumberSelect" disabled>
+                                <option value="">구역 번호 선택</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
 
