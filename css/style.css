@@ -818,6 +818,63 @@ select:focus {
     font-weight: 400;
 }
 
+/* 인터넷/TV 가입자수 - 클릭해서 기술방식 목록을 펼치는 행 */
+.tech-toggle-row {
+    cursor: pointer;
+}
+
+.tech-toggle-row:hover th,
+.tech-toggle-row:hover td {
+    color: var(--skb-blue) !important;
+}
+
+.tech-toggle-icon {
+    font-size: 9px;
+    margin-left: 4px;
+    color: var(--text-secondary);
+    transition: transform 0.2s ease;
+}
+
+.tech-detail-row td {
+    padding: 4px 0 8px 0 !important;
+}
+
+.tech-list {
+    list-style: none;
+    margin: 0;
+    padding: 6px 8px;
+    background: rgba(0, 87, 255, 0.06);
+    border-radius: 6px;
+}
+
+.tech-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px 0;
+    font-size: 11px;
+    font-weight: 400;
+}
+
+.tech-list li .tech-name {
+    color: var(--text-primary);
+    font-family: var(--font-ko);
+    text-align: left;
+}
+
+.tech-list li .tech-count {
+    color: var(--skb-blue);
+    font-family: var(--font-en);
+    font-weight: 600;
+}
+
+.tech-empty {
+    font-size: 11px;
+    color: var(--text-secondary);
+    text-align: center;
+    padding: 6px 0;
+}
+
 .leaflet-container a.leaflet-popup-close-button {
     color: var(--text-secondary) !important;
     top: 8px !important;
