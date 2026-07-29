@@ -15,7 +15,6 @@ let myOrientationHandler = null;
 let isLocationTracking = false;
 let myLocationButtonEl = null;
 let myLocationIconEl = null;
-let searchResultMarker = null;
 
 /**
  * 터치 기기(폰/태블릿) 여부 판별.
@@ -54,8 +53,6 @@ export function initMap(domId) {
 
     // 초기 테마는 상태값(state.theme, 기본 'dark')과 일치시킴
     setMapTheme(state.theme);
-
-    addAddressSearchControl();
 
     setTimeout(() => {
         mapInstance.invalidateSize();
@@ -500,140 +497,6 @@ function stopOrientationWatch() {
     window.removeEventListener('deviceorientationabsolute', myOrientationHandler, true);
     window.removeEventListener('deviceorientation', myOrientationHandler, true);
     myOrientationHandler = null;
-}
-
-function addAddressSearchControl() {
-    const SearchControl = L.Control.extend({
-        options: {
-            position: 'topleft'
-        },
-
-        onAdd: function () {
-            const container = L.DomUtil.create('div', 'skb-address-search');
-
-            container.innerHTML = `
-                <div style="
-                    background:#ffffff;
-                    padding:8px;
-                    border-radius:8px;
-                    box-shadow:0 2px 8px rgba(0,0,0,0.25);
-                    display:flex;
-                    gap:6px;
-                    align-items:center;
-                    max-width:320px;
-                ">
-                    <input 
-                        id="skbAddressInput"
-                        type="text"
-                        placeholder="주소 검색"
-                        style="
-                            width:220px;
-                            height:32px;
-                            border:1px solid #d1d5db;
-                            border-radius:6px;
-                            padding:0 8px;
-                            font-size:13px;
-                        "
-                    />
-                    <button 
-                        id="skbAddressSearchBtn"
-                        type="button"
-                        style="
-                            height:32px;
-                            padding:0 10px;
-                            border:none;
-                            border-radius:6px;
-                            background:#0057FF;
-                            color:#ffffff;
-                            font-size:13px;
-                            cursor:pointer;
-                        "
-                    >검색</button>
-                </div>
-            `;
-
-            L.DomEvent.disableClickPropagation(container);
-            L.DomEvent.disableScrollPropagation(container);
-
-            setTimeout(() => {
-                const input = container.querySelector('#skbAddressInput');
-                const button = container.querySelector('#skbAddressSearchBtn');
-
-                button.addEventListener('click', () => {
-                    searchAddress(input.value);
-                });
-
-                input.addEventListener('keydown', e => {
-                    if (e.key === 'Enter') {
-                        searchAddress(input.value);
-                    }
-                });
-            }, 0);
-
-            return container;
-        }
-    });
-
-    mapInstance.addControl(new SearchControl());
-}
-
-async function searchAddress(query) {
-    const keyword = String(query || '').trim();
-
-    if (!keyword) {
-        alert('검색할 주소를 입력하세요.');
-        return;
-    }
-
-    try {
-        const url =
-            'https://nominatim.openstreetmap.org/search?' +
-            new URLSearchParams({
-                q: keyword,
-                format: 'json',
-                limit: '1',
-                countrycodes: 'kr'
-            }).toString();
-
-        const response = await fetch(url, {
-            headers: {
-                'Accept': 'application/json'
-            }
-        });
-
-        if (!response.ok) {
-            throw new Error(`주소 검색 실패: ${response.status}`);
-        }
-
-        const results = await response.json();
-
-        if (!results || results.length === 0) {
-            alert('검색 결과가 없습니다.');
-            return;
-        }
-
-        const lat = Number(results[0].lat);
-        const lng = Number(results[0].lon);
-
-        if (!Number.isFinite(lat) || !Number.isFinite(lng)) {
-            alert('검색 결과 좌표가 올바르지 않습니다.');
-            return;
-        }
-
-        if (searchResultMarker) {
-            mapInstance.removeLayer(searchResultMarker);
-        }
-
-        searchResultMarker = L.marker([lat, lng]).addTo(mapInstance);
-        searchResultMarker.bindPopup(results[0].display_name || keyword).openPopup();
-
-        mapInstance.setView([lat, lng], 17, {
-            animate: true
-        });
-    } catch (error) {
-        console.error(error);
-        alert('주소 검색 중 오류가 발생했습니다.');
-    }
 }
 
 function createBuildingPopupContent(bld) {
