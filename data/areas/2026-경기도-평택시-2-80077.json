@@ -67,13 +67,47 @@
   },
   "buildings": [
     {
-      "pnu": "4122011200102720006",
+      "pnu": "4122011200106900118",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 272-6",
-      "road_addr": "경기 평택시 밀월로29번길 38",
+      "jibun_addr": "경기 평택시 신장동 690-118",
+      "road_addr": "경기 평택시 밀월로29번길 52",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07729832,
+      "lng": 127.05014374
+    },
+    {
+      "pnu": "4122011200106900122",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-122",
+      "road_addr": "경기 평택시 국제로 106",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -83,8 +117,187 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.07728281,
-      "lng": 127.05080759
+      "lat": 37.07746847,
+      "lng": 127.04985022
+    },
+    {
+      "pnu": "4122011200102700029",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 270-29",
+      "road_addr": "경기 평택시 밀월로21번길 53-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07613436,
+      "lng": 127.04984686
+    },
+    {
+      "pnu": "4122011200106900124",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-124",
+      "road_addr": "경기 평택시 국제로 104-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.07736911,
+      "lng": 127.04979456
+    },
+    {
+      "pnu": "4122011200102740314",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 274-314",
+      "road_addr": "경기 평택시 송월로32번길 31",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.0761126,
+      "lng": 127.051242
+    },
+    {
+      "pnu": "4122011200102970150",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-150",
+      "road_addr": "경기 평택시 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07665798,
+      "lng": 127.05005752
+    },
+    {
+      "pnu": "4122011200106900135",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-135",
+      "road_addr": "경기 평택시 밀월로29번길 49-16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07693588,
+      "lng": 127.04965087
+    },
+    {
+      "pnu": "4122011200106910045",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 691-45",
+      "road_addr": "경기 평택시 밀월로35번길 45-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07764153,
+      "lng": 127.05032171
+    },
+    {
+      "pnu": "4122011200102730027",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 273-27",
+      "road_addr": "경기 평택시 밀월로29번길 41-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.07684945,
+      "lng": 127.05063015
     },
     {
       "pnu": "4122011200106900131",
@@ -107,13 +320,47 @@
       "lng": 127.049649
     },
     {
-      "pnu": "4122011200106910036",
+      "pnu": "4122011200106910030",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 691-36",
-      "road_addr": "경기 평택시 밀월로35번길 47",
+      "jibun_addr": "경기 평택시 신장동 691-30",
+      "road_addr": "경기 평택시 밀월로35번길 43",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.07775081,
+      "lng": 127.05061358
+    },
+    {
+      "pnu": "4122011200102700035",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 270-35",
+      "road_addr": "경기 평택시 송월로32번길 9-8",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -123,8 +370,93 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.07776799,
-      "lng": 127.05038847
+      "lat": 37.07617203,
+      "lng": 127.05027414
+    },
+    {
+      "pnu": "4122011200102970126",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-126",
+      "road_addr": "경기 평택시 밀월로29번길 41-22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07700081,
+      "lng": 127.05013424
+    },
+    {
+      "pnu": "4122011200102970134",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-134",
+      "road_addr": "경기 평택시 밀월로21번길 52",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07663999,
+      "lng": 127.05006887
+    },
+    {
+      "pnu": "4122011200106910050",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 691-50",
+      "road_addr": "경기 평택시 밀월로35번길 45-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07743391,
+      "lng": 127.05024419
+    },
+    {
+      "pnu": "4122011200106910050",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 691-50",
+      "road_addr": "경기 평택시 밀월로35번길 45-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07743391,
+      "lng": 127.05024419
     },
     {
       "pnu": "4122011200102740178",
@@ -150,6 +482,288 @@
       ],
       "lat": 37.0763735,
       "lng": 127.05110546
+    },
+    {
+      "pnu": "4122011200102740293",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 274-293",
+      "road_addr": "경기 평택시 송월로32번길 17-22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07622038,
+      "lng": 127.05114012
+    },
+    {
+      "pnu": "4122011200102710012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 271-12",
+      "road_addr": "경기 평택시 송월로32번길 17-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.07624542,
+      "lng": 127.05061121
+    },
+    {
+      "pnu": "4122011200102970147",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-147",
+      "road_addr": "경기 평택시 송월로32번길 9-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.07626149,
+      "lng": 127.05009361
+    },
+    {
+      "pnu": "4122011200102730036",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 273-36",
+      "road_addr": "경기 평택시 밀월로21번길 42",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.0767145,
+      "lng": 127.05069845
+    },
+    {
+      "pnu": "4122011200102700028",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 270-28",
+      "road_addr": "경기 평택시 밀월로21번길 53-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07618861,
+      "lng": 127.04989154
+    },
+    {
+      "pnu": "4122011200106910033",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 691-33",
+      "road_addr": "경기 평택시 밀월로35번길 41-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        }
+      ],
+      "lat": 37.07766947,
+      "lng": 127.05055781
+    },
+    {
+      "pnu": "4122011200102740182",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 274-182",
+      "road_addr": "경기 평택시 밀월로29번길 35-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07679664,
+      "lng": 127.05096797
+    },
+    {
+      "pnu": "4122011200102970117",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-117",
+      "road_addr": "경기 평택시 밀월로29번길 41-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.07706523,
+      "lng": 127.05048262
+    },
+    {
+      "pnu": "4122011200102710020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 271-20",
+      "road_addr": "경기 평택시 송월로32번길 25-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07606629,
+      "lng": 127.05091602
+    },
+    {
+      "pnu": "4122011200102700048",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 270-48",
+      "road_addr": "경기 평택시 송월로32번길 3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07604366,
+      "lng": 127.04970115
+    },
+    {
+      "pnu": "4122011200102970151",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "현대SI",
+      "jibun_addr": "경기 평택시 신장동 297-151",
+      "road_addr": "경기 평택시 밀월로21번길 51",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07647757,
+      "lng": 127.05002483
     },
     {
       "pnu": "4122011200102740201",
@@ -210,24 +824,34 @@
       "lng": 127.05076972
     },
     {
-      "pnu": "4122011200102700014",
+      "pnu": "4122011200102710010",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 270-14",
-      "road_addr": "경기 평택시 송월로 32",
+      "jibun_addr": "경기 평택시 신장동 271-10",
+      "road_addr": "경기 평택시 송월로32번길 17-16",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07614226,
-      "lng": 127.04955431
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07624653,
+      "lng": 127.05090371
     },
     {
       "pnu": "4122011200106900129",
@@ -247,11 +871,11 @@
       "int_tech": [],
       "tv_tech": [
         {
-          "method": "Btv(CATV_실속형_HD)_구",
+          "method": "Btv(CATV_QAM_UHD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_UHD)",
+          "method": "Btv(CATV_실속형_HD)_구",
           "count": 1
         }
       ],
@@ -259,36 +883,16 @@
       "lng": 127.04974002
     },
     {
-      "pnu": "4122011200102970139",
+      "pnu": "4122011200102700037",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-139",
-      "road_addr": "경기 평택시 밀월로29번길 49-6",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.0770003,
-      "lng": 127.04999924
-    },
-    {
-      "pnu": "4122011200102720009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 272-9",
-      "road_addr": "경기 평택시 밀월로35번길 39-25",
+      "jibun_addr": "경기 평택시 신장동 270-37",
+      "road_addr": "경기 평택시 송월로32번길 17-1",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -302,120 +906,11 @@
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        }
-      ],
-      "lat": 37.07732822,
-      "lng": 127.05089733
-    },
-    {
-      "pnu": "4122011200102720019",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 272-19",
-      "road_addr": "경기 평택시 밀월로35번길 39-19",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
           "count": 1
         }
       ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_UHD2)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07758057,
-      "lng": 127.05088459
-    },
-    {
-      "pnu": "4122011200106920121",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 692-121",
-      "road_addr": "경기 평택시 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07657523,
-      "lng": 127.0496305
-    },
-    {
-      "pnu": "4122011200102970147",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-147",
-      "road_addr": "경기 평택시 송월로32번길 9-5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        }
-      ],
-      "lat": 37.07626149,
-      "lng": 127.05009361
-    },
-    {
-      "pnu": "4122011200102740183",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 274-183",
-      "road_addr": "경기 평택시 밀월로21번길 36",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07668839,
-      "lng": 127.0509461
+      "lat": 37.07607305,
+      "lng": 127.05031973
     },
     {
       "pnu": "4122011200102720024",
@@ -443,90 +938,6 @@
       "lng": 127.05096382
     },
     {
-      "pnu": "4122011200106900124",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-124",
-      "road_addr": "경기 평택시 국제로 104-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(50)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.07736911,
-      "lng": 127.04979456
-    },
-    {
-      "pnu": "4122011200106910045",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 691-45",
-      "road_addr": "경기 평택시 밀월로35번길 45-4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(50)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07764153,
-      "lng": 127.05032171
-    },
-    {
-      "pnu": "4122011200102700035",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 270-35",
-      "road_addr": "경기 평택시 송월로32번길 9-8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07617203,
-      "lng": 127.05027414
-    },
-    {
       "pnu": "4122011200102700034",
       "match_type": "inside",
       "in_area": true,
@@ -547,93 +958,228 @@
       "lng": 127.05030725
     },
     {
-      "pnu": "4122011200102970134",
+      "pnu": "4122011200102740018",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-134",
-      "road_addr": "경기 평택시 밀월로21번길 52",
+      "jibun_addr": "경기 평택시 신장동 274-18",
+      "road_addr": "경기 평택시 밀월로15번길 47-1",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07663999,
-      "lng": 127.05006887
-    },
-    {
-      "pnu": "4122011200102740293",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 274-293",
-      "road_addr": "경기 평택시 송월로32번길 17-22",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 2,
+      "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "CA_광랜W(320)_구",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07690511,
+      "lng": 127.05104608
+    },
+    {
+      "pnu": "4122011200106900143",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "에스빌",
+      "jibun_addr": "경기 평택시 신장동 690-143",
+      "road_addr": "경기 평택시 송월로 40",
+      "avail_gen_cnt": 14,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(AI Sound Max STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07676444,
+      "lng": 127.04960688
+    },
+    {
+      "pnu": "4122011200102970015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-15",
+      "road_addr": "경기 평택시 밀월로29번길 42",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
           "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07726367,
+      "lng": 127.0505152
+    },
+    {
+      "pnu": "4122011200102720015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 272-15",
+      "road_addr": "경기 평택시 밀월로29번길 41-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07703896,
+      "lng": 127.05068528
+    },
+    {
+      "pnu": "4122011200102970135",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-135",
+      "road_addr": "경기 평택시 밀월로21번길 52-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07678452,
+      "lng": 127.05014677
+    },
+    {
+      "pnu": "4122011200102740175",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 274-175",
+      "road_addr": "경기 평택시 밀월로21번길 31",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 5,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 5
         },
         {
           "method": "Btv(CATV_QAM_HD)",
           "count": 1
         }
       ],
-      "lat": 37.07622038,
-      "lng": 127.05114012
+      "lat": 37.07649072,
+      "lng": 127.05111602
     },
     {
-      "pnu": "4122011200102710007",
+      "pnu": "4122011200102970125",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-7",
-      "road_addr": "경기 평택시 송월로32번길 17-11",
+      "jibun_addr": "경기 평택시 신장동 297-125",
+      "road_addr": "경기 평택시 밀월로29번길 49-1",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "CA_광랜W(100)_구",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.07638064,
-      "lng": 127.05061041
+      "lat": 37.07707305,
+      "lng": 127.05016757
     },
     {
       "pnu": "4122011200102970014",
@@ -686,24 +1232,204 @@
       "lng": 127.05073807
     },
     {
-      "pnu": "4122011200102970117",
+      "pnu": "4122011200106910053",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "호텔캐피탈",
+      "jibun_addr": "경기 평택시 신장동 691-53",
+      "road_addr": "경기 평택시 국제로 108",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07758643,
+      "lng": 127.05005203
+    },
+    {
+      "pnu": "4122011200102710023",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-117",
-      "road_addr": "경기 평택시 밀월로29번길 41-4",
+      "jibun_addr": "경기 평택시 신장동 271-23",
+      "road_addr": "경기 평택시 송월로32번길 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.07606485,
+      "lng": 127.05053353
+    },
+    {
+      "pnu": "4122011200102720022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 272-22",
+      "road_addr": "경기 평택시 밀월로35번길 39-21",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07749931,
+      "lng": 127.05085132
+    },
+    {
+      "pnu": "4122011200106900111",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-111",
+      "road_addr": "경기 평택시 밀월로35번길 45-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.0773706,
+      "lng": 127.05018831
+    },
+    {
+      "pnu": "4122011200106910034",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 691-34",
+      "road_addr": "경기 평택시 밀월로35번길 41-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.0775792,
+      "lng": 127.05052459
+    },
+    {
+      "pnu": "4122011200102970036",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-36",
+      "road_addr": "경기 평택시 밀월로35번길 39",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07776046,
+      "lng": 127.05078228
+    },
+    {
+      "pnu": "4122011200106920122",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 692-122",
+      "road_addr": "경기 평택시 밀월로21번길 60",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.0766291,
+      "lng": 127.04957393
+    },
+    {
+      "pnu": "4122011200102700027",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 270-27",
+      "road_addr": "경기 평택시 밀월로21번길 53-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07623308,
+      "lng": 127.04973378
+    },
+    {
+      "pnu": "4122011200102710018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 271-18",
+      "road_addr": "경기 평택시 송월로32번길 25-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 3,
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
+          "method": "CA_광랜W(100)_구",
+          "count": 3
         }
       ],
       "tv_tech": [
@@ -712,12 +1438,241 @@
           "count": 3
         },
         {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
           "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
-      "lat": 37.07706523,
-      "lng": 127.05048262
+      "lat": 37.07617446,
+      "lng": 127.05091538
+    },
+    {
+      "pnu": "4122011200102710022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 271-22",
+      "road_addr": "경기 평택시 송월로32번길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.07607424,
+      "lng": 127.05063472
+    },
+    {
+      "pnu": "4122011200106910036",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 691-36",
+      "road_addr": "경기 평택시 밀월로35번길 47",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07776799,
+      "lng": 127.05038847
+    },
+    {
+      "pnu": "4122011200106910044",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 691-44",
+      "road_addr": "경기 평택시 밀월로35번길 45-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07770476,
+      "lng": 127.05035509
+    },
+    {
+      "pnu": "4122011200102710002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 271-2",
+      "road_addr": "경기 평택시 밀월로21번길 39",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07647129,
+      "lng": 127.05074488
+    },
+    {
+      "pnu": "4122011200106900113",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-113",
+      "road_addr": "경기 평택시 밀월로29번길 46-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07736223,
+      "lng": 127.05035711
+    },
+    {
+      "pnu": "4122011200102710019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 271-19",
+      "road_addr": "경기 평택시 송월로32번길 29",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.0761029,
+      "lng": 127.05106206
+    },
+    {
+      "pnu": "4122011200102970120",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-120",
+      "road_addr": "경기 평택시 밀월로29번길 41-18",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07694737,
+      "lng": 127.05030331
+    },
+    {
+      "pnu": "4122011200102700036",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 270-36",
+      "road_addr": "경기 평택시 송월로32번길 13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07609035,
+      "lng": 127.05012837
+    },
+    {
+      "pnu": "4122011200106910037",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 691-37",
+      "road_addr": "경기 평택시 밀월로35번길 49",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07776747,
+      "lng": 127.05025347
+    },
+    {
+      "pnu": "4122011200102710007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 271-7",
+      "road_addr": "경기 평택시 송월로32번길 17-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07638064,
+      "lng": 127.05061041
     },
     {
       "pnu": "4122011200106900125",
@@ -758,21 +1713,115 @@
       "lng": 127.04972727
     },
     {
-      "pnu": "4122011200102700037",
+      "pnu": "4122011200102700014",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 270-37",
-      "road_addr": "경기 평택시 송월로32번길 17-1",
+      "jibun_addr": "경기 평택시 신장동 270-14",
+      "road_addr": "경기 평택시 송월로 32",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07614226,
+      "lng": 127.04955431
+    },
+    {
+      "pnu": "4122011200102740285",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 274-285",
+      "road_addr": "경기 평택시 밀월로29번길 31",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.07712175,
+      "lng": 127.05112355
+    },
+    {
+      "pnu": "4122011200106920128",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 692-128",
+      "road_addr": "경기 평택시 송월로32번길 9-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.0761168,
+      "lng": 127.04997072
+    },
+    {
+      "pnu": "4122011200102970139",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-139",
+      "road_addr": "경기 평택시 밀월로29번길 49-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.0770003,
+      "lng": 127.04999924
+    },
+    {
+      "pnu": "4122011200102730032",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "송신빌라",
+      "jibun_addr": "경기 평택시 신장동 273-32",
+      "road_addr": "경기 평택시 밀월로29번길 35-3",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
       "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
         {
           "method": "광랜FTTH(GB)",
           "count": 1
@@ -781,65 +1830,136 @@
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
         }
       ],
-      "lat": 37.07607305,
-      "lng": 127.05031973
+      "lat": 37.07704007,
+      "lng": 127.05097778
     },
     {
-      "pnu": "4122011200102730034",
+      "pnu": "4122011200102970145",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "정호각",
+      "jibun_addr": "경기 평택시 신장동 297-145",
+      "road_addr": "경기 평택시 송월로32번길 9-15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07637889,
+      "lng": 127.05014917
+    },
+    {
+      "pnu": "4122011200106900121",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 273-34",
-      "road_addr": "경기 평택시 밀월로21번길 46",
+      "jibun_addr": "경기 평택시 신장동 690-121",
+      "road_addr": "경기 평택시 밀월로29번길 56",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        }
-      ],
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
       "tv_tech": [
         {
           "method": "Btv(CATV_QAM_HD)",
           "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_실속형_Smart)_구",
-          "count": 1
         }
       ],
-      "lat": 37.07668694,
-      "lng": 127.05056361
+      "lat": 37.07731524,
+      "lng": 127.04985113
     },
     {
-      "pnu": "4122011200106900118",
+      "pnu": "4122011200102740176",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-118",
-      "road_addr": "경기 평택시 밀월로29번길 52",
+      "jibun_addr": "경기 평택시 신장동 274-176",
+      "road_addr": "경기 평택시 밀월로21번길 33",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.0764812,
+      "lng": 127.05098108
+    },
+    {
+      "pnu": "4122011200102970124",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-124",
+      "road_addr": "경기 평택시 밀월로29번길 49",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07712739,
+      "lng": 127.05023475
+    },
+    {
+      "pnu": "4122011200106900139",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-139",
+      "road_addr": "경기 평택시 밀월로29번길 49-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07687342,
+      "lng": 127.04981999
+    },
+    {
+      "pnu": "4122011200102720008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 272-8",
+      "road_addr": "경기 평택시 밀월로29번길 35-4",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
+      "catv_8vsb_cnt": 0,
       "int_tech": [
         {
           "method": "CA_광랜W(100)_구",
@@ -850,14 +1970,291 @@
         {
           "method": "Btv(CATV_QAM_HD)",
           "count": 1
+        }
+      ],
+      "lat": 37.0770305,
+      "lng": 127.05083158
+    },
+    {
+      "pnu": "4122011200102740094",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 274-94",
+      "road_addr": "경기 평택시 밀월로29번길 36",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07740088,
+      "lng": 127.05104315
+    },
+    {
+      "pnu": "4122011200102730028",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 273-28",
+      "road_addr": "경기 평택시 밀월로29번길 35-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07678682,
+      "lng": 127.05075427
+    },
+    {
+      "pnu": "4122011200106900141",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-141",
+      "road_addr": "경기 평택시 밀월로29번길 49-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07674697,
+      "lng": 127.04975324
+    },
+    {
+      "pnu": "4122011200102740183",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 274-183",
+      "road_addr": "경기 평택시 밀월로21번길 36",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07668839,
+      "lng": 127.0509461
+    },
+    {
+      "pnu": "4122011200102970130",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-130",
+      "road_addr": "경기 평택시 밀월로21번길 48",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07673992,
+      "lng": 127.05027079
+    },
+    {
+      "pnu": "4122011200106900114",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-114",
+      "road_addr": "경기 평택시 밀월로29번길 48",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07726316,
+      "lng": 127.0503802
+    },
+    {
+      "pnu": "4122011200106910046",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 691-46",
+      "road_addr": "경기 평택시 밀월로35번길 41-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07750701,
+      "lng": 127.05050251
+    },
+    {
+      "pnu": "4122011200106900133",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-133",
+      "road_addr": "경기 평택시 송월로 44",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07704383,
+      "lng": 127.04959398
+    },
+    {
+      "pnu": "4122011200102710011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 271-11",
+      "road_addr": "경기 평택시 송월로32번길 17-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07625499,
+      "lng": 127.05075741
+    },
+    {
+      "pnu": "4122011200102970144",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-144",
+      "road_addr": "경기 평택시 밀월로21번길 47",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
         },
         {
           "method": "Btv(CATV_8VSB)_60",
           "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
         }
       ],
-      "lat": 37.07729832,
-      "lng": 127.05014374
+      "lat": 37.07640644,
+      "lng": 127.05028401
     },
     {
       "pnu": "4122011200106910050",
@@ -878,6 +2275,203 @@
       "tv_tech": [],
       "lat": 37.07749697,
       "lng": 127.05023257
+    },
+    {
+      "pnu": "4122011200106910050",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 691-50",
+      "road_addr": "경기 평택시 밀월로35번길 45-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07749697,
+      "lng": 127.05023257
+    },
+    {
+      "pnu": "4122011200106920129",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 692-129",
+      "road_addr": "경기 평택시 송월로32번길 9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 37.07605353,
+      "lng": 127.04992609
+    },
+    {
+      "pnu": "4122011200102970022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-22",
+      "road_addr": "경기 평택시 밀월로29번길 43",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.07714661,
+      "lng": 127.05054964
+    },
+    {
+      "pnu": "4122011200102700007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 270-7",
+      "road_addr": "경기 평택시 송월로32번길 17-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07616327,
+      "lng": 127.05034169
+    },
+    {
+      "pnu": "4122011200102720013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 272-13",
+      "road_addr": "경기 평택시 밀월로29번길 39",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07714721,
+      "lng": 127.05070714
+    },
+    {
+      "pnu": "4122011200102970012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-12",
+      "road_addr": "경기 평택시 밀월로35번길 39-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.07753452,
+      "lng": 127.0506261
+    },
+    {
+      "pnu": "4122011200102720009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 272-9",
+      "road_addr": "경기 평택시 밀월로35번길 39-25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.07732822,
+      "lng": 127.05089733
     },
     {
       "pnu": "4122011200102970118",
@@ -910,13 +2504,43 @@
       "lng": 127.05046065
     },
     {
-      "pnu": "4122011200106910050",
+      "pnu": "4122011200102720019",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 691-50",
-      "road_addr": "경기 평택시 밀월로35번길 45-8",
+      "jibun_addr": "경기 평택시 신장동 272-19",
+      "road_addr": "경기 평택시 밀월로35번길 39-19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07758057,
+      "lng": 127.05088459
+    },
+    {
+      "pnu": "4122011200102970137",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-137",
+      "road_addr": "경기 평택시 밀월로29번길 49-9",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -926,80 +2550,138 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.07749697,
-      "lng": 127.05023257
+      "lat": 37.07674752,
+      "lng": 127.04989949
     },
     {
-      "pnu": "4122011200102970012",
+      "pnu": "4122011200102730044",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-12",
-      "road_addr": "경기 평택시 밀월로35번길 39-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 2,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IP-CATV AI2 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.07753452,
-      "lng": 127.0506261
-    },
-    {
-      "pnu": "4122011200102710008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-8",
-      "road_addr": "경기 평택시 송월로32번길 17-13",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
+      "jibun_addr": "경기 평택시 신장동 273-44",
+      "road_addr": "경기 평택시 밀월로29번길 35-12",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07676866,
+      "lng": 127.05072063
+    },
+    {
+      "pnu": "4122011200102730026",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 273-26",
+      "road_addr": "경기 평택시 밀월로29번길 41-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "Btv(CATV_실속형_HD)_구",
           "count": 1
         }
       ],
+      "lat": 37.07675914,
+      "lng": 127.05058568
+    },
+    {
+      "pnu": "4122011200102700013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 270-13",
+      "road_addr": "경기 평택시 밀월로21번길 57-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07607937,
+      "lng": 127.04961093
+    },
+    {
+      "pnu": "4122011200106920124",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 692-124",
+      "road_addr": "경기 평택시 밀월로21번길 58",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [],
       "tv_tech": [
         {
           "method": "Btv(CATV_8VSB)_60",
-          "count": 1
+          "count": 2
         }
       ],
-      "lat": 37.07638115,
-      "lng": 127.05074541
+      "lat": 37.07665674,
+      "lng": 127.04973127
+    },
+    {
+      "pnu": "4122011200106920121",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 692-121",
+      "road_addr": "경기 평택시 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07657523,
+      "lng": 127.0496305
+    },
+    {
+      "pnu": "4122011200102740174",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 274-174",
+      "road_addr": "경기 평택시 밀월로21번길 29",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07650016,
+      "lng": 127.05122847
     },
     {
       "pnu": "4122011200102730011",
@@ -1060,23 +2742,87 @@
       "lng": 127.05027709
     },
     {
-      "pnu": "4122011200102970135",
+      "pnu": "4122011200106900136",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-135",
-      "road_addr": "경기 평택시 밀월로21번길 52-6",
+      "jibun_addr": "경기 평택시 신장동 690-136",
+      "road_addr": "경기 평택시 밀월로29번길 55-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.07700812,
+      "lng": 127.04968419
+    },
+    {
+      "pnu": "4122011200102710008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 271-8",
+      "road_addr": "경기 평택시 송월로32번길 17-13",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
+      "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.07638115,
+      "lng": 127.05074541
+    },
+    {
+      "pnu": "4122011200102700002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 270-2",
+      "road_addr": "경기 평택시 밀월로21번길 53-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
@@ -1084,10 +2830,74 @@
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
         }
       ],
-      "lat": 37.07678452,
-      "lng": 127.05014677
+      "lat": 37.07626089,
+      "lng": 127.04993611
+    },
+    {
+      "pnu": "4122011200102720006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 272-6",
+      "road_addr": "경기 평택시 밀월로29번길 38",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07728281,
+      "lng": 127.05080759
+    },
+    {
+      "pnu": "4122011200106900145",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-145",
+      "road_addr": "경기 평택시 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07690854,
+      "lng": 127.04957228
+    },
+    {
+      "pnu": "4122011200102970037",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-37",
+      "road_addr": "경기 평택시 밀월로35번길 39-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07770625,
+      "lng": 127.05074885
     },
     {
       "pnu": "4122011200102970128",
@@ -1110,13 +2920,13 @@
       "lng": 127.05038297
     },
     {
-      "pnu": "4122011200102710005",
+      "pnu": "4122011200102970127",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-5",
-      "road_addr": "경기 평택시 송월로32번길 17-9",
+      "jibun_addr": "경기 평택시 신장동 297-127",
+      "road_addr": "경기 평택시 밀월로29번길 41-24",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1126,66 +2936,177 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.07636214,
-      "lng": 127.05048677
+      "lat": 37.0768659,
+      "lng": 127.05021379
     },
     {
-      "pnu": "4122011200102970122",
+      "pnu": "4122011200102740177",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-122",
-      "road_addr": "경기 평택시 밀월로29번길 45",
+      "jibun_addr": "경기 평택시 신장동 274-177",
+      "road_addr": "경기 평택시 송월로32번길 17-17",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
+      "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
+      "catv_8vsb_cnt": 0,
       "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07711881,
-      "lng": 127.0503473
+      "tv_tech": [],
+      "lat": 37.07636406,
+      "lng": 127.05099302
     },
     {
-      "pnu": "4122011200102710013",
+      "pnu": "4122011200102720001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-13",
-      "road_addr": "경기 평택시 송월로32번길 17-8",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
+      "jibun_addr": "경기 평택시 신장동 272-1",
+      "road_addr": "경기 평택시 밀월로35번길 39-15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [],
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
       "tv_tech": [
         {
           "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.076245,
-      "lng": 127.05049871
+      "lat": 37.07767088,
+      "lng": 127.05092906
+    },
+    {
+      "pnu": "4122011200106900127",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-127",
+      "road_addr": "경기 평택시 밀월로29번길 55",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07706289,
+      "lng": 127.04986387
+    },
+    {
+      "pnu": "4122011200106900117",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-117",
+      "road_addr": "경기 평택시 밀월로29번길 50",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07728986,
+      "lng": 127.05029004
+    },
+    {
+      "pnu": "4122011200102700012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 270-12",
+      "road_addr": "경기 평택시 송월로32번길 1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07603409,
+      "lng": 127.04955495
+    },
+    {
+      "pnu": "4122011200102970119",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-119",
+      "road_addr": "경기 평택시 밀월로29번길 41-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.0769208,
+      "lng": 127.05042722
+    },
+    {
+      "pnu": "4122011200106910031",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 691-31",
+      "road_addr": "경기 평택시 밀월로35번길 45",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07775038,
+      "lng": 127.05050108
     },
     {
       "pnu": "4122011200102710009",
@@ -1238,1375 +3159,6 @@
       "lng": 127.04975217
     },
     {
-      "pnu": "4122011200106900136",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-136",
-      "road_addr": "경기 평택시 밀월로29번길 55-6",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.07700812,
-      "lng": 127.04968419
-    },
-    {
-      "pnu": "4122011200102970130",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-130",
-      "road_addr": "경기 평택시 밀월로21번길 48",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07673992,
-      "lng": 127.05027079
-    },
-    {
-      "pnu": "4122011200102710010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-10",
-      "road_addr": "경기 평택시 송월로32번길 17-16",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(320)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07624653,
-      "lng": 127.05090371
-    },
-    {
-      "pnu": "4122011200106900114",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-114",
-      "road_addr": "경기 평택시 밀월로29번길 48",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07726316,
-      "lng": 127.0503802
-    },
-    {
-      "pnu": "4122011200106910034",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 691-34",
-      "road_addr": "경기 평택시 밀월로35번길 41-8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.0775792,
-      "lng": 127.05052459
-    },
-    {
-      "pnu": "4122011200102720015",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 272-15",
-      "road_addr": "경기 평택시 밀월로29번길 41-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07703896,
-      "lng": 127.05068528
-    },
-    {
-      "pnu": "4122011200106910044",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 691-44",
-      "road_addr": "경기 평택시 밀월로35번길 45-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07770476,
-      "lng": 127.05035509
-    },
-    {
-      "pnu": "4122011200102720008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 272-8",
-      "road_addr": "경기 평택시 밀월로29번길 35-4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.0770305,
-      "lng": 127.05083158
-    },
-    {
-      "pnu": "4122011200102710018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-18",
-      "road_addr": "경기 평택시 송월로32번길 25-4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 4,
-      "catv_internet_cnt": 3,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 3
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_실속형_Smart)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.07617446,
-      "lng": 127.05091538
-    },
-    {
-      "pnu": "4122011200106920122",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 692-122",
-      "road_addr": "경기 평택시 밀월로21번길 60",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.0766291,
-      "lng": 127.04957393
-    },
-    {
-      "pnu": "4122011200102710002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-2",
-      "road_addr": "경기 평택시 밀월로21번길 39",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07647129,
-      "lng": 127.05074488
-    },
-    {
-      "pnu": "4122011200106910037",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 691-37",
-      "road_addr": "경기 평택시 밀월로35번길 49",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07776747,
-      "lng": 127.05025347
-    },
-    {
-      "pnu": "4122011200102970120",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-120",
-      "road_addr": "경기 평택시 밀월로29번길 41-18",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07694737,
-      "lng": 127.05030331
-    },
-    {
-      "pnu": "4122011200106900121",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-121",
-      "road_addr": "경기 평택시 밀월로29번길 56",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07731524,
-      "lng": 127.04985113
-    },
-    {
-      "pnu": "4122011200102740176",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 274-176",
-      "road_addr": "경기 평택시 밀월로21번길 33",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.0764812,
-      "lng": 127.05098108
-    },
-    {
-      "pnu": "4122011200102700027",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 270-27",
-      "road_addr": "경기 평택시 밀월로21번길 53-8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07623308,
-      "lng": 127.04973378
-    },
-    {
-      "pnu": "4122011200106910046",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 691-46",
-      "road_addr": "경기 평택시 밀월로35번길 41-5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07750701,
-      "lng": 127.05050251
-    },
-    {
-      "pnu": "4122011200106920128",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 692-128",
-      "road_addr": "경기 평택시 송월로32번길 9-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_30",
-          "count": 1
-        }
-      ],
-      "lat": 37.0761168,
-      "lng": 127.04997072
-    },
-    {
-      "pnu": "4122011200106910030",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 691-30",
-      "road_addr": "경기 평택시 밀월로35번길 43",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 4,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 3
-        },
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.07775081,
-      "lng": 127.05061358
-    },
-    {
-      "pnu": "4122011200102970144",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-144",
-      "road_addr": "경기 평택시 밀월로21번길 47",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.07640644,
-      "lng": 127.05028401
-    },
-    {
-      "pnu": "4122011200102710019",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-19",
-      "road_addr": "경기 평택시 송월로32번길 29",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.0761029,
-      "lng": 127.05106206
-    },
-    {
-      "pnu": "4122011200102970150",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-150",
-      "road_addr": "경기 평택시 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07665798,
-      "lng": 127.05005752
-    },
-    {
-      "pnu": "4122011200106900113",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-113",
-      "road_addr": "경기 평택시 밀월로29번길 46-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07736223,
-      "lng": 127.05035711
-    },
-    {
-      "pnu": "4122011200102710011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-11",
-      "road_addr": "경기 평택시 송월로32번길 17-14",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07625499,
-      "lng": 127.05075741
-    },
-    {
-      "pnu": "4122011200102710020",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-20",
-      "road_addr": "경기 평택시 송월로32번길 25-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 2,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IP-CATV AI2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 2
-        }
-      ],
-      "lat": 37.07606629,
-      "lng": 127.05091602
-    },
-    {
-      "pnu": "4122011200102970036",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-36",
-      "road_addr": "경기 평택시 밀월로35번길 39",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07776046,
-      "lng": 127.05078228
-    },
-    {
-      "pnu": "4122011200106900133",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-133",
-      "road_addr": "경기 평택시 송월로 44",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07704383,
-      "lng": 127.04959398
-    },
-    {
-      "pnu": "4122011200106900139",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-139",
-      "road_addr": "경기 평택시 밀월로29번길 49-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07687342,
-      "lng": 127.04981999
-    },
-    {
-      "pnu": "4122011200102710022",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-22",
-      "road_addr": "경기 평택시 송월로32번길 21",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.07607424,
-      "lng": 127.05063472
-    },
-    {
-      "pnu": "4122011200102970145",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "정호각",
-      "jibun_addr": "경기 평택시 신장동 297-145",
-      "road_addr": "경기 평택시 송월로32번길 9-15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07637889,
-      "lng": 127.05014917
-    },
-    {
-      "pnu": "4122011200106900111",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-111",
-      "road_addr": "경기 평택시 밀월로35번길 45-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.0773706,
-      "lng": 127.05018831
-    },
-    {
-      "pnu": "4122011200106900141",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-141",
-      "road_addr": "경기 평택시 밀월로29번길 49-11",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07674697,
-      "lng": 127.04975324
-    },
-    {
-      "pnu": "4122011200102730028",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 273-28",
-      "road_addr": "경기 평택시 밀월로29번길 35-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07678682,
-      "lng": 127.05075427
-    },
-    {
-      "pnu": "4122011200102970124",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-124",
-      "road_addr": "경기 평택시 밀월로29번길 49",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07712739,
-      "lng": 127.05023475
-    },
-    {
-      "pnu": "4122011200102700036",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 270-36",
-      "road_addr": "경기 평택시 송월로32번길 13",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07609035,
-      "lng": 127.05012837
-    },
-    {
-      "pnu": "4122011200102740094",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 274-94",
-      "road_addr": "경기 평택시 밀월로29번길 36",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 4,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD2)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07740088,
-      "lng": 127.05104315
-    },
-    {
-      "pnu": "4122011200102720022",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 272-22",
-      "road_addr": "경기 평택시 밀월로35번길 39-21",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07749931,
-      "lng": 127.05085132
-    },
-    {
-      "pnu": "4122011200102700012",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 270-12",
-      "road_addr": "경기 평택시 송월로32번길 1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07603409,
-      "lng": 127.04955495
-    },
-    {
-      "pnu": "4122011200102730032",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "송신빌라",
-      "jibun_addr": "경기 평택시 신장동 273-32",
-      "road_addr": "경기 평택시 밀월로29번길 35-3",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 2,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 2
-        }
-      ],
-      "lat": 37.07704007,
-      "lng": 127.05097778
-    },
-    {
-      "pnu": "4122011200106910031",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 691-31",
-      "road_addr": "경기 평택시 밀월로35번길 45",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07775038,
-      "lng": 127.05050108
-    },
-    {
-      "pnu": "4122011200102970146",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-146",
-      "road_addr": "경기 평택시 송월로32번길 9-17",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07634235,
-      "lng": 127.05025429
-    },
-    {
-      "pnu": "4122011200102970127",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-127",
-      "road_addr": "경기 평택시 밀월로29번길 41-24",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.0768659,
-      "lng": 127.05021379
-    },
-    {
-      "pnu": "4122011200102740181",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 274-181",
-      "road_addr": "경기 평택시 밀월로15번길 43",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07679703,
-      "lng": 127.05106922
-    },
-    {
-      "pnu": "4122011200102730042",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 273-42",
-      "road_addr": "경기 평택시 밀월로21번길 38",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07667891,
-      "lng": 127.05082241
-    },
-    {
-      "pnu": "4122011200102740314",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 274-314",
-      "road_addr": "경기 평택시 송월로32번길 31",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.0761126,
-      "lng": 127.051242
-    },
-    {
-      "pnu": "4122011200102970190",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-190",
-      "road_addr": "경기 평택시 밀월로29번길 53",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07711765,
-      "lng": 127.05004355
-    },
-    {
-      "pnu": "4122011200102720001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 272-1",
-      "road_addr": "경기 평택시 밀월로35번길 39-15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07767088,
-      "lng": 127.05092906
-    },
-    {
-      "pnu": "4122011200102700048",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 270-48",
-      "road_addr": "경기 평택시 송월로32번길 3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07604366,
-      "lng": 127.04970115
-    },
-    {
-      "pnu": "4122011200102970151",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "현대SI",
-      "jibun_addr": "경기 평택시 신장동 297-151",
-      "road_addr": "경기 평택시 밀월로21번길 51",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07647757,
-      "lng": 127.05002483
-    },
-    {
-      "pnu": "4122011200102710016",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-16",
-      "road_addr": "경기 평택시 송월로32번길 21-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07619138,
-      "lng": 127.05062278
-    },
-    {
-      "pnu": "4122011200102740285",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 274-285",
-      "road_addr": "경기 평택시 밀월로29번길 31",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.07712175,
-      "lng": 127.05112355
-    },
-    {
-      "pnu": "4122011200106900127",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-127",
-      "road_addr": "경기 평택시 밀월로29번길 55",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_UHD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07706289,
-      "lng": 127.04986387
-    },
-    {
-      "pnu": "4122011200102970119",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-119",
-      "road_addr": "경기 평택시 밀월로29번길 41-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.0769208,
-      "lng": 127.05042722
-    },
-    {
-      "pnu": "4122011200106910033",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 691-33",
-      "road_addr": "경기 평택시 밀월로35번길 41-4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 3
-        }
-      ],
-      "lat": 37.07766947,
-      "lng": 127.05055781
-    },
-    {
-      "pnu": "4122011200102710012",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-12",
-      "road_addr": "경기 평택시 송월로32번길 17-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        }
-      ],
-      "lat": 37.07624542,
-      "lng": 127.05061121
-    },
-    {
-      "pnu": "4122011200102740182",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 274-182",
-      "road_addr": "경기 평택시 밀월로29번길 35-9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07679664,
-      "lng": 127.05096797
-    },
-    {
       "pnu": "4122011200102970013",
       "match_type": "inside",
       "in_area": true,
@@ -2632,13 +3184,13 @@
       "lng": 127.05058174
     },
     {
-      "pnu": "4122011200102730036",
+      "pnu": "4122011200106910035",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 273-36",
-      "road_addr": "경기 평택시 밀월로21번길 42",
+      "jibun_addr": "경기 평택시 신장동 691-35",
+      "road_addr": "경기 평택시 밀월로35번길 45-1",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -2648,8 +3200,117 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.0767145,
-      "lng": 127.05069845
+      "lat": 37.07768712,
+      "lng": 127.05045645
+    },
+    {
+      "pnu": "4122011200102970146",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-146",
+      "road_addr": "경기 평택시 송월로32번길 9-17",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07634235,
+      "lng": 127.05025429
+    },
+    {
+      "pnu": "4122011200102710017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 271-17",
+      "road_addr": "경기 평택시 송월로32번길 21-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.07619194,
+      "lng": 127.05076903
+    },
+    {
+      "pnu": "4122011200102720017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 272-17",
+      "road_addr": "경기 평택시 밀월로35번길 39-13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07757202,
+      "lng": 127.05100839
+    },
+    {
+      "pnu": "4122011200106900120",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-120",
+      "road_addr": "경기 평택시 밀월로29번길 54",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07726158,
+      "lng": 127.04996395
+    },
+    {
+      "pnu": "4122011200102720002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 272-2",
+      "road_addr": "경기 평택시 밀월로35번길 35",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07777016,
+      "lng": 127.05096222
     },
     {
       "pnu": "4122011200102730045",
@@ -2682,264 +3343,6 @@
       "lng": 127.05109882
     },
     {
-      "pnu": "4122011200102720017",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 272-17",
-      "road_addr": "경기 평택시 밀월로35번길 39-13",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07757202,
-      "lng": 127.05100839
-    },
-    {
-      "pnu": "4122011200102710017",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-17",
-      "road_addr": "경기 평택시 송월로32번길 21-4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07619194,
-      "lng": 127.05076903
-    },
-    {
-      "pnu": "4122011200102700002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 270-2",
-      "road_addr": "경기 평택시 밀월로21번길 53-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.07626089,
-      "lng": 127.04993611
-    },
-    {
-      "pnu": "4122011200106910035",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 691-35",
-      "road_addr": "경기 평택시 밀월로35번길 45-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07768712,
-      "lng": 127.05045645
-    },
-    {
-      "pnu": "4122011200102970037",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-37",
-      "road_addr": "경기 평택시 밀월로35번길 39-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07770625,
-      "lng": 127.05074885
-    },
-    {
-      "pnu": "4122011200102740024",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "신장유리",
-      "jibun_addr": "경기 평택시 신장동 274-24",
-      "road_addr": "경기 평택시 밀월로15번길 63",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07759983,
-      "lng": 127.05121074
-    },
-    {
-      "pnu": "4122011200106900117",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-117",
-      "road_addr": "경기 평택시 밀월로29번길 50",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07728986,
-      "lng": 127.05029004
-    },
-    {
-      "pnu": "4122011200102730038",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 273-38",
-      "road_addr": "경기 평택시 밀월로29번길 35-8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 2,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(단독IP-CATV AI2 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.07692212,
-      "lng": 127.05077597
-    },
-    {
-      "pnu": "4122011200106900134",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-134",
-      "road_addr": "경기 평택시 송월로 42",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07696258,
-      "lng": 127.04956071
-    },
-    {
-      "pnu": "4122011200102700013",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 270-13",
-      "road_addr": "경기 평택시 밀월로21번길 57-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07607937,
-      "lng": 127.04961093
-    },
-    {
-      "pnu": "4122011200106920124",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 692-124",
-      "road_addr": "경기 평택시 밀월로21번길 58",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 2,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 2
-        }
-      ],
-      "lat": 37.07665674,
-      "lng": 127.04973127
-    },
-    {
       "pnu": "4122011200102720007",
       "match_type": "inside",
       "in_area": true,
@@ -2958,46 +3361,6 @@
       "tv_tech": [],
       "lat": 37.07713879,
       "lng": 127.0508647
-    },
-    {
-      "pnu": "4122011200102710015",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-15",
-      "road_addr": "경기 평택시 송월로32번길 17-4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07613687,
-      "lng": 127.0505106
-    },
-    {
-      "pnu": "4122011200102740177",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 274-177",
-      "road_addr": "경기 평택시 송월로32번길 17-17",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07636406,
-      "lng": 127.05099302
     },
     {
       "pnu": "4122011200102970136",
@@ -3022,11 +3385,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_실속형_Android)_구",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         },
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(CATV_실속형_Android)_구",
           "count": 1
         },
         {
@@ -3038,13 +3401,13 @@
       "lng": 127.05003401
     },
     {
-      "pnu": "4122011200106900120",
+      "pnu": "4122011200102970190",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-120",
-      "road_addr": "경기 평택시 밀월로29번길 54",
+      "jibun_addr": "경기 평택시 신장동 297-190",
+      "road_addr": "경기 평택시 밀월로29번길 53",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -3054,17 +3417,17 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.07726158,
-      "lng": 127.04996395
+      "lat": 37.07711765,
+      "lng": 127.05004355
     },
     {
-      "pnu": "4122011200102970137",
+      "pnu": "4122011200102740024",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-137",
-      "road_addr": "경기 평택시 밀월로29번길 49-9",
+      "bld_nm": "신장유리",
+      "jibun_addr": "경기 평택시 신장동 274-24",
+      "road_addr": "경기 평택시 밀월로15번길 63",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -3074,62 +3437,17 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.07674752,
-      "lng": 127.04989949
+      "lat": 37.07759983,
+      "lng": 127.05121074
     },
     {
-      "pnu": "4122011200106900145",
+      "pnu": "4122011200102740181",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-145",
-      "road_addr": "경기 평택시 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07690854,
-      "lng": 127.04957228
-    },
-    {
-      "pnu": "4122011200102730027",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 273-27",
-      "road_addr": "경기 평택시 밀월로29번길 41-5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.07684945,
-      "lng": 127.05063015
-    },
-    {
-      "pnu": "4122011200106900122",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-122",
-      "road_addr": "경기 평택시 국제로 106",
+      "jibun_addr": "경기 평택시 신장동 274-181",
+      "road_addr": "경기 평택시 밀월로15번길 43",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -3139,138 +3457,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.07746847,
-      "lng": 127.04985022
-    },
-    {
-      "pnu": "4122011200106910050",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 691-50",
-      "road_addr": "경기 평택시 밀월로35번길 45-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07743391,
-      "lng": 127.05024419
-    },
-    {
-      "pnu": "4122011200106910050",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 691-50",
-      "road_addr": "경기 평택시 밀월로35번길 45-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07743391,
-      "lng": 127.05024419
-    },
-    {
-      "pnu": "4122011200102970126",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-126",
-      "road_addr": "경기 평택시 밀월로29번길 41-22",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07700081,
-      "lng": 127.05013424
-    },
-    {
-      "pnu": "4122011200106900135",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-135",
-      "road_addr": "경기 평택시 밀월로29번길 49-16",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07693588,
-      "lng": 127.04965087
-    },
-    {
-      "pnu": "4122011200102700029",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 270-29",
-      "road_addr": "경기 평택시 밀월로21번길 53-7",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07613436,
-      "lng": 127.04984686
-    },
-    {
-      "pnu": "4122011200102700028",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 270-28",
-      "road_addr": "경기 평택시 밀월로21번길 53-5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07618861,
-      "lng": 127.04989154
+      "lat": 37.07679703,
+      "lng": 127.05106922
     },
     {
       "pnu": "4122011200102710014",
@@ -3302,38 +3490,89 @@
       "lng": 127.05049903
     },
     {
-      "pnu": "4122011200102970125",
+      "pnu": "4122011200102710015",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-125",
-      "road_addr": "경기 평택시 밀월로29번길 49-1",
+      "jibun_addr": "경기 평택시 신장동 271-15",
+      "road_addr": "경기 평택시 송월로32번길 17-4",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07613687,
+      "lng": 127.0505106
+    },
+    {
+      "pnu": "4122011200106900134",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-134",
+      "road_addr": "경기 평택시 송월로 42",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07696258,
+      "lng": 127.04956071
+    },
+    {
+      "pnu": "4122011200102730038",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 273-38",
+      "road_addr": "경기 평택시 밀월로29번길 35-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 2
         }
       ],
-      "lat": 37.07707305,
-      "lng": 127.05016757
+      "lat": 37.07692212,
+      "lng": 127.05077597
+    },
+    {
+      "pnu": "4122011200102730042",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 273-42",
+      "road_addr": "경기 평택시 밀월로21번길 38",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07667891,
+      "lng": 127.05082241
     },
     {
       "pnu": "4122011200102970138",
@@ -3356,38 +3595,42 @@
       "lng": 127.04993206
     },
     {
-      "pnu": "4122011200102710023",
+      "pnu": "4122011200102710013",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 271-23",
-      "road_addr": "경기 평택시 송월로32번길 19",
-      "avail_gen_cnt": 1,
+      "jibun_addr": "경기 평택시 신장동 271-13",
+      "road_addr": "경기 평택시 송월로32번길 17-8",
+      "avail_gen_cnt": 3,
       "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
+      "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 1,
       "int_tech": [],
       "tv_tech": [
         {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
           "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
-      "lat": 37.07606485,
-      "lng": 127.05053353
+      "lat": 37.076245,
+      "lng": 127.05049871
     },
     {
-      "pnu": "4122011200106910053",
+      "pnu": "4122011200102710016",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "호텔캐피탈",
-      "jibun_addr": "경기 평택시 신장동 691-53",
-      "road_addr": "경기 평택시 국제로 108",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 271-16",
+      "road_addr": "경기 평택시 송월로32번길 21-3",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -3397,33 +3640,66 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.07758643,
-      "lng": 127.05005203
+      "lat": 37.07619138,
+      "lng": 127.05062278
     },
     {
-      "pnu": "4122011200102740018",
+      "pnu": "4122011200102730034",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 274-18",
-      "road_addr": "경기 평택시 밀월로15번길 47-1",
+      "jibun_addr": "경기 평택시 신장동 273-34",
+      "road_addr": "경기 평택시 밀월로21번길 46",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "CA_광랜W(320)_구",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_Android)",
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.07668694,
+      "lng": 127.05056361
+    },
+    {
+      "pnu": "4122011200102970122",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 297-122",
+      "road_addr": "경기 평택시 밀월로29번길 45",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
@@ -3431,42 +3707,28 @@
           "count": 1
         }
       ],
-      "lat": 37.07690511,
-      "lng": 127.05104608
+      "lat": 37.07711881,
+      "lng": 127.0503473
     },
     {
-      "pnu": "4122011200102740175",
+      "pnu": "4122011200102710005",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 274-175",
-      "road_addr": "경기 평택시 밀월로21번길 31",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 6,
+      "jibun_addr": "경기 평택시 신장동 271-5",
+      "road_addr": "경기 평택시 송월로32번길 17-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 5,
-      "catv_8vsb_cnt": 5,
-      "int_tech": [
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 5
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07649072,
-      "lng": 127.05111602
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07636214,
+      "lng": 127.05048677
     },
     {
       "pnu": "4122011200102740179",
@@ -3497,268 +3759,6 @@
       ],
       "lat": 37.07635594,
       "lng": 127.05122932
-    },
-    {
-      "pnu": "4122011200102970015",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-15",
-      "road_addr": "경기 평택시 밀월로29번길 42",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07726367,
-      "lng": 127.0505152
-    },
-    {
-      "pnu": "4122011200102700007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 270-7",
-      "road_addr": "경기 평택시 송월로32번길 17-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07616327,
-      "lng": 127.05034169
-    },
-    {
-      "pnu": "4122011200102720013",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 272-13",
-      "road_addr": "경기 평택시 밀월로29번길 39",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07714721,
-      "lng": 127.05070714
-    },
-    {
-      "pnu": "4122011200102720002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 272-2",
-      "road_addr": "경기 평택시 밀월로35번길 35",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07777016,
-      "lng": 127.05096222
-    },
-    {
-      "pnu": "4122011200106900143",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "에스빌",
-      "jibun_addr": "경기 평택시 신장동 690-143",
-      "road_addr": "경기 평택시 송월로 40",
-      "avail_gen_cnt": 14,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(AI Sound Max STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.07676444,
-      "lng": 127.04960688
-    },
-    {
-      "pnu": "4122011200102970022",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 297-22",
-      "road_addr": "경기 평택시 밀월로29번길 43",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.07714661,
-      "lng": 127.05054964
-    },
-    {
-      "pnu": "4122011200106920129",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 692-129",
-      "road_addr": "경기 평택시 송월로32번길 9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 2,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 2
-        }
-      ],
-      "lat": 37.07605353,
-      "lng": 127.04992609
-    },
-    {
-      "pnu": "4122011200102740174",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 274-174",
-      "road_addr": "경기 평택시 밀월로21번길 29",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07650016,
-      "lng": 127.05122847
-    },
-    {
-      "pnu": "4122011200102730026",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 273-26",
-      "road_addr": "경기 평택시 밀월로29번길 41-9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.07675914,
-      "lng": 127.05058568
-    },
-    {
-      "pnu": "4122011200102730044",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 273-44",
-      "road_addr": "경기 평택시 밀월로29번길 35-12",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07676866,
-      "lng": 127.05072063
     },
     {
       "pnu": "4122011200102700011",
@@ -3912,11 +3912,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_Smart)_구",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         },
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(CATV_QAM_Smart)_구",
           "count": 1
         }
       ],
@@ -4278,12 +4278,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        },
-        {
           "method": "Btv(IPTV_B tv air 4)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
         }
       ],
       "lat": 37.07755561,
@@ -4341,11 +4341,11 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_실속형_Smart)_구",
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "method": "Btv(CATV_실속형_Smart)_구",
           "count": 1
         }
       ],
@@ -4564,11 +4564,11 @@
       "int_tech": [],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
@@ -4742,11 +4742,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IP-CATV AI2 STB)",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(IP-CATV AI2 STB)",
           "count": 1
         }
       ],
@@ -4806,11 +4806,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
@@ -4834,12 +4834,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
           "method": "CA_광랜W(100)_구",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -4852,11 +4852,11 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(단독IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(단독IPTV_smart 3 STB)",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         }
       ],
@@ -5029,11 +5029,11 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(CATV_QAM_UHD2)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_UHD2)",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         }
       ],
@@ -5063,11 +5063,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_UHD)",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         },
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(CATV_QAM_UHD)",
           "count": 1
         },
         {
@@ -5095,7 +5095,7 @@
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "CA_광랜W(320)_구",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
@@ -5103,25 +5103,25 @@
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "CA_광랜W(320)_구",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(CATV_실속형_Smart)_구",
           "count": 1
         },
         {
-          "method": "Btv(CATV_실속형_Smart)_구",
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
@@ -5260,12 +5260,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_UHD2)_S",
-          "count": 1
-        },
-        {
           "method": "Btv(CATV_QAM_HD)_S",
           "count": 24
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)_S",
+          "count": 1
         }
       ],
       "lat": 37.07761099,
@@ -5314,11 +5314,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_실속형_HD)_구",
+          "method": "Btv(CATV_QAM_UHD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_UHD)",
+          "method": "Btv(CATV_실속형_HD)_구",
           "count": 1
         }
       ],
@@ -5368,12 +5368,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
           "method": "Btv(CATV_QAM_HD)",
           "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
         },
         {
           "method": "Btv(단독IP-CATV_smart 3 STB)",
@@ -5674,12 +5674,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        },
-        {
           "method": "Btv(CATV_8VSB)_60",
           "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
         }
       ],
       "lat": 37.07809449,
@@ -5807,11 +5807,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -5861,11 +5861,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
@@ -5964,11 +5964,11 @@
       "catv_8vsb_cnt": 11,
       "int_tech": [
         {
-          "method": "CA_비즈_메트로_광랜_구",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "CA_비즈_메트로_광랜_구",
           "count": 1
         }
       ],
@@ -6070,26 +6070,6 @@
       "distance_meter": 32.90339926,
       "bld_nm": "N/A",
       "jibun_addr": "경기 평택시 신장동 690-18",
-      "road_addr": "경기 평택시 국제로 111-2",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07808972,
-      "lng": 127.04965529
-    },
-    {
-      "pnu": "4122011200106900018",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 32.90339926,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-18",
       "road_addr": "경기 평택시 국제로 111-4",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
@@ -6102,6 +6082,26 @@
       "tv_tech": [],
       "lat": 37.07812547,
       "lng": 127.04957633
+    },
+    {
+      "pnu": "4122011200106900018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 32.90339926,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-18",
+      "road_addr": "경기 평택시 국제로 111-2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07808972,
+      "lng": 127.04965529
     },
     {
       "pnu": "4122011200106920025",
@@ -6736,26 +6736,6 @@
       "distance_meter": 40.26180645,
       "bld_nm": "N/A",
       "jibun_addr": "경기 평택시 신장동 690-18",
-      "road_addr": "경기 평택시 국제로 111-4",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.07812547,
-      "lng": 127.04957633
-    },
-    {
-      "pnu": "4122011200106900018",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 40.26180645,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 평택시 신장동 690-18",
       "road_addr": "경기 평택시 국제로 111-2",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
@@ -6768,6 +6748,26 @@
       "tv_tech": [],
       "lat": 37.07808972,
       "lng": 127.04965529
+    },
+    {
+      "pnu": "4122011200106900018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 40.26180645,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 평택시 신장동 690-18",
+      "road_addr": "경기 평택시 국제로 111-4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.07812547,
+      "lng": 127.04957633
     },
     {
       "pnu": "4122011200102740079",
@@ -6817,12 +6817,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 2
-        },
-        {
           "method": "Btv(IP-CATV AI2 STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
         }
       ],
       "lat": 37.0776651,
@@ -7248,11 +7248,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         },
         {
@@ -7591,6 +7591,10 @@
       "int_tech": [],
       "tv_tech": [
         {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
           "method": "Btv(CATV_QAM_HD)",
           "count": 2
         },
@@ -7600,10 +7604,6 @@
         },
         {
           "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
@@ -7706,11 +7706,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "CA_광랜W(100)",
           "count": 1
         },
         {
-          "method": "CA_광랜W(100)",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
@@ -8083,25 +8083,21 @@
           "count": 2
         },
         {
-          "method": "CA_광랜W(100)_구",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "CA_광랜W(100)_구",
           "count": 1
         }
       ],
       "tv_tech": [
         {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air 4)",
           "count": 1
         },
         {
@@ -8109,7 +8105,11 @@
           "count": 2
         },
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
           "count": 1
         }
       ],
@@ -8178,25 +8178,25 @@
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "광랜W",
+          "method": "CA_광랜W(100)_구",
           "count": 1
         },
         {
-          "method": "CA_광랜W(100)_구",
+          "method": "광랜W",
           "count": 1
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
         {
           "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
           "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
@@ -8789,11 +8789,11 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_Android)",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(CATV_QAM_Android)",
           "count": 1
         }
       ],
@@ -8867,15 +8867,15 @@
           "count": 3
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_B tv air 4)",
           "count": 1
         },
         {
           "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -9109,15 +9109,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
           "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         },
         {
@@ -9126,6 +9122,10 @@
         },
         {
           "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -9444,11 +9444,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
@@ -9478,11 +9478,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
@@ -9695,11 +9695,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_90",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(CATV_8VSB)_90",
           "count": 1
         },
         {
@@ -9733,15 +9733,15 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
           "method": "Btv(CATV_QAM_HD)",
           "count": 2
         },
         {
           "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
@@ -9805,12 +9805,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
           "method": "광랜FTTH",
           "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -9928,11 +9928,11 @@
           "count": 2
         },
         {
-          "method": "Btv(단독IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(단독IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -10076,11 +10076,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -10284,12 +10284,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_UHD_STB)",
           "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
         }
       ],
       "lat": 37.07539114,
@@ -11069,12 +11069,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)_S",
-          "count": 33
-        },
-        {
           "method": "Btv(CATV_QAM_HD)",
           "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)_S",
+          "count": 33
         }
       ],
       "lat": 37.0782076,
@@ -11367,21 +11367,21 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(IPTV)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         }
       ],
@@ -11519,11 +11519,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
@@ -11657,11 +11657,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "CA_광랜W(100)_구",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "CA_광랜W(100)_구",
           "count": 1
         }
       ],

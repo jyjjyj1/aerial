@@ -67,94 +67,121 @@
   },
   "buildings": [
     {
-      "pnu": "1132010700107000038",
+      "pnu": "1132010700107000114",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성원아트빌",
+      "jibun_addr": "서울 도봉구 창동 700-114",
+      "road_addr": "서울 도봉구 도봉로126길 18",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65263064,
+      "lng": 127.03836347
+    },
+    {
+      "pnu": "1132010700107000081",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-38",
-      "road_addr": "서울 도봉구 노해로61길 3-9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
+      "jibun_addr": "서울 도봉구 창동 700-81",
+      "road_addr": "서울 도봉구 노해로 269-24",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65217683,
-      "lng": 127.03756139
-    },
-    {
-      "pnu": "1132010700106910016",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "금성빌라",
-      "jibun_addr": "서울 도봉구 창동 691-16",
-      "road_addr": "서울 도봉구 노해로 279-26",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 6,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 1,
-      "lat": 37.65233927,
-      "lng": 127.03991837
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65210081,
+      "lng": 127.03886555
     },
     {
-      "pnu": "1132010700107000028",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "황토화로숯불구이",
-      "jibun_addr": "서울 도봉구 창동 700-28",
-      "road_addr": "서울 도봉구 노해로 259",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65167884,
-      "lng": 127.03698633
-    },
-    {
-      "pnu": "1132010700107000065",
+      "pnu": "1132010700107000018",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-65",
-      "road_addr": "서울 도봉구 노해로 269-11",
+      "jibun_addr": "서울 도봉구 창동 700-18",
+      "road_addr": "서울 도봉구 노해로 269-15",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 5,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
+      "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65210796,
-      "lng": 127.03838938
-    },
-    {
-      "pnu": "1132010700107000030",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "대우자동차",
-      "jibun_addr": "서울 도봉구 창동 700-30",
-      "road_addr": "서울 도봉구 도봉로 528",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65222971,
-      "lng": 127.03725498
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.6523158,
+      "lng": 127.03852413
     },
     {
       "pnu": "1132010700107000083",
@@ -171,8 +198,48 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        }
+      ],
       "lat": 37.65216333,
       "lng": 127.03871779
+    },
+    {
+      "pnu": "1132010700107000030",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대우자동차",
+      "jibun_addr": "서울 도봉구 창동 700-30",
+      "road_addr": "서울 도봉구 도봉로 528",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65222971,
+      "lng": 127.03725498
     },
     {
       "pnu": "1132010700107000084",
@@ -189,215 +256,28 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65219006,
       "lng": 127.03863827
     },
     {
-      "pnu": "1132010700106910013",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "금성빌라",
-      "jibun_addr": "서울 도봉구 창동 691-13",
-      "road_addr": "서울 도봉구 노해로 279-32",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65221176,
-      "lng": 127.03957906
-    },
-    {
-      "pnu": "1132010700106910005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "다보맨션",
-      "jibun_addr": "서울 도봉구 창동 691-5",
-      "road_addr": "서울 도봉구 노해로 279-42",
-      "avail_gen_cnt": 18,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 7,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "lat": 37.65226526,
-      "lng": 127.03943136
-    },
-    {
-      "pnu": "1132010700106910002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "금성빌라",
-      "jibun_addr": "서울 도봉구 창동 691-2",
-      "road_addr": "서울 도봉구 도봉로126길 42",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 9,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 5,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 1,
-      "lat": 37.65239273,
-      "lng": 127.03975933
-    },
-    {
-      "pnu": "1132010700107000090",
+      "pnu": "1132010700107000042",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-90",
-      "road_addr": "서울 도봉구 노해로 269-21",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.6523879,
-      "lng": 127.03852368
-    },
-    {
-      "pnu": "1132010700107000132",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "석정빌라",
-      "jibun_addr": "서울 도봉구 창동 700-132",
-      "road_addr": "서울 도봉구 노해로61길 12",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 6,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 2,
-      "lat": 37.65195288,
-      "lng": 127.03791421
-    },
-    {
-      "pnu": "1132010700107030000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "세주섬유",
-      "jibun_addr": "서울 도봉구 창동 703",
-      "road_addr": "서울 도봉구 도봉로126길 5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65304382,
-      "lng": 127.03799814
-    },
-    {
-      "pnu": "1132010700107010001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "진영부동산",
-      "jibun_addr": "서울 도봉구 창동 701-1",
-      "road_addr": "서울 도봉구 도봉로126길 9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "lat": 37.6529453,
-      "lng": 127.03815746
-    },
-    {
-      "pnu": "1132010700107000020",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-20",
-      "road_addr": "서울 도봉구 노해로 269-5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65185506,
-      "lng": 127.03825491
-    },
-    {
-      "pnu": "1132010700107000096",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "태영그린빌",
-      "jibun_addr": "서울 도봉구 창동 700-96",
-      "road_addr": "서울 도봉구 노해로61길 21",
-      "avail_gen_cnt": 7,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65241233,
-      "lng": 127.03785468
-    },
-    {
-      "pnu": "1132010700106910019",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "금성빌라",
-      "jibun_addr": "서울 도봉구 창동 691-19",
-      "road_addr": "서울 도봉구 노해로 279-22",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "lat": 37.6520064,
-      "lng": 127.04007913
-    },
-    {
-      "pnu": "1132010700107000086",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-86",
-      "road_addr": "서울 도봉구 노해로 269-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65203644,
-      "lng": 127.03853719
-    },
-    {
-      "pnu": "1132010700107000097",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-97",
-      "road_addr": "서울 도봉구 노해로 269-3",
+      "jibun_addr": "서울 도봉구 창동 700-42",
+      "road_addr": "서울 도봉구 노해로61길 5",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -405,260 +285,110 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65179179,
-      "lng": 127.03820995
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65188841,
+      "lng": 127.03756318
     },
     {
-      "pnu": "1132010700107000045",
+      "pnu": "1132010700107000028",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-45",
-      "road_addr": "서울 도봉구 노해로61길 11",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65206006,
-      "lng": 127.03766414
-    },
-    {
-      "pnu": "1132010700107000033",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-33",
-      "road_addr": "서울 도봉구 도봉로 534",
+      "bld_nm": "황토화로숯불구이",
+      "jibun_addr": "서울 도봉구 창동 700-28",
+      "road_addr": "서울 도봉구 노해로 259",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
+      "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65277147,
-      "lng": 127.03750102
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65167884,
+      "lng": 127.03698633
     },
     {
-      "pnu": "1132010700106980009",
+      "pnu": "1132010700106910020",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "선덕그랑빌",
-      "jibun_addr": "서울 도봉구 창동 698-9",
-      "road_addr": "서울 도봉구 도봉로126길 33",
+      "bld_nm": "금성빌라",
+      "jibun_addr": "서울 도봉구 창동 691-20",
+      "road_addr": "서울 도봉구 노해로 279-24",
       "avail_gen_cnt": 8,
       "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
+      "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65250818,
-      "lng": 127.03931649
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65212362,
+      "lng": 127.04008975
     },
     {
-      "pnu": "1132010700107000098",
+      "pnu": "1132010700106980011",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "선덕그랑빌",
-      "jibun_addr": "서울 도봉구 창동 700-98",
-      "road_addr": "서울 도봉구 도봉로126길 32",
-      "avail_gen_cnt": 9,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 8,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "lat": 37.65233604,
-      "lng": 127.03909083
-    },
-    {
-      "pnu": "1132010700107000050",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-50",
-      "road_addr": "서울 도봉구 노해로 267-15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65230546,
-      "lng": 127.0381841
-    },
-    {
-      "pnu": "1132010700106910024",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "금성빌라",
-      "jibun_addr": "서울 도봉구 창동 691-24",
-      "road_addr": "서울 도봉구 노해로 279-12",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 9,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65200464,
-      "lng": 127.03962569
-    },
-    {
-      "pnu": "1132010700107000006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "유성빌라",
-      "jibun_addr": "서울 도봉구 창동 700-6",
-      "road_addr": "서울 도봉구 도봉로126길 28",
-      "avail_gen_cnt": 14,
-      "int_scrbr_cnt": 8,
-      "tv_scrbr_cnt": 13,
+      "jibun_addr": "서울 도봉구 창동 698-11",
+      "road_addr": "서울 도봉구 도봉로126길 31",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
       "skb_pop_cnt": 1,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "lat": 37.65247923,
-      "lng": 127.0388292
-    },
-    {
-      "pnu": "1132010700107000043",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-43",
-      "road_addr": "서울 도봉구 노해로61길 7",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65191554,
-      "lng": 127.03758568
-    },
-    {
-      "pnu": "1132010700107000063",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-63",
-      "road_addr": "서울 도봉구 노해로61길 22",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65246751,
-      "lng": 127.03813775
-    },
-    {
-      "pnu": "1132010700107000074",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-74",
-      "road_addr": "서울 도봉구 노해로61길 19",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65237627,
-      "lng": 127.0378549
-    },
-    {
-      "pnu": "1132010700107000008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "우진빌딩",
-      "jibun_addr": "서울 도봉구 창동 700-8",
-      "road_addr": "서울 도봉구 노해로 277",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65187593,
-      "lng": 127.03898031
-    },
-    {
-      "pnu": "1132010700107000072",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-72",
-      "road_addr": "서울 도봉구 노해로61길 4",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65167254,
-      "lng": 127.03767788
-    },
-    {
-      "pnu": "1132010700107000121",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "우신",
-      "jibun_addr": "서울 도봉구 창동 700-121",
-      "road_addr": "서울 도봉구 도봉로126길 19",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "lat": 37.65277582,
-      "lng": 127.03861197
-    },
-    {
-      "pnu": "1132010700107000007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "창5동주민센터",
-      "jibun_addr": "서울 도봉구 창동 700-7",
-      "road_addr": "서울 도봉구 노해로 279-5",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 10,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 10,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65205708,
-      "lng": 127.03920592
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.65255271,
+      "lng": 127.03918018
     },
     {
       "pnu": "1132010700107000082",
@@ -675,6 +405,34 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV)",
+          "count": 1
+        }
+      ],
       "lat": 37.6521727,
       "lng": 127.03880843
     },
@@ -693,80 +451,44 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65221515,
       "lng": 127.03813931
     },
     {
-      "pnu": "1132010700106980001",
+      "pnu": "1132010700107000072",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "선덕그랑빌",
-      "jibun_addr": "서울 도봉구 창동 698-1",
-      "road_addr": "서울 도봉구 도봉로126길 25",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 3,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-72",
+      "road_addr": "서울 도봉구 노해로61길 4",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 3,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65266869,
-      "lng": 127.03887338
-    },
-    {
-      "pnu": "1132010700107000021",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "쌍용자동차",
-      "jibun_addr": "서울 도봉구 창동 700-21",
-      "road_addr": "서울 도봉구 노해로 269-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65169247,
-      "lng": 127.03816522
-    },
-    {
-      "pnu": "1132010700107000048",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-48",
-      "road_addr": "서울 도봉구 노해로 267-14",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65215268,
-      "lng": 127.03829841
-    },
-    {
-      "pnu": "1132010700107000091",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-91",
-      "road_addr": "서울 도봉구 노해로 269-23",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.6524688,
-      "lng": 127.0384665
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65167254,
+      "lng": 127.03767788
     },
     {
       "pnu": "1132010700107000056",
@@ -783,35 +505,19 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65181764,
       "lng": 127.03790371
     },
     {
-      "pnu": "1132010700107000062",
+      "pnu": "1132010700107000109",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-62",
-      "road_addr": "서울 도봉구 노해로61길 20",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65237716,
-      "lng": 127.03808163
-    },
-    {
-      "pnu": "1132010700107000099",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "오토월드",
-      "jibun_addr": "서울 도봉구 창동 700-99",
-      "road_addr": "서울 도봉구 노해로 279",
+      "jibun_addr": "서울 도봉구 창동 700-109",
+      "road_addr": "서울 도봉구 노해로61길 8",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
@@ -819,134 +525,45 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65184982,
-      "lng": 127.03921853
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65188028,
+      "lng": 127.03778996
     },
     {
-      "pnu": "1132010700107000071",
+      "pnu": "1132010700107000036",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-71",
-      "road_addr": "서울 도봉구 노해로61길 10",
+      "bld_nm": "젠아이학원",
+      "jibun_addr": "서울 도봉구 창동 700-36",
+      "road_addr": "서울 도봉구 도봉로 524",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "lat": 37.65188939,
-      "lng": 127.03781258
-    },
-    {
-      "pnu": "1132010700106910023",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "금성빌라",
-      "jibun_addr": "서울 도봉구 창동 691-23",
-      "road_addr": "서울 도봉구 노해로 279-28",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65227574,
-      "lng": 127.0398054
-    },
-    {
-      "pnu": "1132010700107000066",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "우성주택",
-      "jibun_addr": "서울 도봉구 창동 700-66",
-      "road_addr": "서울 도봉구 노해로 267-16",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 1,
-      "lat": 37.65222496,
-      "lng": 127.03834331
-    },
-    {
-      "pnu": "1132010700107000027",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "LG데코빌하나인테리어",
-      "jibun_addr": "서울 도봉구 창동 700-27",
-      "road_addr": "서울 도봉구 노해로 261",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
+      "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65165255,
-      "lng": 127.03717921
-    },
-    {
-      "pnu": "1132010700107000037",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-37",
-      "road_addr": "서울 도봉구 노해로61길 3-11",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65226714,
-      "lng": 127.03760618
-    },
-    {
-      "pnu": "1132010700106910012",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "삼성빌라",
-      "jibun_addr": "서울 도봉구 창동 691-12",
-      "road_addr": "서울 도봉구 도봉로126길 40",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65234687,
-      "lng": 127.03955556
-    },
-    {
-      "pnu": "1132010700107000032",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "현대자동차",
-      "jibun_addr": "서울 도봉구 창동 700-32",
-      "road_addr": "서울 도봉구 도봉로 530",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65236602,
-      "lng": 127.03753755
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65183237,
+      "lng": 127.03706473
     },
     {
       "pnu": "1132010700106910018",
@@ -963,6 +580,25 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 3,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65198763,
       "lng": 127.03988653
     },
@@ -981,116 +617,82 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.6523986,
       "lng": 127.0389544
     },
     {
-      "pnu": "1132010700107000036",
+      "pnu": "1132010700107000023",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "젠아이학원",
-      "jibun_addr": "서울 도봉구 창동 700-36",
-      "road_addr": "서울 도봉구 도봉로 524",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65183237,
-      "lng": 127.03706473
-    },
-    {
-      "pnu": "1132010700107000134",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "선덕그랑빌",
-      "jibun_addr": "서울 도봉구 창동 700-134",
-      "road_addr": "서울 도봉구 노해로 279-15",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65231837,
-      "lng": 127.03918163
-    },
-    {
-      "pnu": "1132010700106910008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "금성빌라",
-      "jibun_addr": "서울 도봉구 창동 691-8",
-      "road_addr": "서울 도봉구 노해로 279-8",
-      "avail_gen_cnt": 9,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 13,
+      "bld_nm": "동방플러스",
+      "jibun_addr": "서울 도봉구 창동 700-23",
+      "road_addr": "서울 도봉구 도봉로126길 10",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 7,
       "skb_pop_cnt": 1,
-      "catv_digital_cnt": 4,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 4,
-      "lat": 37.65196792,
-      "lng": 127.03945587
-    },
-    {
-      "pnu": "1132010700107000077",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "서영실업",
-      "jibun_addr": "서울 도봉구 창동 700-77",
-      "road_addr": "서울 도봉구 노해로61길 3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65178904,
-      "lng": 127.03750711
-    },
-    {
-      "pnu": "1132010700107000010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "삼보카인테리어",
-      "jibun_addr": "서울 도봉구 창동 700-10",
-      "road_addr": "서울 도봉구 노해로 271",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65176578,
-      "lng": 127.03847085
-    },
-    {
-      "pnu": "1132010700107000109",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-109",
-      "road_addr": "서울 도봉구 노해로61길 8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65188028,
-      "lng": 127.03778996
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.6528093,
+      "lng": 127.03795425
     },
     {
       "pnu": "1132010700107000089",
@@ -1107,6 +709,26 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.6524153,
       "lng": 127.03861421
     },
@@ -1125,26 +747,28 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.65218935,
       "lng": 127.03845689
-    },
-    {
-      "pnu": "1132010700107000076",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-76",
-      "road_addr": "서울 도봉구 노해로61길 3-13",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65232135,
-      "lng": 127.03763985
     },
     {
       "pnu": "1132010700107000029",
@@ -1161,8 +785,52 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.652022,
       "lng": 127.03715424
+    },
+    {
+      "pnu": "1132010700107000071",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-71",
+      "road_addr": "서울 도봉구 노해로61길 10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65188939,
+      "lng": 127.03781258
     },
     {
       "pnu": "1132010700107000112",
@@ -1179,8 +847,149 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.65278293,
       "lng": 127.03812446
+    },
+    {
+      "pnu": "1132010700107000032",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "현대자동차",
+      "jibun_addr": "서울 도봉구 창동 700-32",
+      "road_addr": "서울 도봉구 도봉로 530",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "미디어TV(VOD)_smart3",
+          "count": 1
+        }
+      ],
+      "lat": 37.65236602,
+      "lng": 127.03753755
+    },
+    {
+      "pnu": "1132010700106910023",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "금성빌라",
+      "jibun_addr": "서울 도봉구 창동 691-23",
+      "road_addr": "서울 도봉구 노해로 279-28",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65227574,
+      "lng": 127.0398054
+    },
+    {
+      "pnu": "1132010700107000134",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "선덕그랑빌",
+      "jibun_addr": "서울 도봉구 창동 700-134",
+      "road_addr": "서울 도봉구 노해로 279-15",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65231837,
+      "lng": 127.03918163
+    },
+    {
+      "pnu": "1132010700107000027",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "LG데코빌하나인테리어",
+      "jibun_addr": "서울 도봉구 창동 700-27",
+      "road_addr": "서울 도봉구 노해로 261",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65165255,
+      "lng": 127.03717921
     },
     {
       "pnu": "1132010700107000019",
@@ -1197,143 +1006,75 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.65195443,
       "lng": 127.03831097
     },
     {
-      "pnu": "1132010700107000023",
+      "pnu": "1132010700107000037",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "동방플러스",
-      "jibun_addr": "서울 도봉구 창동 700-23",
-      "road_addr": "서울 도봉구 도봉로126길 10",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 7,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.6528093,
-      "lng": 127.03795425
-    },
-    {
-      "pnu": "1132010700107000013",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "나은주택",
-      "jibun_addr": "서울 도봉구 창동 700-13",
-      "road_addr": "서울 도봉구 노해로 269-36",
-      "avail_gen_cnt": 17,
-      "int_scrbr_cnt": 14,
-      "tv_scrbr_cnt": 23,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 7,
-      "catv_internet_cnt": 3,
-      "catv_8vsb_cnt": 3,
-      "lat": 37.65223597,
-      "lng": 127.03885338
-    },
-    {
-      "pnu": "1132010700107000113",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "동일양행",
-      "jibun_addr": "서울 도봉구 창동 700-113",
-      "road_addr": "서울 도봉구 노해로61길 25",
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-37",
+      "road_addr": "서울 도봉구 노해로61길 3-11",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
+      "catv_digital_cnt": 2,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65263841,
-      "lng": 127.038046
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65226714,
+      "lng": 127.03760618
     },
     {
-      "pnu": "1132010700106910015",
+      "pnu": "1132010700107000020",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 691-15",
-      "road_addr": "서울 도봉구 노해로 279-30",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65225731,
-      "lng": 127.03970348
-    },
-    {
-      "pnu": "1132010700107000093",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "세종빌라",
-      "jibun_addr": "서울 도봉구 창동 700-93",
-      "road_addr": "서울 도봉구 노해로61길 23",
-      "avail_gen_cnt": 9,
-      "int_scrbr_cnt": 7,
-      "tv_scrbr_cnt": 11,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 2,
-      "lat": 37.65253882,
-      "lng": 127.03793325
-    },
-    {
-      "pnu": "1132010700107000018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-18",
-      "road_addr": "서울 도봉구 노해로 269-15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.6523158,
-      "lng": 127.03852413
-    },
-    {
-      "pnu": "1132010700107000052",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "석정빌라",
-      "jibun_addr": "서울 도봉구 창동 700-52",
-      "road_addr": "서울 도봉구 노해로61길 16",
-      "avail_gen_cnt": 15,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 6,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 4,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 1,
-      "lat": 37.65207933,
-      "lng": 127.03798144
-    },
-    {
-      "pnu": "1132010700107000046",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-46",
-      "road_addr": "서울 도봉구 노해로61길 13",
+      "jibun_addr": "서울 도봉구 창동 700-20",
+      "road_addr": "서울 도봉구 노해로 269-5",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 1,
@@ -1341,26 +1082,15 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65215046,
-      "lng": 127.0377316
-    },
-    {
-      "pnu": "1132010700107000124",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "아원빌라",
-      "jibun_addr": "서울 도봉구 창동 700-124",
-      "road_addr": "서울 도봉구 도봉로126길 24",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 7,
-      "skb_pop_cnt": 2,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65252346,
-      "lng": 127.03861354
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65185506,
+      "lng": 127.03825491
     },
     {
       "pnu": "1132010700107000009",
@@ -1377,26 +1107,92 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65185702,
       "lng": 127.0387537
     },
     {
-      "pnu": "1132010700107000107",
+      "pnu": "1132010700107000097",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-107",
-      "road_addr": "서울 도봉구 노해로 267-4",
+      "jibun_addr": "서울 도봉구 창동 700-97",
+      "road_addr": "서울 도봉구 노해로 269-3",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
+      "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65180924,
-      "lng": 127.03806247
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65179179,
+      "lng": 127.03820995
+    },
+    {
+      "pnu": "1132010700107000038",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-38",
+      "road_addr": "서울 도봉구 노해로61길 3-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65217683,
+      "lng": 127.03756139
+    },
+    {
+      "pnu": "1132010700107000132",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "석정빌라",
+      "jibun_addr": "서울 도봉구 창동 700-132",
+      "road_addr": "서울 도봉구 노해로61길 12",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65195288,
+      "lng": 127.03791421
     },
     {
       "pnu": "1132010700107010004",
@@ -1413,53 +1209,62 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65288309,
       "lng": 127.03838458
     },
     {
-      "pnu": "1132010700107000114",
+      "pnu": "1132010700107000045",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "성원아트빌",
-      "jibun_addr": "서울 도봉구 창동 700-114",
-      "road_addr": "서울 도봉구 도봉로126길 18",
-      "avail_gen_cnt": 7,
-      "int_scrbr_cnt": 0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-45",
+      "road_addr": "서울 도봉구 노해로61길 11",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 3,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 3,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65263064,
-      "lng": 127.03836347
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        }
+      ],
+      "lat": 37.65206006,
+      "lng": 127.03766414
     },
     {
-      "pnu": "1132010700106910010",
+      "pnu": "1132010700107000046",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 691-10",
-      "road_addr": "서울 도봉구 노해로 285",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65185283,
-      "lng": 127.03998939
-    },
-    {
-      "pnu": "1132010700107000024",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-24",
-      "road_addr": "서울 도봉구 노해로61길 21-4",
+      "jibun_addr": "서울 도봉구 창동 700-46",
+      "road_addr": "서울 도봉구 노해로61길 13",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 1,
@@ -1467,143 +1272,318 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65264662,
-      "lng": 127.03784189
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65215046,
+      "lng": 127.0377316
     },
     {
-      "pnu": "1132010700107000092",
+      "pnu": "1132010700107000090",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-92",
-      "road_addr": "서울 도봉구 노해로 267-19",
+      "jibun_addr": "서울 도봉구 창동 700-90",
+      "road_addr": "서울 도봉구 노해로 269-21",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65250459,
-      "lng": 127.03839826
-    },
-    {
-      "pnu": "1132010700107000081",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-81",
-      "road_addr": "서울 도봉구 노해로 269-24",
-      "avail_gen_cnt": 7,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "lat": 37.65210081,
-      "lng": 127.03886555
-    },
-    {
-      "pnu": "1132010700107000047",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-47",
-      "road_addr": "서울 도봉구 노해로61길 15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65222278,
-      "lng": 127.03778784
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.6523879,
+      "lng": 127.03852368
     },
     {
-      "pnu": "1132010700107000122",
+      "pnu": "1132010700107010001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "하나맨션",
-      "jibun_addr": "서울 도봉구 창동 700-122",
-      "road_addr": "서울 도봉구 도봉로126길 21",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65275829,
-      "lng": 127.03873678
-    },
-    {
-      "pnu": "1132010700107000041",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-41",
-      "road_addr": "서울 도봉구 노해로61길 3-3",
+      "bld_nm": "진영부동산",
+      "jibun_addr": "서울 도봉구 창동 701-1",
+      "road_addr": "서울 도봉구 도봉로126길 9",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
+      "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65192384,
-      "lng": 127.03740425
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 1
+        }
+      ],
+      "lat": 37.6529453,
+      "lng": 127.03815746
     },
     {
-      "pnu": "1132010700106910003",
+      "pnu": "1132010700107000107",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 691-3",
-      "road_addr": "서울 도봉구 노해로 281",
-      "avail_gen_cnt": 28,
-      "int_scrbr_cnt": 11,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
+      "jibun_addr": "서울 도봉구 창동 700-107",
+      "road_addr": "서울 도봉구 노해로 267-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.651869,
-      "lng": 127.03951316
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65180924,
+      "lng": 127.03806247
     },
     {
-      "pnu": "1132010700107000001",
+      "pnu": "1132010700107000033",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "우신빌라",
-      "jibun_addr": "서울 도봉구 창동 700-1",
-      "road_addr": "서울 도봉구 도봉로126길 17",
-      "avail_gen_cnt": 6,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-33",
+      "road_addr": "서울 도봉구 도봉로 534",
+      "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65277147,
+      "lng": 127.03750102
+    },
+    {
+      "pnu": "1132010700107000099",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "오토월드",
+      "jibun_addr": "서울 도봉구 창동 700-99",
+      "road_addr": "서울 도봉구 노해로 279",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.6528295,
-      "lng": 127.03850961
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65184982,
+      "lng": 127.03921853
     },
     {
-      "pnu": "1132010700107000108",
+      "pnu": "1132010700106910012",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-108",
-      "road_addr": "서울 도봉구 노해로 269",
+      "bld_nm": "삼성빌라",
+      "jibun_addr": "서울 도봉구 창동 691-12",
+      "road_addr": "서울 도봉구 도봉로126길 40",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65234687,
+      "lng": 127.03955556
+    },
+    {
+      "pnu": "1132010700107000066",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성주택",
+      "jibun_addr": "서울 도봉구 창동 700-66",
+      "road_addr": "서울 도봉구 노해로 267-16",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 2
+        }
+      ],
+      "lat": 37.65222496,
+      "lng": 127.03834331
+    },
+    {
+      "pnu": "1132010700106910008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "금성빌라",
+      "jibun_addr": "서울 도봉구 창동 691-8",
+      "road_addr": "서울 도봉구 노해로 279-8",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 13,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 4,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65196792,
+      "lng": 127.03945587
+    },
+    {
+      "pnu": "1132010700107000077",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "서영실업",
+      "jibun_addr": "서울 도봉구 창동 700-77",
+      "road_addr": "서울 도봉구 노해로61길 3",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1611,44 +1591,40 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65167387,
-      "lng": 127.03801797
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65178904,
+      "lng": 127.03750711
     },
     {
-      "pnu": "1132010700107000070",
+      "pnu": "1132010700107000076",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-70",
-      "road_addr": "서울 도봉구 노해로 267-10",
+      "jibun_addr": "서울 도봉구 창동 700-76",
+      "road_addr": "서울 도봉구 노해로61길 3-13",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "lat": 37.65199896,
-      "lng": 127.03817466
-    },
-    {
-      "pnu": "1132010700107000017",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "한신스마트빌",
-      "jibun_addr": "서울 도봉구 창동 700-17",
-      "road_addr": "서울 도봉구 도봉로126길 16",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 7,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65273853,
-      "lng": 127.03829478
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65232135,
+      "lng": 127.03763985
     },
     {
       "pnu": "1132010700107000105",
@@ -1665,98 +1641,48 @@
       "catv_digital_cnt": 6,
       "catv_internet_cnt": 3,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.6525861,
       "lng": 127.03849978
-    },
-    {
-      "pnu": "1132010700107000044",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-44",
-      "road_addr": "서울 도봉구 노해로61길 9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65199688,
-      "lng": 127.03764186
-    },
-    {
-      "pnu": "1132010700107000025",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-25",
-      "road_addr": "서울 도봉구 노해로61길 3-15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65239368,
-      "lng": 127.03769608
-    },
-    {
-      "pnu": "1132010700107000115",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "풀내음파크빌",
-      "jibun_addr": "서울 도봉구 창동 700-115",
-      "road_addr": "서울 도봉구 노해로61길 26",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65252199,
-      "lng": 127.03823944
-    },
-    {
-      "pnu": "1132010700107000069",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-69",
-      "road_addr": "서울 도봉구 노해로 267-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65208936,
-      "lng": 127.03824212
-    },
-    {
-      "pnu": "1132010700107000012",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-12",
-      "road_addr": "서울 도봉구 노해로 269-22",
-      "avail_gen_cnt": 9,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65203825,
-      "lng": 127.03900198
     },
     {
       "pnu": "1132010700106910007",
@@ -1773,26 +1699,48 @@
       "catv_digital_cnt": 3,
       "catv_internet_cnt": 3,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.6520231,
       "lng": 127.03973894
-    },
-    {
-      "pnu": "1132010700107000067",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-67",
-      "road_addr": "서울 도봉구 노해로 267-18",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65236042,
-      "lng": 127.03841049
     },
     {
       "pnu": "1132010700107000049",
@@ -1809,44 +1757,74 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)_S",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
       "lat": 37.65238684,
       "lng": 127.03825161
     },
     {
-      "pnu": "1132010700106980010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "선덕그랑빌",
-      "jibun_addr": "서울 도봉구 창동 698-10",
-      "road_addr": "서울 도봉구 도봉로126길 27",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 9,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 4,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65260617,
-      "lng": 127.03902114
-    },
-    {
-      "pnu": "1132010700107000106",
+      "pnu": "1132010700107000069",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-106",
-      "road_addr": "서울 도봉구 노해로 267-8",
+      "jibun_addr": "서울 도봉구 창동 700-69",
+      "road_addr": "서울 도봉구 노해로 267-12",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
+      "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.6518996,
-      "lng": 127.03811859
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65208936,
+      "lng": 127.03824212
+    },
+    {
+      "pnu": "1132010700107000044",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-44",
+      "road_addr": "서울 도봉구 노해로61길 9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IPTV)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65199688,
+      "lng": 127.03764186
     },
     {
       "pnu": "1132010700107000127",
@@ -1863,6 +1841,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
       "lat": 37.65220133,
       "lng": 127.03921636
     },
@@ -1881,62 +1875,240 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
       "lat": 37.6522417,
       "lng": 127.03801445
     },
     {
-      "pnu": "1132010700106910017",
+      "pnu": "1132010700107000067",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "금성빌라",
-      "jibun_addr": "서울 도봉구 창동 691-17",
-      "road_addr": "서울 도봉구 노해로 279-18",
-      "avail_gen_cnt": 8,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-67",
+      "road_addr": "서울 도봉구 노해로 267-18",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65236042,
+      "lng": 127.03841049
+    },
+    {
+      "pnu": "1132010700107000025",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-25",
+      "road_addr": "서울 도봉구 노해로61길 3-15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65239368,
+      "lng": 127.03769608
+    },
+    {
+      "pnu": "1132010700107000115",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "풀내음파크빌",
+      "jibun_addr": "서울 도봉구 창동 700-115",
+      "road_addr": "서울 도봉구 노해로61길 26",
+      "avail_gen_cnt": 12,
       "int_scrbr_cnt": 3,
       "tv_scrbr_cnt": 4,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65252199,
+      "lng": 127.03823944
+    },
+    {
+      "pnu": "1132010700107000093",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "세종빌라",
+      "jibun_addr": "서울 도봉구 창동 700-93",
+      "road_addr": "서울 도봉구 노해로61길 23",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 11,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.65253882,
+      "lng": 127.03793325
+    },
+    {
+      "pnu": "1132010700106910005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "다보맨션",
+      "jibun_addr": "서울 도봉구 창동 691-5",
+      "road_addr": "서울 도봉구 노해로 279-42",
+      "avail_gen_cnt": 18,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 1,
-      "lat": 37.65210471,
-      "lng": 127.03986313
-    },
-    {
-      "pnu": "1132010700106980011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "선덕그랑빌",
-      "jibun_addr": "서울 도봉구 창동 698-11",
-      "road_addr": "서울 도봉구 도봉로126길 31",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65255271,
-      "lng": 127.03918018
-    },
-    {
-      "pnu": "1132010700106910020",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "금성빌라",
-      "jibun_addr": "서울 도봉구 창동 691-20",
-      "road_addr": "서울 도봉구 노해로 279-24",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.65212362,
-      "lng": 127.04008975
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65226526,
+      "lng": 127.03943136
     },
     {
       "pnu": "1132010700107000095",
@@ -1953,17 +2125,120 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65246596,
       "lng": 127.03774098
     },
     {
-      "pnu": "1132010700107000042",
+      "pnu": "1132010700107000113",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동일양행",
+      "jibun_addr": "서울 도봉구 창동 700-113",
+      "road_addr": "서울 도봉구 노해로61길 25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65263841,
+      "lng": 127.038046
+    },
+    {
+      "pnu": "1132010700106910015",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "서울 도봉구 창동 700-42",
-      "road_addr": "서울 도봉구 노해로61길 5",
+      "jibun_addr": "서울 도봉구 창동 691-15",
+      "road_addr": "서울 도봉구 노해로 279-30",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65225731,
+      "lng": 127.03970348
+    },
+    {
+      "pnu": "1132010700107000065",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-65",
+      "road_addr": "서울 도봉구 노해로 269-11",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1971,8 +2246,1572 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.65188841,
-      "lng": 127.03756318
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65210796,
+      "lng": 127.03838938
+    },
+    {
+      "pnu": "1132010700107000052",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "석정빌라",
+      "jibun_addr": "서울 도봉구 창동 700-52",
+      "road_addr": "서울 도봉구 노해로61길 16",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65207933,
+      "lng": 127.03798144
+    },
+    {
+      "pnu": "1132010700106910019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "금성빌라",
+      "jibun_addr": "서울 도봉구 창동 691-19",
+      "road_addr": "서울 도봉구 노해로 279-22",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.6520064,
+      "lng": 127.04007913
+    },
+    {
+      "pnu": "1132010700106910002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "금성빌라",
+      "jibun_addr": "서울 도봉구 창동 691-2",
+      "road_addr": "서울 도봉구 도봉로126길 42",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 5,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.65239273,
+      "lng": 127.03975933
+    },
+    {
+      "pnu": "1132010700107000124",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "아원빌라",
+      "jibun_addr": "서울 도봉구 창동 700-124",
+      "road_addr": "서울 도봉구 도봉로126길 24",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65252346,
+      "lng": 127.03861354
+    },
+    {
+      "pnu": "1132010700107000096",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "태영그린빌",
+      "jibun_addr": "서울 도봉구 창동 700-96",
+      "road_addr": "서울 도봉구 노해로61길 21",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65241233,
+      "lng": 127.03785468
+    },
+    {
+      "pnu": "1132010700107030000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "세주섬유",
+      "jibun_addr": "서울 도봉구 창동 703",
+      "road_addr": "서울 도봉구 도봉로126길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65304382,
+      "lng": 127.03799814
+    },
+    {
+      "pnu": "1132010700106980009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "선덕그랑빌",
+      "jibun_addr": "서울 도봉구 창동 698-9",
+      "road_addr": "서울 도봉구 도봉로126길 33",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65250818,
+      "lng": 127.03931649
+    },
+    {
+      "pnu": "1132010700107000086",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-86",
+      "road_addr": "서울 도봉구 노해로 269-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65203644,
+      "lng": 127.03853719
+    },
+    {
+      "pnu": "1132010700107000098",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "선덕그랑빌",
+      "jibun_addr": "서울 도봉구 창동 700-98",
+      "road_addr": "서울 도봉구 도봉로126길 32",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 1
+        }
+      ],
+      "lat": 37.65233604,
+      "lng": 127.03909083
+    },
+    {
+      "pnu": "1132010700107000013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "나은주택",
+      "jibun_addr": "서울 도봉구 창동 700-13",
+      "road_addr": "서울 도봉구 노해로 269-36",
+      "avail_gen_cnt": 17,
+      "int_scrbr_cnt": 14,
+      "tv_scrbr_cnt": 23,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 7,
+      "catv_internet_cnt": 3,
+      "catv_8vsb_cnt": 3,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 5
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 6
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 10
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 7
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65223597,
+      "lng": 127.03885338
+    },
+    {
+      "pnu": "1132010700107000012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-12",
+      "road_addr": "서울 도봉구 노해로 269-22",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65203825,
+      "lng": 127.03900198
+    },
+    {
+      "pnu": "1132010700106980010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "선덕그랑빌",
+      "jibun_addr": "서울 도봉구 창동 698-10",
+      "road_addr": "서울 도봉구 도봉로126길 27",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65260617,
+      "lng": 127.03902114
+    },
+    {
+      "pnu": "1132010700107000106",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-106",
+      "road_addr": "서울 도봉구 노해로 267-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.6518996,
+      "lng": 127.03811859
+    },
+    {
+      "pnu": "1132010700107000070",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-70",
+      "road_addr": "서울 도봉구 노해로 267-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.65199896,
+      "lng": 127.03817466
+    },
+    {
+      "pnu": "1132010700106910003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 691-3",
+      "road_addr": "서울 도봉구 노해로 281",
+      "avail_gen_cnt": 28,
+      "int_scrbr_cnt": 11,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 6
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 4
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.651869,
+      "lng": 127.03951316
+    },
+    {
+      "pnu": "1132010700107000001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우신빌라",
+      "jibun_addr": "서울 도봉구 창동 700-1",
+      "road_addr": "서울 도봉구 도봉로126길 17",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.6528295,
+      "lng": 127.03850961
+    },
+    {
+      "pnu": "1132010700107000108",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-108",
+      "road_addr": "서울 도봉구 노해로 269",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65167387,
+      "lng": 127.03801797
+    },
+    {
+      "pnu": "1132010700107000024",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-24",
+      "road_addr": "서울 도봉구 노해로61길 21-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65264662,
+      "lng": 127.03784189
+    },
+    {
+      "pnu": "1132010700107000122",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "하나맨션",
+      "jibun_addr": "서울 도봉구 창동 700-122",
+      "road_addr": "서울 도봉구 도봉로126길 21",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65275829,
+      "lng": 127.03873678
+    },
+    {
+      "pnu": "1132010700107000041",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-41",
+      "road_addr": "서울 도봉구 노해로61길 3-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65192384,
+      "lng": 127.03740425
+    },
+    {
+      "pnu": "1132010700107000050",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-50",
+      "road_addr": "서울 도봉구 노해로 267-15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65230546,
+      "lng": 127.0381841
+    },
+    {
+      "pnu": "1132010700107000006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "유성빌라",
+      "jibun_addr": "서울 도봉구 창동 700-6",
+      "road_addr": "서울 도봉구 도봉로126길 28",
+      "avail_gen_cnt": 14,
+      "int_scrbr_cnt": 8,
+      "tv_scrbr_cnt": 13,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(자급 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 8
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65247923,
+      "lng": 127.0388292
+    },
+    {
+      "pnu": "1132010700107000043",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-43",
+      "road_addr": "서울 도봉구 노해로61길 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65191554,
+      "lng": 127.03758568
+    },
+    {
+      "pnu": "1132010700107000063",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-63",
+      "road_addr": "서울 도봉구 노해로61길 22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65246751,
+      "lng": 127.03813775
+    },
+    {
+      "pnu": "1132010700106910024",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "금성빌라",
+      "jibun_addr": "서울 도봉구 창동 691-24",
+      "road_addr": "서울 도봉구 노해로 279-12",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        }
+      ],
+      "lat": 37.65200464,
+      "lng": 127.03962569
+    },
+    {
+      "pnu": "1132010700107000074",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-74",
+      "road_addr": "서울 도봉구 노해로61길 19",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65237627,
+      "lng": 127.0378549
+    },
+    {
+      "pnu": "1132010700107000021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "쌍용자동차",
+      "jibun_addr": "서울 도봉구 창동 700-21",
+      "road_addr": "서울 도봉구 노해로 269-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65169247,
+      "lng": 127.03816522
+    },
+    {
+      "pnu": "1132010700107000091",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-91",
+      "road_addr": "서울 도봉구 노해로 269-23",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.6524688,
+      "lng": 127.0384665
+    },
+    {
+      "pnu": "1132010700107000010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼보카인테리어",
+      "jibun_addr": "서울 도봉구 창동 700-10",
+      "road_addr": "서울 도봉구 노해로 271",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65176578,
+      "lng": 127.03847085
+    },
+    {
+      "pnu": "1132010700107000007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "창5동주민센터",
+      "jibun_addr": "서울 도봉구 창동 700-7",
+      "road_addr": "서울 도봉구 노해로 279-5",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 10,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 10,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가",
+          "count": 2
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 3
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65205708,
+      "lng": 127.03920592
+    },
+    {
+      "pnu": "1132010700107000048",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-48",
+      "road_addr": "서울 도봉구 노해로 267-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65215268,
+      "lng": 127.03829841
+    },
+    {
+      "pnu": "1132010700106980001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "선덕그랑빌",
+      "jibun_addr": "서울 도봉구 창동 698-1",
+      "road_addr": "서울 도봉구 도봉로126길 25",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65266869,
+      "lng": 127.03887338
+    },
+    {
+      "pnu": "1132010700107000121",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우신",
+      "jibun_addr": "서울 도봉구 창동 700-121",
+      "road_addr": "서울 도봉구 도봉로126길 19",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65277582,
+      "lng": 127.03861197
+    },
+    {
+      "pnu": "1132010700107000008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우진빌딩",
+      "jibun_addr": "서울 도봉구 창동 700-8",
+      "road_addr": "서울 도봉구 노해로 277",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65187593,
+      "lng": 127.03898031
+    },
+    {
+      "pnu": "1132010700107000092",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-92",
+      "road_addr": "서울 도봉구 노해로 267-19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65250459,
+      "lng": 127.03839826
+    },
+    {
+      "pnu": "1132010700107000047",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-47",
+      "road_addr": "서울 도봉구 노해로61길 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65222278,
+      "lng": 127.03778784
+    },
+    {
+      "pnu": "1132010700107000017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한신스마트빌",
+      "jibun_addr": "서울 도봉구 창동 700-17",
+      "road_addr": "서울 도봉구 도봉로126길 16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.65273853,
+      "lng": 127.03829478
+    },
+    {
+      "pnu": "1132010700106910010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 691-10",
+      "road_addr": "서울 도봉구 노해로 285",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65185283,
+      "lng": 127.03998939
+    },
+    {
+      "pnu": "1132010700107000062",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 도봉구 창동 700-62",
+      "road_addr": "서울 도봉구 노해로61길 20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65237716,
+      "lng": 127.03808163
+    },
+    {
+      "pnu": "1132010700106910013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "금성빌라",
+      "jibun_addr": "서울 도봉구 창동 691-13",
+      "road_addr": "서울 도봉구 노해로 279-32",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.65221176,
+      "lng": 127.03957906
+    },
+    {
+      "pnu": "1132010700106910017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "금성빌라",
+      "jibun_addr": "서울 도봉구 창동 691-17",
+      "road_addr": "서울 도봉구 노해로 279-18",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65210471,
+      "lng": 127.03986313
+    },
+    {
+      "pnu": "1132010700106910016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "금성빌라",
+      "jibun_addr": "서울 도봉구 창동 691-16",
+      "road_addr": "서울 도봉구 노해로 279-26",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65233927,
+      "lng": 127.03991837
     },
     {
       "pnu": "1132010700103080000",
@@ -1989,6 +3828,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTVon기업 UHD2)",
+          "count": 1
+        }
+      ],
       "lat": 37.65232381,
       "lng": 127.04057598
     },
@@ -2007,6 +3853,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65137354,
       "lng": 127.03958424
     },
@@ -2025,6 +3873,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65117521,
       "lng": 127.03727286
     },
@@ -2043,6 +3893,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65117628,
       "lng": 127.03754492
     },
@@ -2061,6 +3923,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.65213646,
       "lng": 127.03646201
     },
@@ -2079,6 +3948,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65196472,
       "lng": 127.03633838
     },
@@ -2097,6 +3968,18 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
       "lat": 37.65113077,
       "lng": 127.03743184
     },
@@ -2115,6 +3998,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65303072,
       "lng": 127.03695526
     },
@@ -2133,6 +4018,26 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
       "lat": 37.6511032,
       "lng": 127.03729598
     },
@@ -2151,6 +4056,13 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.65242533,
       "lng": 127.03657358
     },
@@ -2169,6 +4081,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65125615,
       "lng": 127.03952828
     },
@@ -2187,6 +4101,22 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
       "lat": 37.65162133,
       "lng": 127.03611378
     },
@@ -2205,6 +4135,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65228067,
       "lng": 127.03646111
     },
@@ -2223,6 +4155,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65271415,
       "lng": 127.03667381
     },
@@ -2241,6 +4175,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65338277,
       "lng": 127.03708911
     },
@@ -2259,6 +4195,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
       "lat": 37.65223511,
       "lng": 127.03633669
     },
@@ -2277,6 +4225,17 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
       "lat": 37.65102266,
       "lng": 127.03744385
     },
@@ -2295,6 +4254,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65103225,
       "lng": 127.03759116
     },
@@ -2313,6 +4284,34 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65099504,
       "lng": 127.03729665
     },
@@ -2331,6 +4330,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65287647,
       "lng": 127.03669548
     },
@@ -2349,6 +4350,34 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 6
+        },
+        {
+          "method": "광랜E",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65096569,
       "lng": 127.03670735
     },
@@ -2367,6 +4396,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.65182832,
       "lng": 127.03603314
     },
@@ -2385,6 +4421,26 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65173801,
       "lng": 127.03598836
     },
@@ -2403,6 +4459,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65166582,
       "lng": 127.03596613
     },
@@ -2421,6 +4489,18 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 2,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
       "lat": 37.65296669,
       "lng": 127.03671759
     },
@@ -2439,6 +4519,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65362657,
       "lng": 127.03720096
     },
@@ -2457,6 +4539,18 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
       "lat": 37.65314722,
       "lng": 127.03678449
     },
@@ -2475,6 +4569,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.6509236,
       "lng": 127.03746714
     },
@@ -2493,6 +4599,18 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.65249654,
       "lng": 127.03634641
     },
@@ -2511,6 +4629,18 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.65277662,
       "lng": 127.03651471
     },
@@ -2529,6 +4659,26 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65090495,
       "lng": 127.03730855
     },
@@ -2547,6 +4697,30 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65092405,
       "lng": 127.0375805
     },
@@ -2565,6 +4739,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.65199948,
       "lng": 127.0360094
     },
@@ -2583,6 +4769,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65220727,
       "lng": 127.03613281
     },
@@ -2601,6 +4789,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65211692,
       "lng": 127.03607669
     },
@@ -2619,6 +4809,22 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.65086837,
       "lng": 127.03717274
     },
@@ -2637,6 +4843,18 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
       "lat": 37.65298427,
       "lng": 127.03660411
     },
@@ -2655,6 +4873,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65258672,
       "lng": 127.03635718
     },
@@ -2673,6 +4903,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65229758,
       "lng": 127.0361776
     },
@@ -2691,6 +4923,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65084799,
       "lng": 127.03676088
     },
@@ -2709,6 +4943,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65285769,
       "lng": 127.03650287
     },
@@ -2727,6 +4973,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
       "lat": 37.65319198,
       "lng": 127.03670485
     },
@@ -2745,6 +5007,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65305642,
       "lng": 127.036615
     },
@@ -2763,6 +5027,18 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.65238771,
       "lng": 127.03617703
     },
@@ -2781,6 +5057,18 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
       "lat": 37.65152094,
       "lng": 127.03579699
     },
@@ -2799,6 +5087,166 @@
       "catv_digital_cnt": 130,
       "catv_internet_cnt": 47,
       "catv_8vsb_cnt": 52,
+      "int_tech": [
+        {
+          "method": "광랜E(500)",
+          "count": 163
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 35
+        },
+        {
+          "method": "광랜E",
+          "count": 123
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 4
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 4
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 6
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 8
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 10
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 157
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 39
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 15
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 8
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 31
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 12
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 9
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 21
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 7
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 12
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 81
+        },
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 7
+        },
+        {
+          "method": "Btv(단독IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 2
+        }
+      ],
       "lat": 37.65343697,
       "lng": 127.03942412
     },
@@ -2817,6 +5265,30 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.65084293,
       "lng": 127.037581
     },
@@ -2835,6 +5307,66 @@
       "catv_digital_cnt": 9,
       "catv_internet_cnt": 4,
       "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 4
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 5
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 6
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
       "lat": 37.65330919,
       "lng": 127.03671546
     },
@@ -2853,6 +5385,18 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.65348986,
       "lng": 127.03681637
     },
@@ -2871,6 +5415,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.65204414,
       "lng": 127.0359071
     },
@@ -2889,6 +5445,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.6530009,
       "lng": 127.04085522
     },
@@ -2907,6 +5465,26 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65214351,
       "lng": 127.03596316
     },
@@ -2925,6 +5503,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.65078783,
       "lng": 127.03732061
     },
@@ -2943,6 +5528,21 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65232418,
       "lng": 127.03606407
     },
@@ -2961,6 +5561,42 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 3
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 8
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 7
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65192662,
       "lng": 127.03581714
     },
@@ -2979,6 +5615,30 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        }
+      ],
       "lat": 37.65318252,
       "lng": 127.03659154
     },
@@ -2997,6 +5657,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65262232,
       "lng": 127.03624359
     },
@@ -3015,6 +5677,22 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 2
+        }
+      ],
       "lat": 37.65222476,
       "lng": 127.03599666
     },
@@ -3033,6 +5711,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.6527759,
       "lng": 127.03633333
     },
@@ -3051,6 +5731,26 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.65289334,
       "lng": 127.03640062
     },
@@ -3069,6 +5769,18 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.65253192,
       "lng": 127.03617614
     },
@@ -3087,6 +5799,34 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 2,
       "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
       "lat": 37.6507793,
       "lng": 127.03744536
     },
@@ -3105,6 +5845,30 @@
       "catv_digital_cnt": 3,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
       "lat": 37.6507412,
       "lng": 127.03692413
     },
@@ -3123,6 +5887,22 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65308306,
       "lng": 127.03651281
     },
@@ -3141,6 +5921,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65299271,
       "lng": 127.03645669
     },
@@ -3159,6 +5941,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65323391,
       "lng": 127.04051369
     },
@@ -3177,6 +5961,42 @@
       "catv_digital_cnt": 3,
       "catv_internet_cnt": 2,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
       "lat": 37.65074169,
       "lng": 127.03704882
     },
@@ -3195,6 +6015,26 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.65075124,
       "lng": 127.0371848
     },
@@ -3213,6 +6053,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65170977,
       "lng": 127.03568245
     },
@@ -3231,6 +6073,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65073486,
       "lng": 127.03760434
     },
@@ -3249,6 +6093,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65071279,
       "lng": 127.03657288
     },
@@ -3267,6 +6113,46 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
       "lat": 37.65366115,
       "lng": 127.03682664
     },
@@ -3285,6 +6171,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65079276,
       "lng": 127.0385789
     },
@@ -3303,6 +6191,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65150215,
       "lng": 127.03560439
     },
@@ -3321,6 +6211,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.65065911,
       "lng": 127.03667524
     }

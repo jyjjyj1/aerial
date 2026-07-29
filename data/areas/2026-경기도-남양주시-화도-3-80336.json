@@ -95,68 +95,14 @@
   },
   "buildings": [
     {
-      "pnu": "4136025622104590000",
+      "pnu": "4136025622105800000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 459",
-      "road_addr": "경기 남양주시 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65686644,
-      "lng": 127.2728244
-    },
-    {
-      "pnu": "4136025622105700020",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-20",
-      "road_addr": "경기 남양주시 먹갓로서길 29-18",
-      "avail_gen_cnt": 5,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.65934294,
-      "lng": 127.27169443
-    },
-    {
-      "pnu": "4136025622105750031",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "뜨래빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-31",
-      "road_addr": "경기 남양주시 먹갓로37번길 16-23",
-      "avail_gen_cnt": 3,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-4",
+      "avail_gen_cnt": 12,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
@@ -165,190 +111,18 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜PBOX(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65809936,
-      "lng": 127.27183429
-    },
-    {
-      "pnu": "4136025622105840037",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "하이원빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-37",
-      "road_addr": "경기 남양주시 먹갓로서길 3-34",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
           "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
-      "lat": 37.65655788,
-      "lng": 127.27173697
-    },
-    {
-      "pnu": "4136025622104590001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 459-1",
-      "road_addr": "경기 남양주시 먹갓로37번길 15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65720833,
-      "lng": 127.27250591
-    },
-    {
-      "pnu": "4136025622105840031",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "이와빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-31",
-      "road_addr": "경기 남양주시 먹갓로서길 3-38",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 7,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 4
-        },
-        {
-          "method": "광랜E",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 7
-        }
-      ],
-      "lat": 37.65643999,
-      "lng": 127.2713632
-    },
-    {
-      "pnu": "4136025622104640003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 464-3",
-      "road_addr": "경기 남양주시 먹갓로서길 17-8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65792063,
-      "lng": 127.27262845
-    },
-    {
-      "pnu": "4136025622105840018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "천마주택",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-18",
-      "road_addr": "경기 남양주시 먹갓로37번길 17-2",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         }
       ],
-      "lat": 37.65696405,
-      "lng": 127.27203049
-    },
-    {
-      "pnu": "4136025622105720009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "넥스빌라",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 572-9",
-      "road_addr": "경기 남양주시 먹갓로서길 31-12",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
+          "count": 1
         }
       ],
-      "lat": 37.65954246,
-      "lng": 127.27232873
+      "lat": 37.657619,
+      "lng": 127.27046394
     },
     {
       "pnu": "4136025622105800000",
@@ -357,7 +131,7 @@
       "distance_meter": 0.0,
       "bld_nm": "두봉아파트",
       "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-11",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-19",
       "avail_gen_cnt": 12,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
@@ -377,8 +151,8 @@
           "count": 1
         }
       ],
-      "lat": 37.65755539,
-      "lng": 127.27020338
+      "lat": 37.65759098,
+      "lng": 127.26996518
     },
     {
       "pnu": "4136025622105800000",
@@ -387,7 +161,7 @@
       "distance_meter": 0.0,
       "bld_nm": "두봉아파트",
       "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-11",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-19",
       "avail_gen_cnt": 12,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
@@ -407,101 +181,8 @@
           "count": 1
         }
       ],
-      "lat": 37.65755539,
-      "lng": 127.27020338
-    },
-    {
-      "pnu": "4136025622105750016",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "뜨래빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-16",
-      "road_addr": "경기 남양주시 먹갓로37번길 16-43",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.65880126,
-      "lng": 127.27124259
-    },
-    {
-      "pnu": "4136025622105720017",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "세륜빌리지",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 572-17",
-      "road_addr": "경기 남양주시 먹갓로서길 29-11",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.65879447,
-      "lng": 127.2723877
-    },
-    {
-      "pnu": "4136025622104630004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 463-4",
-      "road_addr": "경기 남양주시 먹갓로37번길 14-3",
-      "avail_gen_cnt": 9,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65747014,
-      "lng": 127.27272052
+      "lat": 37.65759098,
+      "lng": 127.26996518
     },
     {
       "pnu": "4136025622105800000",
@@ -510,7 +191,7 @@
       "distance_meter": 0.0,
       "bld_nm": "두봉아파트",
       "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-11",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-19",
       "avail_gen_cnt": 12,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
@@ -530,668 +211,8 @@
           "count": 1
         }
       ],
-      "lat": 37.65755539,
-      "lng": 127.27020338
-    },
-    {
-      "pnu": "4136025622105680000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "주산주택",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 568",
-      "road_addr": "경기 남양주시 먹갓로서길 31-23",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65978455,
-      "lng": 127.2716704
-    },
-    {
-      "pnu": "4136025622105700014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "세륜빌리지",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-14",
-      "road_addr": "경기 남양주시 먹갓로서길 29-19",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
-      "lat": 37.6590639,
-      "lng": 127.27188802
-    },
-    {
-      "pnu": "4136025622105720002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "세륜빌리지",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 572-2",
-      "road_addr": "경기 남양주시 먹갓로서길 29-10",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.6592902,
-      "lng": 127.27238618
-    },
-    {
-      "pnu": "4136025622104340002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "예스그린빌라",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 434-2",
-      "road_addr": "경기 남양주시 먹갓로서길 19-5",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 2
-        }
-      ],
-      "lat": 37.65810081,
-      "lng": 127.27258255
-    },
-    {
-      "pnu": "4136025622105840002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "건양맨션2차",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-2",
-      "road_addr": "경기 남양주시 먹갓로서길 3-18",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.65676664,
-      "lng": 127.27248459
-    },
-    {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-11",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65755539,
-      "lng": 127.27020338
-    },
-    {
-      "pnu": "4136025622105660007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "미주빌라",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 566-7",
-      "road_addr": "경기 남양주시 먹갓로서길 31-32",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air 4)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.66008302,
-      "lng": 127.27220236
-    },
-    {
-      "pnu": "4136025622105750027",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "뜨레빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-27",
-      "road_addr": "경기 남양주시 먹갓로37번길 16-30",
-      "avail_gen_cnt": 11,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜E",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        }
-      ],
-      "lat": 37.65838816,
-      "lng": 127.27202614
-    },
-    {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-11",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65755539,
-      "lng": 127.27020338
-    },
-    {
-      "pnu": "4136025622105840020",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "천마주택",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-20",
-      "road_addr": "경기 남양주시 먹갓로37번길 17",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
-      "lat": 37.65713559,
-      "lng": 127.27217735
-    },
-    {
-      "pnu": "4136025622105720019",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "세륜빌리지",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 572-19",
-      "road_addr": "경기 남양주시 먹갓로서길 29-7",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65903776,
-      "lng": 127.27235294
-    },
-    {
-      "pnu": "4136025622105720003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성진주택",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 572-3",
-      "road_addr": "경기 남양주시 먹갓로서길 31-26",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        }
-      ],
-      "lat": 37.6598485,
-      "lng": 127.27211237
-    },
-    {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-27",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65768017,
-      "lng": 127.2694774
-    },
-    {
-      "pnu": "4136025622105750025",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "뜨래빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-25",
-      "road_addr": "경기 남양주시 먹갓로37번길 16-36",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 7,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 4
-        },
-        {
-          "method": "광랜E",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 7
-        }
-      ],
-      "lat": 37.65873951,
-      "lng": 127.27193436
-    },
-    {
-      "pnu": "4136025622105840010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "스타힐빌라",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-10",
-      "road_addr": "경기 남양주시 먹갓로37번길 19",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 2
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65727038,
-      "lng": 127.27196153
-    },
-    {
-      "pnu": "4136025622104600004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "인창주택",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 460-4",
-      "road_addr": "경기 남양주시 먹갓로서길 5-7",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65707383,
-      "lng": 127.27286911
-    },
-    {
-      "pnu": "4136025622105700018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-18",
-      "road_addr": "경기 남양주시 먹갓로서길 31-17",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.65947856,
-      "lng": 127.27190943
-    },
-    {
-      "pnu": "4136025622105750008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "뜨래빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-8",
-      "road_addr": "경기 남양주시 먹갓로37번길 16-39",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜E",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65862144,
-      "lng": 127.27146989
-    },
-    {
-      "pnu": "4136025622105720018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "세륜빌리지",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 572-18",
-      "road_addr": "경기 남양주시 먹갓로서길 29-13",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.65851507,
-      "lng": 127.27239989
+      "lat": 37.65759098,
+      "lng": 127.26996518
     },
     {
       "pnu": "4136025622105750030",
@@ -1216,7 +237,7 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
@@ -1224,7 +245,7 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -1232,85 +253,13 @@
       "lng": 127.27226461
     },
     {
-      "pnu": "4136025622105730003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "세원빌라",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 573-3",
-      "road_addr": "경기 남양주시 먹갓로서길 19-13",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65862367,
-      "lng": 127.27262631
-    },
-    {
-      "pnu": "4136025622105680001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "주산주택",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 568-1",
-      "road_addr": "경기 남양주시 먹갓로서길 31-21",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_B tv air 4)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65953198,
-      "lng": 127.27156914
-    },
-    {
       "pnu": "4136025622105800000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "두봉아파트",
       "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-19",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-11",
       "avail_gen_cnt": 12,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
@@ -1330,128 +279,8 @@
           "count": 1
         }
       ],
-      "lat": 37.65759098,
-      "lng": 127.26996518
-    },
-    {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-19",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65759098,
-      "lng": 127.26996518
-    },
-    {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-19",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65759098,
-      "lng": 127.26996518
-    },
-    {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-19",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65759098,
-      "lng": 127.26996518
-    },
-    {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-19",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65759098,
-      "lng": 127.26996518
+      "lat": 37.65755539,
+      "lng": 127.27020338
     },
     {
       "pnu": "4136025622105660006",
@@ -1484,436 +313,72 @@
       "lng": 127.27213362
     },
     {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-23",
-      "avail_gen_cnt": 40,
-      "int_scrbr_cnt": 7,
-      "tv_scrbr_cnt": 10,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 5
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 6
-        },
-        {
-          "method": "Btv(IPTV_B tv air 4)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65762655,
-      "lng": 127.26971565
-    },
-    {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-23",
-      "avail_gen_cnt": 40,
-      "int_scrbr_cnt": 7,
-      "tv_scrbr_cnt": 10,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 5
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 6
-        },
-        {
-          "method": "Btv(IPTV_B tv air 4)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65762655,
-      "lng": 127.26971565
-    },
-    {
-      "pnu": "4136025622105840041",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "하이원빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-41",
-      "road_addr": "경기 남양주시 먹갓로서길 3-22",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.656604,
-      "lng": 127.27228101
-    },
-    {
-      "pnu": "4136025622105700006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-6",
-      "road_addr": "경기 남양주시 먹갓로서길 31-19",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65948725,
-      "lng": 127.27173934
-    },
-    {
-      "pnu": "4136025622104640005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 464-5",
-      "road_addr": "경기 남양주시 먹갓로서길 17-14",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(단독IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65764089,
-      "lng": 127.27245924
-    },
-    {
-      "pnu": "4136025622105750019",
+      "pnu": "4136025622105750017",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "뜨래빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-19",
-      "road_addr": "경기 남양주시 먹갓로37번길 16-35",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-17",
+      "road_addr": "경기 남양주시 먹갓로37번길 16-44",
       "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65846852,
-      "lng": 127.27162908
-    },
-    {
-      "pnu": "4136025622105840040",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "하이원빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-40",
-      "road_addr": "경기 남양주시 먹갓로서길 3-28",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 9,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 5
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 9
-        }
-      ],
-      "lat": 37.65663065,
-      "lng": 127.27207686
-    },
-    {
-      "pnu": "4136025622105750029",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "뜨래빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-29",
-      "road_addr": "경기 남양주시 먹갓로37번길 16-24",
-      "avail_gen_cnt": 8,
       "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 6,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        },
         {
           "method": "광랜E",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.65818101,
-      "lng": 127.27210613
-    },
-    {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-23",
-      "avail_gen_cnt": 40,
-      "int_scrbr_cnt": 7,
-      "tv_scrbr_cnt": 10,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 5
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 6
-        },
-        {
-          "method": "Btv(IPTV_B tv air 4)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65762655,
-      "lng": 127.26971565
-    },
-    {
-      "pnu": "4136025622105750028",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "뜨레빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-28",
-      "road_addr": "경기 남양주시 먹갓로37번길 16-28",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
         {
           "method": "광랜E(GB)",
-          "count": 3
+          "count": 2
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
+          "count": 6
         }
       ],
-      "lat": 37.65845156,
-      "lng": 127.27218467
+      "lat": 37.65900006,
+      "lng": 127.27150274
     },
     {
-      "pnu": "4136025622105800000",
+      "pnu": "4136025622105750008",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-23",
-      "avail_gen_cnt": 40,
-      "int_scrbr_cnt": 7,
-      "tv_scrbr_cnt": 10,
+      "bld_nm": "뜨래빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-8",
+      "road_addr": "경기 남양주시 먹갓로37번길 16-39",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
-          "count": 2
+          "method": "광랜E",
+          "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
-          "count": 5
+          "method": "광랜E(GB)",
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 3
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 6
-        },
-        {
-          "method": "Btv(IPTV_B tv air 4)",
           "count": 1
         }
       ],
-      "lat": 37.65762655,
-      "lng": 127.26971565
-    },
-    {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-23",
-      "avail_gen_cnt": 40,
-      "int_scrbr_cnt": 7,
-      "tv_scrbr_cnt": 10,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 5
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 6
-        },
-        {
-          "method": "Btv(IPTV_B tv air 4)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65762655,
-      "lng": 127.26971565
+      "lat": 37.65862144,
+      "lng": 127.27146989
     },
     {
       "pnu": "4136025622105720014",
@@ -1946,96 +411,16 @@
       "lng": 127.2721479
     },
     {
-      "pnu": "4136025622104340003",
+      "pnu": "4136025622105800000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "금강빌리지",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 434-3",
-      "road_addr": "경기 남양주시 먹갓로37번길 16-12",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 6,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65779396,
-      "lng": 127.27237941
-    },
-    {
-      "pnu": "4136025622105750004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "뜨레빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-4",
-      "road_addr": "경기 남양주시 먹갓로37번길 16-27",
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-11",
       "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 1
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
-      "lat": 37.65824342,
-      "lng": 127.27175448
-    },
-    {
-      "pnu": "4136025622104630003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 463-3",
-      "road_addr": "경기 남양주시 먹갓로37번길 14-5",
-      "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -2048,112 +433,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.65756933,
-      "lng": 127.27274289
-    },
-    {
-      "pnu": "4136025622105700023",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "미주빌라",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-23",
-      "road_addr": "경기 남양주시 먹갓로서길 31-33",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.66020858,
-      "lng": 127.27187318
-    },
-    {
-      "pnu": "4136025622105840048",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "스타힐",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-48",
-      "road_addr": "경기 남양주시 먹갓로37번길 21",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜E",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        }
-      ],
-      "lat": 37.65711693,
-      "lng": 127.27184863
-    },
-    {
-      "pnu": "4136025622104640004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 464-4",
-      "road_addr": "경기 남양주시 먹갓로서길 17-12",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65775819,
-      "lng": 127.27252691
+      "lat": 37.65755539,
+      "lng": 127.27020338
     },
     {
       "pnu": "4136025622104600001",
@@ -2190,76 +475,126 @@
       "lng": 127.27278923
     },
     {
-      "pnu": "4136025622104590003",
+      "pnu": "4136025622105800000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 459-3",
-      "road_addr": "경기 남양주시 먹갓로서길 3-12",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65692028,
-      "lng": 127.27269952
-    },
-    {
-      "pnu": "4136025622105750002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-2",
-      "road_addr": "경기 남양주시 먹갓로37번길 16-16",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65802798,
-      "lng": 127.27220864
-    },
-    {
-      "pnu": "4136025622105700007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "세륜빌리지",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-7",
-      "road_addr": "경기 남양주시 먹갓로서길 29-21",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65913561,
-      "lng": 127.27168373
-    },
-    {
-      "pnu": "4136025622105840029",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-29",
-      "road_addr": "경기 남양주시 먹갓로서길 3-42",
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-11",
       "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65755539,
+      "lng": 127.27020338
+    },
+    {
+      "pnu": "4136025622105700018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-18",
+      "road_addr": "경기 남양주시 먹갓로서길 31-17",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65947856,
+      "lng": 127.27190943
+    },
+    {
+      "pnu": "4136025622104340002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "예스그린빌라",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 434-2",
+      "road_addr": "경기 남양주시 먹갓로서길 19-5",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65810081,
+      "lng": 127.27258255
+    },
+    {
+      "pnu": "4136025622105750025",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "뜨래빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-25",
+      "road_addr": "경기 남양주시 먹갓로37번길 16-36",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 7,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -2271,67 +606,17 @@
         },
         {
           "method": "광랜E",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_B tv air)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
-      "lat": 37.65692701,
-      "lng": 127.27152043
-    },
-    {
-      "pnu": "4136025622105750024",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "뜨래빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-24",
-      "road_addr": "경기 남양주시 먹갓로37번길 16-40",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 1
-        },
-        {
-          "method": "광랜E(GB)",
           "count": 1
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(판매 Apple tv 3세대 STB)",
-          "count": 1
+          "count": 7
         }
       ],
-      "lat": 37.65879322,
-      "lng": 127.27174146
+      "lat": 37.65873951,
+      "lng": 127.27193436
     },
     {
       "pnu": "4136025622105750026",
@@ -2364,16 +649,86 @@
       "lng": 127.27209345
     },
     {
-      "pnu": "4136025622105700012",
+      "pnu": "4136025622105800000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "명건주택",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-12",
-      "road_addr": "경기 남양주시 먹갓로서길 31-29",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 7,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-11",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65755539,
+      "lng": 127.27020338
+    },
+    {
+      "pnu": "4136025622104590001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 459-1",
+      "road_addr": "경기 남양주시 먹갓로37번길 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65720833,
+      "lng": 127.27250591
+    },
+    {
+      "pnu": "4136025622104590003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 459-3",
+      "road_addr": "경기 남양주시 먹갓로서길 3-12",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65692028,
+      "lng": 127.27269952
+    },
+    {
+      "pnu": "4136025622105800000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-23",
+      "avail_gen_cnt": 40,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 10,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -2382,108 +737,40 @@
         {
           "method": "광랜FTTH(GB)",
           "count": 5
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 7
+          "count": 6
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
         }
       ],
-      "lat": 37.66001908,
-      "lng": 127.27176038
+      "lat": 37.65762655,
+      "lng": 127.26971565
     },
     {
-      "pnu": "4136025622105800000",
+      "pnu": "4136025622104340003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-27",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65768017,
-      "lng": 127.2694774
-    },
-    {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-27",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65768017,
-      "lng": 127.2694774
-    },
-    {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-27",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65768017,
-      "lng": 127.2694774
-    },
-    {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-27",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65768017,
-      "lng": 127.2694774
-    },
-    {
-      "pnu": "4136025622105840038",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "하이원빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-38",
-      "road_addr": "경기 남양주시 먹갓로서길 3-32",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 8,
-      "tv_scrbr_cnt": 12,
+      "bld_nm": "금강빌리지",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 434-3",
+      "road_addr": "경기 남양주시 먹갓로37번길 16-12",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 6,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -2491,29 +778,49 @@
       "int_tech": [
         {
           "method": "광랜FTTH(GB)",
-          "count": 4
+          "count": 3
         },
         {
           "method": "광랜FTTH",
-          "count": 4
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air)",
+          "method": "Btv(IPTV_AI 5 STB)",
           "count": 1
         },
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 10
+          "count": 4
         },
         {
-          "method": "Btv(IPTV_smart STB)",
+          "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
         }
       ],
-      "lat": 37.6568555,
-      "lng": 127.27182676
+      "lat": 37.65779396,
+      "lng": 127.27237941
+    },
+    {
+      "pnu": "4136025622105840041",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "하이원빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-41",
+      "road_addr": "경기 남양주시 먹갓로서길 3-22",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.656604,
+      "lng": 127.27228101
     },
     {
       "pnu": "4136025622105730005",
@@ -2538,16 +845,16 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV_B tv air 3)",
           "count": 2
         },
         {
           "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
         }
       ],
       "lat": 37.65835323,
@@ -2614,46 +921,34 @@
       "lng": 127.27046394
     },
     {
-      "pnu": "4136025622105840021",
+      "pnu": "4136025622105800000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "천마주택",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-21",
-      "road_addr": "경기 남양주시 먹갓로37번길 17-1",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 9,
-      "tv_scrbr_cnt": 8,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-4",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
-          "count": 6
-        },
-        {
           "method": "광랜FTTH(GB)",
-          "count": 3
+          "count": 1
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 5
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
           "count": 1
         }
       ],
-      "lat": 37.65692859,
-      "lng": 127.27233671
+      "lat": 37.657619,
+      "lng": 127.27046394
     },
     {
       "pnu": "4136025622105800000",
@@ -2686,14 +981,14 @@
       "lng": 127.27046394
     },
     {
-      "pnu": "4136025622202000007",
+      "pnu": "4136025622105800000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 200-7",
-      "road_addr": "경기 남양주시 먹갓로서길 3-58",
-      "avail_gen_cnt": 0,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-27",
+      "avail_gen_cnt": 16,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -2702,110 +997,84 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.65619502,
-      "lng": 127.27053634
+      "lat": 37.65768017,
+      "lng": 127.2694774
     },
     {
-      "pnu": "4136025622105800000",
+      "pnu": "4136025622105840031",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-4",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
+      "bld_nm": "이와빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-31",
+      "road_addr": "경기 남양주시 먹갓로서길 3-38",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 7,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.657619,
-      "lng": 127.27046394
-    },
-    {
-      "pnu": "4136025622105800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "두봉아파트",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
-      "road_addr": "경기 남양주시 먹갓로37번길 31-4",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.657619,
-      "lng": 127.27046394
-    },
-    {
-      "pnu": "4136025622105660003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "미주빌라",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 566-3",
-      "road_addr": "경기 남양주시 먹갓로서길 31-35",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 3
+          "method": "광랜E(GB)",
+          "count": 4
         },
         {
-          "method": "광랜FTTH(GB)",
-          "count": 1
+          "method": "광랜E",
+          "count": 2
         }
       ],
       "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 7
+        }
+      ],
+      "lat": 37.65643999,
+      "lng": 127.2713632
+    },
+    {
+      "pnu": "4136025622105840038",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "하이원빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-38",
+      "road_addr": "경기 남양주시 먹갓로서길 3-32",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 8,
+      "tv_scrbr_cnt": 12,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 10
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 1
+        },
         {
           "method": "Btv(IPTV_smart STB)",
           "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
         }
       ],
-      "lat": 37.66046113,
-      "lng": 127.27196311
+      "lat": 37.6568555,
+      "lng": 127.27182676
     },
     {
       "pnu": "4136025622105720001",
@@ -2840,6 +1109,1697 @@
       ],
       "lat": 37.6597319,
       "lng": 127.27240751
+    },
+    {
+      "pnu": "4136025622105840040",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "하이원빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-40",
+      "road_addr": "경기 남양주시 먹갓로서길 3-28",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 5
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 9
+        }
+      ],
+      "lat": 37.65663065,
+      "lng": 127.27207686
+    },
+    {
+      "pnu": "4136025622105800000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-27",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65768017,
+      "lng": 127.2694774
+    },
+    {
+      "pnu": "4136025622105800000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-27",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65768017,
+      "lng": 127.2694774
+    },
+    {
+      "pnu": "4136025622105800000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-27",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65768017,
+      "lng": 127.2694774
+    },
+    {
+      "pnu": "4136025622105800000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-27",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65768017,
+      "lng": 127.2694774
+    },
+    {
+      "pnu": "4136025622104640004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 464-4",
+      "road_addr": "경기 남양주시 먹갓로서길 17-12",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65775819,
+      "lng": 127.27252691
+    },
+    {
+      "pnu": "4136025622105750031",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "뜨래빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-31",
+      "road_addr": "경기 남양주시 먹갓로37번길 16-23",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65809936,
+      "lng": 127.27183429
+    },
+    {
+      "pnu": "4136025622105840048",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "스타힐",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-48",
+      "road_addr": "경기 남양주시 먹갓로37번길 21",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 2
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.65711693,
+      "lng": 127.27184863
+    },
+    {
+      "pnu": "4136025622104630003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 463-3",
+      "road_addr": "경기 남양주시 먹갓로37번길 14-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65756933,
+      "lng": 127.27274289
+    },
+    {
+      "pnu": "4136025622105700007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "세륜빌리지",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-7",
+      "road_addr": "경기 남양주시 먹갓로서길 29-21",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65913561,
+      "lng": 127.27168373
+    },
+    {
+      "pnu": "4136025622105730003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "세원빌라",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 573-3",
+      "road_addr": "경기 남양주시 먹갓로서길 19-13",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65862367,
+      "lng": 127.27262631
+    },
+    {
+      "pnu": "4136025622105750028",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "뜨레빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-28",
+      "road_addr": "경기 남양주시 먹갓로37번길 16-28",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65845156,
+      "lng": 127.27218467
+    },
+    {
+      "pnu": "4136025622105840020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "천마주택",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-20",
+      "road_addr": "경기 남양주시 먹갓로37번길 17",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.65713559,
+      "lng": 127.27217735
+    },
+    {
+      "pnu": "4136025622105660003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "미주빌라",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 566-3",
+      "road_addr": "경기 남양주시 먹갓로서길 31-35",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.66046113,
+      "lng": 127.27196311
+    },
+    {
+      "pnu": "4136025622105700023",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "미주빌라",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-23",
+      "road_addr": "경기 남양주시 먹갓로서길 31-33",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.66020858,
+      "lng": 127.27187318
+    },
+    {
+      "pnu": "4136025622105840018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "천마주택",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-18",
+      "road_addr": "경기 남양주시 먹갓로37번길 17-2",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65696405,
+      "lng": 127.27203049
+    },
+    {
+      "pnu": "4136025622104640003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 464-3",
+      "road_addr": "경기 남양주시 먹갓로서길 17-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65792063,
+      "lng": 127.27262845
+    },
+    {
+      "pnu": "4136025622105720002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "세륜빌리지",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 572-2",
+      "road_addr": "경기 남양주시 먹갓로서길 29-10",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.6592902,
+      "lng": 127.27238618
+    },
+    {
+      "pnu": "4136025622105700005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "세륜빌리지",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-5",
+      "road_addr": "경기 남양주시 먹갓로서길 29-16",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65932531,
+      "lng": 127.27189856
+    },
+    {
+      "pnu": "4136025622105750019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "뜨래빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-19",
+      "road_addr": "경기 남양주시 먹갓로37번길 16-35",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65846852,
+      "lng": 127.27162908
+    },
+    {
+      "pnu": "4136025622105660007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "미주빌라",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 566-7",
+      "road_addr": "경기 남양주시 먹갓로서길 31-32",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.66008302,
+      "lng": 127.27220236
+    },
+    {
+      "pnu": "4136025622105940009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 594-9",
+      "road_addr": "경기 남양주시 먹갓로서길 3-72",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65625211,
+      "lng": 127.26998651
+    },
+    {
+      "pnu": "4136025622105720003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성진주택",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 572-3",
+      "road_addr": "경기 남양주시 먹갓로서길 31-26",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.6598485,
+      "lng": 127.27211237
+    },
+    {
+      "pnu": "4136025622105720017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "세륜빌리지",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 572-17",
+      "road_addr": "경기 남양주시 먹갓로서길 29-11",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65879447,
+      "lng": 127.2723877
+    },
+    {
+      "pnu": "4136025622105750027",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "뜨레빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-27",
+      "road_addr": "경기 남양주시 먹갓로37번길 16-30",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 2
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.65838816,
+      "lng": 127.27202614
+    },
+    {
+      "pnu": "4136025622105700020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-20",
+      "road_addr": "경기 남양주시 먹갓로서길 29-18",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65934294,
+      "lng": 127.27169443
+    },
+    {
+      "pnu": "4136025622104600004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "인창주택",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 460-4",
+      "road_addr": "경기 남양주시 먹갓로서길 5-7",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65707383,
+      "lng": 127.27286911
+    },
+    {
+      "pnu": "4136025622104640005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 464-5",
+      "road_addr": "경기 남양주시 먹갓로서길 17-14",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65764089,
+      "lng": 127.27245924
+    },
+    {
+      "pnu": "4136025622105700006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-6",
+      "road_addr": "경기 남양주시 먹갓로서길 31-19",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65948725,
+      "lng": 127.27173934
+    },
+    {
+      "pnu": "4136025622105680001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "주산주택",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 568-1",
+      "road_addr": "경기 남양주시 먹갓로서길 31-21",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65953198,
+      "lng": 127.27156914
+    },
+    {
+      "pnu": "4136025622105840010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "스타힐빌라",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-10",
+      "road_addr": "경기 남양주시 먹갓로37번길 19",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65727038,
+      "lng": 127.27196153
+    },
+    {
+      "pnu": "4136025622105680000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "주산주택",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 568",
+      "road_addr": "경기 남양주시 먹갓로서길 31-23",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65978455,
+      "lng": 127.2716704
+    },
+    {
+      "pnu": "4136025622105840037",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "하이원빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-37",
+      "road_addr": "경기 남양주시 먹갓로서길 3-34",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.65655788,
+      "lng": 127.27173697
+    },
+    {
+      "pnu": "4136025622104590000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 459",
+      "road_addr": "경기 남양주시 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65686644,
+      "lng": 127.2728244
+    },
+    {
+      "pnu": "4136025622105700014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "세륜빌리지",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-14",
+      "road_addr": "경기 남양주시 먹갓로서길 29-19",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.6590639,
+      "lng": 127.27188802
+    },
+    {
+      "pnu": "4136025622105750016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "뜨래빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-16",
+      "road_addr": "경기 남양주시 먹갓로37번길 16-43",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65880126,
+      "lng": 127.27124259
+    },
+    {
+      "pnu": "4136025622105840002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "건양맨션2차",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-2",
+      "road_addr": "경기 남양주시 먹갓로서길 3-18",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65676664,
+      "lng": 127.27248459
+    },
+    {
+      "pnu": "4136025622104630004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 463-4",
+      "road_addr": "경기 남양주시 먹갓로37번길 14-3",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65747014,
+      "lng": 127.27272052
+    },
+    {
+      "pnu": "4136025622105720009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "넥스빌라",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 572-9",
+      "road_addr": "경기 남양주시 먹갓로서길 31-12",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65954246,
+      "lng": 127.27232873
+    },
+    {
+      "pnu": "4136025622105700013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "세륜빌리지",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-13",
+      "road_addr": "경기 남양주시 먹갓로서길 29-9",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65904631,
+      "lng": 127.27211483
+    },
+    {
+      "pnu": "4136025622105750005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "먹갓교회",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-5",
+      "road_addr": "경기 남양주시 먹갓로37번길 16-21",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65819774,
+      "lng": 127.27143717
+    },
+    {
+      "pnu": "4136025622105750002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-2",
+      "road_addr": "경기 남양주시 먹갓로37번길 16-16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65802798,
+      "lng": 127.27220864
+    },
+    {
+      "pnu": "4136025622105720019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "세륜빌리지",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 572-19",
+      "road_addr": "경기 남양주시 먹갓로서길 29-7",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65903776,
+      "lng": 127.27235294
+    },
+    {
+      "pnu": "4136025622105750029",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "뜨래빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-29",
+      "road_addr": "경기 남양주시 먹갓로37번길 16-24",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 2
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65818101,
+      "lng": 127.27210613
+    },
+    {
+      "pnu": "4136025622105700012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "명건주택",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-12",
+      "road_addr": "경기 남양주시 먹갓로서길 31-29",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 5
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 7
+        }
+      ],
+      "lat": 37.66001908,
+      "lng": 127.27176038
+    },
+    {
+      "pnu": "4136025622105750004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "뜨레빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-4",
+      "road_addr": "경기 남양주시 먹갓로37번길 16-27",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.65824342,
+      "lng": 127.27175448
+    },
+    {
+      "pnu": "4136025622105840030",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "이와빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-30",
+      "road_addr": "경기 남양주시 먹갓로서길 3-40",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX",
+          "count": 1
+        },
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        }
+      ],
+      "lat": 37.6567105,
+      "lng": 127.27141906
+    },
+    {
+      "pnu": "4136025622105840029",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-29",
+      "road_addr": "경기 남양주시 먹갓로서길 3-42",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 4
+        },
+        {
+          "method": "광랜E",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65692701,
+      "lng": 127.27152043
+    },
+    {
+      "pnu": "4136025622105750024",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "뜨래빌",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-24",
+      "road_addr": "경기 남양주시 먹갓로37번길 16-40",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65879322,
+      "lng": 127.27174146
+    },
+    {
+      "pnu": "4136025622105840021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "천마주택",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-21",
+      "road_addr": "경기 남양주시 먹갓로37번길 17-1",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 9,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 6
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65692859,
+      "lng": 127.27233671
+    },
+    {
+      "pnu": "4136025622202000007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 200-7",
+      "road_addr": "경기 남양주시 먹갓로서길 3-58",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65619502,
+      "lng": 127.27053634
+    },
+    {
+      "pnu": "4136025622105720018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "세륜빌리지",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 572-18",
+      "road_addr": "경기 남양주시 먹갓로서길 29-13",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65851507,
+      "lng": 127.27239989
+    },
+    {
+      "pnu": "4136025622105800000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-23",
+      "avail_gen_cnt": 40,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 10,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 5
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65762655,
+      "lng": 127.26971565
     },
     {
       "pnu": "4136025622105720015",
@@ -2888,16 +2848,16 @@
       "lng": 127.27202223
     },
     {
-      "pnu": "4136025622105700013",
+      "pnu": "4136025622105800000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "세륜빌리지",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-13",
-      "road_addr": "경기 남양주시 먹갓로서길 29-9",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 2,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-23",
+      "avail_gen_cnt": 40,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 10,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -2905,132 +2865,10 @@
       "int_tech": [
         {
           "method": "광랜FTTH(GB)",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65904631,
-      "lng": 127.27211483
-    },
-    {
-      "pnu": "4136025622105840030",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "이와빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 584-30",
-      "road_addr": "경기 남양주시 먹갓로서길 3-40",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜PBOX(GB)",
-          "count": 3
-        },
-        {
-          "method": "광랜PBOX",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
           "count": 5
-        }
-      ],
-      "lat": 37.6567105,
-      "lng": 127.27141906
-    },
-    {
-      "pnu": "4136025622105750005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "먹갓교회",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-5",
-      "road_addr": "경기 남양주시 먹갓로37번길 16-21",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65819774,
-      "lng": 127.27143717
-    },
-    {
-      "pnu": "4136025622105940009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 594-9",
-      "road_addr": "경기 남양주시 먹갓로서길 3-72",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 1
         },
         {
-          "method": "광랜E(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65625211,
-      "lng": 127.26998651
-    },
-    {
-      "pnu": "4136025622105750017",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "뜨래빌",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 575-17",
-      "road_addr": "경기 남양주시 먹갓로37번길 16-44",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 6,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 1
-        },
-        {
-          "method": "광랜E(GB)",
+          "method": "광랜FTTH",
           "count": 2
         }
       ],
@@ -3038,30 +2876,192 @@
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 6
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
         }
       ],
-      "lat": 37.65900006,
-      "lng": 127.27150274
+      "lat": 37.65762655,
+      "lng": 127.26971565
     },
     {
-      "pnu": "4136025622105700005",
+      "pnu": "4136025622105800000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "세륜빌리지",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 570-5",
-      "road_addr": "경기 남양주시 먹갓로서길 29-16",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-23",
+      "avail_gen_cnt": 40,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 10,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65932531,
-      "lng": 127.27189856
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 5
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65762655,
+      "lng": 127.26971565
+    },
+    {
+      "pnu": "4136025622105800000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-23",
+      "avail_gen_cnt": 40,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 10,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 5
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65762655,
+      "lng": 127.26971565
+    },
+    {
+      "pnu": "4136025622105800000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-11",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65755539,
+      "lng": 127.27020338
+    },
+    {
+      "pnu": "4136025622105800000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-19",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65759098,
+      "lng": 127.26996518
+    },
+    {
+      "pnu": "4136025622105800000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "두봉아파트",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 580",
+      "road_addr": "경기 남양주시 먹갓로37번길 31-19",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65759098,
+      "lng": 127.26996518
     },
     {
       "pnu": "4136025622104590004",
@@ -3080,22 +3080,22 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
           "method": "광랜E(GB)",
           "count": 3
+        },
+        {
+          "method": "광랜W",
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
         }
       ],
       "lat": 37.65678543,
@@ -3124,12 +3124,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
         }
       ],
       "lat": 37.65608017,
@@ -3268,11 +3268,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air 2)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv air 2)",
           "count": 1
         }
       ],
@@ -3302,11 +3302,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         }
       ],
@@ -3336,12 +3336,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV)",
           "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
         },
         {
           "method": "Btv(IPTV_smart 2 STB)",
@@ -3484,12 +3484,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
         }
       ],
       "lat": 37.65608017,
@@ -3594,25 +3594,25 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
           "method": "광랜FTTH",
           "count": 3
         },
         {
           "method": "광랜FTTH(GB)",
           "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart STB)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air)",
+          "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
         },
         {
@@ -3620,11 +3620,11 @@
           "count": 2
         },
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
+          "method": "Btv(IPTV_smart STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_B tv air)",
           "count": 1
         }
       ],
@@ -3668,30 +3668,30 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
-          "count": 3
-        },
-        {
           "method": "광랜FTTH(GB)",
           "count": 4
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 3
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        },
         {
           "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         },
         {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 5
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
         }
       ],
       "lat": 37.65887622,
@@ -3802,11 +3802,11 @@
           "count": 2
         },
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         }
       ],
@@ -3988,11 +3988,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
@@ -4062,15 +4062,15 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 3
         },
         {
           "method": "Btv(단독IPTV_smart STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air 4)",
           "count": 1
         }
       ],
@@ -4094,25 +4094,25 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 2
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 2
         }
       ],
       "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
         },
         {
           "method": "Btv(IPTV_B tv air 2)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         }
       ],
@@ -4136,22 +4136,22 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        },
-        {
           "method": "광랜FTTH",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 1
         },
         {
           "method": "Btv(IPTV_smart STB)",
@@ -4178,25 +4178,25 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
           "method": "광랜FTTH",
           "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 7
         },
         {
           "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -4344,11 +4344,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E",
+          "method": "광랜E(GB)",
           "count": 2
         },
         {
-          "method": "광랜E(GB)",
+          "method": "광랜E",
           "count": 2
         }
       ],
@@ -4406,15 +4406,15 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
+          "method": "광랜E",
+          "count": 1
+        },
+        {
           "method": "광랜FTTH",
           "count": 1
         },
         {
           "method": "광랜E(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜E",
           "count": 1
         }
       ],
@@ -4482,19 +4482,15 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜PBOX",
+          "method": "광랜PBOX(GB)",
           "count": 2
         },
         {
-          "method": "광랜PBOX(GB)",
+          "method": "광랜PBOX",
           "count": 2
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 2
-        },
         {
           "method": "Btv(IPTV_UHD_STB)",
           "count": 2
@@ -4502,6 +4498,10 @@
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 2
         }
       ],
       "lat": 37.65801192,
@@ -4823,11 +4823,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
@@ -4877,25 +4877,25 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜W",
           "count": 1
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
         {
           "method": "Btv(IPTV_B tv air 2)",
           "count": 1
         },
         {
           "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
           "count": 1
         }
       ],
@@ -5007,12 +5007,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
           "method": "광랜FTTH(GB)",
           "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -5021,12 +5021,12 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
         }
       ],
       "lat": 37.65860687,
@@ -5049,12 +5049,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
           "method": "광랜FTTH(GB)",
           "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -5095,12 +5095,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜PBOX",
-          "count": 1
-        },
-        {
           "method": "광랜PBOX(GB)",
           "count": 2
+        },
+        {
+          "method": "광랜PBOX",
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -5163,21 +5163,21 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 3
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 3
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart STB)",
+          "method": "Btv(판매 Apple tv STB)",
           "count": 1
         },
         {
@@ -5185,7 +5185,7 @@
           "count": 1
         },
         {
-          "method": "Btv(판매 Apple tv STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -5243,12 +5243,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 4
-        },
-        {
           "method": "광랜FTTH",
           "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
         }
       ],
       "tv_tech": [
@@ -5287,26 +5287,6 @@
       "distance_meter": 62.3696228,
       "bld_nm": "N/A",
       "jibun_addr": "경기 남양주시 화도읍 묵현리 591-2",
-      "road_addr": "경기 남양주시 먹갓로27번길 30-1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65558179,
-      "lng": 127.27123562
-    },
-    {
-      "pnu": "4136025622105910002",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 62.3696228,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 591-2",
       "road_addr": "경기 남양주시 먹갓로27번길 30",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
@@ -5319,6 +5299,26 @@
       "tv_tech": [],
       "lat": 37.65553869,
       "lng": 127.27138864
+    },
+    {
+      "pnu": "4136025622105910002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 62.3696228,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 591-2",
+      "road_addr": "경기 남양주시 먹갓로27번길 30-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65558179,
+      "lng": 127.27123562
     },
     {
       "pnu": "4136025622104570004",
@@ -5337,11 +5337,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
@@ -5459,11 +5459,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E(GB)",
+          "method": "광랜E",
           "count": 1
         },
         {
-          "method": "광랜E",
+          "method": "광랜E(GB)",
           "count": 1
         }
       ],
@@ -5475,26 +5475,6 @@
       ],
       "lat": 37.65812966,
       "lng": 127.27352347
-    },
-    {
-      "pnu": "4136025622105910002",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 69.00714422,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 591-2",
-      "road_addr": "경기 남양주시 먹갓로27번길 30",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65553869,
-      "lng": 127.27138864
     },
     {
       "pnu": "4136025622105910002",
@@ -5515,6 +5495,26 @@
       "tv_tech": [],
       "lat": 37.65558179,
       "lng": 127.27123562
+    },
+    {
+      "pnu": "4136025622105910002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 69.00714422,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 591-2",
+      "road_addr": "경기 남양주시 먹갓로27번길 30",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65553869,
+      "lng": 127.27138864
     },
     {
       "pnu": "4136025622104560001",
@@ -5539,10 +5539,6 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV_B tv x NUGU STB)",
           "count": 1
         },
@@ -5551,11 +5547,15 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_B tv air 4)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air 4)",
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -5599,21 +5599,21 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E",
-          "count": 1
-        },
-        {
           "method": "광랜E(GB)",
           "count": 2
+        },
+        {
+          "method": "광랜E",
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
         {
@@ -5749,36 +5749,16 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
         }
       ],
       "lat": 37.65849017,
       "lng": 127.27351104
-    },
-    {
-      "pnu": "4136025622104430000",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 76.60862104,
-      "bld_nm": "한솔화학제조업",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 443",
-      "road_addr": "경기 남양주시 먹갓로 57-5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.65917501,
-      "lng": 127.27341825
     },
     {
       "pnu": "4136025622104430000",
@@ -5801,6 +5781,26 @@
       "lng": 127.27347828
     },
     {
+      "pnu": "4136025622104430000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 76.60862104,
+      "bld_nm": "한솔화학제조업",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 443",
+      "road_addr": "경기 남양주시 먹갓로 57-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65917501,
+      "lng": 127.27341825
+    },
+    {
       "pnu": "4136025622104510003",
       "match_type": "100m",
       "in_area": false,
@@ -5817,11 +5817,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
@@ -5865,7 +5865,7 @@
           "count": 6
         },
         {
-          "method": "Btv(IPTV_B tv air 3)",
+          "method": "Btv(판매 Apple tv STB)",
           "count": 1
         },
         {
@@ -5873,7 +5873,7 @@
           "count": 1
         },
         {
-          "method": "Btv(판매 Apple tv STB)",
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         }
       ],
@@ -5907,36 +5907,16 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart STB)",
           "count": 1
         }
       ],
       "lat": 37.65542079,
       "lng": 127.27101488
-    },
-    {
-      "pnu": "4136025622104060006",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 78.91506875,
-      "bld_nm": "신원팰리스103동",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 406-6",
-      "road_addr": "경기 남양주시 먹갓로27번길 103",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 0.0,
-      "lng": 0.0
     },
     {
       "pnu": "4136025622104060006",
@@ -5961,7 +5941,7 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(단독IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
         },
         {
@@ -5969,12 +5949,32 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
+          "method": "Btv(단독IPTV_smart 3 STB)",
           "count": 1
         }
       ],
       "lat": 37.65636319,
       "lng": 127.27360819
+    },
+    {
+      "pnu": "4136025622104060006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 78.91506875,
+      "bld_nm": "신원팰리스103동",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 406-6",
+      "road_addr": "경기 남양주시 먹갓로27번길 103",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 0.0,
+      "lng": 0.0
     },
     {
       "pnu": "4136025622104060021",
@@ -6255,12 +6255,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
         },
         {
           "method": "Btv(IPTV_AI 2 STB)",
@@ -6312,11 +6312,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
@@ -6366,11 +6366,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E(GB)",
+          "method": "광랜E",
           "count": 1
         },
         {
-          "method": "광랜E",
+          "method": "광랜E(GB)",
           "count": 1
         }
       ],
@@ -6414,6 +6414,44 @@
       "distance_meter": 89.99447365,
       "bld_nm": "경동아트빌라",
       "jibun_addr": "경기 남양주시 화도읍 묵현리 591-16",
+      "road_addr": "경기 남양주시 먹갓로27번길 34-4",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.65531336,
+      "lng": 127.27138933
+    },
+    {
+      "pnu": "4136025622105910016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 89.99447365,
+      "bld_nm": "경동아트빌라",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 591-16",
       "road_addr": "경기 남양주시 먹갓로27번길 34-8",
       "avail_gen_cnt": 5,
       "int_scrbr_cnt": 1,
@@ -6436,44 +6474,6 @@
       ],
       "lat": 37.6553311,
       "lng": 127.2712419
-    },
-    {
-      "pnu": "4136025622105910016",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 89.99447365,
-      "bld_nm": "경동아트빌라",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 591-16",
-      "road_addr": "경기 남양주시 먹갓로27번길 34-4",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.65531336,
-      "lng": 127.27138933
     },
     {
       "pnu": "4136025622105970025",
@@ -6622,12 +6622,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        },
-        {
           "method": "Btv(IPTV_B tv x NUGU STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
         }
       ],
       "lat": 37.65531336,
@@ -6670,22 +6670,22 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E",
-          "count": 1
-        },
-        {
           "method": "광랜E(GB)",
           "count": 2
+        },
+        {
+          "method": "광랜E",
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 3
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
         }
       ],
       "lat": 37.65617398,
@@ -6796,26 +6796,6 @@
       "match_type": "100m",
       "in_area": false,
       "distance_meter": 99.45391235,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 남양주시 화도읍 묵현리 508-3",
-      "road_addr": "경기 남양주시 먹갓로 70",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.66040781,
-      "lng": 127.27345126
-    },
-    {
-      "pnu": "4136025622105080003",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 99.45391235,
       "bld_nm": "더불림하우스",
       "jibun_addr": "경기 남양주시 화도읍 묵현리 508-3",
       "road_addr": "경기 남양주시 먹갓로 70-1",
@@ -6840,6 +6820,26 @@
       ],
       "lat": 37.66036721,
       "lng": 127.27336796
+    },
+    {
+      "pnu": "4136025622105080003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.45391235,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 남양주시 화도읍 묵현리 508-3",
+      "road_addr": "경기 남양주시 먹갓로 70",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.66040781,
+      "lng": 127.27345126
     },
     {
       "pnu": "4136025622105910027",
@@ -6868,12 +6868,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 6
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
         },
         {
           "method": "Btv(IPTV_AI 2 STB)",

@@ -83,85 +83,13 @@
   },
   "buildings": [
     {
-      "pnu": "1129012400100410013",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "으뜸고시원",
-      "jibun_addr": "서울 성북구 안암동4가 41-13",
-      "road_addr": "서울 성북구 보문로14길 40",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58061222,
-      "lng": 127.02442503
-    },
-    {
-      "pnu": "1129012400100410003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "청조사빌딩",
-      "jibun_addr": "서울 성북구 안암동4가 41-3",
-      "road_addr": "서울 성북구 안암로5길 22",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58012345,
-      "lng": 127.02391849
-    },
-    {
-      "pnu": "1129012400100230004",
+      "pnu": "1129012400100250000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 23-4",
-      "road_addr": "서울 성북구 안암로9가길 25",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58097029,
-      "lng": 127.02605364
-    },
-    {
-      "pnu": "1129012400100410012",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 41-12",
-      "road_addr": "서울 성북구 안암로9길 17",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58046842,
-      "lng": 127.02452787
-    },
-    {
-      "pnu": "1129012400100380000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 38",
-      "road_addr": "서울 성북구 안암로9가길 20-4",
+      "jibun_addr": "서울 성북구 안암동4가 25",
+      "road_addr": "서울 성북구 안암로 27-12",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
@@ -169,8 +97,20 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.58070745,
-      "lng": 127.02569289
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.58062524,
+      "lng": 127.0254216
     },
     {
       "pnu": "1129012400100370000",
@@ -187,98 +127,10 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58064441,
       "lng": 127.02570461
-    },
-    {
-      "pnu": "1129012400100330000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 33",
-      "road_addr": "서울 성북구 안암로9가길 24",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.5808167,
-      "lng": 127.02596401
-    },
-    {
-      "pnu": "1129012400100410029",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성보빌딩",
-      "jibun_addr": "서울 성북구 안암동4가 41-29",
-      "road_addr": "서울 성북구 안암로 21",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57983922,
-      "lng": 127.02496224
-    },
-    {
-      "pnu": "1129012400100410036",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "영화빌딩",
-      "jibun_addr": "서울 성북구 안암동4가 41-36",
-      "road_addr": "서울 성북구 안암로 19",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57969442,
-      "lng": 127.02481593
-    },
-    {
-      "pnu": "1129012400100230021",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "장백주택",
-      "jibun_addr": "서울 성북구 안암동4가 23-21",
-      "road_addr": "서울 성북구 안암로9가길 9-10",
-      "avail_gen_cnt": 9,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58122913,
-      "lng": 127.02541776
-    },
-    {
-      "pnu": "1129012400100410030",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 41-30",
-      "road_addr": "서울 성북구 안암로9길 5",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57991101,
-      "lng": 127.02488251
     },
     {
       "pnu": "1129012400100360000",
@@ -295,314 +147,40 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.5806811,
       "lng": 127.02586294
     },
     {
-      "pnu": "1129012400100240002",
+      "pnu": "1129012400100410003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 24-2",
-      "road_addr": "서울 성북구 안암로9가길 14",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58073313,
-      "lng": 127.02535296
-    },
-    {
-      "pnu": "1129012400100350000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 35",
-      "road_addr": "서울 성북구 안암로9가길 20-3",
-      "avail_gen_cnt": 5,
+      "bld_nm": "청조사빌딩",
+      "jibun_addr": "서울 성북구 안암동4가 41-3",
+      "road_addr": "서울 성북구 안암로5길 22",
+      "avail_gen_cnt": 10,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.58074419,
-      "lng": 127.02586254
-    },
-    {
-      "pnu": "1129012400100390000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 39",
-      "road_addr": "서울 성북구 안암로9가길 20",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58077951,
-      "lng": 127.0256811
-    },
-    {
-      "pnu": "1129012400100480000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "리첸카운티",
-      "jibun_addr": "서울 성북구 안암동4가 48",
-      "road_addr": "서울 성북구 안암로 25",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58004762,
-      "lng": 127.02523273
-    },
-    {
-      "pnu": "1129012400100410041",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "삼성하이츠",
-      "jibun_addr": "서울 성북구 안암동4가 41-41",
-      "road_addr": "서울 성북구 안암로7길 21",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58030426,
-      "lng": 127.02405324
-    },
-    {
-      "pnu": "1129012400100410019",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 41-19",
-      "road_addr": "서울 성북구 안암로9가길 10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58066899,
-      "lng": 127.02509288
-    },
-    {
-      "pnu": "1129012400100410032",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 41-32",
-      "road_addr": "서울 성북구 안암로9길 11",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58018086,
-      "lng": 127.02474489
-    },
-    {
-      "pnu": "1129012400100230026",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 23-26",
-      "road_addr": "서울 성북구 안암로9가길 9-22",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58125812,
-      "lng": 127.02590458
-    },
-    {
-      "pnu": "1129012400100410004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "삼성하이츠",
-      "jibun_addr": "서울 성북구 안암동4가 41-4",
-      "road_addr": "서울 성북구 안암로7길 17",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58017821,
-      "lng": 127.02408802
-    },
-    {
-      "pnu": "1129012400100340000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 34",
-      "road_addr": "서울 성북구 안암로9가길 22",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.5808162,
-      "lng": 127.02583943
-    },
-    {
-      "pnu": "1129012400100400000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "안암동4가다세대주택",
-      "jibun_addr": "서울 성북구 안암동4가 40",
-      "road_addr": "서울 성북구 안암로9가길 18",
-      "avail_gen_cnt": 21,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58071578,
-      "lng": 127.02552295
-    },
-    {
-      "pnu": "1129012400100230016",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "대림스카이빌",
-      "jibun_addr": "서울 성북구 안암동4가 23-16",
-      "road_addr": "서울 성북구 안암로9가길 13",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58091366,
-      "lng": 127.02541976
-    },
-    {
-      "pnu": "1129012400100230017",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 23-17",
-      "road_addr": "서울 성북구 안암로9가길 23-9",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58106935,
-      "lng": 127.02547862
-    },
-    {
-      "pnu": "1129012400100410039",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 41-39",
-      "road_addr": "서울 성북구 안암로5길 8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57959331,
-      "lng": 127.02432958
-    },
-    {
-      "pnu": "1129012400100410024",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "리첼카운티호텔",
-      "jibun_addr": "서울 성북구 안암동4가 41-24",
-      "road_addr": "서울 성북구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57998462,
-      "lng": 127.02525578
-    },
-    {
-      "pnu": "1129012400100410015",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "도희빌딩",
-      "jibun_addr": "서울 성북구 안암동4가 41-15",
-      "road_addr": "서울 성북구 안암로9가길 2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58061354,
-      "lng": 127.02475346
-    },
-    {
-      "pnu": "1129012400100410031",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "용신빌딩",
-      "jibun_addr": "서울 성북구 안암동4가 41-31",
-      "road_addr": "서울 성북구 안암로9길 7",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58006369,
-      "lng": 127.02474563
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.58012345,
+      "lng": 127.02391849
     },
     {
       "pnu": "1129012400100230013",
@@ -619,62 +197,44 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.58100489,
       "lng": 127.025691
     },
     {
-      "pnu": "1129012400100410034",
+      "pnu": "1129012400100410037",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 41-34",
-      "road_addr": "서울 성북구 안암로7길 8",
-      "avail_gen_cnt": 1,
+      "bld_nm": "제삼주유소",
+      "jibun_addr": "서울 성북구 안암동4가 41-37",
+      "road_addr": "서울 성북구 안암로 17",
+      "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.57990104,
-      "lng": 127.02464473
-    },
-    {
-      "pnu": "1129012400100410016",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "영락빌딩",
-      "jibun_addr": "서울 성북구 안암동4가 41-16",
-      "road_addr": "서울 성북구 안암로9길 16",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58048763,
-      "lng": 127.02482221
-    },
-    {
-      "pnu": "1129012400100410038",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "JS빌딩",
-      "jibun_addr": "서울 성북구 안암동4가 41-38",
-      "road_addr": "서울 성북구 안암로7길 5",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57965594,
-      "lng": 127.02449559
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57951283,
+      "lng": 127.02448865
     },
     {
       "pnu": "1129012400100410005",
@@ -691,98 +251,28 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58042107,
       "lng": 127.0239619
-    },
-    {
-      "pnu": "1129012400100250001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 25-1",
-      "road_addr": "서울 성북구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57955034,
-      "lng": 127.02485082
-    },
-    {
-      "pnu": "1129012400100410040",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 41-40",
-      "road_addr": "서울 성북구 안암로7길 7",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57977239,
-      "lng": 127.02403398
-    },
-    {
-      "pnu": "1129012400100230003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "안암아파트",
-      "jibun_addr": "서울 성북구 안암동4가 23-3",
-      "road_addr": "서울 성북구 안암로9가길 9-16",
-      "avail_gen_cnt": 64,
-      "int_scrbr_cnt": 16,
-      "tv_scrbr_cnt": 14,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.5811583,
-      "lng": 127.02573533
-    },
-    {
-      "pnu": "1129012400100250000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 25",
-      "road_addr": "서울 성북구 안암로 27-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58062524,
-      "lng": 127.0254216
-    },
-    {
-      "pnu": "1129012400100410006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "삼성하이츠",
-      "jibun_addr": "서울 성북구 안암동4가 41-6",
-      "road_addr": "서울 성북구 안암로7길 25",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.5805381,
-      "lng": 127.02392717
     },
     {
       "pnu": "1129012400100230002",
@@ -799,8 +289,224 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 3
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
       "lat": 37.58119599,
       "lng": 127.02614281
+    },
+    {
+      "pnu": "1129012400100410040",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 41-40",
+      "road_addr": "서울 성북구 안암로7길 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57977239,
+      "lng": 127.02403398
+    },
+    {
+      "pnu": "1129012400100410034",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 41-34",
+      "road_addr": "서울 성북구 안암로7길 8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57990104,
+      "lng": 127.02464473
+    },
+    {
+      "pnu": "1129012400100250001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 25-1",
+      "road_addr": "서울 성북구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57955034,
+      "lng": 127.02485082
+    },
+    {
+      "pnu": "1129012400100230026",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 23-26",
+      "road_addr": "서울 성북구 안암로9가길 9-22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.58125812,
+      "lng": 127.02590458
+    },
+    {
+      "pnu": "1129012400100410001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "아카데미학생복",
+      "jibun_addr": "서울 성북구 안암동4가 41-1",
+      "road_addr": "서울 성북구 안암로5길 30",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.5804741,
+      "lng": 127.02370107
+    },
+    {
+      "pnu": "1129012400100390000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 39",
+      "road_addr": "서울 성북구 안암로9가길 20",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.58077951,
+      "lng": 127.0256811
+    },
+    {
+      "pnu": "1129012400100400000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "안암동4가다세대주택",
+      "jibun_addr": "서울 성북구 안암동4가 40",
+      "road_addr": "서울 성북구 안암로9가길 18",
+      "avail_gen_cnt": 21,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.58071578,
+      "lng": 127.02552295
+    },
+    {
+      "pnu": "1129012400100230006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 23-6",
+      "road_addr": "서울 성북구 안암로9가길 23",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.58102346,
+      "lng": 127.02582679
+    },
+    {
+      "pnu": "1129012400100410009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "나우빌딩",
+      "jibun_addr": "서울 성북구 안암동4가 41-9",
+      "road_addr": "서울 성북구 안암로7길 22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.58041356,
+      "lng": 127.02433569
     },
     {
       "pnu": "1129012400100410018",
@@ -817,6 +523,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58063225,
       "lng": 127.02492323
     },
@@ -835,17 +553,300 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58093228,
       "lng": 127.02556688
     },
     {
-      "pnu": "1129012400100410037",
+      "pnu": "1129012400100410016",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "제삼주유소",
-      "jibun_addr": "서울 성북구 안암동4가 41-37",
-      "road_addr": "서울 성북구 안암로 17",
+      "bld_nm": "영락빌딩",
+      "jibun_addr": "서울 성북구 안암동4가 41-16",
+      "road_addr": "서울 성북구 안암로9길 16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.58048763,
+      "lng": 127.02482221
+    },
+    {
+      "pnu": "1129012400100380000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 38",
+      "road_addr": "서울 성북구 안암로9가길 20-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.58070745,
+      "lng": 127.02569289
+    },
+    {
+      "pnu": "1129012400100410039",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 41-39",
+      "road_addr": "서울 성북구 안암로5길 8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.57959331,
+      "lng": 127.02432958
+    },
+    {
+      "pnu": "1129012400100340000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 34",
+      "road_addr": "서울 성북구 안암로9가길 22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.5808162,
+      "lng": 127.02583943
+    },
+    {
+      "pnu": "1129012400100410019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 41-19",
+      "road_addr": "서울 성북구 안암로9가길 10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.58066899,
+      "lng": 127.02509288
+    },
+    {
+      "pnu": "1129012400100410031",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "용신빌딩",
+      "jibun_addr": "서울 성북구 안암동4가 41-31",
+      "road_addr": "서울 성북구 안암로9길 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.58006369,
+      "lng": 127.02474563
+    },
+    {
+      "pnu": "1129012400100240002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 24-2",
+      "road_addr": "서울 성북구 안암로9가길 14",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(AI Sound Max STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.58073313,
+      "lng": 127.02535296
+    },
+    {
+      "pnu": "1129012400100350000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 35",
+      "road_addr": "서울 성북구 안암로9가길 20-3",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.58074419,
+      "lng": 127.02586254
+    },
+    {
+      "pnu": "1129012400100410004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼성하이츠",
+      "jibun_addr": "서울 성북구 안암동4가 41-4",
+      "road_addr": "서울 성북구 안암로7길 17",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.58017821,
+      "lng": 127.02408802
+    },
+    {
+      "pnu": "1129012400100410024",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "리첼카운티호텔",
+      "jibun_addr": "서울 성북구 안암동4가 41-24",
+      "road_addr": "서울 성북구 #-#",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -853,98 +854,131 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.57951283,
-      "lng": 127.02448865
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57998462,
+      "lng": 127.02525578
     },
     {
-      "pnu": "1129012400100230020",
+      "pnu": "1129012400100410038",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 23-20",
-      "road_addr": "서울 성북구 안암로9가길 9-8",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58110276,
-      "lng": 127.02537326
-    },
-    {
-      "pnu": "1129012400100410009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "나우빌딩",
-      "jibun_addr": "서울 성북구 안암동4가 41-9",
-      "road_addr": "서울 성북구 안암로7길 22",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58041356,
-      "lng": 127.02433569
-    },
-    {
-      "pnu": "1129012400100230006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 23-6",
-      "road_addr": "서울 성북구 안암로9가길 23",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.58102346,
-      "lng": 127.02582679
-    },
-    {
-      "pnu": "1129012400100410008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "미스론",
-      "jibun_addr": "서울 성북구 안암동4가 41-8",
-      "road_addr": "서울 성북구 보문로14길 38",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.5805753,
-      "lng": 127.02421008
-    },
-    {
-      "pnu": "1129012400100410001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "아카데미학생복",
-      "jibun_addr": "서울 성북구 안암동4가 41-1",
-      "road_addr": "서울 성북구 안암로5길 30",
-      "avail_gen_cnt": 1,
+      "bld_nm": "JS빌딩",
+      "jibun_addr": "서울 성북구 안암동4가 41-38",
+      "road_addr": "서울 성북구 안암로7길 5",
+      "avail_gen_cnt": 16,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.5804741,
-      "lng": 127.02370107
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.57965594,
+      "lng": 127.02449559
+    },
+    {
+      "pnu": "1129012400100230003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "안암아파트",
+      "jibun_addr": "서울 성북구 안암동4가 23-3",
+      "road_addr": "서울 성북구 안암로9가길 9-16",
+      "avail_gen_cnt": 64,
+      "int_scrbr_cnt": 16,
+      "tv_scrbr_cnt": 14,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 11
+        },
+        {
+          "method": "광랜W",
+          "count": 5
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 11
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.5811583,
+      "lng": 127.02573533
+    },
+    {
+      "pnu": "1129012400100410006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼성하이츠",
+      "jibun_addr": "서울 성북구 안암동4가 41-6",
+      "road_addr": "서울 성북구 안암로7길 25",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.5805381,
+      "lng": 127.02392717
+    },
+    {
+      "pnu": "1129012400100230017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 23-17",
+      "road_addr": "서울 성북구 안암로9가길 23-9",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.58106935,
+      "lng": 127.02547862
     },
     {
       "pnu": "1129012400100410026",
@@ -961,44 +995,237 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.58025401,
       "lng": 127.02500491
     },
     {
-      "pnu": "1129012400100410022",
+      "pnu": "1129012400100410015",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "승지빌딩",
-      "jibun_addr": "서울 성북구 안암동4가 41-22",
-      "road_addr": "서울 성북구 안암로 27",
+      "bld_nm": "도희빌딩",
+      "jibun_addr": "서울 성북구 안암동4가 41-15",
+      "road_addr": "서울 성북구 안암로9가길 2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.58061354,
+      "lng": 127.02475346
+    },
+    {
+      "pnu": "1129012400100230018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 23-18",
+      "road_addr": "서울 성북구 안암로9가길 9-4",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.58103052,
+      "lng": 127.02533974
+    },
+    {
+      "pnu": "1129012400100230016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대림스카이빌",
+      "jibun_addr": "서울 성북구 안암동4가 23-16",
+      "road_addr": "서울 성북구 안암로9가길 13",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.58091366,
+      "lng": 127.02541976
+    },
+    {
+      "pnu": "1129012400100410008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "미스론",
+      "jibun_addr": "서울 성북구 안암동4가 41-8",
+      "road_addr": "서울 성북구 보문로14길 38",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.58019279,
-      "lng": 127.02546964
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.5805753,
+      "lng": 127.02421008
     },
     {
-      "pnu": "1129012400100410017",
+      "pnu": "1129012400100410020",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "라이크힐1차",
-      "jibun_addr": "서울 성북구 안암동4가 41-17",
-      "road_addr": "서울 성북구 안암로9길 14-5",
-      "avail_gen_cnt": 9,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
+      "bld_nm": "진웅약품",
+      "jibun_addr": "서울 성북구 안암동4가 41-20",
+      "road_addr": "서울 성북구 안암로9길 14-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.5805154,
-      "lng": 127.02500325
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(AI Sound Max STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.58057899,
+      "lng": 127.02512742
+    },
+    {
+      "pnu": "1129012400100230004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 23-4",
+      "road_addr": "서울 성북구 안암로9가길 25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.58097029,
+      "lng": 127.02605364
+    },
+    {
+      "pnu": "1129012400100410036",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "영화빌딩",
+      "jibun_addr": "서울 성북구 안암동4가 41-36",
+      "road_addr": "서울 성북구 안암로 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.57969442,
+      "lng": 127.02481593
     },
     {
       "pnu": "1129012400100410010",
@@ -1015,6 +1242,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58031505,
       "lng": 127.02449487
     },
@@ -1033,8 +1262,30 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58036331,
       "lng": 127.02528735
+    },
+    {
+      "pnu": "1129012400100330000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 33",
+      "road_addr": "서울 성북구 안암로9가길 24",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.5808167,
+      "lng": 127.02596401
     },
     {
       "pnu": "1129012400100410002",
@@ -1051,44 +1302,332 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.5803394,
       "lng": 127.02382651
     },
     {
-      "pnu": "1129012400100230018",
+      "pnu": "1129012400100410012",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "서울 성북구 안암동4가 23-18",
-      "road_addr": "서울 성북구 안암로9가길 9-4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
+      "jibun_addr": "서울 성북구 안암동4가 41-12",
+      "road_addr": "서울 성북구 안암로9길 17",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 3,
       "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.58103052,
-      "lng": 127.02533974
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.58046842,
+      "lng": 127.02452787
     },
     {
-      "pnu": "1129012400100410020",
+      "pnu": "1129012400100410013",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "진웅약품",
-      "jibun_addr": "서울 성북구 안암동4가 41-20",
-      "road_addr": "서울 성북구 안암로9길 14-7",
+      "bld_nm": "으뜸고시원",
+      "jibun_addr": "서울 성북구 안암동4가 41-13",
+      "road_addr": "서울 성북구 보문로14길 40",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.58061222,
+      "lng": 127.02442503
+    },
+    {
+      "pnu": "1129012400100230020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 23-20",
+      "road_addr": "서울 성북구 안암로9가길 9-8",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 3
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.58110276,
+      "lng": 127.02537326
+    },
+    {
+      "pnu": "1129012400100480000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "리첸카운티",
+      "jibun_addr": "서울 성북구 안암동4가 48",
+      "road_addr": "서울 성북구 안암로 25",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.58004762,
+      "lng": 127.02523273
+    },
+    {
+      "pnu": "1129012400100410041",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼성하이츠",
+      "jibun_addr": "서울 성북구 안암동4가 41-41",
+      "road_addr": "서울 성북구 안암로7길 21",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "lat": 37.58057899,
-      "lng": 127.02512742
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.58030426,
+      "lng": 127.02405324
+    },
+    {
+      "pnu": "1129012400100410029",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성보빌딩",
+      "jibun_addr": "서울 성북구 안암동4가 41-29",
+      "road_addr": "서울 성북구 안암로 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57983922,
+      "lng": 127.02496224
+    },
+    {
+      "pnu": "1129012400100410030",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 41-30",
+      "road_addr": "서울 성북구 안암로9길 5",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57991101,
+      "lng": 127.02488251
+    },
+    {
+      "pnu": "1129012400100410022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "승지빌딩",
+      "jibun_addr": "서울 성북구 안암동4가 41-22",
+      "road_addr": "서울 성북구 안암로 27",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.58019279,
+      "lng": 127.02546964
+    },
+    {
+      "pnu": "1129012400100230021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "장백주택",
+      "jibun_addr": "서울 성북구 안암동4가 23-21",
+      "road_addr": "서울 성북구 안암로9가길 9-10",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 3
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.58122913,
+      "lng": 127.02541776
+    },
+    {
+      "pnu": "1129012400100410032",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 성북구 안암동4가 41-32",
+      "road_addr": "서울 성북구 안암로9길 11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.58018086,
+      "lng": 127.02474489
+    },
+    {
+      "pnu": "1129012400100410017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "라이크힐1차",
+      "jibun_addr": "서울 성북구 안암동4가 41-17",
+      "road_addr": "서울 성북구 안암로9길 14-5",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.5805154,
+      "lng": 127.02500325
     },
     {
       "pnu": "1129012400100320000",
@@ -1105,6 +1644,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.58071765,
       "lng": 127.02598729
     },
@@ -1123,6 +1669,17 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.58054476,
       "lng": 127.02558066
     },
@@ -1141,6 +1698,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58088986,
       "lng": 127.02622403
     },
@@ -1159,6 +1718,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58079931,
       "lng": 127.02612268
     },
@@ -1177,6 +1738,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58138231,
       "lng": 127.02540546
     },
@@ -1195,6 +1758,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58078356,
       "lng": 127.02444659
     },
@@ -1213,6 +1778,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.58072674,
       "lng": 127.02376741
     },
@@ -1231,6 +1808,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.58079225,
       "lng": 127.02436725
     },
@@ -1249,6 +1833,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "비즈원(다회선)",
+          "count": 16
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 16
+        }
+      ],
       "lat": 37.58150298,
       "lng": 127.02627678
     },
@@ -1267,6 +1863,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.5810972,
       "lng": 127.02623405
     },
@@ -1285,6 +1883,26 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.5807261,
       "lng": 127.02360886
     },
@@ -1303,6 +1921,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58094439,
       "lng": 127.02633694
     },
@@ -1321,6 +1941,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58052778,
       "lng": 127.02584126
     },
@@ -1339,6 +1975,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58085676,
       "lng": 127.02471794
     },
@@ -1357,6 +1995,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58080026,
       "lng": 127.02411804
     },
@@ -1375,6 +2015,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58114263,
       "lng": 127.02632436
     },
@@ -1393,6 +2045,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.5806007,
       "lng": 127.02604466
     },
@@ -1411,6 +2065,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58031997,
       "lng": 127.025718
     },
@@ -1429,6 +2085,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.58082708,
       "lng": 127.02630371
     },
@@ -1447,6 +2110,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58121515,
       "lng": 127.02642583
     },
@@ -1465,6 +2130,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58081733,
       "lng": 127.02388009
     },
@@ -1483,6 +2150,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58067349,
       "lng": 127.02621408
     },
@@ -1501,6 +2170,26 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.58087265,
       "lng": 127.026428
     },
@@ -1519,6 +2208,17 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.58090041,
       "lng": 127.02436657
     },
@@ -1537,6 +2237,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58111596,
       "lng": 127.02641514
     },
@@ -1555,6 +2271,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 5
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.58044689,
       "lng": 127.0258984
     },
@@ -1573,6 +2296,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58128785,
       "lng": 127.02657261
     },
@@ -1591,6 +2316,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58100798,
       "lng": 127.02646112
     },
@@ -1609,6 +2336,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58085283,
       "lng": 127.02374396
     },
@@ -1627,6 +2366,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58083408,
       "lng": 127.02356287
     },
@@ -1645,6 +2386,30 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58145955,
       "lng": 127.02668478
     },
@@ -1663,6 +2428,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58078261,
       "lng": 127.02645123
     },
@@ -1681,6 +2448,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58087887,
       "lng": 127.02349463
     },
@@ -1699,6 +2468,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58090618,
       "lng": 127.02356241
     },
@@ -1717,6 +2488,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58094288,
       "lng": 127.02372074
     },
@@ -1735,6 +2508,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58101717,
       "lng": 127.02426389
     },
@@ -1753,6 +2542,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58090046,
       "lng": 127.02662036
     },
@@ -1771,6 +2562,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58095102,
       "lng": 127.0235055
     },
@@ -1789,6 +2582,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.58104284,
       "lng": 127.02392396
     },
@@ -1807,6 +2607,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58110804,
       "lng": 127.026687
     },
@@ -1825,6 +2627,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58105076,
       "lng": 127.02365209
     },
@@ -1843,6 +2647,70 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 35
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 22
+        },
+        {
+          "method": "광랜V",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 42
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(AI Sound Max STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58157855,
       "lng": 127.02489456
     },
@@ -1861,6 +2729,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58103159,
       "lng": 127.02336908
     },
@@ -1879,6 +2759,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.58120782,
       "lng": 127.02684493
     },
@@ -1897,6 +2789,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "비즈원(다회선)",
+          "count": 10
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 10
+        }
+      ],
       "lat": 37.58113288,
       "lng": 127.02390074
     },
@@ -1915,6 +2823,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58029718,
       "lng": 127.0230216
     },
@@ -1933,6 +2843,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.58117918,
       "lng": 127.02420623
     },
@@ -1951,6 +2873,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.5811037,
       "lng": 127.02336862
     },
@@ -1969,6 +2907,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58057878,
       "lng": 127.02283966
     },
@@ -1987,6 +2927,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58123545,
       "lng": 127.02699199
     },
@@ -2005,6 +2947,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58066877,
       "lng": 127.02280511
     },
@@ -2023,6 +2977,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57965225,
       "lng": 127.02329859
     },
@@ -2041,6 +2997,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58123189,
       "lng": 127.02386613
     },
@@ -2059,6 +3027,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58132599,
       "lng": 127.02709335
     },
@@ -2077,6 +3047,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58117567,
       "lng": 127.02333418
     },
@@ -2095,6 +3072,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58037134,
       "lng": 127.02280701
     },
@@ -2113,6 +3092,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58127737,
       "lng": 127.02396777
     },
@@ -2131,6 +3112,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.58129604,
       "lng": 127.02412621
     },
@@ -2149,6 +3137,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58126753,
       "lng": 127.02376397
     },
@@ -2167,6 +3157,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58147948,
       "lng": 127.02716033
     },
@@ -2185,6 +3177,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58080365,
       "lng": 127.02272497
     },
@@ -2203,6 +3197,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58179449,
       "lng": 127.02704508
     },
@@ -2221,6 +3217,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58129476,
       "lng": 127.0238091
     },
@@ -2239,6 +3247,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58168665,
       "lng": 127.02712504
     },
@@ -2257,6 +3267,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58127568,
       "lng": 127.02354873
     },
@@ -2275,6 +3287,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57906753,
       "lng": 127.02358545
     },
@@ -2293,6 +3307,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58061414,
       "lng": 127.02266955
     },
@@ -2311,6 +3337,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
       "lat": 37.58128373,
       "lng": 127.02331084
     },
@@ -2329,6 +3367,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58090261,
       "lng": 127.02267904
     },
@@ -2347,6 +3397,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58137638,
       "lng": 127.02393316
     },
@@ -2365,6 +3417,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58135375,
       "lng": 127.02727438
     },
@@ -2383,6 +3437,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58139459,
       "lng": 127.02397835
     },
@@ -2401,6 +3457,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.58075808,
       "lng": 127.02260068
     },
@@ -2419,6 +3482,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.58134769,
       "lng": 127.02352562
     },
@@ -2437,6 +3507,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.5815611,
       "lng": 127.0272844
     },
@@ -2455,6 +3527,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58141303,
       "lng": 127.02408016
     },
@@ -2473,6 +3557,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.58194772,
       "lng": 127.02704411
     },
@@ -2491,6 +3582,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58081202,
       "lng": 127.02256636
     },
@@ -2509,6 +3602,26 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.5809835,
       "lng": 127.02262189
     },
@@ -2527,6 +3640,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.5814386,
       "lng": 127.02371758
     },
@@ -2545,6 +3665,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.58137336,
       "lng": 127.02318569
     },
@@ -2563,6 +3690,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58021733,
       "lng": 127.02261546
     },
@@ -2581,6 +3710,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58087498,
       "lng": 127.02253198
     },
@@ -2599,6 +3730,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58147543,
       "lng": 127.02390988
     },
@@ -2617,6 +3764,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.58146601,
       "lng": 127.02380801
     },
@@ -2635,6 +3794,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58145344,
       "lng": 127.02740966
     },
@@ -2653,6 +3814,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTVon기업회선)_M",
+          "count": 25
+        }
+      ],
       "lat": 37.58141907,
       "lng": 127.02334395
     },
@@ -2671,6 +3839,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜PBOX",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.57959675,
       "lng": 127.02294786
     },
@@ -2689,6 +3873,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57949788,
       "lng": 127.02301644
     },
@@ -2707,6 +3893,30 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 3
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
       "lat": 37.58055018,
       "lng": 127.02245477
     },
@@ -2725,6 +3935,30 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58151194,
       "lng": 127.0240229
     },
@@ -2743,6 +3977,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58184957,
       "lng": 127.0272939
     },
@@ -2761,6 +3997,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58146482,
       "lng": 127.02351355
     },
@@ -2779,6 +4017,34 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58214565,
       "lng": 127.02695225
     },
@@ -2797,6 +4063,26 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "비즈원(다회선)",
+          "count": 19
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 19
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58164277,
       "lng": 127.02741979
     },
@@ -2815,6 +4101,30 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 1
+        }
+      ],
       "lat": 37.58106444,
       "lng": 127.02257607
     },
@@ -2833,6 +4143,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58094695,
       "lng": 127.02249754
     },
@@ -2851,6 +4163,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.57938084,
       "lng": 127.02305116
     },
@@ -2869,6 +4188,26 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 3
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 5
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.57922798,
       "lng": 127.02314274
     },
@@ -2887,6 +4226,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57910212,
       "lng": 127.02322282
     },
@@ -2905,6 +4246,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57992013,
       "lng": 127.02267398
     },
@@ -2923,6 +4266,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58152855,
       "lng": 127.0236717
     },
@@ -2941,6 +4300,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.58154699,
       "lng": 127.02377352
     },
@@ -2959,6 +4325,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.58152596,
       "lng": 127.02751113
     },
@@ -2977,6 +4345,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.58152778,
       "lng": 127.02347917
     }

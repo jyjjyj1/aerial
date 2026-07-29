@@ -75,96 +75,6 @@
   },
   "buildings": [
     {
-      "pnu": "1114016500118340000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "해비치",
-      "jibun_addr": "서울 중구 황학동 1834",
-      "road_addr": "서울 중구 난계로17길 60-10",
-      "avail_gen_cnt": 17,
-      "int_scrbr_cnt": 11,
-      "tv_scrbr_cnt": 12,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 3,
-      "catv_8vsb_cnt": 1,
-      "lat": 37.57007649,
-      "lng": 127.02022289
-    },
-    {
-      "pnu": "1114016500117690000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 1769",
-      "road_addr": "서울 중구 난계로17길 58-11",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57015003,
-      "lng": 127.02057346
-    },
-    {
-      "pnu": "1114016500117720000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 1772",
-      "road_addr": "서울 중구 난계로21길 51",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "lat": 37.57031286,
-      "lng": 127.02071963
-    },
-    {
-      "pnu": "1114016500117700000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 1770",
-      "road_addr": "서울 중구 난계로17길 60-20",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57025786,
-      "lng": 127.0204935
-    },
-    {
-      "pnu": "1114016500118590000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 1859",
-      "road_addr": "서울 중구 난계로17길 58-13",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57020452,
-      "lng": 127.02067503
-    },
-    {
       "pnu": "1114016500119590000",
       "match_type": "inside",
       "in_area": true,
@@ -179,224 +89,24 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
       "lat": 37.5701297,
       "lng": 127.02000739
-    },
-    {
-      "pnu": "1114016500117780000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 1778",
-      "road_addr": "서울 중구 난계로21길 69",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57023772,
-      "lng": 127.01997272
-    },
-    {
-      "pnu": "1114016500120250000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 2025",
-      "road_addr": "서울 중구 난계로17길 60-13",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57029286,
-      "lng": 127.02023282
-    },
-    {
-      "pnu": "1114016500117630000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 1763",
-      "road_addr": "서울 중구 난계로17길 60",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.56984178,
-      "lng": 127.0201338
-    },
-    {
-      "pnu": "1114016500117640000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 1764",
-      "road_addr": "서울 중구 난계로17길 60-6",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.56999496,
-      "lng": 127.02012149
-    },
-    {
-      "pnu": "1114016500119280000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 1928",
-      "road_addr": "서울 중구 #-#",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57005971,
-      "lng": 127.02052874
-    },
-    {
-      "pnu": "1114016500117760000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 1776",
-      "road_addr": "서울 중구 난계로21길 63",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 10,
-      "tv_scrbr_cnt": 20,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 10,
-      "catv_8vsb_cnt": 20,
-      "lat": 37.57035632,
-      "lng": 127.02032301
-    },
-    {
-      "pnu": "1114016500118990000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 1899",
-      "road_addr": "서울 중구 난계로17길 60-8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57004922,
-      "lng": 127.02016644
-    },
-    {
-      "pnu": "1114016500117750000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "황학동근생주택",
-      "jibun_addr": "서울 중구 황학동 1775",
-      "road_addr": "서울 중구 난계로21길 55",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57042888,
-      "lng": 127.02043578
-    },
-    {
-      "pnu": "1114016500119310000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "상락재오피스텔",
-      "jibun_addr": "서울 중구 황학동 1931",
-      "road_addr": "서울 중구 난계로17길 58-5",
-      "avail_gen_cnt": 29,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 29,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.56996902,
-      "lng": 127.02039344
-    },
-    {
-      "pnu": "1114016500117710000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 1771",
-      "road_addr": "서울 중구 난계로21길 53",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57037549,
-      "lng": 127.02060599
-    },
-    {
-      "pnu": "1114016500119760000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 1976",
-      "road_addr": "서울 중구 난계로21길 71",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57024613,
-      "lng": 127.01982546
-    },
-    {
-      "pnu": "1114016500117770000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 1777",
-      "road_addr": "서울 중구 난계로17길 60-9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57020226,
-      "lng": 127.02012016
     },
     {
       "pnu": "1114016500120240000",
@@ -413,8 +123,175 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.5699956,
       "lng": 127.02028003
+    },
+    {
+      "pnu": "1114016500117710000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 1771",
+      "road_addr": "서울 중구 난계로21길 53",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57037549,
+      "lng": 127.02060599
+    },
+    {
+      "pnu": "1114016500117770000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 1777",
+      "road_addr": "서울 중구 난계로17길 60-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.57020226,
+      "lng": 127.02012016
+    },
+    {
+      "pnu": "1114016500119760000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 1976",
+      "road_addr": "서울 중구 난계로21길 71",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57024613,
+      "lng": 127.01982546
+    },
+    {
+      "pnu": "1114016500117720000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 1772",
+      "road_addr": "서울 중구 난계로21길 51",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.57031286,
+      "lng": 127.02071963
+    },
+    {
+      "pnu": "1114016500117780000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 1778",
+      "road_addr": "서울 중구 난계로21길 69",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57023772,
+      "lng": 127.01997272
+    },
+    {
+      "pnu": "1114016500117750000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "황학동근생주택",
+      "jibun_addr": "서울 중구 황학동 1775",
+      "road_addr": "서울 중구 난계로21길 55",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.57042888,
+      "lng": 127.02043578
     },
     {
       "pnu": "1114016500119010000",
@@ -431,8 +308,30 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56992272,
       "lng": 127.02008799
+    },
+    {
+      "pnu": "1114016500117640000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 1764",
+      "road_addr": "서울 중구 난계로17길 60-6",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.56999496,
+      "lng": 127.02012149
     },
     {
       "pnu": "1114016500120300000",
@@ -449,8 +348,305 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 3,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 3
+        }
+      ],
       "lat": 37.56989637,
       "lng": 127.02025801
+    },
+    {
+      "pnu": "1114016500119280000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 1928",
+      "road_addr": "서울 중구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57005971,
+      "lng": 127.02052874
+    },
+    {
+      "pnu": "1114016500119310000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "상락재오피스텔",
+      "jibun_addr": "서울 중구 황학동 1931",
+      "road_addr": "서울 중구 난계로17길 58-5",
+      "avail_gen_cnt": 29,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 29,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD2_STB)_M",
+          "count": 29
+        }
+      ],
+      "lat": 37.56996902,
+      "lng": 127.02039344
+    },
+    {
+      "pnu": "1114016500118990000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 1899",
+      "road_addr": "서울 중구 난계로17길 60-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57004922,
+      "lng": 127.02016644
+    },
+    {
+      "pnu": "1114016500117690000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 1769",
+      "road_addr": "서울 중구 난계로17길 58-11",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57015003,
+      "lng": 127.02057346
+    },
+    {
+      "pnu": "1114016500118340000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "해비치",
+      "jibun_addr": "서울 중구 황학동 1834",
+      "road_addr": "서울 중구 난계로17길 60-10",
+      "avail_gen_cnt": 17,
+      "int_scrbr_cnt": 11,
+      "tv_scrbr_cnt": 12,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 3,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)",
+          "count": 3
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 5
+        },
+        {
+          "method": "광랜E",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.57007649,
+      "lng": 127.02022289
+    },
+    {
+      "pnu": "1114016500117700000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 1770",
+      "road_addr": "서울 중구 난계로17길 60-20",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57025786,
+      "lng": 127.0204935
+    },
+    {
+      "pnu": "1114016500117630000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 1763",
+      "road_addr": "서울 중구 난계로17길 60",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.56984178,
+      "lng": 127.0201338
+    },
+    {
+      "pnu": "1114016500118590000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 1859",
+      "road_addr": "서울 중구 난계로17길 58-13",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.57020452,
+      "lng": 127.02067503
+    },
+    {
+      "pnu": "1114016500120250000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 2025",
+      "road_addr": "서울 중구 난계로17길 60-13",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.57029286,
+      "lng": 127.02023282
+    },
+    {
+      "pnu": "1114016500117760000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 1776",
+      "road_addr": "서울 중구 난계로21길 63",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 10,
+      "tv_scrbr_cnt": 20,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 10,
+      "catv_8vsb_cnt": 20,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 5
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 20
+        }
+      ],
+      "lat": 37.57035632,
+      "lng": 127.02032301
     },
     {
       "pnu": "1114016500118910000",
@@ -467,6 +663,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57025961,
       "lng": 127.0209238
     },
@@ -485,6 +683,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57031383,
       "lng": 127.02095743
     },
@@ -503,6 +703,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57012391,
       "lng": 127.02080011
     },
@@ -521,6 +723,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.5703771,
       "lng": 127.02100232
     },
@@ -539,6 +743,34 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
       "lat": 37.569904,
       "lng": 127.01991825
     },
@@ -557,6 +789,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.57017403,
       "lng": 127.01982592
     },
@@ -575,6 +819,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56985227,
       "lng": 127.0204961
     },
@@ -593,6 +839,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57020548,
       "lng": 127.02091282
     },
@@ -611,6 +859,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56977278,
       "lng": 127.02037776
     },
@@ -629,6 +879,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57005699,
       "lng": 127.01986064
     },
@@ -647,6 +899,30 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.57000637,
       "lng": 127.02071027
     },
@@ -665,6 +941,34 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 7
+        },
+        {
+          "method": "광랜E",
+          "count": 6
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 9
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.57032316,
       "lng": 127.02103663
     },
@@ -683,6 +987,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57035397,
       "lng": 127.0197455
     },
@@ -701,6 +1007,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57014248,
       "lng": 127.02093587
     },
@@ -719,6 +1027,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
       "lat": 37.57028159,
       "lng": 127.01967802
     },
@@ -737,6 +1052,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.5702872,
       "lng": 127.02105951
     },
@@ -755,6 +1072,26 @@
       "catv_digital_cnt": 3,
       "catv_internet_cnt": 2,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
       "lat": 37.57016975,
       "lng": 127.02099232
     },
@@ -773,6 +1110,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57016074,
       "lng": 127.02099238
     },
@@ -791,6 +1130,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57022402,
       "lng": 127.02103727
     },
@@ -809,6 +1150,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56999781,
       "lng": 127.02082356
     },
@@ -827,6 +1170,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57018253,
       "lng": 127.0197013
     },
@@ -845,6 +1190,18 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.56974429,
       "lng": 127.02054209
     },
@@ -863,6 +1220,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57011038,
       "lng": 127.01969044
     },
@@ -881,6 +1240,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57008859,
       "lng": 127.02098152
     },
@@ -899,6 +1260,34 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 28
+        },
+        {
+          "method": "광랜E",
+          "count": 9
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 18
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.56985323,
       "lng": 127.0207339
     },
@@ -917,6 +1306,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57005635,
       "lng": 127.01970211
     },
@@ -935,6 +1326,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56992133,
       "lng": 127.01974828
     },
@@ -953,6 +1346,18 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
       "lat": 37.57000227,
       "lng": 127.01970246
     },
@@ -971,6 +1376,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.57009806,
       "lng": 127.0210947
     },
@@ -989,6 +1410,34 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 2,
       "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.5698628,
       "lng": 127.02086972
     },
@@ -1007,6 +1456,46 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 12
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 10
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 11
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        }
+      ],
       "lat": 37.57028807,
       "lng": 127.02127466
     },
@@ -1025,6 +1514,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56993541,
       "lng": 127.02099382
     },
@@ -1043,6 +1534,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56969095,
       "lng": 127.02072361
     },
@@ -1061,6 +1554,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56995376,
       "lng": 127.02107297
     },
@@ -1079,6 +1574,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56941825,
       "lng": 127.02015917
     },
@@ -1097,6 +1594,22 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.56988165,
       "lng": 127.02107343
     },
@@ -1115,6 +1628,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.56972774,
       "lng": 127.02090456
     },
@@ -1133,6 +1658,46 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 5
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.56991812,
       "lng": 127.02117511
     },
@@ -1151,6 +1716,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.5698095,
       "lng": 127.02106257
     },
@@ -1169,6 +1736,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.57037926,
       "lng": 127.01931502
     },
@@ -1187,6 +1766,34 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 4
+        },
+        {
+          "method": "광랜E",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.57013531,
       "lng": 127.02138888
     },
@@ -1205,6 +1812,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.56994571,
       "lng": 127.02131083
     },
@@ -1223,6 +1846,202 @@
       "catv_digital_cnt": 104,
       "catv_internet_cnt": 65,
       "catv_8vsb_cnt": 67,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 7
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 49
+        },
+        {
+          "method": "광랜E",
+          "count": 191
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 19
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        },
+        {
+          "method": "광랜E(500)",
+          "count": 448
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        },
+        {
+          "method": "B인터넷_타사임차",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 12
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 2
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 17
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 26
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 408
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 33
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)_S",
+          "count": 16
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 16
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 9
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 7
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 97
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 9
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 9
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 28
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 9
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTVon기업_smart 3 STB)",
+          "count": 45
+        },
+        {
+          "method": "Btv(CATV_실속형_UHD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 7
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 26
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 58
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 9
+        },
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 40
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 8
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 6
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 3
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 4
+        },
+        {
+          "method": "Btv(자급 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(AI Sound Max STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.57093629,
       "lng": 127.02108933
     },
@@ -1241,6 +2060,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57044217,
       "lng": 127.01926932
     },
@@ -1259,6 +2080,30 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 3,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
       "lat": 37.5698553,
       "lng": 127.02124346
     },
@@ -1277,6 +2122,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56967641,
       "lng": 127.01936484
     },
@@ -1295,6 +2142,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56946069,
       "lng": 127.01951343
     },
@@ -1313,6 +2162,42 @@
       "catv_digital_cnt": 4,
       "catv_internet_cnt": 27,
       "catv_8vsb_cnt": 54,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 20
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 50
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 4
+        }
+      ],
       "lat": 37.56980246,
       "lng": 127.01933005
     },
@@ -1331,6 +2216,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.5703788,
       "lng": 127.01920179
     },
@@ -1349,6 +2236,50 @@
       "catv_digital_cnt": 6,
       "catv_internet_cnt": 6,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 4
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 4
+        },
+        {
+          "method": "광랜W",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.56948415,
       "lng": 127.0208495
     },
@@ -1367,6 +2298,18 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.56958623,
       "lng": 127.01935409
     },
@@ -1385,6 +2328,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.57003648,
       "lng": 127.02146878
     },
@@ -1403,6 +2362,26 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
       "lat": 37.5697379,
       "lng": 127.02118759
     },
@@ -1421,6 +2400,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56940657,
       "lng": 127.01950246
     },
@@ -1439,6 +2420,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.57015416,
       "lng": 127.02159259
     },
@@ -1457,6 +2450,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
       "lat": 37.57057718,
       "lng": 127.01922316
     },
@@ -1475,6 +2484,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57034242,
       "lng": 127.01912275
     },
@@ -1493,6 +2504,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 8
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.56962965,
       "lng": 127.02116564
     },
@@ -1511,6 +2538,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56934343,
       "lng": 127.01949154
     },
@@ -1529,6 +2558,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTVon기업회선)_M",
+          "count": 45
+        }
+      ],
       "lat": 37.56989227,
       "lng": 127.0214697
     },
@@ -1547,6 +2583,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.5704865,
       "lng": 127.01908785
     },
@@ -1565,6 +2608,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.57030605,
       "lng": 127.01904372
     },
@@ -1583,6 +2642,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56928926,
       "lng": 127.01946924
     },
@@ -1601,6 +2662,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56912397,
       "lng": 127.02009219
     },
@@ -1619,6 +2682,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56917305,
       "lng": 127.01970779
     },
@@ -1637,6 +2702,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56994575,
       "lng": 127.01910265
     },
@@ -1655,6 +2722,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56988367,
       "lng": 127.02157167
     },
@@ -1673,6 +2742,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.56998309,
       "lng": 127.02163898
     },
@@ -1691,6 +2772,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57023366,
       "lng": 127.01897624
     },
@@ -1709,6 +2792,13 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.56926203,
       "lng": 127.01942412
     },
@@ -1727,6 +2817,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56935166,
       "lng": 127.01929898
     },
@@ -1745,6 +2837,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.57044101,
       "lng": 127.01898623
     },
@@ -1763,6 +2867,50 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 29
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 44
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 11
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 15
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 2
+        }
+      ],
       "lat": 37.56914606,
       "lng": 127.01971928
     },
@@ -1781,26 +2929,10 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56944028,
       "lng": 127.0211442
-    },
-    {
-      "pnu": "1114016500100730004",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 73.80340188,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 73-4",
-      "road_addr": "서울 중구 마장로5길 33",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.56965728,
-      "lng": 127.01909318
     },
     {
       "pnu": "1114016500100730004",
@@ -1817,8 +2949,82 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.56948603,
       "lng": 127.01909429
+    },
+    {
+      "pnu": "1114016500100730004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 73.80340188,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 73-4",
+      "road_addr": "서울 중구 마장로5길 33",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.56965728,
+      "lng": 127.01909318
+    },
+    {
+      "pnu": "1114016500100670000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 77.95461849,
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중구 황학동 67",
+      "road_addr": "서울 중구 마장로9길 43-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.57000833,
+      "lng": 127.01897769
     },
     {
       "pnu": "1114016500100670000",
@@ -1835,6 +3041,18 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 2,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
       "lat": 37.56981758,
       "lng": 127.01861655
     },
@@ -1853,26 +3071,20 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.56989851,
       "lng": 127.01857073
-    },
-    {
-      "pnu": "1114016500100670000",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 77.95461849,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중구 황학동 67",
-      "road_addr": "서울 중구 마장로9길 43-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 0,
-      "lat": 37.57000833,
-      "lng": 127.01897769
     },
     {
       "pnu": "1114016500100730004",
@@ -1889,6 +3101,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.56965728,
       "lng": 127.01909318
     },
@@ -1907,6 +3126,17 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.56948603,
       "lng": 127.01909429
     },
@@ -1925,6 +3155,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56984619,
       "lng": 127.01900138
     },
@@ -1943,6 +3175,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56963995,
       "lng": 127.02148264
     },
@@ -1961,6 +3195,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56925242,
       "lng": 127.01927697
     },
@@ -1979,6 +3215,18 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.57007405,
       "lng": 127.02184223
     },
@@ -1997,6 +3245,22 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
       "lat": 37.56998373,
       "lng": 127.02179751
     },
@@ -2015,6 +3279,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
       "lat": 37.56956766,
       "lng": 127.02143781
     },
@@ -2033,6 +3304,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 30,
       "catv_8vsb_cnt": 46,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 17
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 46
+        }
+      ],
       "lat": 37.5702601,
       "lng": 127.01882886
     },
@@ -2051,6 +3338,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57037727,
       "lng": 127.0188281
     },
@@ -2069,6 +3358,58 @@
       "catv_digital_cnt": 4,
       "catv_internet_cnt": 3,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 3
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 10
+        },
+        {
+          "method": "광랜E",
+          "count": 11
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 9
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(AI Sound Max STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.57029092,
       "lng": 127.02197673
     },
@@ -2087,6 +3428,46 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 9
+        },
+        {
+          "method": "광랜E",
+          "count": 8
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 8
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.56929607,
       "lng": 127.02114513
     },
@@ -2105,6 +3486,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.5692235,
       "lng": 127.02103235
     },
@@ -2123,6 +3506,13 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.56949467,
       "lng": 127.01900364
     },
@@ -2141,6 +3531,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 2,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
       "lat": 37.56918036,
       "lng": 127.01928876
     },
@@ -2159,6 +3556,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56927895,
       "lng": 127.01915224
     },
@@ -2177,6 +3576,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.57010146,
       "lng": 127.02193265
     },
@@ -2195,6 +3596,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56981878,
       "lng": 127.01891096
     },
@@ -2213,6 +3616,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56922378,
       "lng": 127.02110029
     },
@@ -2231,6 +3636,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56956802,
       "lng": 127.0215284
     },
@@ -2249,6 +3656,13 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 2,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
       "lat": 37.56906383,
       "lng": 127.01944804
     },
@@ -2267,6 +3681,34 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
       "lat": 37.56977629,
       "lng": 127.02176487
     },
@@ -2285,6 +3727,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.5701427,
       "lng": 127.01877299
     },
@@ -2303,6 +3747,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56985769,
       "lng": 127.02183229
     },
@@ -2321,6 +3767,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56953937,
       "lng": 127.01891276
     },
@@ -2339,6 +3787,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.5700294,
       "lng": 127.02194443
     },
@@ -2357,6 +3807,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56968593,
       "lng": 127.02170883
     },
@@ -2375,6 +3827,18 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.56917093,
       "lng": 127.0191869
     },
@@ -2393,6 +3857,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56989962,
       "lng": 127.0188425
     },
@@ -2411,6 +3877,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56978245,
       "lng": 127.01884325
     },
@@ -2429,6 +3897,22 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 30
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 30
+        }
+      ],
       "lat": 37.56906995,
       "lng": 127.02095407
     },
@@ -2447,6 +3931,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56962927,
       "lng": 127.01885556
     },
@@ -2465,6 +3951,18 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.56932393,
       "lng": 127.02134878
     },
@@ -2483,6 +3981,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56945825,
       "lng": 127.01891328
     },
@@ -2501,6 +4001,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56959561,
       "lng": 127.02166411
     },
@@ -2519,6 +4021,18 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
       "lat": 37.56994832,
       "lng": 127.02195627
     },
@@ -2537,6 +4051,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56922446,
       "lng": 127.01905067
     },
@@ -2555,6 +4071,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.5704268,
       "lng": 127.02214572
     },
@@ -2573,6 +4091,22 @@
       "catv_digital_cnt": 2,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
       "lat": 37.56906305,
       "lng": 127.01925554
     },
@@ -2591,6 +4125,30 @@
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
       "lat": 37.56899766,
       "lng": 127.02090924
     },
@@ -2609,6 +4167,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56895586,
       "lng": 127.01949403
     },
@@ -2627,6 +4187,8 @@
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
       "lat": 37.56882361,
       "lng": 127.0202196
     }

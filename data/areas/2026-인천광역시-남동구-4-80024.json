@@ -71,13 +71,75 @@
   },
   "buildings": [
     {
-      "pnu": "2820011000105540012",
+      "pnu": "2820010700106440000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 554-12",
-      "road_addr": "인천 남동구 논곡로 62-1",
+      "jibun_addr": "인천 남동구 남촌동 644",
+      "road_addr": "인천 남동구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.41620016,
+      "lng": 126.7120184
+    },
+    {
+      "pnu": "2820011000105530017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 553-17",
+      "road_addr": "인천 남동구 논곡로78번길 17",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41532083,
+      "lng": 126.71228859
+    },
+    {
+      "pnu": "2820011000105590005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "논현부동산상가",
+      "jibun_addr": "인천 남동구 논현동 559-5",
+      "road_addr": "인천 남동구 논곡로 83-1",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -87,8 +149,42 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.41625466,
-      "lng": 126.71310375
+      "lat": 37.4142157,
+      "lng": 126.71281998
+    },
+    {
+      "pnu": "2820011000105530011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 553-11",
+      "road_addr": "인천 남동구 논곡로78번길 33",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41600747,
+      "lng": 126.71253001
     },
     {
       "pnu": "2820011000105530009",
@@ -109,6 +205,90 @@
       "tv_tech": [],
       "lat": 37.41625143,
       "lng": 126.71261786
+    },
+    {
+      "pnu": "2820011000105560010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 556-10",
+      "road_addr": "인천 남동구 논곡로78번길 4-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 3,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_비즈_광랜W(50)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41523304,
+      "lng": 126.71263982
+    },
+    {
+      "pnu": "2820011000105610001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "화이트자동차정비",
+      "jibun_addr": "인천 남동구 논현동 561-1",
+      "road_addr": "인천 남동구 남동대로370번길 105",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41387545,
+      "lng": 126.71180652
     },
     {
       "pnu": "2820011000105560007",
@@ -199,18 +379,177 @@
       "lng": 126.71290077
     },
     {
-      "pnu": "2820011000105530003",
+      "pnu": "2820011000105570003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-3",
-      "road_addr": "인천 남동구 논곡로78번길 55",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 10,
+      "jibun_addr": "인천 남동구 논현동 557-3",
+      "road_addr": "인천 남동구 논곡로78번길 4-10",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 11,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 6,
+      "catv_8vsb_cnt": 11,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 11
+        }
+      ],
+      "lat": 37.41522568,
+      "lng": 126.71288851
+    },
+    {
+      "pnu": "2820011000105590006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 559-6",
+      "road_addr": "인천 남동구 논곡로85번길 2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.41407112,
+      "lng": 126.71276499
+    },
+    {
+      "pnu": "2820011000105530005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 553-5",
+      "road_addr": "인천 남동구 논곡로78번길 49",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 13,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD2_STB)_M",
+          "count": 13
+        }
+      ],
+      "lat": 37.41673032,
+      "lng": 126.71279366
+    },
+    {
+      "pnu": "2820011000105530022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대한예수교장로회논현제일교회",
+      "jibun_addr": "인천 남동구 논현동 553-22",
+      "road_addr": "인천 남동구 남동대로370번길 103",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.41403542,
+      "lng": 126.71146583
+    },
+    {
+      "pnu": "2820011000105600009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 560-9",
+      "road_addr": "인천 남동구 논곡로77번길 16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 14,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 12,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 12
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41434565,
+      "lng": 126.71338363
+    },
+    {
+      "pnu": "2820011000105530002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 553-2",
+      "road_addr": "인천 남동구 논곡로 52",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
       "catv_internet_cnt": 5,
       "catv_8vsb_cnt": 9,
       "int_tech": [
@@ -221,29 +560,21 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)_S",
-          "count": 1
-        },
-        {
           "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 8
-        },
-        {
-          "method": "Btv(CATV_8VSB)_30",
-          "count": 1
+          "count": 9
         }
       ],
-      "lat": 37.41697427,
-      "lng": 126.71288151
+      "lat": 37.41710082,
+      "lng": 126.71293669
     },
     {
-      "pnu": "2820011000105620003",
+      "pnu": "2820011000105530014",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "논현동우체국",
-      "jibun_addr": "인천 남동구 논현동 562-3",
-      "road_addr": "인천 남동구 남동대로370번길 137",
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 553-14",
+      "road_addr": "인천 남동구 논곡로78번길 25",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -253,8 +584,533 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.41323608,
-      "lng": 126.71324834
+      "lat": 37.41570937,
+      "lng": 126.71243143
+    },
+    {
+      "pnu": "2820011000105590009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 559-9",
+      "road_addr": "인천 남동구 논곡로 89-1",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41371879,
+      "lng": 126.71264437
+    },
+    {
+      "pnu": "2820011000105590004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가로수빌",
+      "jibun_addr": "인천 남동구 논현동 559-4",
+      "road_addr": "인천 남동구 논곡로 83",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41434211,
+      "lng": 126.71285256
+    },
+    {
+      "pnu": "2820011000105590013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 559-13",
+      "road_addr": "인천 남동구 논곡로85번길 5-5",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.41431605,
+      "lng": 126.71299973
+    },
+    {
+      "pnu": "2820011000105540014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 554-14",
+      "road_addr": "인천 남동구 논곡로 56",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41672296,
+      "lng": 126.71304235
+    },
+    {
+      "pnu": "2820011000105540006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 554-6",
+      "road_addr": "인천 남동구 논곡로78번길 42",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.41629852,
+      "lng": 126.71292248
+    },
+    {
+      "pnu": "2820011000105530013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 553-13",
+      "road_addr": "인천 남동구 논곡로78번길 29",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.41585388,
+      "lng": 126.71247512
+    },
+    {
+      "pnu": "2820011000105530018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 553-18",
+      "road_addr": "인천 남동구 논곡로78번길 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 13,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 13,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 13
+        }
+      ],
+      "lat": 37.41519428,
+      "lng": 126.71223341
+    },
+    {
+      "pnu": "2820011000105600002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 560-2",
+      "road_addr": "인천 남동구 논곡로85번길 5-8",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41436285,
+      "lng": 126.71325915
+    },
+    {
+      "pnu": "2820011000105560006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 556-6",
+      "road_addr": "인천 남동구 논곡로78번길 10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 13,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 12,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 12
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41503325,
+      "lng": 126.71241591
+    },
+    {
+      "pnu": "2820011000105600004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 560-4",
+      "road_addr": "인천 남동구 논곡로85번길 5-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41414593,
+      "lng": 126.71317102
+    },
+    {
+      "pnu": "2820011000105590001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "논현주공아파트14차상가",
+      "jibun_addr": "인천 남동구 논현동 559-1",
+      "road_addr": "인천 남동구 논곡로77번길 2",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41470353,
+      "lng": 126.71298438
+    },
+    {
+      "pnu": "2820011000105540010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 554-10",
+      "road_addr": "인천 남동구 논곡로 60",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.41647142,
+      "lng": 126.71316929
+    },
+    {
+      "pnu": "2820011000105590011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼호주택",
+      "jibun_addr": "인천 남동구 논현동 559-11",
+      "road_addr": "인천 남동구 논곡로85번길 5-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41455091,
+      "lng": 126.71307638
+    },
+    {
+      "pnu": "2820011000105530019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 553-19",
+      "road_addr": "인천 남동구 논곡로78번길 11",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41505871,
+      "lng": 126.71217833
+    },
+    {
+      "pnu": "2820011000105540005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 554-5",
+      "road_addr": "인천 남동구 논곡로78번길 44",
+      "avail_gen_cnt": 19,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41640683,
+      "lng": 126.71294395
+    },
+    {
+      "pnu": "2820011000105540004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 554-4",
+      "road_addr": "인천 남동구 논곡로78번길 46",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 16,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 6,
+      "catv_8vsb_cnt": 14,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 14
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41651528,
+      "lng": 126.71298802
     },
     {
       "pnu": "2820011000105590016",
@@ -287,27 +1143,23 @@
       "lng": 126.71285689
     },
     {
-      "pnu": "2820011000105540004",
+      "pnu": "2820011000105530008",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 554-4",
-      "road_addr": "인천 남동구 논곡로78번길 46",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 7,
-      "tv_scrbr_cnt": 16,
+      "jibun_addr": "인천 남동구 논현동 553-8",
+      "road_addr": "인천 남동구 논곡로78번길 41",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 1,
-      "catv_internet_cnt": 6,
-      "catv_8vsb_cnt": 14,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
       "int_tech": [
         {
           "method": "CA_광랜W(320)_구",
-          "count": 1
-        },
-        {
-          "method": "CA_비즈_메트로_광랜_구",
           "count": 1
         },
         {
@@ -317,29 +1169,29 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 14
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_Android)",
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
           "count": 1
         }
       ],
-      "lat": 37.41651528,
-      "lng": 126.71298802
+      "lat": 37.4163689,
+      "lng": 126.71266183
     },
     {
-      "pnu": "2820011000105590017",
+      "pnu": "2820011000105620003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "행복한장로교회",
-      "jibun_addr": "인천 남동구 논현동 559-17",
-      "road_addr": "인천 남동구 논곡로91번길 5-5",
+      "bld_nm": "논현동우체국",
+      "jibun_addr": "인천 남동구 논현동 562-3",
+      "road_addr": "인천 남동구 남동대로370번길 137",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -349,8 +1201,157 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.41380997,
-      "lng": 126.71280162
+      "lat": 37.41323608,
+      "lng": 126.71324834
+    },
+    {
+      "pnu": "2820011000105560005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 556-5",
+      "road_addr": "인천 남동구 논곡로78번길 16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 11,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 7,
+      "catv_8vsb_cnt": 11,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 10
+        }
+      ],
+      "lat": 37.41515072,
+      "lng": 126.71245988
+    },
+    {
+      "pnu": "2820011000105540012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 554-12",
+      "road_addr": "인천 남동구 논곡로 62-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.41625466,
+      "lng": 126.71310375
+    },
+    {
+      "pnu": "2820011000105610005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "견우프라자",
+      "jibun_addr": "인천 남동구 논현동 561-5",
+      "road_addr": "인천 남동구 남동대로370번길 119",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.41359891,
+      "lng": 126.71223882
+    },
+    {
+      "pnu": "2820011000105560009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 556-9",
+      "road_addr": "인천 남동구 논곡로78번길 4-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.41534149,
+      "lng": 126.71268389
+    },
+    {
+      "pnu": "2820011000105540013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 554-13",
+      "road_addr": "인천 남동구 논곡로 64",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 8,
+      "tv_scrbr_cnt": 18,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 7,
+      "catv_8vsb_cnt": 17,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 17
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41612856,
+      "lng": 126.71311637
     },
     {
       "pnu": "2820011000105530010",
@@ -383,12 +1384,12 @@
           "count": 9
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
         }
       ],
       "lat": 37.41613403,
@@ -433,6 +1434,36 @@
       "lng": 126.71305049
     },
     {
+      "pnu": "2820011000105600012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 560-12",
+      "road_addr": "인천 남동구 논곡로91번길 23",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41396643,
+      "lng": 126.7132859
+    },
+    {
       "pnu": "2820011000105570004",
       "match_type": "inside",
       "in_area": true,
@@ -463,13 +1494,13 @@
       "lng": 126.71284473
     },
     {
-      "pnu": "2820011000105560009",
+      "pnu": "2820011000105590017",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 556-9",
-      "road_addr": "인천 남동구 논곡로78번길 4-9",
+      "bld_nm": "행복한장로교회",
+      "jibun_addr": "인천 남동구 논현동 559-17",
+      "road_addr": "인천 남동구 논곡로91번길 5-5",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -479,75 +1510,109 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.41534149,
-      "lng": 126.71268389
+      "lat": 37.41380997,
+      "lng": 126.71280162
     },
     {
-      "pnu": "2820011000105530008",
+      "pnu": "2820011000105590012",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-8",
-      "road_addr": "인천 남동구 논곡로78번길 41",
+      "jibun_addr": "인천 남동구 논현동 559-12",
+      "road_addr": "인천 남동구 논곡로85번길 5-7",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
+      "catv_digital_cnt": 2,
       "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_30",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.4163689,
-      "lng": 126.71266183
-    },
-    {
-      "pnu": "2820011000105610005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "견우프라자",
-      "jibun_addr": "인천 남동구 논현동 561-5",
-      "road_addr": "인천 남동구 남동대로370번길 119",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
           "method": "광랜W",
           "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
         }
       ],
-      "tv_tech": [],
-      "lat": 37.41359891,
-      "lng": 126.71223882
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41443344,
+      "lng": 126.7130324
+    },
+    {
+      "pnu": "2820011000105530003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 553-3",
+      "road_addr": "인천 남동구 논곡로78번길 55",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 10,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 9,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 8
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)_S",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.41697427,
+      "lng": 126.71288151
+    },
+    {
+      "pnu": "2820011000105540001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 554-1",
+      "road_addr": "인천 남동구 논곡로 54",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.4168402,
+      "lng": 126.71305242
     },
     {
       "pnu": "2820011000105570002",
@@ -584,58 +1649,88 @@
       "lng": 126.71293229
     },
     {
-      "pnu": "2820011000105560005",
+      "pnu": "2820011000105530016",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 556-5",
-      "road_addr": "인천 남동구 논곡로78번길 16",
+      "jibun_addr": "인천 남동구 논현동 553-16",
+      "road_addr": "인천 남동구 논곡로78번길 21",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 7,
-      "tv_scrbr_cnt": 11,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 16,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
-      "catv_internet_cnt": 7,
-      "catv_8vsb_cnt": 11,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 16,
       "int_tech": [
         {
           "method": "CA_비즈_메트로_광랜_구",
           "count": 1
         },
         {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 10
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
+          "count": 16
         }
       ],
-      "lat": 37.41515072,
-      "lng": 126.71245988
+      "lat": 37.41545633,
+      "lng": 126.71233237
     },
     {
-      "pnu": "2820011000105540013",
+      "pnu": "2820011000105560003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 554-13",
-      "road_addr": "인천 남동구 논곡로 64",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 8,
-      "tv_scrbr_cnt": 18,
+      "jibun_addr": "인천 남동구 논현동 556-3",
+      "road_addr": "인천 남동구 논곡로78번길 20",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 15,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 6,
+      "catv_8vsb_cnt": 14,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 14
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41537657,
+      "lng": 126.71253662
+    },
+    {
+      "pnu": "2820011000105540008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 554-8",
+      "road_addr": "인천 남동구 논곡로 64-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 17,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 7,
@@ -648,38 +1743,161 @@
         {
           "method": "CA_비즈_메트로_광랜_구",
           "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 1
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(CATV_8VSB_Biz)_S",
           "count": 17
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
         }
       ],
-      "lat": 37.41612856,
-      "lng": 126.71311637
+      "lat": 37.41615469,
+      "lng": 126.71298049
     },
     {
-      "pnu": "2820011000105600012",
+      "pnu": "2820011000105530007",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 560-12",
-      "road_addr": "인천 남동구 논곡로91번길 23",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
+      "jibun_addr": "인천 남동구 논현동 553-7",
+      "road_addr": "인천 남동구 논곡로78번길 45",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41648636,
+      "lng": 126.71270581
+    },
+    {
+      "pnu": "2820011000105590018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 559-18",
+      "road_addr": "인천 남동구 논곡로91번길 5-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41370159,
+      "lng": 126.71276886
+    },
+    {
+      "pnu": "2820011000105530015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 553-15",
+      "road_addr": "인천 남동구 논곡로78번길 23",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 16,
+      "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 16,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 16
+        }
+      ],
+      "lat": 37.41558281,
+      "lng": 126.71237625
+    },
+    {
+      "pnu": "2820011000105540007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 554-7",
+      "road_addr": "인천 남동구 논곡로78번길 38",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.41618083,
+      "lng": 126.71284461
+    },
+    {
+      "pnu": "2820011000105600014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 560-14",
+      "road_addr": "인천 남동구 논곡로91번길 17",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
@@ -690,12 +1908,808 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.41396643,
-      "lng": 126.7132859
+      "lat": 37.4137405,
+      "lng": 126.71319786
+    },
+    {
+      "pnu": "2820011000105600013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "택지개발지구",
+      "jibun_addr": "인천 남동구 논현동 560-13",
+      "road_addr": "인천 남동구 논곡로91번길 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41384896,
+      "lng": 126.71324192
+    },
+    {
+      "pnu": "2820011000105610002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우진프라자",
+      "jibun_addr": "인천 남동구 논현동 561-2",
+      "road_addr": "인천 남동구 남동대로370번길 113",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 11,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 9,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 9
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41378637,
+      "lng": 126.71196565
+    },
+    {
+      "pnu": "2820011000105570005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 557-5",
+      "road_addr": "인천 남동구 논곡로 76",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.41496363,
+      "lng": 126.71278955
+    },
+    {
+      "pnu": "2820011000105560012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 556-12",
+      "road_addr": "인천 남동구 논곡로78번길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 12,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 6,
+      "catv_8vsb_cnt": 12,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 12
+        }
+      ],
+      "lat": 37.41500711,
+      "lng": 126.71255179
+    },
+    {
+      "pnu": "2820011000105600001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 560-1",
+      "road_addr": "인천 남동구 논곡로77번길 14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.41449834,
+      "lng": 126.71330293
+    },
+    {
+      "pnu": "2820011000105540009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 554-9",
+      "road_addr": "인천 남동구 논곡로 58",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.41660677,
+      "lng": 126.71319047
+    },
+    {
+      "pnu": "2820011000105530004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 553-4",
+      "road_addr": "인천 남동구 논곡로78번길 53",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 12,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 11,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 10
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)_S",
+          "count": 1
+        }
+      ],
+      "lat": 37.4168568,
+      "lng": 126.71283754
+    },
+    {
+      "pnu": "2820011000105560004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 556-4",
+      "road_addr": "인천 남동구 논곡로78번길 18",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41525917,
+      "lng": 126.71250394
+    },
+    {
+      "pnu": "2820011000105560011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 556-11",
+      "road_addr": "인천 남동구 논곡로78번길 4-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 8,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 8
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41511557,
+      "lng": 126.71259585
+    },
+    {
+      "pnu": "2820011000105540011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 554-11",
+      "road_addr": "인천 남동구 논곡로 62",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 17,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 14,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 14
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)_S",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Android)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.41636304,
+      "lng": 126.71313652
+    },
+    {
+      "pnu": "2820011000105530006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 553-6",
+      "road_addr": "인천 남동구 논곡로78번길 47",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 3,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.41661285,
+      "lng": 126.71274969
+    },
+    {
+      "pnu": "2820011000105600015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 560-15",
+      "road_addr": "인천 남동구 논곡로91번길 9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.41362273,
+      "lng": 126.71310869
+    },
+    {
+      "pnu": "2820011000105590003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 559-3",
+      "road_addr": "인천 남동구 논곡로 81",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41445958,
+      "lng": 126.71289653
+    },
+    {
+      "pnu": "2820011000105560002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 556-2",
+      "road_addr": "인천 남동구 논곡로78번길 22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.41549404,
+      "lng": 126.71258059
+    },
+    {
+      "pnu": "2820011000105600011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "이원봉",
+      "jibun_addr": "인천 남동구 논현동 560-11",
+      "road_addr": "인천 남동구 논곡로77번길 22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        }
+      ],
+      "lat": 37.41410192,
+      "lng": 126.71332968
+    },
+    {
+      "pnu": "2820011000105600008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 560-8",
+      "road_addr": "인천 남동구 논곡로91번길 5-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 8,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 8
+        }
+      ],
+      "lat": 37.41364902,
+      "lng": 126.71299541
+    },
+    {
+      "pnu": "2820011000105540003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 554-3",
+      "road_addr": "인천 남동구 논곡로78번길 50",
+      "avail_gen_cnt": 20,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 11,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 10,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 10
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41661465,
+      "lng": 126.71302088
+    },
+    {
+      "pnu": "2820011000105600005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 560-5",
+      "road_addr": "인천 남동구 논곡로91번길 5-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41399241,
+      "lng": 126.71312742
+    },
+    {
+      "pnu": "2820011000105600010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 560-10",
+      "road_addr": "인천 남동구 논곡로77번길 20",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.41421038,
+      "lng": 126.71337375
+    },
+    {
+      "pnu": "2820011000105530021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "논곡중학교",
+      "jibun_addr": "인천 남동구 논현동 553-21",
+      "road_addr": "인천 남동구 논곡로 84",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.41467085,
+      "lng": 126.71213719
+    },
+    {
+      "pnu": "2820011000105620002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 562-2",
+      "road_addr": "인천 남동구 남동대로370번길 131",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.41328835,
+      "lng": 126.71297658
+    },
+    {
+      "pnu": "2820011000105590014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 559-14",
+      "road_addr": "인천 남동구 논곡로85번길 5-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41418957,
+      "lng": 126.71295585
+    },
+    {
+      "pnu": "2820011000105610004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "남동제일교회",
+      "jibun_addr": "인천 남동구 논현동 561-4",
+      "road_addr": "인천 남동구 논곡로 90",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.41382454,
+      "lng": 126.71228166
+    },
+    {
+      "pnu": "2820011000105590008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 559-8",
+      "road_addr": "인천 남동구 논곡로 89",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.4138452,
+      "lng": 126.71267695
     },
     {
       "pnu": "2820011000105560001",
@@ -724,20 +2738,54 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
           "method": "Btv(CATV_QAM_HD)",
           "count": 2
         },
         {
           "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
         }
       ],
       "lat": 37.41561151,
       "lng": 126.71262456
+    },
+    {
+      "pnu": "2820011000105590002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 559-2",
+      "road_addr": "인천 남동구 논곡로 79",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.41457705,
+      "lng": 126.7129405
     },
     {
       "pnu": "2820011000105590010",
@@ -824,40 +2872,6 @@
       "lng": 126.71261331
     },
     {
-      "pnu": "2820011000105590009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 559-9",
-      "road_addr": "인천 남동구 논곡로 89-1",
-      "avail_gen_cnt": 5,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41371879,
-      "lng": 126.71264437
-    },
-    {
       "pnu": "2820011000105570001",
       "match_type": "inside",
       "in_area": true,
@@ -878,13 +2892,33 @@
       "lng": 126.71297608
     },
     {
-      "pnu": "2820011000105530022",
+      "pnu": "2820011000105600006",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "대한예수교장로회논현제일교회",
-      "jibun_addr": "인천 남동구 논현동 553-22",
-      "road_addr": "인천 남동구 남동대로370번길 103",
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 560-6",
+      "road_addr": "인천 남동구 논곡로91번길 5-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.41389304,
+      "lng": 126.71309456
+    },
+    {
+      "pnu": "2820011000105530001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 논현동 553-1",
+      "road_addr": "인천 남동구 남동동로 378",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -894,8 +2928,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.41403542,
-      "lng": 126.71146583
+      "lat": 37.41566371,
+      "lng": 126.71215009
     },
     {
       "pnu": "2820011000105590007",
@@ -920,2050 +2954,16 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
       "lat": 37.41395365,
       "lng": 126.71272102
-    },
-    {
-      "pnu": "2820011000105530005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-5",
-      "road_addr": "인천 남동구 논곡로78번길 49",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 13,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD2_STB)_M",
-          "count": 13
-        }
-      ],
-      "lat": 37.41673032,
-      "lng": 126.71279366
-    },
-    {
-      "pnu": "2820011000105530001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-1",
-      "road_addr": "인천 남동구 남동동로 378",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.41566371,
-      "lng": 126.71215009
-    },
-    {
-      "pnu": "2820011000105590004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "가로수빌",
-      "jibun_addr": "인천 남동구 논현동 559-4",
-      "road_addr": "인천 남동구 논곡로 83",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41434211,
-      "lng": 126.71285256
-    },
-    {
-      "pnu": "2820011000105530002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-2",
-      "road_addr": "인천 남동구 논곡로 52",
-      "avail_gen_cnt": 15,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 9,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 5,
-      "catv_8vsb_cnt": 9,
-      "int_tech": [
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 9
-        }
-      ],
-      "lat": 37.41710082,
-      "lng": 126.71293669
-    },
-    {
-      "pnu": "2820011000105530013",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-13",
-      "road_addr": "인천 남동구 논곡로78번길 29",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 5,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.41585388,
-      "lng": 126.71247512
-    },
-    {
-      "pnu": "2820011000105590002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 559-2",
-      "road_addr": "인천 남동구 논곡로 79",
-      "avail_gen_cnt": 7,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IP-CATV AI2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.41457705,
-      "lng": 126.7129405
-    },
-    {
-      "pnu": "2820011000105590013",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 559-13",
-      "road_addr": "인천 남동구 논곡로85번길 5-5",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.41431605,
-      "lng": 126.71299973
-    },
-    {
-      "pnu": "2820011000105540014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 554-14",
-      "road_addr": "인천 남동구 논곡로 56",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41672296,
-      "lng": 126.71304235
-    },
-    {
-      "pnu": "2820011000105600009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 560-9",
-      "road_addr": "인천 남동구 논곡로77번길 16",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 14,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 5,
-      "catv_8vsb_cnt": 12,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 12
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41434565,
-      "lng": 126.71338363
-    },
-    {
-      "pnu": "2820011000105530014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-14",
-      "road_addr": "인천 남동구 논곡로78번길 25",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.41570937,
-      "lng": 126.71243143
-    },
-    {
-      "pnu": "2820011000105600006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 560-6",
-      "road_addr": "인천 남동구 논곡로91번길 5-8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.41389304,
-      "lng": 126.71309456
-    },
-    {
-      "pnu": "2820011000105540006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 554-6",
-      "road_addr": "인천 남동구 논곡로78번길 42",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.41629852,
-      "lng": 126.71292248
-    },
-    {
-      "pnu": "2820011000105530016",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-16",
-      "road_addr": "인천 남동구 논곡로78번길 21",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 16,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 5,
-      "catv_8vsb_cnt": 16,
-      "int_tech": [
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 16
-        }
-      ],
-      "lat": 37.41545633,
-      "lng": 126.71233237
-    },
-    {
-      "pnu": "2820011000105540001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 554-1",
-      "road_addr": "인천 남동구 논곡로 54",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.4168402,
-      "lng": 126.71305242
-    },
-    {
-      "pnu": "2820011000105570003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 557-3",
-      "road_addr": "인천 남동구 논곡로78번길 4-10",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 11,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 6,
-      "catv_8vsb_cnt": 11,
-      "int_tech": [
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        },
-        {
-          "method": "CA_비즈_메트로_광랜_IP추가_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 11
-        }
-      ],
-      "lat": 37.41522568,
-      "lng": 126.71288851
-    },
-    {
-      "pnu": "2820011000105560006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 556-6",
-      "road_addr": "인천 남동구 논곡로78번길 10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 13,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 5,
-      "catv_8vsb_cnt": 12,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 12
-        }
-      ],
-      "lat": 37.41503325,
-      "lng": 126.71241591
-    },
-    {
-      "pnu": "2820011000105590005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "논현부동산상가",
-      "jibun_addr": "인천 남동구 논현동 559-5",
-      "road_addr": "인천 남동구 논곡로 83-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.4142157,
-      "lng": 126.71281998
-    },
-    {
-      "pnu": "2820011000105530011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-11",
-      "road_addr": "인천 남동구 논곡로78번길 33",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IP-CATV AI2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41600747,
-      "lng": 126.71253001
-    },
-    {
-      "pnu": "2820011000105560010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 556-10",
-      "road_addr": "인천 남동구 논곡로78번길 4-7",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 3,
-      "catv_8vsb_cnt": 2,
-      "int_tech": [
-        {
-          "method": "CA_비즈_광랜W(50)_구",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 2
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41523304,
-      "lng": 126.71263982
-    },
-    {
-      "pnu": "2820011000105590006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 559-6",
-      "road_addr": "인천 남동구 논곡로85번길 2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        }
-      ],
-      "lat": 37.41407112,
-      "lng": 126.71276499
-    },
-    {
-      "pnu": "2820011000105540008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 554-8",
-      "road_addr": "인천 남동구 논곡로 64-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 7,
-      "tv_scrbr_cnt": 17,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 7,
-      "catv_8vsb_cnt": 17,
-      "int_tech": [
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        },
-        {
-          "method": "CA_비즈_메트로_광랜_IP추가_구",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 17
-        }
-      ],
-      "lat": 37.41615469,
-      "lng": 126.71298049
-    },
-    {
-      "pnu": "2820011000105610001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "화이트자동차정비",
-      "jibun_addr": "인천 남동구 논현동 561-1",
-      "road_addr": "인천 남동구 남동대로370번길 105",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.41387545,
-      "lng": 126.71180652
-    },
-    {
-      "pnu": "2820011000105530017",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-17",
-      "road_addr": "인천 남동구 논곡로78번길 17",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.41532083,
-      "lng": 126.71228859
-    },
-    {
-      "pnu": "2820011000105590012",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 559-12",
-      "road_addr": "인천 남동구 논곡로85번길 5-7",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.41443344,
-      "lng": 126.7130324
-    },
-    {
-      "pnu": "2820011000105560003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 556-3",
-      "road_addr": "인천 남동구 논곡로78번길 20",
-      "avail_gen_cnt": 15,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 15,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 6,
-      "catv_8vsb_cnt": 14,
-      "int_tech": [
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 14
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41537657,
-      "lng": 126.71253662
-    },
-    {
-      "pnu": "2820011000105590018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 559-18",
-      "road_addr": "인천 남동구 논곡로91번길 5-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41370159,
-      "lng": 126.71276886
-    },
-    {
-      "pnu": "2820011000105600013",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "택지개발지구",
-      "jibun_addr": "인천 남동구 논현동 560-13",
-      "road_addr": "인천 남동구 논곡로91번길 19",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41384896,
-      "lng": 126.71324192
-    },
-    {
-      "pnu": "2820011000105560011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 556-11",
-      "road_addr": "인천 남동구 논곡로78번길 4-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 9,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 5,
-      "catv_8vsb_cnt": 8,
-      "int_tech": [
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 8
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD2)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41511557,
-      "lng": 126.71259585
-    },
-    {
-      "pnu": "2820011000105540011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 554-11",
-      "road_addr": "인천 남동구 논곡로 62",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 17,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 5,
-      "catv_8vsb_cnt": 14,
-      "int_tech": [
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_실속형_Android)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 14
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)_S",
-          "count": 1
-        }
-      ],
-      "lat": 37.41636304,
-      "lng": 126.71313652
-    },
-    {
-      "pnu": "2820011000105560012",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 556-12",
-      "road_addr": "인천 남동구 논곡로78번길 6",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 12,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 6,
-      "catv_8vsb_cnt": 12,
-      "int_tech": [
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 12
-        }
-      ],
-      "lat": 37.41500711,
-      "lng": 126.71255179
-    },
-    {
-      "pnu": "2820011000105600014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 560-14",
-      "road_addr": "인천 남동구 논곡로91번길 17",
-      "avail_gen_cnt": 9,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.4137405,
-      "lng": 126.71319786
-    },
-    {
-      "pnu": "2820011000105540007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 554-7",
-      "road_addr": "인천 남동구 논곡로78번길 38",
-      "avail_gen_cnt": 2,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41618083,
-      "lng": 126.71284461
-    },
-    {
-      "pnu": "2820011000105610004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "남동제일교회",
-      "jibun_addr": "인천 남동구 논현동 561-4",
-      "road_addr": "인천 남동구 논곡로 90",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.41382454,
-      "lng": 126.71228166
-    },
-    {
-      "pnu": "2820011000105560004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 556-4",
-      "road_addr": "인천 남동구 논곡로78번길 18",
-      "avail_gen_cnt": 9,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD2)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41525917,
-      "lng": 126.71250394
-    },
-    {
-      "pnu": "2820011000105540009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 554-9",
-      "road_addr": "인천 남동구 논곡로 58",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.41660677,
-      "lng": 126.71319047
-    },
-    {
-      "pnu": "2820011000105530006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-6",
-      "road_addr": "인천 남동구 논곡로78번길 47",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 3,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 2
-        },
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41661285,
-      "lng": 126.71274969
-    },
-    {
-      "pnu": "2820011000105600001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 560-1",
-      "road_addr": "인천 남동구 논곡로77번길 14",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        }
-      ],
-      "lat": 37.41449834,
-      "lng": 126.71330293
-    },
-    {
-      "pnu": "2820011000105530007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-7",
-      "road_addr": "인천 남동구 논곡로78번길 45",
-      "avail_gen_cnt": 15,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_UHD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41648636,
-      "lng": 126.71270581
-    },
-    {
-      "pnu": "2820011000105610002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "우진프라자",
-      "jibun_addr": "인천 남동구 논현동 561-2",
-      "road_addr": "인천 남동구 남동대로370번길 113",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 11,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 9,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 9
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41378637,
-      "lng": 126.71196565
-    },
-    {
-      "pnu": "2820011000105590008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 559-8",
-      "road_addr": "인천 남동구 논곡로 89",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 2
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        }
-      ],
-      "lat": 37.4138452,
-      "lng": 126.71267695
-    },
-    {
-      "pnu": "2820011000105600015",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 560-15",
-      "road_addr": "인천 남동구 논곡로91번길 9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.41362273,
-      "lng": 126.71310869
-    },
-    {
-      "pnu": "2820011000105530021",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "논곡중학교",
-      "jibun_addr": "인천 남동구 논현동 553-21",
-      "road_addr": "인천 남동구 논곡로 84",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.41467085,
-      "lng": 126.71213719
-    },
-    {
-      "pnu": "2820011000105620002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 562-2",
-      "road_addr": "인천 남동구 남동대로370번길 131",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.41328835,
-      "lng": 126.71297658
-    },
-    {
-      "pnu": "2820011000105600010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 560-10",
-      "road_addr": "인천 남동구 논곡로77번길 20",
-      "avail_gen_cnt": 15,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.41421038,
-      "lng": 126.71337375
-    },
-    {
-      "pnu": "2820011000105600011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "이원봉",
-      "jibun_addr": "인천 남동구 논현동 560-11",
-      "road_addr": "인천 남동구 논곡로77번길 22",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_90",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41410192,
-      "lng": 126.71332968
-    },
-    {
-      "pnu": "2820011000105600008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 560-8",
-      "road_addr": "인천 남동구 논곡로91번길 5-4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 8,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 5,
-      "catv_8vsb_cnt": 8,
-      "int_tech": [
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 8
-        }
-      ],
-      "lat": 37.41364902,
-      "lng": 126.71299541
-    },
-    {
-      "pnu": "2820011000105540003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 554-3",
-      "road_addr": "인천 남동구 논곡로78번길 50",
-      "avail_gen_cnt": 20,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 11,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 5,
-      "catv_8vsb_cnt": 10,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 10
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41661465,
-      "lng": 126.71302088
-    },
-    {
-      "pnu": "2820011000105590014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 559-14",
-      "road_addr": "인천 남동구 논곡로85번길 5-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41418957,
-      "lng": 126.71295585
-    },
-    {
-      "pnu": "2820011000105590003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 559-3",
-      "road_addr": "인천 남동구 논곡로 81",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41445958,
-      "lng": 126.71289653
-    },
-    {
-      "pnu": "2820011000105560002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 556-2",
-      "road_addr": "인천 남동구 논곡로78번길 22",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.41549404,
-      "lng": 126.71258059
-    },
-    {
-      "pnu": "2820011000105600005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 560-5",
-      "road_addr": "인천 남동구 논곡로91번길 5-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41399241,
-      "lng": 126.71312742
-    },
-    {
-      "pnu": "2820011000105570005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 557-5",
-      "road_addr": "인천 남동구 논곡로 76",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.41496363,
-      "lng": 126.71278955
-    },
-    {
-      "pnu": "2820011000105530004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-4",
-      "road_addr": "인천 남동구 논곡로78번길 53",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 7,
-      "tv_scrbr_cnt": 12,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 5,
-      "catv_8vsb_cnt": 11,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 2
-        },
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 10
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)_S",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.4168568,
-      "lng": 126.71283754
-    },
-    {
-      "pnu": "2820011000105530015",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-15",
-      "road_addr": "인천 남동구 논곡로78번길 23",
-      "avail_gen_cnt": 15,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 16,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 5,
-      "catv_8vsb_cnt": 16,
-      "int_tech": [
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 16
-        }
-      ],
-      "lat": 37.41558281,
-      "lng": 126.71237625
-    },
-    {
-      "pnu": "2820011000105600004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 560-4",
-      "road_addr": "인천 남동구 논곡로85번길 5-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41414593,
-      "lng": 126.71317102
-    },
-    {
-      "pnu": "2820010700106440000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 남촌동 644",
-      "road_addr": "인천 남동구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.41620016,
-      "lng": 126.7120184
-    },
-    {
-      "pnu": "2820011000105590001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "논현주공아파트14차상가",
-      "jibun_addr": "인천 남동구 논현동 559-1",
-      "road_addr": "인천 남동구 논곡로77번길 2",
-      "avail_gen_cnt": 2,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41470353,
-      "lng": 126.71298438
-    },
-    {
-      "pnu": "2820011000105600002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 560-2",
-      "road_addr": "인천 남동구 논곡로85번길 5-8",
-      "avail_gen_cnt": 9,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41436285,
-      "lng": 126.71325915
-    },
-    {
-      "pnu": "2820011000105590011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "삼호주택",
-      "jibun_addr": "인천 남동구 논현동 559-11",
-      "road_addr": "인천 남동구 논곡로85번길 5-9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41455091,
-      "lng": 126.71307638
-    },
-    {
-      "pnu": "2820011000105530019",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-19",
-      "road_addr": "인천 남동구 논곡로78번길 11",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_UHD2)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41505871,
-      "lng": 126.71217833
-    },
-    {
-      "pnu": "2820011000105540010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 554-10",
-      "road_addr": "인천 남동구 논곡로 60",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        }
-      ],
-      "lat": 37.41647142,
-      "lng": 126.71316929
-    },
-    {
-      "pnu": "2820011000105530018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 553-18",
-      "road_addr": "인천 남동구 논곡로78번길 15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 13,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 5,
-      "catv_8vsb_cnt": 13,
-      "int_tech": [
-        {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB_Biz)_S",
-          "count": 13
-        }
-      ],
-      "lat": 37.41519428,
-      "lng": 126.71223341
-    },
-    {
-      "pnu": "2820011000105540005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 논현동 554-5",
-      "road_addr": "인천 남동구 논곡로78번길 44",
-      "avail_gen_cnt": 19,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41640683,
-      "lng": 126.71294395
     },
     {
       "pnu": "2820011000105580003",
@@ -3019,52 +3019,6 @@
       "match_type": "100m",
       "in_area": false,
       "distance_meter": 2.32282949,
-      "bld_nm": "동보아파트상가",
-      "jibun_addr": "인천 남동구 논현동 563-2",
-      "road_addr": "인천 남동구 남동대로370번길 114",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 3,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41343081,
-      "lng": 126.71183502
-    },
-    {
-      "pnu": "2820011000105630002",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 2.32282949,
       "bld_nm": "동보아파트",
       "jibun_addr": "인천 남동구 논현동 563-2",
       "road_addr": "인천 남동구 남동대로370번길 122",
@@ -3091,71 +3045,63 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 114
-        },
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 3
-        },
-        {
           "method": "Btv(IPTV_AI 2 STB)",
           "count": 5
-        },
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 8
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 15
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 4
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IP-CATV AI2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 5
-        },
-        {
-          "method": "Btv(단독IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 2
         },
         {
           "method": "Btv(CATV_QAM_HD)",
           "count": 14
         },
         {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 8
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 15
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 114
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
           "method": "Btv(CATV_8VSB_공청)_20",
           "count": 1
         },
         {
-          "method": "Btv(CATV_실속형_Smart)_구",
+          "method": "Btv(IPTV_smart 2 STB)",
           "count": 1
         },
         {
@@ -3167,12 +3113,66 @@
           "count": 1
         },
         {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 2
+        },
+        {
           "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_UHD_STB)",
           "count": 1
         }
       ],
       "lat": 37.41270685,
       "lng": 126.71228206
+    },
+    {
+      "pnu": "2820011000105630002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 2.32282949,
+      "bld_nm": "동보아파트상가",
+      "jibun_addr": "인천 남동구 논현동 563-2",
+      "road_addr": "인천 남동구 남동대로370번길 114",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 3,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41343081,
+      "lng": 126.71183502
     },
     {
       "pnu": "2820011000105580001",
@@ -3419,6 +3419,52 @@
       "match_type": "100m",
       "in_area": false,
       "distance_meter": 53.47373468,
+      "bld_nm": "동보아파트상가",
+      "jibun_addr": "인천 남동구 논현동 563-2",
+      "road_addr": "인천 남동구 남동대로370번길 114",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 3,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.41343081,
+      "lng": 126.71183502
+    },
+    {
+      "pnu": "2820011000105630002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 53.47373468,
       "bld_nm": "동보아파트",
       "jibun_addr": "인천 남동구 논현동 563-2",
       "road_addr": "인천 남동구 남동대로370번길 122",
@@ -3445,71 +3491,63 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 114
-        },
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 3
-        },
-        {
           "method": "Btv(IPTV_AI 2 STB)",
           "count": 5
-        },
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 8
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 15
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 4
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IP-CATV AI2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 5
-        },
-        {
-          "method": "Btv(단독IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 2
         },
         {
           "method": "Btv(CATV_QAM_HD)",
           "count": 14
         },
         {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 8
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 15
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 114
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
           "method": "Btv(CATV_8VSB_공청)_20",
           "count": 1
         },
         {
-          "method": "Btv(CATV_실속형_Smart)_구",
+          "method": "Btv(IPTV_smart 2 STB)",
           "count": 1
         },
         {
@@ -3521,58 +3559,20 @@
           "count": 1
         },
         {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 2
+        },
+        {
           "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_UHD_STB)",
           "count": 1
         }
       ],
       "lat": 37.41270685,
       "lng": 126.71228206
-    },
-    {
-      "pnu": "2820011000105630002",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 53.47373468,
-      "bld_nm": "동보아파트상가",
-      "jibun_addr": "인천 남동구 논현동 563-2",
-      "road_addr": "인천 남동구 남동대로370번길 114",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 3,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.41343081,
-      "lng": 126.71183502
     },
     {
       "pnu": "2820010700106100000",
@@ -3619,26 +3619,6 @@
       "match_type": "100m",
       "in_area": false,
       "distance_meter": 56.09310159,
-      "bld_nm": "N/A",
-      "jibun_addr": "인천 남동구 남촌동 610-4",
-      "road_addr": "인천 남동구 남동대로370번길 57-54",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.41673679,
-      "lng": 126.71120709
-    },
-    {
-      "pnu": "2820010700106100004",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 56.09310159,
       "bld_nm": "유일산업",
       "jibun_addr": "인천 남동구 남촌동 610-4",
       "road_addr": "인천 남동구 남동대로370번길 57-52",
@@ -3653,6 +3633,26 @@
       "tv_tech": [],
       "lat": 37.41688276,
       "lng": 126.71132297
+    },
+    {
+      "pnu": "2820010700106100004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 56.09310159,
+      "bld_nm": "N/A",
+      "jibun_addr": "인천 남동구 남촌동 610-4",
+      "road_addr": "인천 남동구 남동대로370번길 57-54",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.41673679,
+      "lng": 126.71120709
     },
     {
       "pnu": "2820010700106260007",
