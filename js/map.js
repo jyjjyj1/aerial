@@ -522,6 +522,17 @@ function renderTechList(techArr) {
     return `<ul class="tech-list">${rows}</ul>`;
 }
 
+/**
+ * 인터넷/TV가입자수는 DB에 저장된 값(int_scrbr_cnt/tv_scrbr_cnt) 대신
+ * 세부 기술방식 목록(int_tech/tv_tech)의 합으로 계산한다.
+ * (두 값의 집계 시점/기준이 달라서 안 맞는 경우가 있어, 팝업에서 보여주는
+ * "세부 목록"과 항상 정확히 일치하도록 세부 목록 합계를 기준으로 통일)
+ */
+function sumTechCount(techArr) {
+    if (!techArr || techArr.length === 0) return 0;
+    return techArr.reduce((sum, t) => sum + (Number(t.count) || 0), 0);
+}
+
 function createBuildingPopupContent(bld) {
     return `
         <div class="popup-container">
@@ -541,14 +552,14 @@ function createBuildingPopupContent(bld) {
                         </tr>
                         <tr class="tech-toggle-row" data-target="int-tech-${bld.pnu}">
                             <th>인터넷가입자수 <i class="fa-solid fa-chevron-down tech-toggle-icon"></i></th>
-                            <td>${formatNumber(bld.int_scrbr_cnt)}</td>
+                            <td>${formatNumber(sumTechCount(bld.int_tech))}</td>
                         </tr>
                         <tr class="tech-detail-row" id="int-tech-${bld.pnu}" style="display:none;">
                             <td colspan="2">${renderTechList(bld.int_tech)}</td>
                         </tr>
                         <tr class="tech-toggle-row" data-target="tv-tech-${bld.pnu}">
                             <th>TV가입자수 <i class="fa-solid fa-chevron-down tech-toggle-icon"></i></th>
-                            <td>${formatNumber(bld.tv_scrbr_cnt)}</td>
+                            <td>${formatNumber(sumTechCount(bld.tv_tech))}</td>
                         </tr>
                         <tr class="tech-detail-row" id="tv-tech-${bld.pnu}" style="display:none;">
                             <td colspan="2">${renderTechList(bld.tv_tech)}</td>
