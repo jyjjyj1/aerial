@@ -170,6 +170,10 @@ export function renderAreaOnMap(areaData, fitBounds = true) {
                 className: 'custom-leaflet-popup'
             });
 
+            marker.on('popupopen', (e) => {
+                wireTechToggle(e.popup.getElement());
+            });
+
             marker.on('mouseover', function () {
                 this.setStyle({
                     fillColor: '#374151',
@@ -499,6 +503,25 @@ function stopOrientationWatch() {
     myOrientationHandler = null;
 }
 
+function renderTechList(techArr) {
+    if (!techArr || techArr.length === 0) {
+        return '<div class="tech-empty">기술방식 데이터 없음</div>';
+    }
+
+    const rows = techArr
+        .slice()
+        .sort((a, b) => b.count - a.count)
+        .map(t => `
+            <li>
+                <span class="tech-name">${t.method || '알수없음'}</span>
+                <span class="tech-count">${formatNumber(t.count)}건</span>
+            </li>
+        `)
+        .join('');
+
+    return `<ul class="tech-list">${rows}</ul>`;
+}
+
 function createBuildingPopupContent(bld) {
     return `
         <div class="popup-container">
@@ -516,37 +539,52 @@ function createBuildingPopupContent(bld) {
                             <th>도로명주소</th>
                             <td class="text-left">${bld.road_addr || '-'}</td>
                         </tr>
-                        <tr>
-                            <th>B가용세대수</th>
-                            <td>${formatNumber(bld.avail_gen_cnt)}</td>
-                        </tr>
-                        <tr>
-                            <th>인터넷가입자수</th>
+                        <tr class="tech-toggle-row" data-target="int-tech-${bld.pnu}">
+                            <th>인터넷가입자수 <i class="fa-solid fa-chevron-down tech-toggle-icon"></i></th>
                             <td>${formatNumber(bld.int_scrbr_cnt)}</td>
                         </tr>
-                        <tr>
-                            <th>TV가입자수</th>
+                        <tr class="tech-detail-row" id="int-tech-${bld.pnu}" style="display:none;">
+                            <td colspan="2">${renderTechList(bld.int_tech)}</td>
+                        </tr>
+                        <tr class="tech-toggle-row" data-target="tv-tech-${bld.pnu}">
+                            <th>TV가입자수 <i class="fa-solid fa-chevron-down tech-toggle-icon"></i></th>
                             <td>${formatNumber(bld.tv_scrbr_cnt)}</td>
                         </tr>
-                        <tr>
-                            <th>SKB POP 가입자수</th>
-                            <td>${formatNumber(bld.skb_pop_cnt)}</td>
-                        </tr>
-                        <tr>
-                            <th>CATV 디지털수</th>
-                            <td>${formatNumber(bld.catv_digital_cnt)}</td>
-                        </tr>
-                        <tr>
-                            <th>CATV 인터넷수</th>
-                            <td>${formatNumber(bld.catv_internet_cnt)}</td>
-                        </tr>
-                        <tr>
-                            <th>CATV 8VSB수</th>
-                            <td>${formatNumber(bld.catv_8vsb_cnt)}</td>
+                        <tr class="tech-detail-row" id="tv-tech-${bld.pnu}" style="display:none;">
+                            <td colspan="2">${renderTechList(bld.tv_tech)}</td>
                         </tr>
                     </tbody>
                 </table>
             </div>
+        </div>
+    `;
+}
+
+/**
+ * 팝업이 열릴 때, 인터넷/TV 가입자수 행을 클릭하면 그 아래 기술방식 목록 행을
+ * 펼치거나 접도록 연결. (bindPopup의 HTML 문자열엔 이벤트를 직접 못 붙이므로
+ * marker의 'popupopen' 이벤트에서 실제 DOM이 생긴 뒤에 연결한다.)
+ */
+function wireTechToggle(popupEl) {
+    if (!popupEl) return;
+
+    popupEl.querySelectorAll('.tech-toggle-row').forEach(row => {
+        row.addEventListener('click', () => {
+            const targetId = row.dataset.target;
+            const detailEl = popupEl.querySelector(`#${targetId}`);
+            if (!detailEl) return;
+
+            const isHidden = detailEl.style.display === 'none';
+            detailEl.style.display = isHidden ? 'table-row' : 'none';
+
+            const icon = row.querySelector('.tech-toggle-icon');
+            if (icon) {
+                icon.classList.toggle('fa-chevron-down', !isHidden);
+                icon.classList.toggle('fa-chevron-up', isHidden);
+            }
+        });
+    });
+}
         </div>
     `;
 }
