@@ -132,6 +132,14 @@ body, html {
     text-shadow: 1px 1px 0px rgba(0,0,0,0.15);
 }
 
+.logo-img {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    border-radius: 6px;
+    flex-shrink: 0;
+}
+
 .logo h1 {
     font-size: 18px;
     font-weight: 700;
@@ -204,6 +212,17 @@ body, html {
 .select-wrapper {
     position: relative;
     width: 100%;
+}
+
+.area-cascade {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.area-cascade select:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
 }
 
 .select-wrapper::after {
@@ -634,6 +653,17 @@ select:focus {
     transform: none;
 }
 
+.map-ctrl-btn.active {
+    background: var(--skb-blue);
+    color: #ffffff;
+    border-color: var(--skb-blue);
+}
+
+.map-ctrl-btn.active:hover {
+    background: var(--skb-blue);
+    color: #ffffff;
+}
+
 #mobileMenuBtn {
     display: none;
 }
@@ -684,6 +714,15 @@ select:focus {
     font-family: var(--font-ko) !important;
     white-space: normal !important;
     max-width: 250px !important;
+}
+
+.leaflet-tooltip-pane .leaflet-tooltip.skb-marker-tooltip {
+    white-space: normal !important;
+    width: max-content !important;
+    max-width: 200px !important;
+    word-break: keep-all !important;
+    overflow-wrap: break-word !important;
+    line-height: 1.4 !important;
 }
 
 .leaflet-tooltip::before {

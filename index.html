@@ -24,9 +24,9 @@
         <aside class="sidebar" id="sidebar">
             <header class="sidebar-header">
                 <div class="logo">
-                    <!-- B Logo style icon using CSS -->
+                    <!-- B 로고 (CSS 뱃지) -->
                     <span class="logo-b">B</span>
-                    <h1>SKB 공중선 정비관리</h1>
+                    <h1>SKB 공중선정비 어시스턴스</h1>
                 </div>
                 <button class="sidebar-toggle-btn" id="sidebarToggleBtn" aria-label="사이드바 토글">
                     <i class="fa-solid fa-chevron-left"></i>
@@ -34,14 +34,30 @@
             </header>
 
             <div class="sidebar-content">
-                <!-- Dropdown section for Area selection -->
+                <!-- Dropdown section for Area selection (연도 > 시도 > 시군구 > 번호 단계별 선택) -->
                 <div class="form-group">
-                    <label for="areaSelect"><i class="fa-solid fa-map-location-dot"></i> 정비구역 선택</label>
-                    <div class="select-wrapper">
-                        <select id="areaSelect">
-                            <option value="" disabled selected>정비구역을 선택하세요</option>
-                            <!-- Options loaded dynamically -->
-                        </select>
+                    <label><i class="fa-solid fa-map-location-dot"></i> 정비구역 선택</label>
+                    <div class="area-cascade">
+                        <div class="select-wrapper">
+                            <select id="yearSelect">
+                                <option value="">연도 선택</option>
+                            </select>
+                        </div>
+                        <div class="select-wrapper">
+                            <select id="sidoSelect" disabled>
+                                <option value="">시/도 선택</option>
+                            </select>
+                        </div>
+                        <div class="select-wrapper">
+                            <select id="sigunguSelect" disabled>
+                                <option value="">시/군/구 선택</option>
+                            </select>
+                        </div>
+                        <div class="select-wrapper">
+                            <select id="areaNumberSelect" disabled>
+                                <option value="">구역 번호 선택</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
 
@@ -128,6 +144,9 @@
                 </button>
                 <button class="map-ctrl-btn" id="recenterBtn" title="구역 중심으로 이동" disabled>
                     <i class="fa-solid fa-crosshairs"></i>
+                </button>
+                <button class="map-ctrl-btn" id="myLocationBtn" title="내 위치 (방향 포함)">
+                    <i class="fa-solid fa-location-crosshairs"></i>
                 </button>
                 <button class="map-ctrl-btn" id="themeToggleBtn" title="테마 변경">
                     <i class="fa-solid fa-moon"></i>
