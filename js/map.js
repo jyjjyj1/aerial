@@ -16,6 +16,7 @@ let isLocationTracking = false;
 let myLocationButtonEl = null;
 let myLocationIconEl = null;
 
+
 /**
  * 터치 기기(폰/태블릿) 여부 판별.
  * 터치 기기는 탭 한 번에 mouseover(툴팁)와 click(상세팝업)이 같이 발생해서
