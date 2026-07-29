@@ -15,7 +15,6 @@ let myOrientationHandler = null;
 let isLocationTracking = false;
 let myLocationButtonEl = null;
 let myLocationIconEl = null;
-let searchResultMarker = null;
 
 /**
  * 터치 기기(폰/태블릿) 여부 판별.
@@ -54,8 +53,6 @@ export function initMap(domId) {
 
     // 초기 테마는 상태값(state.theme, 기본 'dark')과 일치시킴
     setMapTheme(state.theme);
-
-    addAddressSearchControl();
 
     setTimeout(() => {
         mapInstance.invalidateSize();
@@ -171,6 +168,10 @@ export function renderAreaOnMap(areaData, fitBounds = true) {
                 minWidth: 260,
                 offset: [15, 0],
                 className: 'custom-leaflet-popup'
+            });
+
+            marker.on('popupopen', (e) => {
+                wireTechToggle(e.popup.getElement());
             });
 
             marker.on('mouseover', function () {
@@ -502,138 +503,23 @@ function stopOrientationWatch() {
     myOrientationHandler = null;
 }
 
-function addAddressSearchControl() {
-    const SearchControl = L.Control.extend({
-        options: {
-            position: 'topleft'
-        },
-
-        onAdd: function () {
-            const container = L.DomUtil.create('div', 'skb-address-search');
-
-            container.innerHTML = `
-                <div style="
-                    background:#ffffff;
-                    padding:8px;
-                    border-radius:8px;
-                    box-shadow:0 2px 8px rgba(0,0,0,0.25);
-                    display:flex;
-                    gap:6px;
-                    align-items:center;
-                    max-width:320px;
-                ">
-                    <input 
-                        id="skbAddressInput"
-                        type="text"
-                        placeholder="주소 검색"
-                        style="
-                            width:220px;
-                            height:32px;
-                            border:1px solid #d1d5db;
-                            border-radius:6px;
-                            padding:0 8px;
-                            font-size:13px;
-                        "
-                    />
-                    <button 
-                        id="skbAddressSearchBtn"
-                        type="button"
-                        style="
-                            height:32px;
-                            padding:0 10px;
-                            border:none;
-                            border-radius:6px;
-                            background:#0057FF;
-                            color:#ffffff;
-                            font-size:13px;
-                            cursor:pointer;
-                        "
-                    >검색</button>
-                </div>
-            `;
-
-            L.DomEvent.disableClickPropagation(container);
-            L.DomEvent.disableScrollPropagation(container);
-
-            setTimeout(() => {
-                const input = container.querySelector('#skbAddressInput');
-                const button = container.querySelector('#skbAddressSearchBtn');
-
-                button.addEventListener('click', () => {
-                    searchAddress(input.value);
-                });
-
-                input.addEventListener('keydown', e => {
-                    if (e.key === 'Enter') {
-                        searchAddress(input.value);
-                    }
-                });
-            }, 0);
-
-            return container;
-        }
-    });
-
-    mapInstance.addControl(new SearchControl());
-}
-
-async function searchAddress(query) {
-    const keyword = String(query || '').trim();
-
-    if (!keyword) {
-        alert('검색할 주소를 입력하세요.');
-        return;
+function renderTechList(techArr) {
+    if (!techArr || techArr.length === 0) {
+        return '<div class="tech-empty">기술방식 데이터 없음</div>';
     }
 
-    try {
-        const url =
-            'https://nominatim.openstreetmap.org/search?' +
-            new URLSearchParams({
-                q: keyword,
-                format: 'json',
-                limit: '1',
-                countrycodes: 'kr'
-            }).toString();
+    const rows = techArr
+        .slice()
+        .sort((a, b) => b.count - a.count)
+        .map(t => `
+            <li>
+                <span class="tech-name">${t.method || '알수없음'}</span>
+                <span class="tech-count">${formatNumber(t.count)}건</span>
+            </li>
+        `)
+        .join('');
 
-        const response = await fetch(url, {
-            headers: {
-                'Accept': 'application/json'
-            }
-        });
-
-        if (!response.ok) {
-            throw new Error(`주소 검색 실패: ${response.status}`);
-        }
-
-        const results = await response.json();
-
-        if (!results || results.length === 0) {
-            alert('검색 결과가 없습니다.');
-            return;
-        }
-
-        const lat = Number(results[0].lat);
-        const lng = Number(results[0].lon);
-
-        if (!Number.isFinite(lat) || !Number.isFinite(lng)) {
-            alert('검색 결과 좌표가 올바르지 않습니다.');
-            return;
-        }
-
-        if (searchResultMarker) {
-            mapInstance.removeLayer(searchResultMarker);
-        }
-
-        searchResultMarker = L.marker([lat, lng]).addTo(mapInstance);
-        searchResultMarker.bindPopup(results[0].display_name || keyword).openPopup();
-
-        mapInstance.setView([lat, lng], 17, {
-            animate: true
-        });
-    } catch (error) {
-        console.error(error);
-        alert('주소 검색 중 오류가 발생했습니다.');
-    }
+    return `<ul class="tech-list">${rows}</ul>`;
 }
 
 function createBuildingPopupContent(bld) {
@@ -653,37 +539,52 @@ function createBuildingPopupContent(bld) {
                             <th>도로명주소</th>
                             <td class="text-left">${bld.road_addr || '-'}</td>
                         </tr>
-                        <tr>
-                            <th>B가용세대수</th>
-                            <td>${formatNumber(bld.avail_gen_cnt)}</td>
-                        </tr>
-                        <tr>
-                            <th>인터넷가입자수</th>
+                        <tr class="tech-toggle-row" data-target="int-tech-${bld.pnu}">
+                            <th>인터넷가입자수 <i class="fa-solid fa-chevron-down tech-toggle-icon"></i></th>
                             <td>${formatNumber(bld.int_scrbr_cnt)}</td>
                         </tr>
-                        <tr>
-                            <th>TV가입자수</th>
+                        <tr class="tech-detail-row" id="int-tech-${bld.pnu}" style="display:none;">
+                            <td colspan="2">${renderTechList(bld.int_tech)}</td>
+                        </tr>
+                        <tr class="tech-toggle-row" data-target="tv-tech-${bld.pnu}">
+                            <th>TV가입자수 <i class="fa-solid fa-chevron-down tech-toggle-icon"></i></th>
                             <td>${formatNumber(bld.tv_scrbr_cnt)}</td>
                         </tr>
-                        <tr>
-                            <th>SKB POP 가입자수</th>
-                            <td>${formatNumber(bld.skb_pop_cnt)}</td>
-                        </tr>
-                        <tr>
-                            <th>CATV 디지털수</th>
-                            <td>${formatNumber(bld.catv_digital_cnt)}</td>
-                        </tr>
-                        <tr>
-                            <th>CATV 인터넷수</th>
-                            <td>${formatNumber(bld.catv_internet_cnt)}</td>
-                        </tr>
-                        <tr>
-                            <th>CATV 8VSB수</th>
-                            <td>${formatNumber(bld.catv_8vsb_cnt)}</td>
+                        <tr class="tech-detail-row" id="tv-tech-${bld.pnu}" style="display:none;">
+                            <td colspan="2">${renderTechList(bld.tv_tech)}</td>
                         </tr>
                     </tbody>
                 </table>
             </div>
+        </div>
+    `;
+}
+
+/**
+ * 팝업이 열릴 때, 인터넷/TV 가입자수 행을 클릭하면 그 아래 기술방식 목록 행을
+ * 펼치거나 접도록 연결. (bindPopup의 HTML 문자열엔 이벤트를 직접 못 붙이므로
+ * marker의 'popupopen' 이벤트에서 실제 DOM이 생긴 뒤에 연결한다.)
+ */
+function wireTechToggle(popupEl) {
+    if (!popupEl) return;
+
+    popupEl.querySelectorAll('.tech-toggle-row').forEach(row => {
+        row.addEventListener('click', () => {
+            const targetId = row.dataset.target;
+            const detailEl = popupEl.querySelector(`#${targetId}`);
+            if (!detailEl) return;
+
+            const isHidden = detailEl.style.display === 'none';
+            detailEl.style.display = isHidden ? 'table-row' : 'none';
+
+            const icon = row.querySelector('.tech-toggle-icon');
+            if (icon) {
+                icon.classList.toggle('fa-chevron-down', !isHidden);
+                icon.classList.toggle('fa-chevron-up', isHidden);
+            }
+        });
+    });
+}
         </div>
     `;
 }
