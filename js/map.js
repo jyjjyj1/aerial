@@ -17,6 +17,15 @@ let myLocationButtonEl = null;
 let myLocationIconEl = null;
 let searchResultMarker = null;
 
+/**
+ * 터치 기기(폰/태블릿) 여부 판별.
+ * 터치 기기는 탭 한 번에 mouseover(툴팁)와 click(상세팝업)이 같이 발생해서
+ * 툴팁이 잠깐 떴다가 그 위에 상세팝업이 겹쳐 보이는 문제가 있어, 이 경우 툴팁을 아예 안 붙임.
+ */
+function isTouchDevice() {
+    return ('ontouchstart' in window) || (navigator.maxTouchPoints > 0);
+}
+
 export const layerGroups = {
     polygon: L.featureGroup(),
     buildings: L.featureGroup(),
@@ -139,19 +148,23 @@ export function renderAreaOnMap(areaData, fitBounds = true) {
 
             marker.buildingData = bld;
 
-            const tooltipContent = `
-                <div class="map-tooltip" style="white-space:normal; width:max-content; max-width:200px; word-break:keep-all; overflow-wrap:break-word; line-height:1.4; text-align:left;">
-                    <strong style="white-space:normal;">${getBuildingName(bld.bld_nm)}</strong><br/>
-                    <span style="font-size:10px; white-space:normal;">${bld.road_addr || bld.jibun_addr || '-'}</span>
-                </div>
-            `;
+            // PC(마우스)에서만 호버 툴팁 사용. 터치 기기는 탭 한 번에
+            // mouseover+click이 같이 발생해 툴팁과 상세팝업이 겹쳐 보이므로 아예 생략.
+            if (!isTouchDevice()) {
+                const tooltipContent = `
+                    <div class="map-tooltip" style="white-space:normal; width:max-content; max-width:200px; word-break:keep-all; overflow-wrap:break-word; line-height:1.4; text-align:left;">
+                        <strong style="white-space:normal;">${getBuildingName(bld.bld_nm)}</strong><br/>
+                        <span style="font-size:10px; white-space:normal;">${bld.road_addr || bld.jibun_addr || '-'}</span>
+                    </div>
+                `;
 
-            marker.bindTooltip(tooltipContent, {
-                direction: 'top',
-                offset: [0, -5],
-                opacity: 0.95,
-                className: 'skb-marker-tooltip'
-            });
+                marker.bindTooltip(tooltipContent, {
+                    direction: 'top',
+                    offset: [0, -5],
+                    opacity: 0.95,
+                    className: 'skb-marker-tooltip'
+                });
+            }
 
             marker.bindPopup(createBuildingPopupContent(bld), {
                 maxWidth: 300,
