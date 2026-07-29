@@ -1,0 +1,7538 @@
+{
+  "area": {
+    "area_id": "2026-대구광역시-동구-5-80174",
+    "area_name": "2026-대구광역시-동구-5",
+    "sido": "대구광역시",
+    "sigungu": "동구",
+    "geojson": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              128.6747245,
+              35.878284
+            ],
+            [
+              128.6750892,
+              35.8773103
+            ],
+            [
+              128.6744026,
+              35.8772582
+            ],
+            [
+              128.673952,
+              35.8757282
+            ],
+            [
+              128.6762909,
+              35.8753283
+            ],
+            [
+              128.6838869,
+              35.8751196
+            ],
+            [
+              128.6842302,
+              35.8754847
+            ],
+            [
+              128.6747245,
+              35.8783188
+            ],
+            [
+              128.6764411,
+              35.8774668
+            ],
+            [
+              128.6747245,
+              35.878284
+            ]
+          ]
+        ]
+      ]
+    },
+    "center": [
+      35.87627019770163,
+      128.67809380839745
+    ],
+    "building_count": 301,
+    "inside_count": 167,
+    "near_count": 134
+  },
+  "buildings": [
+    {
+      "pnu": "2714011900104180008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 418-8",
+      "road_addr": "대구 동구 동촌로 350-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87726138,
+      "lng": 128.67748842
+    },
+    {
+      "pnu": "2714011900105170005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람",
+      "jibun_addr": "대구 동구 용계동 517-5",
+      "road_addr": "대구 동구 화랑로93길 41",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87564493,
+      "lng": 128.67849693
+    },
+    {
+      "pnu": "2714011900104190004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "일신빌딩",
+      "jibun_addr": "대구 동구 용계동 419-4",
+      "road_addr": "대구 동구 동촌로 338",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87754149,
+      "lng": 128.67632059
+    },
+    {
+      "pnu": "2714011900104360024",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 436-24",
+      "road_addr": "대구 동구 화랑로91길 18-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87696998,
+      "lng": 128.67483884
+    },
+    {
+      "pnu": "2714011900110420010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "명성타운",
+      "jibun_addr": "대구 동구 용계동 1042-10",
+      "road_addr": "대구 동구 동촌로 364-7",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 5
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87621011,
+      "lng": 128.67878224
+    },
+    {
+      "pnu": "2714011900105160010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 516-10",
+      "road_addr": "대구 동구 화랑로 505",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87540349,
+      "lng": 128.67921337
+    },
+    {
+      "pnu": "2714011900109990000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 999",
+      "road_addr": "대구 동구 화랑로 533",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87537377,
+      "lng": 128.68223702
+    },
+    {
+      "pnu": "2714011900105170016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람",
+      "jibun_addr": "대구 동구 용계동 517-16",
+      "road_addr": "대구 동구 화랑로99길 10-14",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87588407,
+      "lng": 128.67893249
+    },
+    {
+      "pnu": "2714011900105410001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 541-1",
+      "road_addr": "대구 동구 화랑로 523",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87533818,
+      "lng": 128.68127277
+    },
+    {
+      "pnu": "2714011900105170009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람",
+      "jibun_addr": "대구 동구 용계동 517-9",
+      "road_addr": "대구 동구 화랑로99길 10-12",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87592187,
+      "lng": 128.67875581
+    },
+    {
+      "pnu": "2714011900110420004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1042-4",
+      "road_addr": "대구 동구 화랑로99길 12",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87620479,
+      "lng": 128.67840553
+    },
+    {
+      "pnu": "2714011900105220002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 522-2",
+      "road_addr": "대구 동구 화랑로99길 10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87598823,
+      "lng": 128.67842447
+    },
+    {
+      "pnu": "2714011900104410017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-17",
+      "road_addr": "대구 동구 화랑로93길 33-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87595304,
+      "lng": 128.67741592
+    },
+    {
+      "pnu": "2714011900104360016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 436-16",
+      "road_addr": "대구 동구 화랑로91길 18-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87671488,
+      "lng": 128.67511201
+    },
+    {
+      "pnu": "2714011900104190002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 419-2",
+      "road_addr": "대구 동구 동촌로 344",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87740976,
+      "lng": 128.6768836
+    },
+    {
+      "pnu": "2714011900104190005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 419-5",
+      "road_addr": "대구 동구 동촌로 340",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87752162,
+      "lng": 128.67650862
+    },
+    {
+      "pnu": "2714011900104400002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 440-2",
+      "road_addr": "대구 동구 화랑로93길 21-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87595369,
+      "lng": 128.67643005
+    },
+    {
+      "pnu": "2714011900110420013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "명성그린빌",
+      "jibun_addr": "대구 동구 용계동 1042-13",
+      "road_addr": "대구 동구 화랑로99길 14",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87642276,
+      "lng": 128.6782426
+    },
+    {
+      "pnu": "2714011900104370057",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "하이마트방촌지점",
+      "jibun_addr": "대구 동구 용계동 437-57",
+      "road_addr": "대구 동구 화랑로 471",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87564827,
+      "lng": 128.67539534
+    },
+    {
+      "pnu": "2714011900104410029",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-29",
+      "road_addr": "대구 동구 화랑로93길 35-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.8759752,
+      "lng": 128.67791472
+    },
+    {
+      "pnu": "2714011900110420000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "명성빌라",
+      "jibun_addr": "대구 동구 용계동 1042",
+      "road_addr": "대구 동구 화랑로99길 16",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87665789,
+      "lng": 128.67816854
+    },
+    {
+      "pnu": "2714011900104220021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 422-21",
+      "road_addr": "대구 동구 화랑로93길 17-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87625658,
+      "lng": 128.67588066
+    },
+    {
+      "pnu": "2714011900104360006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 436-6",
+      "road_addr": "대구 동구 화랑로91길 18-1",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87725072,
+      "lng": 128.67471006
+    },
+    {
+      "pnu": "2714011900104370040",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437-40",
+      "road_addr": "대구 동구 화랑로93길 17",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87582303,
+      "lng": 128.67596287
+    },
+    {
+      "pnu": "2714011900104220036",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 422-36",
+      "road_addr": "대구 동구 화랑로91길 18-17",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87665483,
+      "lng": 128.67572038
+    },
+    {
+      "pnu": "2714011900104370062",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "강대식국회의원사무실",
+      "jibun_addr": "대구 동구 용계동 437-62",
+      "road_addr": "대구 동구 화랑로 459",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87589402,
+      "lng": 128.67423586
+    },
+    {
+      "pnu": "2714011900104420001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 442-1",
+      "road_addr": "대구 동구 화랑로 493",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87544423,
+      "lng": 128.67781825
+    },
+    {
+      "pnu": "2714011900104240001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "농협",
+      "jibun_addr": "대구 동구 용계동 424-1",
+      "road_addr": "대구 동구 화랑로99길 17",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.8768411,
+      "lng": 128.67787216
+    },
+    {
+      "pnu": "2714011900104410044",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-44",
+      "road_addr": "대구 동구 화랑로93길 35-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87575972,
+      "lng": 128.67782292
+    },
+    {
+      "pnu": "2714011900104370027",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437-27",
+      "road_addr": "대구 동구 화랑로93길 11",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87596906,
+      "lng": 128.67529183
+    },
+    {
+      "pnu": "2714011900110420009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "명성타운",
+      "jibun_addr": "대구 동구 용계동 1042-9",
+      "road_addr": "대구 동구 동촌로 364-3",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.8765408,
+      "lng": 128.67907515
+    },
+    {
+      "pnu": "2714011900104220032",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 422-32",
+      "road_addr": "대구 동구 화랑로91길 18-18",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.8767302,
+      "lng": 128.67538917
+    },
+    {
+      "pnu": "2714011900104410054",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-54",
+      "road_addr": "대구 동구 화랑로93길 27-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87593164,
+      "lng": 128.67683958
+    },
+    {
+      "pnu": "2714011900104200007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 420-7",
+      "road_addr": "대구 동구 동촌로 334-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87752498,
+      "lng": 128.67616527
+    },
+    {
+      "pnu": "2714011900105170018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람",
+      "jibun_addr": "대구 동구 용계동 517-18",
+      "road_addr": "대구 동구 화랑로99길 10-20",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87578187,
+      "lng": 128.67924114
+    },
+    {
+      "pnu": "2714011900104410047",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-47",
+      "road_addr": "대구 동구 화랑로93길 33",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87564395,
+      "lng": 128.6776772
+    },
+    {
+      "pnu": "2714011900104400007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 440-7",
+      "road_addr": "대구 동구 화랑로93길 23",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87572714,
+      "lng": 128.67654855
+    },
+    {
+      "pnu": "2714011900104410034",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-34",
+      "road_addr": "대구 동구 화랑로93길 33-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87585997,
+      "lng": 128.67771363
+    },
+    {
+      "pnu": "2714011900104410015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-15",
+      "road_addr": "대구 동구 화랑로93길 27-6",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87594652,
+      "lng": 128.67716104
+    },
+    {
+      "pnu": "2714011900110350002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1035-2",
+      "road_addr": "대구 동구 동촌로 368",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87662768,
+      "lng": 128.67940876
+    },
+    {
+      "pnu": "2714011900104400006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 440-6",
+      "road_addr": "대구 동구 화랑로93길 23-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87580653,
+      "lng": 128.67672696
+    },
+    {
+      "pnu": "2714011900104370021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "용계천주교회",
+      "jibun_addr": "대구 동구 용계동 437-21",
+      "road_addr": "대구 동구 화랑로91길 12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87671085,
+      "lng": 128.67460239
+    },
+    {
+      "pnu": "2714011900110380000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "지티렌터카",
+      "jibun_addr": "대구 동구 용계동 1038",
+      "road_addr": "대구 동구 동촌로 370",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87631903,
+      "lng": 128.67962573
+    },
+    {
+      "pnu": "2714011900104220026",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 422-26",
+      "road_addr": "대구 동구 화랑로91길 18-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87714918,
+      "lng": 128.67495226
+    },
+    {
+      "pnu": "2714011900104370043",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437-43",
+      "road_addr": "대구 동구 화랑로93길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87574712,
+      "lng": 128.67634945
+    },
+    {
+      "pnu": "2714011900104360022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 436-22",
+      "road_addr": "대구 동구 화랑로91길 18-25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87635931,
+      "lng": 128.67551662
+    },
+    {
+      "pnu": "2714011900104370061",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "용계카인테리어",
+      "jibun_addr": "대구 동구 용계동 437-61",
+      "road_addr": "대구 동구 화랑로 473",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.8756183,
+      "lng": 128.67569399
+    },
+    {
+      "pnu": "2714011900104220040",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 422-40",
+      "road_addr": "대구 동구 화랑로91길 18-21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.876421,
+      "lng": 128.67566154
+    },
+    {
+      "pnu": "2714011900104370038",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437-38",
+      "road_addr": "대구 동구 화랑로93길 17-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87589232,
+      "lng": 128.6762519
+    },
+    {
+      "pnu": "2714011900110420001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "덕성빌라",
+      "jibun_addr": "대구 동구 용계동 1042-1",
+      "road_addr": "대구 동구 화랑로99길 14-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87661108,
+      "lng": 128.67834508
+    },
+    {
+      "pnu": "2714011900104220034",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 422-34",
+      "road_addr": "대구 동구 화랑로91길 18-20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87662235,
+      "lng": 128.67535435
+    },
+    {
+      "pnu": "2714011900110340005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1034-5",
+      "road_addr": "대구 동구 동촌로 360",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.8766631,
+      "lng": 128.67855632
+    },
+    {
+      "pnu": "2714011900110350000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1035",
+      "road_addr": "대구 동구 동촌로 364",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.8767578,
+      "lng": 128.6790119
+    },
+    {
+      "pnu": "2714011900104370045",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437-45",
+      "road_addr": "대구 동구 화랑로 481",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87548831,
+      "lng": 128.67607977
+    },
+    {
+      "pnu": "2714011900105170006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람",
+      "jibun_addr": "대구 동구 용계동 517-6",
+      "road_addr": "대구 동구 화랑로99길 10-6",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87574397,
+      "lng": 128.67850948
+    },
+    {
+      "pnu": "2714011900104220031",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 422-31",
+      "road_addr": "대구 동구 화랑로91길 18-16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87677635,
+      "lng": 128.67527908
+    },
+    {
+      "pnu": "2714011900104180005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 418-5",
+      "road_addr": "대구 동구 동촌로 348-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87724381,
+      "lng": 128.67725778
+    },
+    {
+      "pnu": "2714011900104400004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 440-4",
+      "road_addr": "대구 동구 화랑로93길 21-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87593403,
+      "lng": 128.67659592
+    },
+    {
+      "pnu": "2714011900104410043",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-43",
+      "road_addr": "대구 동구 화랑로93길 35-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87576711,
+      "lng": 128.67798919
+    },
+    {
+      "pnu": "2714011900104410020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-20",
+      "road_addr": "대구 동구 화랑로93길 33-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87581935,
+      "lng": 128.67725886
+    },
+    {
+      "pnu": "2714011900104370000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437",
+      "road_addr": "대구 동구 화랑로93길 17-13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87631305,
+      "lng": 128.67563779
+    },
+    {
+      "pnu": "2714011900105170002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 517-2",
+      "road_addr": "대구 동구 화랑로99길 8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87589027,
+      "lng": 128.67830117
+    },
+    {
+      "pnu": "2714011900104180004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 418-4",
+      "road_addr": "대구 동구 동촌로 348",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.8773169,
+      "lng": 128.67715916
+    },
+    {
+      "pnu": "2714011900104200004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "영호빌",
+      "jibun_addr": "대구 동구 용계동 420-4",
+      "road_addr": "대구 동구 동촌로 330-5",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87770395,
+      "lng": 128.6753814
+    },
+    {
+      "pnu": "2714011900104410022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-22",
+      "road_addr": "대구 동구 화랑로93길 33-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87581674,
+      "lng": 128.67752467
+    },
+    {
+      "pnu": "2714011900104410046",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-46",
+      "road_addr": "대구 동구 화랑로93길 33-2",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87576103,
+      "lng": 128.67769001
+    },
+    {
+      "pnu": "2714011900104410001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-1",
+      "road_addr": "대구 동구 화랑로99길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.8757569,
+      "lng": 128.67811088
+    },
+    {
+      "pnu": "2714011900104410045",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-45",
+      "road_addr": "대구 동구 화랑로93길 35",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87565144,
+      "lng": 128.67783239
+    },
+    {
+      "pnu": "2714011900110340002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1034-2",
+      "road_addr": "대구 동구 동촌로 362",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87661672,
+      "lng": 128.67868856
+    },
+    {
+      "pnu": "2714011900104410033",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-33",
+      "road_addr": "대구 동구 화랑로93길 35-3",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87586779,
+      "lng": 128.67783559
+    },
+    {
+      "pnu": "2714011900104410018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-18",
+      "road_addr": "대구 동구 화랑로93길 33-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87596064,
+      "lng": 128.67756004
+    },
+    {
+      "pnu": "2714011900104220015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 422-15",
+      "road_addr": "대구 동구 화랑로93길 17-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87606554,
+      "lng": 128.67605507
+    },
+    {
+      "pnu": "2714011900105410007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 541-7",
+      "road_addr": "대구 동구 화랑로 519-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87539727,
+      "lng": 128.6807641
+    },
+    {
+      "pnu": "2714011900110180003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "코너끝",
+      "jibun_addr": "대구 동구 용계동 1018-3",
+      "road_addr": "대구 동구 동촌로 388",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87602859,
+      "lng": 128.68074023
+    },
+    {
+      "pnu": "2714011900104370036",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437-36",
+      "road_addr": "대구 동구 화랑로93길 17-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87596682,
+      "lng": 128.6760093
+    },
+    {
+      "pnu": "2714011900104410023",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-23",
+      "road_addr": "대구 동구 화랑로93길 27-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87570368,
+      "lng": 128.67710206
+    },
+    {
+      "pnu": "2714011900104410021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-21",
+      "road_addr": "대구 동구 화랑로93길 33-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87580903,
+      "lng": 128.67739163
+    },
+    {
+      "pnu": "2714011900104410030",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-30",
+      "road_addr": "대구 동구 화랑로99길 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87595543,
+      "lng": 128.67809167
+    },
+    {
+      "pnu": "2714011900105410008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 541-8",
+      "road_addr": "대구 동구 화랑로 519",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.8753257,
+      "lng": 128.68070765
+    },
+    {
+      "pnu": "2714011900104190011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 419-11",
+      "road_addr": "대구 동구 동촌로 342",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87744788,
+      "lng": 128.67667369
+    },
+    {
+      "pnu": "2714011900104410028",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-28",
+      "road_addr": "대구 동구 화랑로93길 33-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87595858,
+      "lng": 128.67777047
+    },
+    {
+      "pnu": "2714011900110010000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동부PVC스텐마트",
+      "jibun_addr": "대구 동구 용계동 1001",
+      "road_addr": "대구 동구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87575814,
+      "lng": 128.68235466
+    },
+    {
+      "pnu": "2714011900104410032",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-32",
+      "road_addr": "대구 동구 화랑로93길 35-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87586627,
+      "lng": 128.67799065
+    },
+    {
+      "pnu": "2714011900104410025",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-25",
+      "road_addr": "대구 동구 화랑로93길 29-1",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87569217,
+      "lng": 128.67735667
+    },
+    {
+      "pnu": "2714011900105170003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 517-3",
+      "road_addr": "대구 동구 화랑로99길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.8757821,
+      "lng": 128.67829957
+    },
+    {
+      "pnu": "2714011900104050004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 405-4",
+      "road_addr": "대구 동구 동촌로 383",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87622677,
+      "lng": 128.68167367
+    },
+    {
+      "pnu": "2714011900104410050",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-50",
+      "road_addr": "대구 동구 화랑로93길 31",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87569087,
+      "lng": 128.67748958
+    },
+    {
+      "pnu": "2714011900104190003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 419-3",
+      "road_addr": "대구 동구 동촌로 342-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87736534,
+      "lng": 128.67681648
+    },
+    {
+      "pnu": "2714011900104220027",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 422-27",
+      "road_addr": "대구 동구 화랑로91길 18-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87706687,
+      "lng": 128.6750729
+    },
+    {
+      "pnu": "2714011900104370034",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437-34",
+      "road_addr": "대구 동구 화랑로93길 17-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87598702,
+      "lng": 128.67578805
+    },
+    {
+      "pnu": "2714011900104360018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 436-18",
+      "road_addr": "대구 동구 화랑로91길 18-22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87667763,
+      "lng": 128.67523331
+    },
+    {
+      "pnu": "2714011900105170015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람",
+      "jibun_addr": "대구 동구 용계동 517-15",
+      "road_addr": "대구 동구 화랑로99길 10-18",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.8757658,
+      "lng": 128.67904151
+    },
+    {
+      "pnu": "2714011900104370066",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437-66",
+      "road_addr": "대구 동구 화랑로 465",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87576067,
+      "lng": 128.67496499
+    },
+    {
+      "pnu": "2714011900104410000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441",
+      "road_addr": "대구 동구 화랑로93길 27-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87592382,
+      "lng": 128.67671761
+    },
+    {
+      "pnu": "2714011900104370072",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437-72",
+      "road_addr": "대구 동구 화랑로 461",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87586481,
+      "lng": 128.67445697
+    },
+    {
+      "pnu": "2714011900104220041",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 422-41",
+      "road_addr": "대구 동구 화랑로91길 18-19",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87635649,
+      "lng": 128.67580459
+    },
+    {
+      "pnu": "2714011900104400010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 440-10",
+      "road_addr": "대구 동구 화랑로93길 26",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87550765,
+      "lng": 128.67686654
+    },
+    {
+      "pnu": "2714011900105160001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 516-1",
+      "road_addr": "대구 동구 화랑로 497",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87545661,
+      "lng": 128.67839445
+    },
+    {
+      "pnu": "2714011900104360015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 436-15",
+      "road_addr": "대구 동구 화랑로91길 18-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87682272,
+      "lng": 128.67514684
+    },
+    {
+      "pnu": "2714011900104410042",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-42",
+      "road_addr": "대구 동구 화랑로93길 37",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87564091,
+      "lng": 128.67798732
+    },
+    {
+      "pnu": "2714011900104400005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 440-5",
+      "road_addr": "대구 동구 화랑로93길 21-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87583498,
+      "lng": 128.67658337
+    },
+    {
+      "pnu": "2714011900104370042",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437-42",
+      "road_addr": "대구 동구 화랑로93길 19-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87577557,
+      "lng": 128.67620587
+    },
+    {
+      "pnu": "2714011900104360013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 436-13",
+      "road_addr": "대구 동구 화랑로91길 18-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87702515,
+      "lng": 128.67472888
+    },
+    {
+      "pnu": "2714011900104220000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "백자맨션",
+      "jibun_addr": "대구 동구 용계동 422",
+      "road_addr": "대구 동구 동촌로 346",
+      "avail_gen_cnt": 288,
+      "int_scrbr_cnt": 76,
+      "tv_scrbr_cnt": 69,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜F",
+          "count": 34
+        },
+        {
+          "method": "광랜F(500)",
+          "count": 40
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜F(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 8
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 45
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 6
+        }
+      ],
+      "lat": 35.87710305,
+      "lng": 128.67598179
+    },
+    {
+      "pnu": "2714011900104370041",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437-41",
+      "road_addr": "대구 동구 화랑로93길 19",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87580391,
+      "lng": 128.67607336
+    },
+    {
+      "pnu": "2714011900110170001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동해해물탕용계점",
+      "jibun_addr": "대구 동구 용계동 1017-1",
+      "road_addr": "대구 동구 동촌로 390",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.8757299,
+      "lng": 128.68177706
+    },
+    {
+      "pnu": "2714011900104360009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 436-9",
+      "road_addr": "대구 동구 화랑로91길 18-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87716808,
+      "lng": 128.67486392
+    },
+    {
+      "pnu": "2714011900104200006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 420-6",
+      "road_addr": "대구 동구 동촌로 336",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87763293,
+      "lng": 128.67618902
+    },
+    {
+      "pnu": "2714011900109840001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 984-1",
+      "road_addr": "대구 동구 동촌로 402",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87558335,
+      "lng": 128.68292692
+    },
+    {
+      "pnu": "2714011900104330000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "서도산업",
+      "jibun_addr": "대구 동구 용계동 433",
+      "road_addr": "대구 동구 화랑로99길 9",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87642818,
+      "lng": 128.67676938
+    },
+    {
+      "pnu": "2714011900104370031",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437-31",
+      "road_addr": "대구 동구 화랑로93길 17-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87611268,
+      "lng": 128.6758453
+    },
+    {
+      "pnu": "2714011900104200010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 420-10",
+      "road_addr": "대구 동구 동촌로 330-1",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87781962,
+      "lng": 128.6755382
+    },
+    {
+      "pnu": "2714011900105170011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람",
+      "jibun_addr": "대구 동구 용계동 517-11",
+      "road_addr": "대구 동구 화랑로99길 10-8",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87573268,
+      "lng": 128.67874193
+    },
+    {
+      "pnu": "2714011900104190010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 419-10",
+      "road_addr": "대구 동구 동촌로 340-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87752075,
+      "lng": 128.67659723
+    },
+    {
+      "pnu": "2714011900104370065",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대아금속",
+      "jibun_addr": "대구 동구 용계동 437-65",
+      "road_addr": "대구 동구 화랑로 463",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87580812,
+      "lng": 128.67472199
+    },
+    {
+      "pnu": "2714011900109990001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 999-1",
+      "road_addr": "대구 동구 화랑로 533-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87548379,
+      "lng": 128.68205034
+    },
+    {
+      "pnu": "2714011900104420006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 442-6",
+      "road_addr": "대구 동구 화랑로 495",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87542359,
+      "lng": 128.67808379
+    },
+    {
+      "pnu": "2714011900110170004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "용계치안센터",
+      "jibun_addr": "대구 동구 용계동 1017-4",
+      "road_addr": "대구 동구 동촌로 390-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87572415,
+      "lng": 128.68144466
+    },
+    {
+      "pnu": "2714011900105170012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람",
+      "jibun_addr": "대구 동구 용계동 517-12",
+      "road_addr": "대구 동구 화랑로93길 43",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87564254,
+      "lng": 128.6787406
+    },
+    {
+      "pnu": "2714011900104220020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 422-20",
+      "road_addr": "대구 동구 화랑로93길 17-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87628481,
+      "lng": 128.67575922
+    },
+    {
+      "pnu": "2714011900110420008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "명성타운",
+      "jibun_addr": "대구 동구 용계동 1042-8",
+      "road_addr": "대구 동구 동촌로 364-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87659652,
+      "lng": 128.67890981
+    },
+    {
+      "pnu": "2714011900104410041",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-41",
+      "road_addr": "대구 동구 화랑로99길 3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87563972,
+      "lng": 128.67810915
+    },
+    {
+      "pnu": "2714011900104410024",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-24",
+      "road_addr": "대구 동구 화랑로93길 29",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87569337,
+      "lng": 128.67723484
+    },
+    {
+      "pnu": "2714011900110330000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1033",
+      "road_addr": "대구 동구 동촌로 356",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87678387,
+      "lng": 128.67819256
+    },
+    {
+      "pnu": "2714011900105150002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "보람빌딩",
+      "jibun_addr": "대구 동구 용계동 515-2",
+      "road_addr": "대구 동구 화랑로 509",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87537308,
+      "lng": 128.67955632
+    },
+    {
+      "pnu": "2714011900104370030",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437-30",
+      "road_addr": "대구 동구 화랑로93길 17-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87614113,
+      "lng": 128.67570171
+    },
+    {
+      "pnu": "2714011900110230000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1023",
+      "road_addr": "대구 동구 동촌로 374-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.8761888,
+      "lng": 128.68003366
+    },
+    {
+      "pnu": "2714011900110420003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "명성그린빌",
+      "jibun_addr": "대구 동구 용계동 1042-3",
+      "road_addr": "대구 동구 화랑로99길 14-3",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 4
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87634825,
+      "lng": 128.67848519
+    },
+    {
+      "pnu": "2714011400107850010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼우빌라",
+      "jibun_addr": "대구 동구 신평동 785-10",
+      "road_addr": "대구 동구 동촌로 330-2",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87786967,
+      "lng": 128.67502937
+    },
+    {
+      "pnu": "2714011900104200002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 420-2",
+      "road_addr": "대구 동구 동촌로 332",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87777389,
+      "lng": 128.67560399
+    },
+    {
+      "pnu": "2714011900104370001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "신세계휴랜드",
+      "jibun_addr": "대구 동구 용계동 437-1",
+      "road_addr": "대구 동구 화랑로91길 14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.8769273,
+      "lng": 128.67459451
+    },
+    {
+      "pnu": "2714011900104360014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 436-14",
+      "road_addr": "대구 동구 화랑로91길 18-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87687789,
+      "lng": 128.67503688
+    },
+    {
+      "pnu": "2714011900105170010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람",
+      "jibun_addr": "대구 동구 용계동 517-10",
+      "road_addr": "대구 동구 화랑로99길 10-10",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87584943,
+      "lng": 128.67878797
+    },
+    {
+      "pnu": "2714011900104410019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-19",
+      "road_addr": "대구 동구 화랑로93길 27-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87582966,
+      "lng": 128.67712608
+    },
+    {
+      "pnu": "2714011900110180001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "영진직업전문학교",
+      "jibun_addr": "대구 동구 용계동 1018-1",
+      "road_addr": "대구 동구 화랑로 525",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87554518,
+      "lng": 128.68130908
+    },
+    {
+      "pnu": "2714011900104180006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 418-6",
+      "road_addr": "대구 동구 동촌로 350",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87727878,
+      "lng": 128.67736907
+    },
+    {
+      "pnu": "2714011900105170000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람",
+      "jibun_addr": "대구 동구 용계동 517",
+      "road_addr": "대구 동구 화랑로99길 10-2",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87595999,
+      "lng": 128.67854591
+    },
+    {
+      "pnu": "2714011400107850006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 785-6",
+      "road_addr": "대구 동구 동촌로 326",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87795026,
+      "lng": 128.67508595
+    },
+    {
+      "pnu": "2714011900104420002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 442-2",
+      "road_addr": "대구 동구 화랑로 489",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87544824,
+      "lng": 128.67740845
+    },
+    {
+      "pnu": "2714011900105170023",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람",
+      "jibun_addr": "대구 동구 용계동 517-23",
+      "road_addr": "대구 동구 화랑로99길 10-25",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87571312,
+      "lng": 128.67981614
+    },
+    {
+      "pnu": "2714011900104410016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-16",
+      "road_addr": "대구 동구 화랑로93길 33-7",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87595423,
+      "lng": 128.67729408
+    },
+    {
+      "pnu": "2714011400107850009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 785-9",
+      "road_addr": "대구 동구 동촌로 330",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87789325,
+      "lng": 128.6753842
+    },
+    {
+      "pnu": "2714011900104360020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 436-20",
+      "road_addr": "대구 동구 화랑로91길 18-24",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87652352,
+      "lng": 128.67531966
+    },
+    {
+      "pnu": "2714011900104400011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 440-11",
+      "road_addr": "대구 동구 화랑로93길 21-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87585496,
+      "lng": 128.67638428
+    },
+    {
+      "pnu": "2714011900104330002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 433-2",
+      "road_addr": "대구 동구 화랑로93길 21-8",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87614777,
+      "lng": 128.67686493
+    },
+    {
+      "pnu": "2714011900105170019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람",
+      "jibun_addr": "대구 동구 용계동 517-19",
+      "road_addr": "대구 동구 화랑로99길 10-22",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87575331,
+      "lng": 128.6793958
+    },
+    {
+      "pnu": "2714011900104200019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 420-19",
+      "road_addr": "대구 동구 동촌로 334-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87763608,
+      "lng": 128.67586781
+    },
+    {
+      "pnu": "2714011900104370037",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 437-37",
+      "road_addr": "대구 동구 화랑로93길 17-4",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87594771,
+      "lng": 128.67611979
+    },
+    {
+      "pnu": "2714011900110420002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "덕성빌라",
+      "jibun_addr": "대구 동구 용계동 1042-2",
+      "road_addr": "대구 동구 화랑로99길 14-2",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87652767,
+      "lng": 128.67857647
+    },
+    {
+      "pnu": "2714011900104220024",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 422-24",
+      "road_addr": "대구 동구 화랑로91길 18-3",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87724888,
+      "lng": 128.67489835
+    },
+    {
+      "pnu": "2714011900110340001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "황금주유소",
+      "jibun_addr": "대구 동구 용계동 1034-1",
+      "road_addr": "대구 동구 동촌로 358",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87676356,
+      "lng": 128.67842488
+    },
+    {
+      "pnu": "2714011900105170004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 517-4",
+      "road_addr": "대구 동구 화랑로99길 4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87564677,
+      "lng": 128.67830864
+    },
+    {
+      "pnu": "2714011900104410011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-11",
+      "road_addr": "대구 동구 화랑로93길 27-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87582282,
+      "lng": 128.67690443
+    },
+    {
+      "pnu": "2714011900104310000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 431",
+      "road_addr": "대구 동구 화랑로99길 13",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87656101,
+      "lng": 128.67793448
+    },
+    {
+      "pnu": "2714011900104410013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-13",
+      "road_addr": "대구 동구 화랑로93길 27",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87571454,
+      "lng": 128.67691391
+    },
+    {
+      "pnu": "2714011900104420004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 442-4",
+      "road_addr": "대구 동구 화랑로 487",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87546877,
+      "lng": 128.67715397
+    },
+    {
+      "pnu": "2714011900104410010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 441-10",
+      "road_addr": "대구 동구 화랑로93길 27-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87593935,
+      "lng": 128.67697262
+    },
+    {
+      "pnu": "2714011900105170017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람",
+      "jibun_addr": "대구 동구 용계동 517-17",
+      "road_addr": "대구 동구 화랑로99길 10-16",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87586463,
+      "lng": 128.6790762
+    },
+    {
+      "pnu": "2714011900104220028",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동해빌라",
+      "jibun_addr": "대구 동구 용계동 422-28",
+      "road_addr": "대구 동구 화랑로91길 18-11",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 35.87701083,
+      "lng": 128.67527147
+    },
+    {
+      "pnu": "2714011900105160005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 516-5",
+      "road_addr": "대구 동구 화랑로 499",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87539112,
+      "lng": 128.67863718
+    },
+    {
+      "pnu": "2714011900104370002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "은하아파트",
+      "jibun_addr": "대구 동구 용계동 437-2",
+      "road_addr": "대구 동구 화랑로91길 8",
+      "avail_gen_cnt": 118,
+      "int_scrbr_cnt": 46,
+      "tv_scrbr_cnt": 43,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 18
+        },
+        {
+          "method": "광랜E(500)",
+          "count": 10
+        },
+        {
+          "method": "광랜E",
+          "count": 14
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 32
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87620042,
+      "lng": 128.67517088
+    },
+    {
+      "pnu": "2714011900105170020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람",
+      "jibun_addr": "대구 동구 용계동 517-20",
+      "road_addr": "대구 동구 화랑로99길 10-24",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87573375,
+      "lng": 128.67955059
+    },
+    {
+      "pnu": "2714011900104400008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 440-8",
+      "road_addr": "대구 동구 화랑로93길 25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87570726,
+      "lng": 128.67673657
+    },
+    {
+      "pnu": "2714011900105170007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "가람2차",
+      "jibun_addr": "대구 동구 용계동 517-7",
+      "road_addr": "대구 동구 화랑로99길 10-4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87585214,
+      "lng": 128.67851108
+    },
+    {
+      "pnu": "2714011400107850005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 785-5",
+      "road_addr": "대구 동구 동촌로 324-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87801455,
+      "lng": 128.67496504
+    },
+    {
+      "pnu": "2714011900105190001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 519-1",
+      "road_addr": "대구 동구 동촌로 374-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87587029,
+      "lng": 128.67998098
+    },
+    {
+      "pnu": "2714011900110420011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "현대타운",
+      "jibun_addr": "대구 동구 용계동 1042-11",
+      "road_addr": "대구 동구 동촌로 364-5",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87618882,
+      "lng": 128.67911424
+    },
+    {
+      "pnu": "2714011400107850001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 0.33130488,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 785-1",
+      "road_addr": "대구 동구 동촌로 324",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87801596,
+      "lng": 128.67482106
+    },
+    {
+      "pnu": "2714011900104200009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 0.37180778,
+      "bld_nm": "동화빌딩",
+      "jibun_addr": "대구 동구 용계동 420-9",
+      "road_addr": "대구 동구 동촌로 334",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87771667,
+      "lng": 128.67592439
+    },
+    {
+      "pnu": "2714011900104360002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 2.82872198,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 436-2",
+      "road_addr": "대구 동구 화랑로91길 18",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.8772971,
+      "lng": 128.67457781
+    },
+    {
+      "pnu": "2714011100111150002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 10.55116815,
+      "bld_nm": "삼포회타운",
+      "jibun_addr": "대구 동구 방촌동 1115-2",
+      "road_addr": "대구 동구 화랑로91길 24",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87765517,
+      "lng": 128.67483788
+    },
+    {
+      "pnu": "2714011900110090004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 11.2953962,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1009-4",
+      "road_addr": "대구 동구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87682838,
+      "lng": 128.68008746
+    },
+    {
+      "pnu": "2714011900103790002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 13.29443885,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 379-2",
+      "road_addr": "대구 동구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87603526,
+      "lng": 128.68281179
+    },
+    {
+      "pnu": "2714011900110140001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 15.53203089,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1014-1",
+      "road_addr": "대구 동구 동촌로 389",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87633287,
+      "lng": 128.68188572
+    },
+    {
+      "pnu": "2714011400107830015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 15.76363746,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 783-15",
+      "road_addr": "대구 동구 동촌로 329",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87815999,
+      "lng": 128.67576478
+    },
+    {
+      "pnu": "2714011400107770009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 16.08119601,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 777-9",
+      "road_addr": "대구 동구 동촌로 339",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87793616,
+      "lng": 128.67652583
+    },
+    {
+      "pnu": "2714011400107830005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 16.26053278,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 783-5",
+      "road_addr": "대구 동구 동촌로 331",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87813186,
+      "lng": 128.67587514
+    },
+    {
+      "pnu": "2714011900104210016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 16.2667214,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 421-16",
+      "road_addr": "대구 동구 동촌로 330-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87745675,
+      "lng": 128.67484603
+    },
+    {
+      "pnu": "2714011900109820006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 16.28900719,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 982-6",
+      "road_addr": "대구 동구 동촌로 401",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87603428,
+      "lng": 128.68291147
+    },
+    {
+      "pnu": "2714011900110130001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 17.03503046,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1013-1",
+      "road_addr": "대구 동구 동촌로 387",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTVon기업 UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87641629,
+      "lng": 128.68165433
+    },
+    {
+      "pnu": "2714011900103810002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 17.29434586,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 381-2",
+      "road_addr": "대구 동구 동촌로 395",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87614583,
+      "lng": 128.68256973
+    },
+    {
+      "pnu": "2714011900103790006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 17.56834015,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 379-6",
+      "road_addr": "대구 동구 동촌로 397",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87609912,
+      "lng": 128.6827352
+    },
+    {
+      "pnu": "2714011900110090001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 17.66751091,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1009-1",
+      "road_addr": "대구 동구 동촌로 375",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87676103,
+      "lng": 128.68051848
+    },
+    {
+      "pnu": "2714011900104160001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 17.89496335,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 416-1",
+      "road_addr": "대구 동구 동촌로 345",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87768388,
+      "lng": 128.67743046
+    },
+    {
+      "pnu": "2714011400107780018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 18.69897171,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 778-18",
+      "road_addr": "대구 동구 동촌로 333",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87811242,
+      "lng": 128.67601886
+    },
+    {
+      "pnu": "2714011900104220002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 19.47575475,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 422-2",
+      "road_addr": "대구 동구 화랑로91길 20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87745805,
+      "lng": 128.67471312
+    },
+    {
+      "pnu": "2714011400107780009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 19.74883766,
+      "bld_nm": "신평빌딩",
+      "jibun_addr": "대구 동구 신평동 778-9",
+      "road_addr": "대구 동구 동촌로 337",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87804683,
+      "lng": 128.67627268
+    },
+    {
+      "pnu": "2714011900110290003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 19.93812374,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1029-3",
+      "road_addr": "대구 동구 동촌로 351",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87756202,
+      "lng": 128.67790499
+    },
+    {
+      "pnu": "2714011900109820012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 19.94531491,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 982-12",
+      "road_addr": "대구 동구 동촌로 403",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87597714,
+      "lng": 128.68322079
+    },
+    {
+      "pnu": "2714011900110290001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 20.66247051,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1029-1",
+      "road_addr": "대구 동구 동촌로 349",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.8776084,
+      "lng": 128.67777274
+    },
+    {
+      "pnu": "2714011400107830011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 20.71095042,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 783-11",
+      "road_addr": "대구 동구 동촌로 325",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87833549,
+      "lng": 128.67533535
+    },
+    {
+      "pnu": "2714011100111190088",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 21.25709667,
+      "bld_nm": "희현빌딩",
+      "jibun_addr": "대구 동구 방촌동 1119-88",
+      "road_addr": "대구 동구 화랑로 455",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87601553,
+      "lng": 128.67379456
+    },
+    {
+      "pnu": "2714011900110140002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 21.57749569,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1014-2",
+      "road_addr": "대구 동구 동촌로 391",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87632873,
+      "lng": 128.68209421
+    },
+    {
+      "pnu": "2714011900104210015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 21.7266628,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 421-15",
+      "road_addr": "대구 동구 동촌로 330-13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87749357,
+      "lng": 128.67476903
+    },
+    {
+      "pnu": "2714011400107770008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 21.73777407,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 777-8",
+      "road_addr": "대구 동구 동촌로 339-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87793432,
+      "lng": 128.67671412
+    },
+    {
+      "pnu": "2714011900110280001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 22.04070935,
+      "bld_nm": "동진주유소",
+      "jibun_addr": "대구 동구 용계동 1028-1",
+      "road_addr": "대구 동구 동촌로 355",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87748676,
+      "lng": 128.67822512
+    },
+    {
+      "pnu": "2714011900110090011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 23.21062394,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1009-11",
+      "road_addr": "대구 동구 동촌로 379",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87672193,
+      "lng": 128.68082806
+    },
+    {
+      "pnu": "2714011400107770017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 23.89863214,
+      "bld_nm": "희망교회",
+      "jibun_addr": "대구 동구 신평동 777-17",
+      "road_addr": "대구 동구 동촌로 341",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87790565,
+      "lng": 128.67687986
+    },
+    {
+      "pnu": "2714011900110270001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.45725075,
+      "bld_nm": "럭키자동차상사",
+      "jibun_addr": "대구 동구 용계동 1027-1",
+      "road_addr": "대구 동구 동촌로 363",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.877187,
+      "lng": 128.67937274
+    },
+    {
+      "pnu": "2714011400107770003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.99499827,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 777-3",
+      "road_addr": "대구 동구 동촌로 343-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87777413,
+      "lng": 128.67742071
+    },
+    {
+      "pnu": "2714011900110300004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 27.2290446,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1030-4",
+      "road_addr": "대구 동구 동촌로 367",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87711217,
+      "lng": 128.67964857
+    },
+    {
+      "pnu": "2714011400107770005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 27.61266835,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 777-5",
+      "road_addr": "대구 동구 동촌로 343",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87789511,
+      "lng": 128.67703479
+    },
+    {
+      "pnu": "2714011900110300001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.01893009,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1030-1",
+      "road_addr": "대구 동구 동촌로 361",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87731701,
+      "lng": 128.67898695
+    },
+    {
+      "pnu": "2714011900110110001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 29.97479623,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1011-1",
+      "road_addr": "대구 동구 동촌로 381",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87670107,
+      "lng": 128.68111577
+    },
+    {
+      "pnu": "2714011400107770004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 30.05231522,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 777-4",
+      "road_addr": "대구 동구 동촌로 343-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87787568,
+      "lng": 128.67717851
+    },
+    {
+      "pnu": "2714011900110120003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 30.78898392,
+      "bld_nm": "신평교회",
+      "jibun_addr": "대구 동구 용계동 1012-3",
+      "road_addr": "대구 동구 동촌로 391-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87644907,
+      "lng": 128.68198714
+    },
+    {
+      "pnu": "2714011400107760008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 31.32053808,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 776-8",
+      "road_addr": "대구 동구 동촌로 343-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87777272,
+      "lng": 128.6775647
+    },
+    {
+      "pnu": "2714011900110080001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 31.54301324,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1008-1",
+      "road_addr": "대구 동구 동촌로 371",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87694295,
+      "lng": 128.68035501
+    },
+    {
+      "pnu": "2714011900109800001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 32.54049175,
+      "bld_nm": "가구랜드21",
+      "jibun_addr": "대구 동구 용계동 980-1",
+      "road_addr": "대구 동구 동촌로 403-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87609421,
+      "lng": 128.68323361
+    },
+    {
+      "pnu": "2714011900110110002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 32.90637944,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1011-2",
+      "road_addr": "대구 동구 동촌로 385",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87659755,
+      "lng": 128.68155733
+    },
+    {
+      "pnu": "2714011400107760005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 33.70809275,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 776-5",
+      "road_addr": "대구 동구 동촌로 343-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87781855,
+      "lng": 128.67748784
+    },
+    {
+      "pnu": "2714011100111140001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 33.73828005,
+      "bld_nm": "에스오일주유소",
+      "jibun_addr": "대구 동구 방촌동 1114-1",
+      "road_addr": "대구 동구 동촌로 320",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.8780469,
+      "lng": 128.67442272
+    },
+    {
+      "pnu": "2714011100111160005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 35.90659498,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 방촌동 1116-5",
+      "road_addr": "대구 동구 화랑로91길 19",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87755285,
+      "lng": 128.67423819
+    },
+    {
+      "pnu": "2714011100111170000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 36.3013828,
+      "bld_nm": "현대주택방촌빌라",
+      "jibun_addr": "대구 동구 방촌동 1117",
+      "road_addr": "대구 동구 화랑로91길 17",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87745521,
+      "lng": 128.67408166
+    },
+    {
+      "pnu": "2714011100111160003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 39.21712344,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 방촌동 1116-3",
+      "road_addr": "대구 동구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87761422,
+      "lng": 128.67441633
+    },
+    {
+      "pnu": "2714011400107010007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 39.91210219,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 701-7",
+      "road_addr": "대구 동구 동촌로 343-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.8777233,
+      "lng": 128.67800707
+    },
+    {
+      "pnu": "2714011900110030000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 41.20924937,
+      "bld_nm": "해태음료",
+      "jibun_addr": "대구 동구 용계동 1003",
+      "road_addr": "대구 동구 동촌로 393",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87637107,
+      "lng": 128.68258416
+    },
+    {
+      "pnu": "2714011100108550003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 43.75793354,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 방촌동 855-3",
+      "road_addr": "대구 동구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87863283,
+      "lng": 128.67443137
+    },
+    {
+      "pnu": "2714011100111140005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 44.00431409,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 방촌동 1114-5",
+      "road_addr": "대구 동구 동촌로 318",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87820188,
+      "lng": 128.67424776
+    },
+    {
+      "pnu": "2714011900109900001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 45.64269702,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 990-1",
+      "road_addr": "대구 동구 화랑로 542",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87472722,
+      "lng": 128.68318842
+    },
+    {
+      "pnu": "2714011900110270002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 46.00019629,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1027-2",
+      "road_addr": "대구 동구 동촌로 359",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87753487,
+      "lng": 128.6788351
+    },
+    {
+      "pnu": "2714011100111190091",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 46.52875276,
+      "bld_nm": "해들목아파트",
+      "jibun_addr": "대구 동구 방촌동 1119-91",
+      "road_addr": "대구 동구 화랑로 451",
+      "avail_gen_cnt": 18,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 11,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 7
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 10
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87605429,
+      "lng": 128.6735182
+    },
+    {
+      "pnu": "2714011900109930000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 48.58710921,
+      "bld_nm": "삼성윤활유",
+      "jibun_addr": "대구 동구 용계동 993",
+      "road_addr": "대구 동구 화랑로 536",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87472344,
+      "lng": 128.68236028
+    },
+    {
+      "pnu": "2714011900105430002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 48.77927202,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 543-2",
+      "road_addr": "대구 동구 화랑로 530",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87473845,
+      "lng": 128.68175126
+    },
+    {
+      "pnu": "2714011900109790001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.13415991,
+      "bld_nm": "행복의집",
+      "jibun_addr": "대구 동구 용계동 979-1",
+      "road_addr": "대구 동구 동촌로 405-6",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX",
+          "count": 1
+        },
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87632153,
+      "lng": 128.68303759
+    },
+    {
+      "pnu": "2714011900105420004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.5390449,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 542-4",
+      "road_addr": "대구 동구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87473324,
+      "lng": 128.68136348
+    },
+    {
+      "pnu": "2714011900109920001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.87169755,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 992-1",
+      "road_addr": "대구 동구 화랑로 538",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.8746928,
+      "lng": 128.68272537
+    },
+    {
+      "pnu": "2714011100111400001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 52.52195652,
+      "bld_nm": "방촌제2배수펌프장",
+      "jibun_addr": "대구 동구 방촌동 1140-1",
+      "road_addr": "대구 동구 화랑로 454",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87529504,
+      "lng": 128.67371746
+    },
+    {
+      "pnu": "2714011900105100003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 52.87172021,
+      "bld_nm": "무진빌딩",
+      "jibun_addr": "대구 동구 용계동 510-3",
+      "road_addr": "대구 동구 화랑로 500",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87478705,
+      "lng": 128.6786393
+    },
+    {
+      "pnu": "2714011900109910000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 54.19996882,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 991",
+      "road_addr": "대구 동구 화랑로108길 2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87465336,
+      "lng": 128.68306818
+    },
+    {
+      "pnu": "2714011900109790002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 54.67935096,
+      "bld_nm": "행복의집",
+      "jibun_addr": "대구 동구 용계동 979-2",
+      "road_addr": "대구 동구 동촌로 405-5",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87628275,
+      "lng": 128.68331395
+    },
+    {
+      "pnu": "2714011900110120004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 54.70095895,
+      "bld_nm": "삼영빌라",
+      "jibun_addr": "대구 동구 용계동 1012-4",
+      "road_addr": "대구 동구 동촌로 391-5",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87661838,
+      "lng": 128.68218905
+    },
+    {
+      "pnu": "2714011900109790003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 55.39603283,
+      "bld_nm": "행복의집",
+      "jibun_addr": "대구 동구 용계동 979-3",
+      "road_addr": "대구 동구 동촌로 405-4",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87621725,
+      "lng": 128.68355668
+    },
+    {
+      "pnu": "2714011900105100015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 55.87820806,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 510-15",
+      "road_addr": "대구 동구 화랑로 504-#",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87475334,
+      "lng": 128.67887956
+    },
+    {
+      "pnu": "2714011900110070000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 56.39693368,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1007",
+      "road_addr": "대구 동구 동촌로 381-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87694535,
+      "lng": 128.68114705
+    },
+    {
+      "pnu": "2714011900105450000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 56.41136346,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 545",
+      "road_addr": "대구 동구 화랑로108길 6-16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87466448,
+      "lng": 128.68193847
+    },
+    {
+      "pnu": "2714011900104470006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 56.46999594,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 447-6",
+      "road_addr": "대구 동구 화랑로 484",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87480508,
+      "lng": 128.67680076
+    },
+    {
+      "pnu": "2714011400107800038",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 56.53503936,
+      "bld_nm": "대보교통",
+      "jibun_addr": "대구 동구 신평동 780-38",
+      "road_addr": "대구 동구 신평로 46",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87882832,
+      "lng": 128.67472228
+    },
+    {
+      "pnu": "2714011900110120001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 56.98588058,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1012-1",
+      "road_addr": "대구 동구 동촌로 391-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87679477,
+      "lng": 128.68167103
+    },
+    {
+      "pnu": "2714011900109790004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 57.61089193,
+      "bld_nm": "행복의집빌라",
+      "jibun_addr": "대구 동구 용계동 979-4",
+      "road_addr": "대구 동구 동촌로 405-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87617922,
+      "lng": 128.68375551
+    },
+    {
+      "pnu": "2714011400107800052",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 59.61317511,
+      "bld_nm": "한누리렌트카",
+      "jibun_addr": "대구 동구 신평동 780-52",
+      "road_addr": "대구 동구 동촌로 321-4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87877957,
+      "lng": 128.6750982
+    },
+    {
+      "pnu": "2714011900105720005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 60.49591914,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 572-5",
+      "road_addr": "대구 동구 화랑로 526",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87464288,
+      "lng": 128.6813843
+    },
+    {
+      "pnu": "2714011900109680000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 63.35912625,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 968",
+      "road_addr": "대구 동구 화랑로 546",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87456263,
+      "lng": 128.68404161
+    },
+    {
+      "pnu": "2714011900105100001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 64.31090988,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 510-1",
+      "road_addr": "대구 동구 화랑로 508",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87466204,
+      "lng": 128.67943501
+    },
+    {
+      "pnu": "2714011400107750007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 66.08473621,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 775-7",
+      "road_addr": "대구 동구 신평로 58-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87852578,
+      "lng": 128.67615791
+    },
+    {
+      "pnu": "2714011900105720004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 67.92955677,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 572-4",
+      "road_addr": "대구 동구 화랑로 522",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87458196,
+      "lng": 128.68116185
+    },
+    {
+      "pnu": "2714011900106130031",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 68.35508754,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 613-31",
+      "road_addr": "대구 동구 화랑로108길 1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87451389,
+      "lng": 128.68349811
+    },
+    {
+      "pnu": "2714011900105550000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 68.5910402,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 555",
+      "road_addr": "대구 동구 화랑로108길 6-4",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87452912,
+      "lng": 128.68286694
+    },
+    {
+      "pnu": "2714011900105720006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 68.78042187,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 572-6",
+      "road_addr": "대구 동구 화랑로 528",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87455816,
+      "lng": 128.68174858
+    },
+    {
+      "pnu": "2714011900110050000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 69.68807025,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 1005",
+      "road_addr": "대구 동구 동촌로 391-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTVon기업 UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87683723,
+      "lng": 128.68193752
+    },
+    {
+      "pnu": "2714011900105460000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 70.43339599,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 546",
+      "road_addr": "대구 동구 화랑로108길 6-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87453839,
+      "lng": 128.68192552
+    },
+    {
+      "pnu": "2714011900105560000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 72.33036346,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 556",
+      "road_addr": "대구 동구 화랑로108길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87449176,
+      "lng": 128.68299931
+    },
+    {
+      "pnu": "2714011900104440002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 73.19429412,
+      "bld_nm": "동대구가구프라자",
+      "jibun_addr": "대구 동구 용계동 444-2",
+      "road_addr": "대구 동구 화랑로 494",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87462241,
+      "lng": 128.67796116
+    },
+    {
+      "pnu": "2714011900105470000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 74.23862443,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 547",
+      "road_addr": "대구 동구 화랑로108길 6-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87450135,
+      "lng": 128.68202467
+    },
+    {
+      "pnu": "2714011900109780001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 74.86460526,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 978-1",
+      "road_addr": "대구 동구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87629477,
+      "lng": 128.68392338
+    },
+    {
+      "pnu": "2714011100111130320",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 80.35838027,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 방촌동 1113-320",
+      "road_addr": "대구 동구 동촌로 316",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87799791,
+      "lng": 128.67390135
+    },
+    {
+      "pnu": "2714011900109770004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 80.86494121,
+      "bld_nm": "해오름타운",
+      "jibun_addr": "대구 동구 용계동 977-4",
+      "road_addr": "대구 동구 동촌로 391-14",
+      "avail_gen_cnt": 18,
+      "int_scrbr_cnt": 8,
+      "tv_scrbr_cnt": 11,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 2
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 6
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 7
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87646063,
+      "lng": 128.6835603
+    },
+    {
+      "pnu": "2714011400107600022",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.30164682,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 760-22",
+      "road_addr": "대구 동구 신평로 50",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87887504,
+      "lng": 128.67547625
+    },
+    {
+      "pnu": "2714011100111190018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.46630417,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 방촌동 1119-18",
+      "road_addr": "대구 동구 화랑로 449",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87613009,
+      "lng": 128.67314268
+    },
+    {
+      "pnu": "2714011900106130003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.79219823,
+      "bld_nm": "광장빌라트",
+      "jibun_addr": "대구 동구 용계동 613-3",
+      "road_addr": "대구 동구 화랑로108길 1-2",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87438485,
+      "lng": 128.68378419
+    },
+    {
+      "pnu": "2714011400107600023",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 82.57441669,
+      "bld_nm": "해안소규모요양원",
+      "jibun_addr": "대구 동구 신평동 760-23",
+      "road_addr": "대구 동구 신평로 54",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87882802,
+      "lng": 128.67567496
+    },
+    {
+      "pnu": "2714011900104530002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 82.64711376,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 453-2",
+      "road_addr": "대구 동구 화랑로100길 14-11",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87455757,
+      "lng": 128.67721803
+    },
+    {
+      "pnu": "2714011900106130005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 83.48572969,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 613-5",
+      "road_addr": "대구 동구 화랑로108길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87437933,
+      "lng": 128.68342964
+    },
+    {
+      "pnu": "2714011400107000010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 85.39548503,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 700-10",
+      "road_addr": "대구 동구 신평로16길 14-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87789489,
+      "lng": 128.67889582
+    },
+    {
+      "pnu": "2714011900109760001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 85.74165727,
+      "bld_nm": "동화자연마루",
+      "jibun_addr": "대구 동구 용계동 976-1",
+      "road_addr": "대구 동구 동촌로 405-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87642173,
+      "lng": 128.68384773
+    },
+    {
+      "pnu": "2714011400107800035",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 86.62282378,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 780-35",
+      "road_addr": "대구 동구 신평로 45",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87909907,
+      "lng": 128.67469304
+    },
+    {
+      "pnu": "2714011900105680000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 87.1737415,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 568",
+      "road_addr": "대구 동구 화랑로108길 10-20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87438384,
+      "lng": 128.68205615
+    },
+    {
+      "pnu": "2714011900109770000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 87.4315454,
+      "bld_nm": "해오름타운",
+      "jibun_addr": "대구 동구 용계동 977",
+      "road_addr": "대구 동구 동촌로 391-22",
+      "avail_gen_cnt": 18,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87681277,
+      "lng": 128.68259072
+    },
+    {
+      "pnu": "2714011400107020031",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 88.10860973,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 702-31",
+      "road_addr": "대구 동구 신평로 76-23",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87806262,
+      "lng": 128.67842057
+    },
+    {
+      "pnu": "2714011400107600020",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 88.48163786,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 760-20",
+      "road_addr": "대구 동구 신평로 49",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.8790778,
+      "lng": 128.67502506
+    },
+    {
+      "pnu": "2714011900109770002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 88.59083048,
+      "bld_nm": "해오름타운",
+      "jibun_addr": "대구 동구 용계동 977-2",
+      "road_addr": "대구 동구 동촌로 391-18",
+      "avail_gen_cnt": 18,
+      "int_scrbr_cnt": 11,
+      "tv_scrbr_cnt": 11,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 6
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 5
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87672848,
+      "lng": 128.68291072
+    },
+    {
+      "pnu": "2714011400107800033",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 88.79285101,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 780-33",
+      "road_addr": "대구 동구 신평로 43",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87910928,
+      "lng": 128.67457134
+    },
+    {
+      "pnu": "2714011400107600027",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 88.8372461,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 760-27",
+      "road_addr": "대구 동구 신평로 58-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87877937,
+      "lng": 128.6760398
+    },
+    {
+      "pnu": "2714011100108570235",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 89.24522503,
+      "bld_nm": "동구재활용매장",
+      "jibun_addr": "대구 동구 방촌동 857-235",
+      "road_addr": "대구 동구 동촌로 313",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87876422,
+      "lng": 128.67390158
+    },
+    {
+      "pnu": "2714011400107800018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 89.50403602,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 780-18",
+      "road_addr": "대구 동구 신평로 47",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87911526,
+      "lng": 128.6748816
+    },
+    {
+      "pnu": "2714011900109770003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 90.36021519,
+      "bld_nm": "해오름타운",
+      "jibun_addr": "대구 동구 용계동 977-3",
+      "road_addr": "대구 동구 동촌로 391-16",
+      "avail_gen_cnt": 18,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜E",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87665331,
+      "lng": 128.68321977
+    },
+    {
+      "pnu": "2714011400107000009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 90.66395975,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 700-9",
+      "road_addr": "대구 동구 신평로16길 14-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87790249,
+      "lng": 128.67903994
+    },
+    {
+      "pnu": "2714011400107000008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 90.93831277,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 700-8",
+      "road_addr": "대구 동구 신평로16길 14-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87785579,
+      "lng": 128.67920541
+    },
+    {
+      "pnu": "2714011900104630003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 92.4081968,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 463-3",
+      "road_addr": "대구 동구 화랑로100길 14-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87446624,
+      "lng": 128.67733853
+    },
+    {
+      "pnu": "2714011900105670000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 92.63907507,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 567",
+      "road_addr": "대구 동구 화랑로108길 6-13",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87433056,
+      "lng": 128.68220148
+    },
+    {
+      "pnu": "2714011900105630000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 92.7303153,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 563",
+      "road_addr": "대구 동구 화랑로108길 6-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87432223,
+      "lng": 128.68247453
+    },
+    {
+      "pnu": "2714011400107000007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 93.09956044,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 700-7",
+      "road_addr": "대구 동구 신평로16길 16",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.87782712,
+      "lng": 128.67937115
+    },
+    {
+      "pnu": "2714011400107030000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 93.34799213,
+      "bld_nm": "동선타운",
+      "jibun_addr": "대구 동구 신평동 703",
+      "road_addr": "대구 동구 신평로 76-7",
+      "avail_gen_cnt": 19,
+      "int_scrbr_cnt": 8,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 5
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87823722,
+      "lng": 128.6780036
+    },
+    {
+      "pnu": "2714011900104100003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 94.05282225,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 410-3",
+      "road_addr": "대구 동구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.8776324,
+      "lng": 128.68005494
+    },
+    {
+      "pnu": "2714011900105600000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 94.08951188,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 560",
+      "road_addr": "대구 동구 화랑로108길 6-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87430628,
+      "lng": 128.68260885
+    },
+    {
+      "pnu": "2714011100111190001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 94.43642742,
+      "bld_nm": "현대방촌맨션",
+      "jibun_addr": "대구 동구 방촌동 1119-1",
+      "road_addr": "대구 동구 화랑로91길 7",
+      "avail_gen_cnt": 250,
+      "int_scrbr_cnt": 69,
+      "tv_scrbr_cnt": 43,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜E(500)",
+          "count": 31
+        },
+        {
+          "method": "광랜E",
+          "count": 36
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 26
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87689565,
+      "lng": 128.67322044
+    },
+    {
+      "pnu": "2714011900106130012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 94.78452549,
+      "bld_nm": "광장빌라트",
+      "jibun_addr": "대구 동구 용계동 613-12",
+      "road_addr": "대구 동구 화랑로108길 1-16",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87427417,
+      "lng": 128.68403732
+    },
+    {
+      "pnu": "2714011400107710018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.08941771,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 771-18",
+      "road_addr": "대구 동구 신평로 68-4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87856293,
+      "lng": 128.67696713
+    },
+    {
+      "pnu": "2714011400107800031",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.46189447,
+      "bld_nm": "YJ빌",
+      "jibun_addr": "대구 동구 신평동 780-31",
+      "road_addr": "대구 동구 신평로 41",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜PBOX",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87912958,
+      "lng": 128.674339
+    },
+    {
+      "pnu": "2714011900104630001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.54182275,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 463-1",
+      "road_addr": "대구 동구 화랑로 490",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87441682,
+      "lng": 128.67778088
+    },
+    {
+      "pnu": "2714011400107800024",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.86016164,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 780-24",
+      "road_addr": "대구 동구 신평로 47-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87918965,
+      "lng": 128.67465007
+    },
+    {
+      "pnu": "2714011400107600025",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 97.16169341,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 760-25",
+      "road_addr": "대구 동구 신평로 56",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87888851,
+      "lng": 128.67594171
+    },
+    {
+      "pnu": "2714011400107710019",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 97.25027401,
+      "bld_nm": "장호빌라",
+      "jibun_addr": "대구 동구 신평동 771-19",
+      "road_addr": "대구 동구 신평로 68-3",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87853426,
+      "lng": 128.67713287
+    },
+    {
+      "pnu": "2714011400107000001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 97.69873372,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 700-1",
+      "road_addr": "대구 동구 신평로16길 18",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.877779,
+      "lng": 128.67968061
+    },
+    {
+      "pnu": "2714011900106130006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 97.96556717,
+      "bld_nm": "광장빌라트",
+      "jibun_addr": "대구 동구 용계동 613-6",
+      "road_addr": "대구 동구 화랑로108길 1-4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.8742415,
+      "lng": 128.68369344
+    },
+    {
+      "pnu": "2714011400107000006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 98.09045504,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 700-6",
+      "road_addr": "대구 동구 신평로16길 16-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.87782549,
+      "lng": 128.67953729
+    },
+    {
+      "pnu": "2714011400107800017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 98.7961455,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 780-17",
+      "road_addr": "대구 동구 신평로 47-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87920605,
+      "lng": 128.67481648
+    },
+    {
+      "pnu": "2714011900105590000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 98.80793283,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 용계동 559",
+      "road_addr": "대구 동구 화랑로108길 6-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87425979,
+      "lng": 128.68275217
+    },
+    {
+      "pnu": "2714011400107600026",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 98.93537048,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 760-26",
+      "road_addr": "대구 동구 신평로 58",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_smart 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.87886929,
+      "lng": 128.67606329
+    },
+    {
+      "pnu": "2714011400107710011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.09215259,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 771-11",
+      "road_addr": "대구 동구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87872941,
+      "lng": 128.67653756
+    },
+    {
+      "pnu": "2714011400107800025",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.54504635,
+      "bld_nm": "N/A",
+      "jibun_addr": "대구 동구 신평동 780-25",
+      "road_addr": "대구 동구 신평로 43-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.87919996,
+      "lng": 128.67451729
+    }
+  ]
+}

@@ -1,0 +1,3212 @@
+{
+  "area": {
+    "area_id": "2026-부산광역시-강서구-4-80180",
+    "area_name": "2026-부산광역시-강서구-4",
+    "sido": "부산광역시",
+    "sigungu": "강서구",
+    "geojson": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              128.9640749,
+              35.2189394
+            ],
+            [
+              128.9638415,
+              35.2189328
+            ],
+            [
+              128.9638281,
+              35.2181023
+            ],
+            [
+              128.9638361,
+              35.2173748
+            ],
+            [
+              128.9648822,
+              35.2174274
+            ],
+            [
+              128.9646596,
+              35.2189986
+            ],
+            [
+              128.9646542,
+              35.218992
+            ],
+            [
+              128.9644101,
+              35.2189657
+            ],
+            [
+              128.9640749,
+              35.2189394
+            ]
+          ]
+        ]
+      ]
+    },
+    "center": [
+      35.21814737843241,
+      128.9643059168191
+    ],
+    "building_count": 133,
+    "inside_count": 35,
+    "near_count": 98
+  },
+  "buildings": [
+    {
+      "pnu": "2644010100112960101",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-101",
+      "road_addr": "부산 강서구 대저로89번나길 24-13",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21847201,
+      "lng": 128.96471985
+    },
+    {
+      "pnu": "2644010100112920017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1292-17",
+      "road_addr": "부산 강서구 대저로89번나길 28",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21883211,
+      "lng": 128.96403646
+    },
+    {
+      "pnu": "2644010100112940014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1294-14",
+      "road_addr": "부산 강서구 대저로89번나길 16-3",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21828065,
+      "lng": 128.9641584
+    },
+    {
+      "pnu": "2644010100112940021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1294-21",
+      "road_addr": "부산 강서구 대저로89번나길 10",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.21799405,
+      "lng": 128.96399943
+    },
+    {
+      "pnu": "2644010100112930003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1293-3",
+      "road_addr": "부산 강서구 대저로89번나길 24-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 35.21830357,
+      "lng": 128.9644994
+    },
+    {
+      "pnu": "2644010100112910013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1291-13",
+      "road_addr": "부산 강서구 대저로89번나길 25",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21863592,
+      "lng": 128.96385715
+    },
+    {
+      "pnu": "2644010100112960042",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-42",
+      "road_addr": "부산 강서구 대저로89번나길 24-14",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.21835646,
+      "lng": 128.96459923
+    },
+    {
+      "pnu": "2644010100112960038",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-38",
+      "road_addr": "부산 강서구 대저로109번길 65",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21803999,
+      "lng": 128.96475411
+    },
+    {
+      "pnu": "2644010100112960083",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-83",
+      "road_addr": "부산 강서구 대저로89번가길 27-12",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21810292,
+      "lng": 128.96459023
+    },
+    {
+      "pnu": "2644010100112940032",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "환영이발관",
+      "jibun_addr": "부산 강서구 대저1동 1294-32",
+      "road_addr": "부산 강서구 대저로89번나길 6",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21775094,
+      "lng": 128.96397309
+    },
+    {
+      "pnu": "2644010100112940017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1294-17",
+      "road_addr": "부산 강서구 대저로89번나길 16-1",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21824632,
+      "lng": 128.96401495
+    },
+    {
+      "pnu": "2644010100112940016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1294-16",
+      "road_addr": "부산 강서구 대저로89번나길 20",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.21834574,
+      "lng": 128.96399476
+    },
+    {
+      "pnu": "2644010100112960058",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-58",
+      "road_addr": "부산 강서구 대저로89번가길 31-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 35.21789501,
+      "lng": 128.96473376
+    },
+    {
+      "pnu": "2644010100112960015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-15",
+      "road_addr": "부산 강서구 대저로89번나길 24-11",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21854629,
+      "lng": 128.96455869
+    },
+    {
+      "pnu": "2644010100112960013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-13",
+      "road_addr": "부산 강서구 대저로89번나길 24-7",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.2185394,
+      "lng": 128.96438278
+    },
+    {
+      "pnu": "2644010100112910016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1291-16",
+      "road_addr": "부산 강서구 대저로89번나길 29",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21878001,
+      "lng": 128.96387072
+    },
+    {
+      "pnu": "2644010100112940007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1294-7",
+      "road_addr": "부산 강서구 대저로89번가길 17",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 35.21754428,
+      "lng": 128.96391445
+    },
+    {
+      "pnu": "2644010100112960107",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-107",
+      "road_addr": "부산 강서구 대저로89번나길 24-16",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21827472,
+      "lng": 128.96474197
+    },
+    {
+      "pnu": "2644010100112940022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1294-22",
+      "road_addr": "부산 강서구 대저로89번나길 8",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21782225,
+      "lng": 128.9640403
+    },
+    {
+      "pnu": "2644010100112960011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-11",
+      "road_addr": "부산 강서구 대저로89번나길 24-5",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21850494,
+      "lng": 128.96425032
+    },
+    {
+      "pnu": "2644010100112960014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-14",
+      "road_addr": "부산 강서구 대저로89번다길 22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.2188914,
+      "lng": 128.9645343
+    },
+    {
+      "pnu": "2644010100112940031",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1294-31",
+      "road_addr": "부산 강서구 대저로89번가길 25",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 2
+        }
+      ],
+      "lat": 35.21772839,
+      "lng": 128.96434624
+    },
+    {
+      "pnu": "2644010100112960048",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-48",
+      "road_addr": "부산 강서구 대저로89번가길 29",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 35.21753577,
+      "lng": 128.96461744
+    },
+    {
+      "pnu": "2644010100114910001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1491-1",
+      "road_addr": "부산 강서구 대저로89번나길 19",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21839187,
+      "lng": 128.9639077
+    },
+    {
+      "pnu": "2644010100112940020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1294-20",
+      "road_addr": "부산 강서구 대저로89번나길 17",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21818508,
+      "lng": 128.96386004
+    },
+    {
+      "pnu": "2644010100112920024",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1292-24",
+      "road_addr": "부산 강서구 대저로89번나길 24",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 35.21851661,
+      "lng": 128.96403079
+    },
+    {
+      "pnu": "2644010100112940004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1294-4",
+      "road_addr": "부산 강서구 대저로89번나길 16",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21816519,
+      "lng": 128.96401349
+    },
+    {
+      "pnu": "2644010100112960007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-7",
+      "road_addr": "부산 강서구 대저로89번나길 24-3",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.2186489,
+      "lng": 128.96427488
+    },
+    {
+      "pnu": "2644010100112920018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1292-18",
+      "road_addr": "부산 강서구 대저로89번나길 32-8",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21874077,
+      "lng": 128.9641337
+    },
+    {
+      "pnu": "2644010100112940001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1294-1",
+      "road_addr": "부산 강서구 대저로89번나길 16-7",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21841387,
+      "lng": 128.96432559
+    },
+    {
+      "pnu": "2644010100114910006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "9895F481",
+      "jibun_addr": "부산 강서구 대저1동 1491-6",
+      "road_addr": "부산 강서구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21749021,
+      "lng": 128.96427508
+    },
+    {
+      "pnu": "2644010100112960005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-5",
+      "road_addr": "부산 강서구 대저로89번나길 32-9",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21879246,
+      "lng": 128.96433239
+    },
+    {
+      "pnu": "2644010100114910028",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "낙동중학교",
+      "jibun_addr": "부산 강서구 대저1동 1491-28",
+      "road_addr": "부산 강서구 대저로89번가길 22",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21742284,
+      "lng": 128.96426384
+    },
+    {
+      "pnu": "2644010100112940005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1294-5",
+      "road_addr": "부산 강서구 대저로89번가길 27-13",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.21806391,
+      "lng": 128.96418746
+    },
+    {
+      "pnu": "2644010100114910005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1491-5",
+      "road_addr": "부산 강서구 대저로89번가길 23",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21760339,
+      "lng": 128.96424511
+    },
+    {
+      "pnu": "2644010100112910017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 0.99812077,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1291-17",
+      "road_addr": "부산 강서구 대저로89번나길 33",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.2189424,
+      "lng": 128.96386265
+    },
+    {
+      "pnu": "2644010100112960004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 1.31329729,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-4",
+      "road_addr": "부산 강서구 대저로89번나길 32-5",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21897261,
+      "lng": 128.96434661
+    },
+    {
+      "pnu": "2644010100112960100",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 2.23052607,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-100",
+      "road_addr": "부산 강서구 대저로89번다길 28-2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21882175,
+      "lng": 128.96470932
+    },
+    {
+      "pnu": "2644010100112910021",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 5.11510393,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1291-21",
+      "road_addr": "부산 강서구 대저로89번다길 6-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21879009,
+      "lng": 128.96378301
+    },
+    {
+      "pnu": "2644010100114910070",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 5.17409761,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1491-70",
+      "road_addr": "부산 강서구 대저로89번나길 23-3",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21843854,
+      "lng": 128.96377669
+    },
+    {
+      "pnu": "2644010100112960099",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 8.16861975,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-99",
+      "road_addr": "부산 강서구 대저로89번다길 28-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21904262,
+      "lng": 128.96473152
+    },
+    {
+      "pnu": "2644010100114910016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 8.22092722,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1491-16",
+      "road_addr": "부산 강서구 대저로89번다길 6-29",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.2181595,
+      "lng": 128.96373872
+    },
+    {
+      "pnu": "2644010100112920016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 10.46969098,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1292-16",
+      "road_addr": "부산 강서구 대저로89번나길 36-2",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21903837,
+      "lng": 128.96412806
+    },
+    {
+      "pnu": "2644010100112910011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 12.13002509,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1291-11",
+      "road_addr": "부산 강서구 대저로89번다길 6-17",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.21870989,
+      "lng": 128.96370466
+    },
+    {
+      "pnu": "2644010100113010001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 13.36526562,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1301-1",
+      "road_addr": "부산 강서구 대저로89번가길 32",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21729981,
+      "lng": 128.96474504
+    },
+    {
+      "pnu": "2644010100112910012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 14.15180025,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1291-12",
+      "road_addr": "부산 강서구 대저로89번나길 23-6",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.21858396,
+      "lng": 128.96368042
+    },
+    {
+      "pnu": "2644010100114910015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 15.17065222,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1491-15",
+      "road_addr": "부산 강서구 대저로89번다길 6-21",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21846691,
+      "lng": 128.96366734
+    },
+    {
+      "pnu": "2644010100112960055",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 19.67620388,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-55",
+      "road_addr": "부산 강서구 대저로89번다길 30",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21874035,
+      "lng": 128.96491376
+    },
+    {
+      "pnu": "2644010100112910009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 22.6040293,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1291-9",
+      "road_addr": "부산 강서구 대저로89번다길 6-5",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21910652,
+      "lng": 128.96371178
+    },
+    {
+      "pnu": "2644010100112940008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 24.36120778,
+      "bld_nm": "대저제일장식",
+      "jibun_addr": "부산 강서구 대저1동 1294-8",
+      "road_addr": "부산 강서구 대저로89번가길 13",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.21767472,
+      "lng": 128.96356522
+    },
+    {
+      "pnu": "2644010100112960018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 25.55876487,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-18",
+      "road_addr": "부산 강서구 대저로89번다길 28",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21921804,
+      "lng": 128.96474506
+    },
+    {
+      "pnu": "2644010100114910073",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.30944584,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1491-73",
+      "road_addr": "부산 강서구 대저로89번가길 20",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.21714632,
+      "lng": 128.96401717
+    },
+    {
+      "pnu": "2644010100114910068",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.55079169,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1491-68",
+      "road_addr": "부산 강서구 대저로89번가길 11",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.21760288,
+      "lng": 128.96354196
+    },
+    {
+      "pnu": "2644010100112910005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.75944692,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1291-5",
+      "road_addr": "부산 강서구 대저로89번길 90",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21907179,
+      "lng": 128.96360129
+    },
+    {
+      "pnu": "2644010100113010006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.76686895,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1301-6",
+      "road_addr": "부산 강서구 대저로89번가길 38",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.2173958,
+      "lng": 128.96517366
+    },
+    {
+      "pnu": "2644010100114910071",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.97522387,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1491-71",
+      "road_addr": "부산 강서구 대저로89번가길 22-1",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21713439,
+      "lng": 128.96425866
+    },
+    {
+      "pnu": "2644010100112910008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 29.54457712,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1291-8",
+      "road_addr": "부산 강서구 대저로89번다길 6-3",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.21915225,
+      "lng": 128.96365767
+    },
+    {
+      "pnu": "2644010100113010042",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 30.84954762,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1301-42",
+      "road_addr": "부산 강서구 대저로109번길 48",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21727756,
+      "lng": 128.96516763
+    },
+    {
+      "pnu": "2644010100112960050",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 30.98257854,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-50",
+      "road_addr": "부산 강서구 대저로89번가길 39",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 35.2178718,
+      "lng": 128.96516183
+    },
+    {
+      "pnu": "2644010100112880004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 31.16462493,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1288-4",
+      "road_addr": "부산 강서구 대저로89번다길 6-20",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21852312,
+      "lng": 128.96349256
+    },
+    {
+      "pnu": "2644010100113010016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 32.95352358,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1301-16",
+      "road_addr": "부산 강서구 대저로109번길 43",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21710562,
+      "lng": 128.96440097
+    },
+    {
+      "pnu": "2644010100112920009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 34.00470008,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1292-9",
+      "road_addr": "부산 강서구 대저로89번나길 36-6",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21926213,
+      "lng": 128.96426392
+    },
+    {
+      "pnu": "2644010100112910006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 34.41711068,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1291-6",
+      "road_addr": "부산 강서구 대저로89번길 82-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21895021,
+      "lng": 128.96346407
+    },
+    {
+      "pnu": "2644010100112910006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 34.41711068,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1291-6",
+      "road_addr": "부산 강서구 대저로89번길 82-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    {
+      "pnu": "2644010100112920008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 34.87766387,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1292-8",
+      "road_addr": "부산 강서구 대저로89번나길 36-3",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21925537,
+      "lng": 128.96407702
+    },
+    {
+      "pnu": "2644010100112920007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 35.51957784,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1292-7",
+      "road_addr": "부산 강서구 대저로89번나길 38",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.2192567,
+      "lng": 128.96396718
+    },
+    {
+      "pnu": "2644010100112910019",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 36.16049602,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1291-19",
+      "road_addr": "부산 강서구 대저로89번나길 37",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 35.21925843,
+      "lng": 128.96382438
+    },
+    {
+      "pnu": "2644010100113010043",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 39.31709627,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1301-43",
+      "road_addr": "부산 강서구 대저로109번길 46",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21715585,
+      "lng": 128.96515967
+    },
+    {
+      "pnu": "2644010100112960095",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 40.62183229,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-95",
+      "road_addr": "부산 강서구 대저로89번다길 34-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21879942,
+      "lng": 128.965137
+    },
+    {
+      "pnu": "2644010100112960019",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 41.89604326,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-19",
+      "road_addr": "부산 강서구 대저로89번다길 34",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.2190556,
+      "lng": 128.9651145
+    },
+    {
+      "pnu": "2644010100112880017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 43.62262882,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1288-17",
+      "road_addr": "부산 강서구 대저로89번길 64",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21795682,
+      "lng": 128.96335055
+    },
+    {
+      "pnu": "2644010100113010007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 44.34345743,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1301-7",
+      "road_addr": "부산 강서구 대저로89번가길 44",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(2.5GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21735546,
+      "lng": 128.96536129
+    },
+    {
+      "pnu": "2644010100112960105",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 44.47992427,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-105",
+      "road_addr": "부산 강서구 대저로89번가길 37-2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21815575,
+      "lng": 128.96527085
+    },
+    {
+      "pnu": "2644010100112960065",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 44.68579766,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-65",
+      "road_addr": "부산 강서구 대저로89번가길 43",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21778867,
+      "lng": 128.96532513
+    },
+    {
+      "pnu": "2644010100112960037",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 45.54958324,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-37",
+      "road_addr": "부산 강서구 대저로89번가길 37-3",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21831392,
+      "lng": 128.96526027
+    },
+    {
+      "pnu": "2644010100112960106",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 47.32582512,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-106",
+      "road_addr": "부산 강서구 대저로89번가길 37-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21801633,
+      "lng": 128.96532207
+    },
+    {
+      "pnu": "2644010100112880007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 48.6273076,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1288-7",
+      "road_addr": "부산 강서구 대저로89번길 68",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21816784,
+      "lng": 128.96329501
+    },
+    {
+      "pnu": "2644010100112880018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 49.33649653,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1288-18",
+      "road_addr": "부산 강서구 대저로89번길 62",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21806579,
+      "lng": 128.96328659
+    },
+    {
+      "pnu": "2644010100112900001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.1224642,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1290-1",
+      "road_addr": "부산 강서구 대저로89번길 88",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21906623,
+      "lng": 128.96331553
+    },
+    {
+      "pnu": "2644010100113010044",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.20757163,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1301-44",
+      "road_addr": "부산 강서구 대저로109번길 42",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21703308,
+      "lng": 128.96515279
+    },
+    {
+      "pnu": "2644010100112880009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.68575412,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1288-9",
+      "road_addr": "부산 강서구 대저로89번길 72",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.2183967,
+      "lng": 128.96327609
+    },
+    {
+      "pnu": "2644010100112890002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 51.13681195,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1289-2",
+      "road_addr": "부산 강서구 대저로89번길 80",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21871507,
+      "lng": 128.96327627
+    },
+    {
+      "pnu": "2644010100112900002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 55.11728304,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1290-2",
+      "road_addr": "부산 강서구 대저로89번길 82",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.2188418,
+      "lng": 128.96323459
+    },
+    {
+      "pnu": "2644010100112790001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 56.10592692,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1279-1",
+      "road_addr": "부산 강서구 대저중앙로 156",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21949331,
+      "lng": 128.96453176
+    },
+    {
+      "pnu": "2644010100112880001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 58.20252909,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1288-1",
+      "road_addr": "부산 강서구 대저로89번길 70",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21832839,
+      "lng": 128.96319242
+    },
+    {
+      "pnu": "2644010100112960104",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 58.41999603,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-104",
+      "road_addr": "부산 강서구 대저로89번다길 38-2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.21874574,
+      "lng": 128.96534141
+    },
+    {
+      "pnu": "2644010100112910002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 58.81088734,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1291-2",
+      "road_addr": "부산 강서구 대저로89번다길 9",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21945767,
+      "lng": 128.96375105
+    },
+    {
+      "pnu": "2644010100112920001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 59.79025605,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1292-1",
+      "road_addr": "부산 강서구 대저로89번다길 11",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21947384,
+      "lng": 128.96390516
+    },
+    {
+      "pnu": "2644010100114910072",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 59.97841302,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1491-72",
+      "road_addr": "부산 강서구 대저로89번가길 22-2",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21684753,
+      "lng": 128.96412167
+    },
+    {
+      "pnu": "2644010100113010045",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 62.15159997,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1301-45",
+      "road_addr": "부산 강서구 대저로109번길 40",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21690996,
+      "lng": 128.96514379
+    },
+    {
+      "pnu": "2644010100112960087",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 62.58030107,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-87",
+      "road_addr": "부산 강서구 대저로89번가길 47",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21765616,
+      "lng": 128.96554177
+    },
+    {
+      "pnu": "2644010100112830001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 64.97461012,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1283-1",
+      "road_addr": "부산 강서구 대저로89번길 89",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21914007,
+      "lng": 128.96317403
+    },
+    {
+      "pnu": "2644010100113010029",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 65.38926645,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1301-29",
+      "road_addr": "부산 강서구 대저로89번가길 50-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21715886,
+      "lng": 128.96552152
+    },
+    {
+      "pnu": "2644010100113010009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 66.59563979,
+      "bld_nm": "근영건설주식회사",
+      "jibun_addr": "부산 강서구 대저1동 1301-9",
+      "road_addr": "부산 강서구 대저로89번가길 50",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.2173532,
+      "lng": 128.96560804
+    },
+    {
+      "pnu": "2644010100112960103",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 66.88366141,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-103",
+      "road_addr": "부산 강서구 대저로89번다길 38-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21897344,
+      "lng": 128.96540274
+    },
+    {
+      "pnu": "2644010100114910009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 67.35120271,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1491-9",
+      "road_addr": "부산 강서구 대저로89번길 52",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21733776,
+      "lng": 128.96309773
+    },
+    {
+      "pnu": "2644010100112800002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 67.81535794,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1280-2",
+      "road_addr": "부산 강서구 대저로89번길 91",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 2
+        }
+      ],
+      "lat": 35.21928363,
+      "lng": 128.96323154
+    },
+    {
+      "pnu": "2644010100112960102",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 70.10440014,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-102",
+      "road_addr": "부산 강서구 대저로89번다길 38",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21916684,
+      "lng": 128.96540181
+    },
+    {
+      "pnu": "2644010100112860003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 70.1648346,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1286-3",
+      "road_addr": "부산 강서구 대저로89번길 77",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21857337,
+      "lng": 128.96306497
+    },
+    {
+      "pnu": "2644010100112950001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 70.21655086,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1295-1",
+      "road_addr": "부산 강서구 대저로109번길 33",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21678183,
+      "lng": 128.96465376
+    },
+    {
+      "pnu": "2644010100112960086",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 71.0402357,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-86",
+      "road_addr": "부산 강서구 대저로89번가길 51-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21789352,
+      "lng": 128.96560169
+    },
+    {
+      "pnu": "2644010100112840015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 71.11381994,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1284-15",
+      "road_addr": "부산 강서구 대저로89번길 81",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21887998,
+      "lng": 128.96305949
+    },
+    {
+      "pnu": "2644010100113010046",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 74.6065299,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1301-46",
+      "road_addr": "부산 강서구 대저로109번길 38",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21678806,
+      "lng": 128.96513622
+    },
+    {
+      "pnu": "2644010100112960051",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 74.71497287,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-51",
+      "road_addr": "부산 강서구 대저로89번가길 51-11",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21801044,
+      "lng": 128.96562576
+    },
+    {
+      "pnu": "2644010100112960088",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 75.24836989,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-88",
+      "road_addr": "부산 강서구 대저로89번가길 51-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21770329,
+      "lng": 128.96567517
+    },
+    {
+      "pnu": "2644010100112860010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 76.23620743,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1286-10",
+      "road_addr": "부산 강서구 대저로89번길 67",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.2181505,
+      "lng": 128.96299146
+    },
+    {
+      "pnu": "2644010100113010030",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 76.7924082,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1301-30",
+      "road_addr": "부산 강서구 대저로89번가길 50-2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21696151,
+      "lng": 128.96550598
+    },
+    {
+      "pnu": "2644010100112960053",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 77.78911841,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-53",
+      "road_addr": "부산 강서구 대저로89번가길 51-15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21815453,
+      "lng": 128.96563934
+    },
+    {
+      "pnu": "2644010100112800001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 78.04074301,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1280-1",
+      "road_addr": "부산 강서구 대저중앙로 146",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21941009,
+      "lng": 128.96321184
+    },
+    {
+      "pnu": "2644010100112860011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 78.28674199,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1286-11",
+      "road_addr": "부산 강서구 대저로89번길 63-4",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21808767,
+      "lng": 128.96296836
+    },
+    {
+      "pnu": "2644010100112840028",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 78.43025521,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1284-28",
+      "road_addr": "부산 강서구 대저로89번길 93-5",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21924055,
+      "lng": 128.96306596
+    },
+    {
+      "pnu": "2644010100112860004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 79.19455503,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1286-4",
+      "road_addr": "부산 강서구 대저로89번길 73",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.21840329,
+      "lng": 128.96296304
+    },
+    {
+      "pnu": "2644010100114910034",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 79.53389169,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1491-34",
+      "road_addr": "부산 강서구 대저로109번길 27-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.2166752,
+      "lng": 128.96420647
+    },
+    {
+      "pnu": "2644010100112790002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 80.94928456,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1279-2",
+      "road_addr": "부산 강서구 대저중앙로 162",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21947459,
+      "lng": 128.96533347
+    },
+    {
+      "pnu": "2644010100112960066",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.25322167,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-66",
+      "road_addr": "부산 강서구 대저로89번가길 51-19",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21832567,
+      "lng": 128.9656534
+    },
+    {
+      "pnu": "2644010100112830002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.33580452,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1283-2",
+      "road_addr": "부산 강서구 대저로89번길 87",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        }
+      ],
+      "lat": 35.21907048,
+      "lng": 128.96296403
+    },
+    {
+      "pnu": "2644010100112860014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.49846521,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1286-14",
+      "road_addr": "부산 강서구 대저로89번길 55",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21762821,
+      "lng": 128.96293814
+    },
+    {
+      "pnu": "2644010100112960054",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 83.4031391,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-54",
+      "road_addr": "부산 강서구 대저로89번가길 51-27",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.21874986,
+      "lng": 128.96561708
+    },
+    {
+      "pnu": "2644010100112810002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 84.43592292,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1281-2",
+      "road_addr": "부산 강서구 대저로89번길 93-6",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21944681,
+      "lng": 128.96315756
+    },
+    {
+      "pnu": "2644010100113010047",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 87.48234252,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1301-47",
+      "road_addr": "부산 강서구 대저로109번길 34",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21666493,
+      "lng": 128.96512715
+    },
+    {
+      "pnu": "2644010100112840005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 87.79792274,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1284-5",
+      "road_addr": "부산 강서구 대저로89번길 93-7",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 35.21930458,
+      "lng": 128.9629902
+    },
+    {
+      "pnu": "2644010100112860007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 89.16299156,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1286-7",
+      "road_addr": "부산 강서구 대저로89번길 63-20",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21860293,
+      "lng": 128.96285676
+    },
+    {
+      "pnu": "2644010100112840006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 90.06364683,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1284-6",
+      "road_addr": "부산 강서구 대저중앙로 142-11",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21906266,
+      "lng": 128.96286501
+    },
+    {
+      "pnu": "2644010100112960063",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 90.1760516,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-63",
+      "road_addr": "부산 강서구 대저로89번가길 51-25",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21860552,
+      "lng": 128.96571242
+    },
+    {
+      "pnu": "2644010100112860009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 91.21032342,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1286-9",
+      "road_addr": "부산 강서구 대저로89번길 63-12",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 11,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 5,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.21832376,
+      "lng": 128.96282977
+    },
+    {
+      "pnu": "2644010100112760002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 93.97665284,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1276-2",
+      "road_addr": "부산 강서구 대저중앙로 155",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21979556,
+      "lng": 128.96414166
+    },
+    {
+      "pnu": "2644010100113010039",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 94.18062777,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1301-39",
+      "road_addr": "부산 강서구 대저로89번가길 54",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21724561,
+      "lng": 128.96589263
+    },
+    {
+      "pnu": "2644010100112860028",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 94.30877295,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1286-28",
+      "road_addr": "부산 강서구 대저로89번길 63-8",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 35.21808078,
+      "lng": 128.96279245
+    },
+    {
+      "pnu": "2644010100112840012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.13270985,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1284-12",
+      "road_addr": "부산 강서구 대저중앙로 142-19",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21879303,
+      "lng": 128.96279425
+    },
+    {
+      "pnu": "2644010100112960022",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.35519016,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1296-22",
+      "road_addr": "부산 강서구 대저중앙로172번길 14-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21928143,
+      "lng": 128.96564862
+    },
+    {
+      "pnu": "2644010100112870004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.61548565,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1287-4",
+      "road_addr": "부산 강서구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21758513,
+      "lng": 128.96277257
+    },
+    {
+      "pnu": "2644010100113010031",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.64724746,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1301-31",
+      "road_addr": "부산 강서구 대저로89번가길 50-3",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21675936,
+      "lng": 128.96556349
+    },
+    {
+      "pnu": "2644010100112970056",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.75578328,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1297-56",
+      "road_addr": "부산 강서구 대저로89번가길 53",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.21761009,
+      "lng": 128.96592619
+    },
+    {
+      "pnu": "2644010100112860017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 98.4492947,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 강서구 대저1동 1286-17",
+      "road_addr": "부산 강서구 대저로89번길 55-1",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.21764849,
+      "lng": 128.96275173
+    }
+  ]
+}

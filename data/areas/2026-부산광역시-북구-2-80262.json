@@ -1,0 +1,6018 @@
+{
+  "area": {
+    "area_id": "2026-부산광역시-북구-2-80262",
+    "area_name": "2026-부산광역시-북구-2",
+    "sido": "부산광역시",
+    "sigungu": "북구",
+    "geojson": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              129.0168724,
+              35.2644419
+            ],
+            [
+              129.0166257,
+              35.2635046
+            ],
+            [
+              129.0166203,
+              35.2630622
+            ],
+            [
+              129.0175698,
+              35.2630053
+            ],
+            [
+              129.0183691,
+              35.2626111
+            ],
+            [
+              129.0193293,
+              35.2636535
+            ],
+            [
+              129.0188733,
+              35.2639514
+            ],
+            [
+              129.0186373,
+              35.2641353
+            ],
+            [
+              129.0178273,
+              35.2641397
+            ],
+            [
+              129.0168724,
+              35.2644419
+            ]
+          ]
+        ]
+      ]
+    },
+    "center": [
+      35.26355102944039,
+      129.01784554052762
+    ],
+    "building_count": 185,
+    "inside_count": 70,
+    "near_count": 115
+  },
+  "buildings": [
+    {
+      "pnu": "2632010100101870000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 187",
+      "road_addr": "부산 북구 효열로219번가길 26",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26351055,
+      "lng": 129.01786915
+    },
+    {
+      "pnu": "2632010100102140000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 214",
+      "road_addr": "부산 북구 효열로219번가길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26395186,
+      "lng": 129.01862489
+    },
+    {
+      "pnu": "2632010100100600000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 60",
+      "road_addr": "부산 북구 효열로219번가길 19-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26325655,
+      "lng": 129.01871085
+    },
+    {
+      "pnu": "2632010100101710000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 171",
+      "road_addr": "부산 북구 효열로203번가길 28",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26405882,
+      "lng": 129.01728576
+    },
+    {
+      "pnu": "2632010100101770000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 177",
+      "road_addr": "부산 북구 효열로219번길 17-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.26388499,
+      "lng": 129.01820592
+    },
+    {
+      "pnu": "2632010100101740001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "선경빌라",
+      "jibun_addr": "부산 북구 금곡동 174-1",
+      "road_addr": "부산 북구 효열로219번길 21",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 4,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 4
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26409912,
+      "lng": 129.0183858
+    },
+    {
+      "pnu": "2632010100101640000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 164",
+      "road_addr": "부산 북구 효열로219번가길 38-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26364129,
+      "lng": 129.01750883
+    },
+    {
+      "pnu": "2632010100101750000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "혜림빌라",
+      "jibun_addr": "부산 북구 금곡동 175",
+      "road_addr": "부산 북구 효열로219번길 25",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26402075,
+      "lng": 129.01816448
+    },
+    {
+      "pnu": "2632010100102070000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 207",
+      "road_addr": "부산 북구 효열로219번가길 32-17",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.2636928,
+      "lng": 129.01843318
+    },
+    {
+      "pnu": "2632010100100750001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 75-1",
+      "road_addr": "부산 북구 금곡대로616번길 84",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 35.26431617,
+      "lng": 129.01689482
+    },
+    {
+      "pnu": "2632010100100920001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 92-1",
+      "road_addr": "부산 북구 효열로219번가길 48",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26355426,
+      "lng": 129.01669948
+    },
+    {
+      "pnu": "2632010100100640004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대성하이츠빌",
+      "jibun_addr": "부산 북구 금곡동 64-4",
+      "road_addr": "부산 북구 효열로203번길 6",
+      "avail_gen_cnt": 18,
+      "int_scrbr_cnt": 8,
+      "tv_scrbr_cnt": 21,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 8,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26283883,
+      "lng": 129.01823037
+    },
+    {
+      "pnu": "2632010100102110000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 211",
+      "road_addr": "부산 북구 효열로219번길 17-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.2639445,
+      "lng": 129.01849284
+    },
+    {
+      "pnu": "2632010100101570000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 157",
+      "road_addr": "부산 북구 효열로219번가길 29-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.2633448,
+      "lng": 129.01742635
+    },
+    {
+      "pnu": "2632010100100640002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우리명가",
+      "jibun_addr": "부산 북구 금곡동 64-2",
+      "road_addr": "부산 북구 효열로 211-5",
+      "avail_gen_cnt": 18,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 2
+        }
+      ],
+      "lat": 35.26300789,
+      "lng": 129.01840941
+    },
+    {
+      "pnu": "2632010100101510005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 151-5",
+      "road_addr": "부산 북구 효열로203번길 16-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26324054,
+      "lng": 129.01783113
+    },
+    {
+      "pnu": "2632010100101540002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 154-2",
+      "road_addr": "부산 북구 효열로203번가길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26326574,
+      "lng": 129.01725998
+    },
+    {
+      "pnu": "2632010100101840000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 184",
+      "road_addr": "부산 북구 효열로219번가길 32-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 5,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        }
+      ],
+      "lat": 35.26361775,
+      "lng": 129.0179481
+    },
+    {
+      "pnu": "2632010100101490000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 149",
+      "road_addr": "부산 북구 효열로203번길 14-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 35.26302187,
+      "lng": 129.01801393
+    },
+    {
+      "pnu": "2632010100100750004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 75-4",
+      "road_addr": "부산 북구 금곡대로616번길 80",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26418138,
+      "lng": 129.01685933
+    },
+    {
+      "pnu": "2632010100101730002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "금곡빌라",
+      "jibun_addr": "부산 북구 금곡동 173-2",
+      "road_addr": "부산 북구 효열로219번길 29",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 11,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 6,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 6
+        }
+      ],
+      "lat": 35.26402323,
+      "lng": 129.01796665
+    },
+    {
+      "pnu": "2632010100101500002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 150-2",
+      "road_addr": "부산 북구 효열로203번길 16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.26307912,
+      "lng": 129.01776217
+    },
+    {
+      "pnu": "2632010100100580000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우정빌딩",
+      "jibun_addr": "부산 북구 금곡동 58",
+      "road_addr": "부산 북구 효열로 213",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26331703,
+      "lng": 129.01892084
+    },
+    {
+      "pnu": "2632010100106190003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "화목빌라",
+      "jibun_addr": "부산 북구 금곡동 619-3",
+      "road_addr": "부산 북구 효열로203번가길 24",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26391667,
+      "lng": 129.01711822
+    },
+    {
+      "pnu": "2632010100106290002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 629-2",
+      "road_addr": "부산 북구 효열로219번가길 38-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26381586,
+      "lng": 129.01724825
+    },
+    {
+      "pnu": "2632010100101500001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 150-1",
+      "road_addr": "부산 북구 효열로203번길 14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 35.26296042,
+      "lng": 129.01788087
+    },
+    {
+      "pnu": "2632010100101730000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "선경빌라",
+      "jibun_addr": "부산 북구 금곡동 173",
+      "road_addr": "부산 북구 효열로219번길 31",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26404347,
+      "lng": 129.01779115
+    },
+    {
+      "pnu": "2632010100101670000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 167",
+      "road_addr": "부산 북구 효열로219번가길 38-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26383946,
+      "lng": 129.01752351
+    },
+    {
+      "pnu": "2632010100100630000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 63",
+      "road_addr": "부산 북구 효열로219번가길 19-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26325223,
+      "lng": 129.01833702
+    },
+    {
+      "pnu": "2632010100101830000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 183",
+      "road_addr": "부산 북구 효열로219번가길 32-7",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26392587,
+      "lng": 129.01782193
+    },
+    {
+      "pnu": "2632010100101750001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 175-1",
+      "road_addr": "부산 북구 효열로219번길 17-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26399178,
+      "lng": 129.01831784
+    },
+    {
+      "pnu": "2632010100100920002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 92-2",
+      "road_addr": "부산 북구 효열로203번길 34",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 10,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 10,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 2
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.26324017,
+      "lng": 129.01670149
+    },
+    {
+      "pnu": "2632010100100920003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "부산금곡본동우체국",
+      "jibun_addr": "부산 북구 금곡동 92-3",
+      "road_addr": "부산 북구 효열로203번길 30",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26319818,
+      "lng": 129.01689596
+    },
+    {
+      "pnu": "2632010100101920000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 192",
+      "road_addr": "부산 북구 효열로219번가길 19-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26337732,
+      "lng": 129.01842729
+    },
+    {
+      "pnu": "2632010100100750003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 75-3",
+      "road_addr": "부산 북구 효열로203번가길 25",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 35.26410775,
+      "lng": 129.01697887
+    },
+    {
+      "pnu": "2632010100101790000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 179",
+      "road_addr": "부산 북구 효열로219번가길 32-13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26381288,
+      "lng": 129.01820457
+    },
+    {
+      "pnu": "2632010100101990003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "예담그린빌",
+      "jibun_addr": "부산 북구 금곡동 199-3",
+      "road_addr": "부산 북구 효열로219번가길 3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.26376772,
+      "lng": 129.01892926
+    },
+    {
+      "pnu": "2632010100100750002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 75-2",
+      "road_addr": "부산 북구 효열로219번길 45",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26425101,
+      "lng": 129.0170585
+    },
+    {
+      "pnu": "2632010100102150000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 215",
+      "road_addr": "부산 북구 효열로219번길 13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26396809,
+      "lng": 129.0187681
+    },
+    {
+      "pnu": "2632010100101660000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 166",
+      "road_addr": "부산 북구 효열로219번가길 32-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26387427,
+      "lng": 129.0176231
+    },
+    {
+      "pnu": "2632010100106290000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "금곡성우빌라",
+      "jibun_addr": "부산 북구 금곡동 629",
+      "road_addr": "부산 북구 효열로219번가길 42",
+      "avail_gen_cnt": 18,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 15,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 4,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26372724,
+      "lng": 129.01712568
+    },
+    {
+      "pnu": "2632010100101990009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 199-9",
+      "road_addr": "부산 북구 효열로 219",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26364792,
+      "lng": 129.01913588
+    },
+    {
+      "pnu": "2632010100100620000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 62",
+      "road_addr": "부산 북구 효열로219번가길 19-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26321438,
+      "lng": 129.01847922
+    },
+    {
+      "pnu": "2632010100101510000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "새금곡교회(장로회)",
+      "jibun_addr": "부산 북구 금곡동 151",
+      "road_addr": "부산 북구 효열로219번가길 27",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26336715,
+      "lng": 129.01780052
+    },
+    {
+      "pnu": "2632010100101520001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 152-1",
+      "road_addr": "부산 북구 효열로203번길 20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26312695,
+      "lng": 129.01754321
+    },
+    {
+      "pnu": "2632010100101900000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 190",
+      "road_addr": "부산 북구 효열로 211-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26331698,
+      "lng": 129.01820631
+    },
+    {
+      "pnu": "2632010100101510001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 151-1",
+      "road_addr": "부산 북구 효열로219번가길 23",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 35.26331086,
+      "lng": 129.01797535
+    },
+    {
+      "pnu": "2632010100102160000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 216",
+      "road_addr": "부산 북구 효열로219번길 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26405129,
+      "lng": 129.01860476
+    },
+    {
+      "pnu": "2632010100101530000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 153",
+      "road_addr": "부산 북구 효열로203번길 22",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 35.26321943,
+      "lng": 129.01735805
+    },
+    {
+      "pnu": "2632010100101950000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "구포농협금곡지점",
+      "jibun_addr": "부산 북구 금곡동 195",
+      "road_addr": "부산 북구 효열로 215",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 35.26346028,
+      "lng": 129.01900047
+    },
+    {
+      "pnu": "2632010100101700000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 170",
+      "road_addr": "부산 북구 효열로219번가길 38-9",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 35.26400378,
+      "lng": 129.01736169
+    },
+    {
+      "pnu": "2632010100100600001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "남쪽첫번째가게",
+      "jibun_addr": "부산 북구 금곡동 60-1",
+      "road_addr": "부산 북구 효열로 211",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.26315616,
+      "lng": 129.01880791
+    },
+    {
+      "pnu": "2632010100101690000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 169",
+      "road_addr": "부산 북구 효열로219번가길 38-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        }
+      ],
+      "lat": 35.26400879,
+      "lng": 129.01768057
+    },
+    {
+      "pnu": "2632010100100640009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 64-9",
+      "road_addr": "부산 북구 효열로 205",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 35.26271043,
+      "lng": 129.01840386
+    },
+    {
+      "pnu": "2632010100101590000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 159",
+      "road_addr": "부산 북구 효열로219번가길 33",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26350567,
+      "lng": 129.01753927
+    },
+    {
+      "pnu": "2632010100101680000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 168",
+      "road_addr": "부산 북구 효열로219번가길 38-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 35.26394694,
+      "lng": 129.01758048
+    },
+    {
+      "pnu": "2632010100101580000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 158",
+      "road_addr": "부산 북구 효열로219번가길 29-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26339626,
+      "lng": 129.01763617
+    },
+    {
+      "pnu": "2632010100101560000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 156",
+      "road_addr": "부산 북구 효열로219번가길 37",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26343576,
+      "lng": 129.01736209
+    },
+    {
+      "pnu": "2632010100101520000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 152",
+      "road_addr": "부산 북구 효열로203번길 20-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 35.26327963,
+      "lng": 129.01759002
+    },
+    {
+      "pnu": "2632010100100640005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 64-5",
+      "road_addr": "부산 북구 효열로 207",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26289765,
+      "lng": 129.01857224
+    },
+    {
+      "pnu": "2632010100101890000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 189",
+      "road_addr": "부산 북구 효열로219번가길 20",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 35.26352402,
+      "lng": 129.01823216
+    },
+    {
+      "pnu": "2632010100107320000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 732",
+      "road_addr": "부산 북구 효열로203번가길 4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26309654,
+      "lng": 129.01709194
+    },
+    {
+      "pnu": "2632010100100640006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 64-6",
+      "road_addr": "부산 북구 효열로 211-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26315459,
+      "lng": 129.01821428
+    },
+    {
+      "pnu": "2632010100101630000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 163",
+      "road_addr": "부산 북구 효열로219번가길 38-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.2636693,
+      "lng": 129.0174324
+    },
+    {
+      "pnu": "2632010100100640001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 64-1",
+      "road_addr": "부산 북구 효열로 211-13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 35.26317414,
+      "lng": 129.01809372
+    },
+    {
+      "pnu": "2632010100101550000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 155",
+      "road_addr": "부산 북구 효열로203번가길 8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26334824,
+      "lng": 129.01715159
+    },
+    {
+      "pnu": "2632010100102000000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "수림빌라",
+      "jibun_addr": "부산 북구 금곡동 200",
+      "road_addr": "부산 북구 효열로219번가길 7",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26365192,
+      "lng": 129.01881717
+    },
+    {
+      "pnu": "2632010100101930000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 193",
+      "road_addr": "부산 북구 효열로219번가길 13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 35.26355594,
+      "lng": 129.01856254
+    },
+    {
+      "pnu": "2632010100102020001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 202-1",
+      "road_addr": "부산 북구 효열로219번가길 9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26353543,
+      "lng": 129.01876003
+    },
+    {
+      "pnu": "2632010100101810000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 181",
+      "road_addr": "부산 북구 효열로219번가길 32-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26386931,
+      "lng": 129.01801875
+    },
+    {
+      "pnu": "2632010100102390000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 10.09504477,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 239",
+      "road_addr": "부산 북구 효열로219번길 38",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26431664,
+      "lng": 129.01757638
+    },
+    {
+      "pnu": "2632010100102210000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 11.64478015,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 221",
+      "road_addr": "부산 북구 효열로219번길 20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.2642403,
+      "lng": 129.01863028
+    },
+    {
+      "pnu": "2632010100100710011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 12.02307974,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 71-11",
+      "road_addr": "부산 북구 효열로219번길 48",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.26449425,
+      "lng": 129.01707402
+    },
+    {
+      "pnu": "2632010100100710010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 12.41786365,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 71-10",
+      "road_addr": "부산 북구 효열로219번길 46",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26445654,
+      "lng": 129.01720523
+    },
+    {
+      "pnu": "2632010100100710012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 12.81496105,
+      "bld_nm": "유림치과",
+      "jibun_addr": "부산 북구 금곡동 71-12",
+      "road_addr": "부산 북구 효열로219번길 50",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26455026,
+      "lng": 129.01692117
+    },
+    {
+      "pnu": "2632010100102360000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 15.20068298,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 236",
+      "road_addr": "부산 북구 효열로219번길 32",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26427617,
+      "lng": 129.0179274
+    },
+    {
+      "pnu": "2632010100102400000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 16.02303573,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 240",
+      "road_addr": "부산 북구 효열로219번길 42",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26440816,
+      "lng": 129.01746816
+    },
+    {
+      "pnu": "2632010100102370000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 16.22040432,
+      "bld_nm": "금곡동디온빌",
+      "jibun_addr": "부산 북구 금곡동 237",
+      "road_addr": "부산 북구 효열로219번다길 3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(500)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.26432359,
+      "lng": 129.01774141
+    },
+    {
+      "pnu": "2632010100102300000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 17.80215705,
+      "bld_nm": "우방하이츠빌라",
+      "jibun_addr": "부산 북구 금곡동 230",
+      "road_addr": "부산 북구 효열로219번길 22",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 35.26429687,
+      "lng": 129.01843346
+    },
+    {
+      "pnu": "2632010100103610002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 23.73366945,
+      "bld_nm": "금곡상가",
+      "jibun_addr": "부산 북구 금곡동 361-2",
+      "road_addr": "부산 북구 효열로 221",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 35.26390656,
+      "lng": 129.01936057
+    },
+    {
+      "pnu": "2632010100102310000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 23.88161938,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 231",
+      "road_addr": "부산 북구 효열로219번길 24",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.2643522,
+      "lng": 129.01833556
+    },
+    {
+      "pnu": "2632010100100970003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 24.26833404,
+      "bld_nm": "금곡소아과의원",
+      "jibun_addr": "부산 북구 금곡동 97-3",
+      "road_addr": "부산 북구 효열로 216",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.263276,
+      "lng": 129.01931582
+    },
+    {
+      "pnu": "2632010100100970001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 24.34678615,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 97-1",
+      "road_addr": "부산 북구 효열로 218",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26344533,
+      "lng": 129.01947288
+    },
+    {
+      "pnu": "2632010100102200000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 25.23729969,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 220",
+      "road_addr": "부산 북구 효열로219번길 14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26428261,
+      "lng": 129.01885092
+    },
+    {
+      "pnu": "2632010100100970004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 25.27230446,
+      "bld_nm": "내제조표",
+      "jibun_addr": "부산 북구 금곡동 97-4",
+      "road_addr": "부산 북구 효열로 214-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26315105,
+      "lng": 129.01921455
+    },
+    {
+      "pnu": "2632010100100730015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 25.4696327,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 73-15",
+      "road_addr": "부산 북구 금곡대로616번길 71",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26387113,
+      "lng": 129.01643582
+    },
+    {
+      "pnu": "2632010100102420000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.47391139,
+      "bld_nm": "한울다온",
+      "jibun_addr": "부산 북구 금곡동 242",
+      "road_addr": "부산 북구 효열로203번가길 38",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26448868,
+      "lng": 129.01753277
+    },
+    {
+      "pnu": "2632010100100970005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.49329173,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 97-5",
+      "road_addr": "부산 북구 효열로 214",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26303497,
+      "lng": 129.01912444
+    },
+    {
+      "pnu": "2632010100106410013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.84493797,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 641-13",
+      "road_addr": "부산 북구 금곡대로636번길 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26366464,
+      "lng": 129.01636601
+    },
+    {
+      "pnu": "2632010100100970006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.96513797,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 97-6",
+      "road_addr": "부산 북구 효열로 212",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.26295468,
+      "lng": 129.01905698
+    },
+    {
+      "pnu": "2632010100100710009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 27.03822296,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 71-9",
+      "road_addr": "부산 북구 효열로203번가길 39",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26457275,
+      "lng": 129.01728435
+    },
+    {
+      "pnu": "2632010100100710007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 27.08024494,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 71-7",
+      "road_addr": "부산 북구 금곡대로616번길 92",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26467604,
+      "lng": 129.01695649
+    },
+    {
+      "pnu": "2632010100102340000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 27.12461929,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 234",
+      "road_addr": "부산 북구 효열로219번길 28",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.2643831,
+      "lng": 129.01802833
+    },
+    {
+      "pnu": "2632010100100710008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 27.23609874,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 71-8",
+      "road_addr": "부산 북구 효열로275번길 62",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26461961,
+      "lng": 129.01714232
+    },
+    {
+      "pnu": "2632010100100730007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 27.42866792,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 73-7",
+      "road_addr": "부산 북구 금곡대로616번길 79",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 35.26418593,
+      "lng": 129.01649665
+    },
+    {
+      "pnu": "2632010100102220000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.12327189,
+      "bld_nm": "한솔전원빌라",
+      "jibun_addr": "부산 북구 금곡동 222",
+      "road_addr": "부산 북구 효열로219번길 20-1",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 11,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Android)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.2643837,
+      "lng": 129.01869891
+    },
+    {
+      "pnu": "2632010100100730008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.41040296,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 73-8",
+      "road_addr": "부산 북구 금곡대로616번길 75",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26405127,
+      "lng": 129.01645017
+    },
+    {
+      "pnu": "2632010100100730002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 29.38789766,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 73-2",
+      "road_addr": "부산 북구 금곡대로616번길 85",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 3,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.26445579,
+      "lng": 129.01654565
+    },
+    {
+      "pnu": "2632010100100970009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 29.38790393,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 97-9",
+      "road_addr": "부산 북구 효열로 208",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26258883,
+      "lng": 129.01875335
+    },
+    {
+      "pnu": "2632010100100730003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 29.78179998,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 73-3",
+      "road_addr": "부산 북구 금곡대로616번길 83",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26433903,
+      "lng": 129.01651049
+    },
+    {
+      "pnu": "2632010100102180000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 31.27965522,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 218",
+      "road_addr": "부산 북구 효열로219번나길 3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 35.26427222,
+      "lng": 129.01896066
+    },
+    {
+      "pnu": "2632010100100570009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 31.43204388,
+      "bld_nm": "화목빌딩",
+      "jibun_addr": "부산 북구 금곡동 57-9",
+      "road_addr": "부산 북구 효열로 222",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26364115,
+      "lng": 129.0196744
+    },
+    {
+      "pnu": "2632010100100970007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 32.85260826,
+      "bld_nm": "무궁화마트(금곡점)",
+      "jibun_addr": "부산 북구 금곡동 97-7",
+      "road_addr": "부산 북구 효열로 210",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26273085,
+      "lng": 129.01893189
+    },
+    {
+      "pnu": "2632010100100700016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 35.24494142,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 70-16",
+      "road_addr": "부산 북구 금곡대로616번길 91",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26467144,
+      "lng": 129.01660463
+    },
+    {
+      "pnu": "2632010100103620000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 36.87491348,
+      "bld_nm": "종합상가",
+      "jibun_addr": "부산 북구 금곡동 362",
+      "road_addr": "부산 북구 효열로219번길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.26410583,
+      "lng": 129.01928734
+    },
+    {
+      "pnu": "2632010100100730014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 37.23887957,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 73-14",
+      "road_addr": "부산 북구 금곡대로638번길 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26391771,
+      "lng": 129.01631576
+    },
+    {
+      "pnu": "2632010100102430002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 38.30027754,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 243-2",
+      "road_addr": "부산 북구 효열로203번가길 40-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26454949,
+      "lng": 129.01770165
+    },
+    {
+      "pnu": "2632010100106410012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 39.59411149,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 641-12",
+      "road_addr": "부산 북구 금곡대로636번길 17",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26371136,
+      "lng": 129.01623497
+    },
+    {
+      "pnu": "2632010100100710005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 41.14719497,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 71-5",
+      "road_addr": "부산 북구 금곡대로616번길 94",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.26480196,
+      "lng": 129.01698082
+    },
+    {
+      "pnu": "2632010100100710006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 41.56106621,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 71-6",
+      "road_addr": "부산 북구 효열로275번길 60",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26476411,
+      "lng": 129.01712303
+    },
+    {
+      "pnu": "2632010100102190000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 43.43735207,
+      "bld_nm": "동국숯불갈",
+      "jibun_addr": "부산 북구 금곡동 219",
+      "road_addr": "부산 북구 효열로219번나길 9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26437055,
+      "lng": 129.01902845
+    },
+    {
+      "pnu": "2632010100100730001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 43.70941765,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 73-1",
+      "road_addr": "부산 북구 금곡대로638번길 9-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26452969,
+      "lng": 129.01640412
+    },
+    {
+      "pnu": "2632010100103660000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 45.13775518,
+      "bld_nm": "제일상가",
+      "jibun_addr": "부산 북구 금곡동 366",
+      "road_addr": "부산 북구 효열로 223",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.264058,
+      "lng": 129.0195063
+    },
+    {
+      "pnu": "2632010100102430000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 45.1653664,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 243",
+      "road_addr": "부산 북구 효열로219번다길 7-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.2645843,
+      "lng": 129.01780123
+    },
+    {
+      "pnu": "2632010100100700015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 46.60066151,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 70-15",
+      "road_addr": "부산 북구 금곡대로616번길 93",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 35.26480651,
+      "lng": 129.01661814
+    },
+    {
+      "pnu": "2632010100102490000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 47.09209563,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 249",
+      "road_addr": "부산 북구 효열로219번다길 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26456476,
+      "lng": 129.01792179
+    },
+    {
+      "pnu": "2632010100106410011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 47.24375236,
+      "bld_nm": "명불카서비스",
+      "jibun_addr": "부산 북구 금곡동 641-11",
+      "road_addr": "부산 북구 금곡대로636번길 13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26374838,
+      "lng": 129.01615871
+    },
+    {
+      "pnu": "2632010100100570008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 47.44232428,
+      "bld_nm": "화성빌딩",
+      "jibun_addr": "부산 북구 금곡동 57-8",
+      "road_addr": "부산 북구 효열로 224",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 5,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 5
+        }
+      ],
+      "lat": 35.26381977,
+      "lng": 129.01980965
+    },
+    {
+      "pnu": "2632010100100730004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 47.63125466,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 73-4",
+      "road_addr": "부산 북구 금곡대로638번길 9-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26439545,
+      "lng": 129.01632466
+    },
+    {
+      "pnu": "2632010100102280000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 47.67614308,
+      "bld_nm": "우방하이츠빌라",
+      "jibun_addr": "부산 북구 금곡동 228",
+      "road_addr": "부산 북구 효열로219번길 22-1",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 11,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 35.26456522,
+      "lng": 129.01860336
+    },
+    {
+      "pnu": "2632010100100730013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 48.02667364,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 73-13",
+      "road_addr": "부산 북구 금곡대로638번길 13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26396416,
+      "lng": 129.0162067
+    },
+    {
+      "pnu": "2632010100100700017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 48.27874034,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 70-17",
+      "road_addr": "부산 북구 금곡대로616번길 87-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.2647183,
+      "lng": 129.0164626
+    },
+    {
+      "pnu": "2632010100100670009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 48.57510347,
+      "bld_nm": "유림미술학원",
+      "jibun_addr": "부산 북구 금곡동 67-9",
+      "road_addr": "부산 북구 효열로203번가길 41",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 35.26475193,
+      "lng": 129.01737564
+    },
+    {
+      "pnu": "2632010100102510000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.94579972,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 251",
+      "road_addr": "부산 북구 효열로219번다길 10-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26459654,
+      "lng": 129.01826317
+    },
+    {
+      "pnu": "2632010100100730005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 51.16222233,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 73-5",
+      "road_addr": "부산 북구 금곡대로638번길 9-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26428811,
+      "lng": 129.01625671
+    },
+    {
+      "pnu": "2632010100100730011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 54.30225444,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 73-11",
+      "road_addr": "부산 북구 금곡대로638번길 9-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26416274,
+      "lng": 129.01618841
+    },
+    {
+      "pnu": "2632010100102440001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 54.59991339,
+      "bld_nm": "해피하우스",
+      "jibun_addr": "부산 북구 금곡동 244-1",
+      "road_addr": "부산 북구 효열로203번가길 46",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 10,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 5,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26470258,
+      "lng": 129.0177155
+    },
+    {
+      "pnu": "2632010100100940001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 57.0488796,
+      "bld_nm": "유림2차아파트",
+      "jibun_addr": "부산 북구 금곡동 94-1",
+      "road_addr": "부산 북구 금곡대로616번길 57",
+      "avail_gen_cnt": 240,
+      "int_scrbr_cnt": 79,
+      "tv_scrbr_cnt": 258,
+      "skb_pop_cnt": 12,
+      "catv_digital_cnt": 40,
+      "catv_internet_cnt": 8,
+      "catv_8vsb_cnt": 21,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 6
+        },
+        {
+          "method": "광랜E(500)",
+          "count": 43
+        },
+        {
+          "method": "광랜E",
+          "count": 21
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 16
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 59
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 28
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 9
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_8VSB_공청)_20",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 2
+        }
+      ],
+      "lat": 35.26326356,
+      "lng": 129.01599578
+    },
+    {
+      "pnu": "2632010100100710003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 57.2691002,
+      "bld_nm": "휴먼빌리지",
+      "jibun_addr": "부산 북구 금곡동 71-3",
+      "road_addr": "부산 북구 효열로275번길 58",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26490806,
+      "lng": 129.0171477
+    },
+    {
+      "pnu": "2632010100100710004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 57.41882878,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 71-4",
+      "road_addr": "부산 북구 금곡대로616번길 98",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26494577,
+      "lng": 129.01701648
+    },
+    {
+      "pnu": "2632010100100730012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 58.42261894,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 73-12",
+      "road_addr": "부산 북구 금곡대로638번길 11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.26399258,
+      "lng": 129.0160973
+    },
+    {
+      "pnu": "2632010100100700009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 59.47148332,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 70-9",
+      "road_addr": "부산 북구 금곡대로616번길 95",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 35.26495018,
+      "lng": 129.01666479
+    },
+    {
+      "pnu": "2632010100100700018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 60.07144151,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 70-18",
+      "road_addr": "부산 북구 금곡대로616번길 87-10",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26476488,
+      "lng": 129.01634254
+    },
+    {
+      "pnu": "2632010100106410009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 61.7584533,
+      "bld_nm": "솔레이유",
+      "jibun_addr": "부산 북구 금곡동 641-9",
+      "road_addr": "부산 북구 금곡대로638번길 12",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26378636,
+      "lng": 129.01600552
+    },
+    {
+      "pnu": "2632010100102470001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 62.14628593,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 247-1",
+      "road_addr": "부산 북구 효열로219번다길 11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26469886,
+      "lng": 129.01801224
+    },
+    {
+      "pnu": "2632010100100700014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 62.28020733,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 70-14",
+      "road_addr": "부산 북구 금곡대로616번길 93-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26487195,
+      "lng": 129.01643248
+    },
+    {
+      "pnu": "2632010100100570007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 62.6904518,
+      "bld_nm": "금정빌딩",
+      "jibun_addr": "부산 북구 금곡동 57-7",
+      "road_addr": "부산 북구 효열로 226",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26392642,
+      "lng": 129.01993256
+    },
+    {
+      "pnu": "2632010100103590005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 62.76360456,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 359-5",
+      "road_addr": "부산 북구 효열로 225",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26417352,
+      "lng": 129.01964037
+    },
+    {
+      "pnu": "2632010100100960001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 63.92444743,
+      "bld_nm": "유림2차아파트",
+      "jibun_addr": "부산 북구 금곡동 96-1",
+      "road_addr": "부산 북구 효열로 193",
+      "avail_gen_cnt": 240,
+      "int_scrbr_cnt": 96,
+      "tv_scrbr_cnt": 264,
+      "skb_pop_cnt": 12,
+      "catv_digital_cnt": 30,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 11,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 4
+        },
+        {
+          "method": "광랜F(500)",
+          "count": 48
+        },
+        {
+          "method": "광랜F",
+          "count": 37
+        },
+        {
+          "method": "광랜F(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 4
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 7
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 20
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 10
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 9
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 81
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB_공청)_20",
+          "count": 1
+        }
+      ],
+      "lat": 35.26217594,
+      "lng": 129.01788823
+    },
+    {
+      "pnu": "2632010100100670008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 64.57853508,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 67-8",
+      "road_addr": "부산 북구 효열로203번가길 45",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26486759,
+      "lng": 129.01749872
+    },
+    {
+      "pnu": "2632010100100670010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 65.12261475,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 67-10",
+      "road_addr": "부산 북구 효열로275번길 55",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.26491432,
+      "lng": 129.01736767
+    },
+    {
+      "pnu": "2632010100100720002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 65.87212764,
+      "bld_nm": "뉴스타",
+      "jibun_addr": "부산 북구 금곡동 72-2",
+      "road_addr": "부산 북구 금곡대로638번길 9-13",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26451483,
+      "lng": 129.016151
+    },
+    {
+      "pnu": "2632010100103580000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 67.75174262,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 358",
+      "road_addr": "부산 북구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26456719,
+      "lng": 129.01916404
+    },
+    {
+      "pnu": "2632010100103570000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 69.94217937,
+      "bld_nm": "대성빌라",
+      "jibun_addr": "부산 북구 금곡동 357",
+      "road_addr": "부산 북구 효열로219번나길 13",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.26448427,
+      "lng": 129.0193054
+    },
+    {
+      "pnu": "2632010100100700011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 71.29973635,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 70-11",
+      "road_addr": "부산 북구 금곡대로616번길 95-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26499759,
+      "lng": 129.01647879
+    },
+    {
+      "pnu": "2632010100100710002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 71.4452599,
+      "bld_nm": "시티빌",
+      "jibun_addr": "부산 북구 금곡동 71-2",
+      "road_addr": "부산 북구 효열로275번길 54",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26503384,
+      "lng": 129.01718302
+    },
+    {
+      "pnu": "2632010100100700019",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 71.96117697,
+      "bld_nm": "가양빌",
+      "jibun_addr": "부산 북구 금곡동 70-19",
+      "road_addr": "부산 북구 금곡대로616번길 87-12",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26481147,
+      "lng": 129.01622249
+    },
+    {
+      "pnu": "2632010100100700008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 72.31101911,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 70-8",
+      "road_addr": "부산 북구 금곡대로616번길 99",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.2650761,
+      "lng": 129.01668912
+    },
+    {
+      "pnu": "2632010100100710001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 72.51300675,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 71-1",
+      "road_addr": "부산 북구 금곡대로616번길 102",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.2650807,
+      "lng": 129.01704098
+    },
+    {
+      "pnu": "2632010100100700013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 75.57896874,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 70-13",
+      "road_addr": "부산 북구 금곡대로638번가길 22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26491894,
+      "lng": 129.01627945
+    },
+    {
+      "pnu": "2632010100100720001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 76.68809278,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 72-1",
+      "road_addr": "부산 북구 금곡대로638번가길 14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26460621,
+      "lng": 129.01605377
+    },
+    {
+      "pnu": "2632010100100720003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 77.05482561,
+      "bld_nm": "라현빌딩",
+      "jibun_addr": "부산 북구 금곡동 72-3",
+      "road_addr": "부산 북구 금곡대로638번길 9-7",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26430972,
+      "lng": 129.01597129
+    },
+    {
+      "pnu": "2632010100102450002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 78.30928483,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 245-2",
+      "road_addr": "부산 북구 효열로203번가길 44",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.2648715,
+      "lng": 129.01790553
+    },
+    {
+      "pnu": "2632010100103560000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 78.32345189,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 356",
+      "road_addr": "부산 북구 효열로219번나길 17",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 35.26446418,
+      "lng": 129.01946991
+    },
+    {
+      "pnu": "2632010100102590003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 79.19882492,
+      "bld_nm": "우방하이츠빌라",
+      "jibun_addr": "부산 북구 금곡동 259-3",
+      "road_addr": "부산 북구 효열로203번가길 50",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 11,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 3,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.26491809,
+      "lng": 129.01778547
+    },
+    {
+      "pnu": "2632010100103820000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 80.79439675,
+      "bld_nm": "삼흥빌라",
+      "jibun_addr": "부산 북구 금곡동 382",
+      "road_addr": "부산 북구 효열로219번나길 20",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26437169,
+      "lng": 129.01965507
+    },
+    {
+      "pnu": "2632010100100970011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 80.90250558,
+      "bld_nm": "조성협진아파트",
+      "jibun_addr": "부산 북구 금곡동 97-11",
+      "road_addr": "부산 북구 효열로162번길 39",
+      "avail_gen_cnt": 576,
+      "int_scrbr_cnt": 110,
+      "tv_scrbr_cnt": 139,
+      "skb_pop_cnt": 19,
+      "catv_digital_cnt": 17,
+      "catv_internet_cnt": 9,
+      "catv_8vsb_cnt": 7,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜E(500)",
+          "count": 59
+        },
+        {
+          "method": "광랜E",
+          "count": 42
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 7
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 10
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 17
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 10
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 63
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 3
+        },
+        {
+          "method": "Btv(자급 Apple tv STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26195759,
+      "lng": 129.01876356
+    },
+    {
+      "pnu": "2632010100100970011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 80.90250558,
+      "bld_nm": "조성협진아파트",
+      "jibun_addr": "부산 북구 금곡동 97-11",
+      "road_addr": "부산 북구 효열로162번길 41",
+      "avail_gen_cnt": 288,
+      "int_scrbr_cnt": 111,
+      "tv_scrbr_cnt": 383,
+      "skb_pop_cnt": 30,
+      "catv_digital_cnt": 78,
+      "catv_internet_cnt": 22,
+      "catv_8vsb_cnt": 27,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 40
+        },
+        {
+          "method": "광랜E(500)",
+          "count": 49
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 17
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 4
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 11
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 22
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 15
+        },
+        {
+          "method": "Btv(CATV_8VSB_공청)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 41
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 26
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 9
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 55
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 8
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 7
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26157974,
+      "lng": 129.01941606
+    },
+    {
+      "pnu": "2632010100100670007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.32308626,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 67-7",
+      "road_addr": "부산 북구 효열로203번가길 47",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26501112,
+      "lng": 129.01755636
+    },
+    {
+      "pnu": "2632010100100720004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.37144562,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 72-4",
+      "road_addr": "부산 북구 금곡대로638번길 9-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26410364,
+      "lng": 129.01586852
+    },
+    {
+      "pnu": "2632010100100570006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.44058657,
+      "bld_nm": "육화빌딩",
+      "jibun_addr": "부산 북구 금곡동 57-6",
+      "road_addr": "부산 북구 효열로 228",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        }
+      ],
+      "lat": 35.26406899,
+      "lng": 129.02006714
+    },
+    {
+      "pnu": "2632010100100670011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.52165682,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 67-11",
+      "road_addr": "부산 북구 효열로275번길 53",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26505799,
+      "lng": 129.01741432
+    },
+    {
+      "pnu": "2632010100100700012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.93503651,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 70-12",
+      "road_addr": "부산 북구 금곡대로638번가길 26",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26503544,
+      "lng": 129.01633659
+    },
+    {
+      "pnu": "2632010100106410008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 82.15811109,
+      "bld_nm": "은혜교회",
+      "jibun_addr": "부산 북구 금곡동 641-8",
+      "road_addr": "부산 북구 금곡대로636번길 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.2638701,
+      "lng": 129.01579821
+    },
+    {
+      "pnu": "2632010100100700006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 82.64123023,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 70-6",
+      "road_addr": "부산 북구 금곡대로616번길 99-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26514085,
+      "lng": 129.01655841
+    },
+    {
+      "pnu": "2632010100102250001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 82.67492687,
+      "bld_nm": "유림빌라",
+      "jibun_addr": "부산 북구 금곡동 225-1",
+      "road_addr": "부산 북구 효열로219번나길 11-8",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 8,
+      "tv_scrbr_cnt": 18,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 5
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 9
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 35.26485964,
+      "lng": 129.0188507
+    },
+    {
+      "pnu": "2632010100100950006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 83.02889874,
+      "bld_nm": "오성빌딩",
+      "jibun_addr": "부산 북구 금곡동 95-6",
+      "road_addr": "부산 북구 금곡대로616번길 41",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26237675,
+      "lng": 129.01625407
+    },
+    {
+      "pnu": "2632010100103530000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 83.91770041,
+      "bld_nm": "대한예수교장로회북성교회",
+      "jibun_addr": "부산 북구 금곡동 353",
+      "road_addr": "부산 북구 효열로219번나길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26465554,
+      "lng": 129.01930859
+    },
+    {
+      "pnu": "2632010100102270001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 87.70741384,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 227-1",
+      "road_addr": "부산 북구 효열로219번다길 18-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26492619,
+      "lng": 129.01857712
+    },
+    {
+      "pnu": "2632010100100700005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 89.03602315,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 70-5",
+      "road_addr": "부산 북구 금곡대로638번가길 28",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26515165,
+      "lng": 129.01641571
+    },
+    {
+      "pnu": "2632010100102570000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 90.95925617,
+      "bld_nm": "명품빌",
+      "jibun_addr": "부산 북구 금곡동 257",
+      "road_addr": "부산 북구 효열로219번다길 22",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26495723,
+      "lng": 129.0182589
+    },
+    {
+      "pnu": "2632010100100700003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 91.05293561,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 70-3",
+      "road_addr": "부산 북구 금곡대로616번길 101",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.2652475,
+      "lng": 129.01668133
+    },
+    {
+      "pnu": "2632010100102270002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 91.83757896,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 227-2",
+      "road_addr": "부산 북구 효열로219번다길 18-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26496431,
+      "lng": 129.01841294
+    },
+    {
+      "pnu": "2632010100102580000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 92.33802708,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 258",
+      "road_addr": "부산 북구 효열로219번다길 19-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26497857,
+      "lng": 129.01799547
+    },
+    {
+      "pnu": "2632010100100950005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 92.9566939,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 95-5",
+      "road_addr": "부산 북구 금곡대로616번길 7-28",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 35.2623888,
+      "lng": 129.01601246
+    },
+    {
+      "pnu": "2632010100102580002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 94.08085999,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 258-2",
+      "road_addr": "부산 북구 효열로219번다길 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 35.2649862,
+      "lng": 129.01810554
+    },
+    {
+      "pnu": "2632010100106410007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.10327341,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 641-7",
+      "road_addr": "부산 북구 금곡대로636번길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26392584,
+      "lng": 129.01566734
+    },
+    {
+      "pnu": "2632010100100670006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.25312211,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 67-6",
+      "road_addr": "부산 북구 효열로203번가길 51",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26512762,
+      "lng": 129.01761349
+    },
+    {
+      "pnu": "2632010100100660007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.70154625,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 66-7",
+      "road_addr": "부산 북구 효열로275번길 50",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26524948,
+      "lng": 129.01724201
+    },
+    {
+      "pnu": "2632010100100660008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.85657375,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 66-8",
+      "road_addr": "부산 북구 금곡대로616번길 106",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 35.26528747,
+      "lng": 129.01708881
+    },
+    {
+      "pnu": "2632010100102590000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.94370021,
+      "bld_nm": "북부산분기국사",
+      "jibun_addr": "부산 북구 금곡동 259",
+      "road_addr": "부산 북구 효열로203번가길 52",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26506162,
+      "lng": 129.01784312
+    },
+    {
+      "pnu": "2632010100100670012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.98181704,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 67-12",
+      "road_addr": "부산 북구 효열로275번길 49",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26519264,
+      "lng": 129.01746081
+    },
+    {
+      "pnu": "2632010100102250005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 97.65979832,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 225-5",
+      "road_addr": "부산 북구 효열로219번다길 28-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 35.26501522,
+      "lng": 129.01866672
+    },
+    {
+      "pnu": "2632010100100700004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 98.61432495,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 70-4",
+      "road_addr": "부산 북구 금곡대로638번가길 30",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 35.26526814,
+      "lng": 129.01647284
+    },
+    {
+      "pnu": "2632010100100680018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.67830203,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 68-18",
+      "road_addr": "부산 북구 효열로235번길 21-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 35.26495589,
+      "lng": 129.01908335
+    },
+    {
+      "pnu": "2632010100100680017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.78303737,
+      "bld_nm": "N/A",
+      "jibun_addr": "부산 북구 금곡동 68-17",
+      "road_addr": "부산 북구 효열로235번길 19-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 35.26490016,
+      "lng": 129.01921422
+    }
+  ]
+}
