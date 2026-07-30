@@ -10,6 +10,15 @@ import { formatNumber, debounce, getBuildingName } from './utils.js';
 let elements = {};
 
 /**
+ * 인터넷/TV가입자수는 세부 기술방식 목록(int_tech/tv_tech)의 합으로 계산한다.
+ * (지도 팝업의 상세 목록과 항상 일치시키기 위해 map.js와 동일한 방식으로 통일)
+ */
+function sumTechCount(techArr) {
+    if (!techArr || techArr.length === 0) return 0;
+    return techArr.reduce((sum, t) => sum + (Number(t.count) || 0), 0);
+}
+
+/**
  * Cache DOM elements for quick access.
  */
 export function initDOMElements() {
@@ -130,9 +139,8 @@ export function renderBuildingList(buildings) {
                 <span class="road">${bld.road_addr || '-'}</span>
             </div>
             <div class="bld-info-preview">
-                <div class="bld-info-item">B가용: <span>${formatNumber(bld.avail_gen_cnt)}</span></div>
-                <div class="bld-info-item">SKB: <span>${formatNumber(bld.skb_pop_cnt)}</span></div>
-                <div class="bld-info-item">인터넷: <span>${formatNumber(bld.int_scrbr_cnt)}</span></div>
+                <div class="bld-info-item">인터넷가입자수: <span>${formatNumber(sumTechCount(bld.int_tech))}</span></div>
+                <div class="bld-info-item">TV가입자수: <span>${formatNumber(sumTechCount(bld.tv_tech))}</span></div>
             </div>
         `;
         
