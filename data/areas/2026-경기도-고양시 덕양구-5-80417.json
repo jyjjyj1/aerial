@@ -1,0 +1,5599 @@
+{
+  "area": {
+    "area_id": "2026-경기도-고양시 덕양구-5-80417",
+    "area_name": "2026-경기도-고양시 덕양구-5",
+    "sido": "경기도",
+    "sigungu": "고양시 덕양구",
+    "geojson": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              126.8941937,
+              37.6555701
+            ],
+            [
+              126.893786,
+              37.6554512
+            ],
+            [
+              126.8942205,
+              37.6543725
+            ],
+            [
+              126.8943921,
+              37.6536972
+            ],
+            [
+              126.8951593,
+              37.6536972
+            ],
+            [
+              126.8958566,
+              37.6539265
+            ],
+            [
+              126.8958459,
+              37.6539817
+            ],
+            [
+              126.8941937,
+              37.6555701
+            ]
+          ]
+        ]
+      ]
+    },
+    "center": [
+      37.65447472695085,
+      126.89471273468487
+    ],
+    "building_count": 222,
+    "inside_count": 51,
+    "near_count": 171
+  },
+  "buildings": [
+    {
+      "pnu": "4128111100100240034",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-34",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 1-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65391206,
+      "lng": 126.89513937
+    },
+    {
+      "pnu": "4128111100100420020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-20",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 36",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65524015,
+      "lng": 126.89399491
+    },
+    {
+      "pnu": "4128111100100270019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-19",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 16",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        }
+      ],
+      "lat": 37.65433171,
+      "lng": 126.89436507
+    },
+    {
+      "pnu": "4128111100100240026",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-26",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 1-10",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65434485,
+      "lng": 126.89516987
+    },
+    {
+      "pnu": "4128111100100240023",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-23",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 33-7",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65445213,
+      "lng": 126.89499895
+    },
+    {
+      "pnu": "4128111100100270013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-13",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-23",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65466098,
+      "lng": 126.89456151
+    },
+    {
+      "pnu": "4128111100100370000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 37",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 24",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65474578,
+      "lng": 126.89425968
+    },
+    {
+      "pnu": "4128111100100240030",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-30",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 1-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65416407,
+      "lng": 126.8950693
+    },
+    {
+      "pnu": "4128111100100430009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 43-9",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 61-17",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65505297,
+      "lng": 126.89440456
+    },
+    {
+      "pnu": "4128111100100240025",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-25",
+      "road_addr": "경기 고양시 덕양구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6543438,
+      "lng": 126.89496582
+    },
+    {
+      "pnu": "4128111100100240029",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-29",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 1-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65417413,
+      "lng": 126.89527328
+    },
+    {
+      "pnu": "4128111100100270025",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-25",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 1-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65430734,
+      "lng": 126.89488676
+    },
+    {
+      "pnu": "4128111100100270020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-20",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 16-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65435944,
+      "lng": 126.89450088
+    },
+    {
+      "pnu": "4128111100100250004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "S빌라",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 25-4",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 1-8",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65432787,
+      "lng": 126.89537407
+    },
+    {
+      "pnu": "4128111100100270027",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-27",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 12-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65424245,
+      "lng": 126.89453584
+    },
+    {
+      "pnu": "4128111100100250010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 25-10",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 1-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65397625,
+      "lng": 126.89535424
+    },
+    {
+      "pnu": "4128111100100270018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-18",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 18",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65448097,
+      "lng": 126.89428085
+    },
+    {
+      "pnu": "4128111100100420036",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-36",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 61-18",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65496209,
+      "lng": 126.89425792
+    },
+    {
+      "pnu": "4128111100100270014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-14",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-24",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65472136,
+      "lng": 126.89477003
+    },
+    {
+      "pnu": "4128111100100360005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 36-5",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 37",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65474927,
+      "lng": 126.89493985
+    },
+    {
+      "pnu": "4128111100100420021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-21",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 40",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65538401,
+      "lng": 126.89392572
+    },
+    {
+      "pnu": "4128111100100420017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-17",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 32",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65501541,
+      "lng": 126.89411011
+    },
+    {
+      "pnu": "4128111100100420040",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-40",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 61-13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65524184,
+      "lng": 126.89432367
+    },
+    {
+      "pnu": "4128111100100270034",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-34",
+      "road_addr": "경기 고양시 덕양구 삼송로 187",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65380966,
+      "lng": 126.89450535
+    },
+    {
+      "pnu": "4128111100100270012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-12",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 22-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65466542,
+      "lng": 126.89440771
+    },
+    {
+      "pnu": "4128111100100240021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-21",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 33-5",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65446184,
+      "lng": 126.89513491
+    },
+    {
+      "pnu": "4128111100100270016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-16",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-19",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65454006,
+      "lng": 126.89459798
+    },
+    {
+      "pnu": "4128111100100430003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 43-3",
+      "road_addr": "경기 고양시 덕양구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6551163,
+      "lng": 126.89444939
+    },
+    {
+      "pnu": "4128111100100240032",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-32",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65401934,
+      "lng": 126.89496845
+    },
+    {
+      "pnu": "4128111100100240018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-18",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 31",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65443591,
+      "lng": 126.89535052
+    },
+    {
+      "pnu": "4128111100100270011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-11",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65463774,
+      "lng": 126.89428323
+    },
+    {
+      "pnu": "4128111100100270026",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-26",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-13",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65427019,
+      "lng": 126.89467166
+    },
+    {
+      "pnu": "4128111100100270024",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-24",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.6544244,
+      "lng": 126.89486313
+    },
+    {
+      "pnu": "4128111100100240035",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-35",
+      "road_addr": "경기 고양시 덕양구 삼송로 191",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65387536,
+      "lng": 126.89501496
+    },
+    {
+      "pnu": "4128111100100390002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "19년고양C38",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 39-2",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-30",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65502473,
+      "lng": 126.89474726
+    },
+    {
+      "pnu": "4128111100100370002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 37-2",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65483684,
+      "lng": 126.89444032
+    },
+    {
+      "pnu": "4128111100100250017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 25-17",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 1-4",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜PBOX",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65423803,
+      "lng": 126.89543148
+    },
+    {
+      "pnu": "4128111100100390002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 39-2",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-30",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65503675,
+      "lng": 126.89475613
+    },
+    {
+      "pnu": "4128111100100270017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-17",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 18-1",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65453941,
+      "lng": 126.89444274
+    },
+    {
+      "pnu": "4128111100100270021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-21",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65438718,
+      "lng": 126.8946367
+    },
+    {
+      "pnu": "4128111100100270044",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-44",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65403475,
+      "lng": 126.89445817
+    },
+    {
+      "pnu": "4128111100100270028",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "털보빌딩",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-28",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 12",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65421471,
+      "lng": 126.89440003
+    },
+    {
+      "pnu": "4128111100100240033",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-33",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 1-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65404707,
+      "lng": 126.89510426
+    },
+    {
+      "pnu": "4128111100100410004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 41-4",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 61-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65551182,
+      "lng": 126.89424212
+    },
+    {
+      "pnu": "4128111100100420034",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-34",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 61-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65516898,
+      "lng": 126.89417688
+    },
+    {
+      "pnu": "4128111100100360003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 36-3",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-26",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.6548476,
+      "lng": 126.89478034
+    },
+    {
+      "pnu": "4128111100100240006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "혜성의원",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-6",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65399509,
+      "lng": 126.89551281
+    },
+    {
+      "pnu": "4128111100100270001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "희성프라자",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-1",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-7",
+      "avail_gen_cnt": 14,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65402696,
+      "lng": 126.89469631
+    },
+    {
+      "pnu": "4128111100100270015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-15",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 33-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65459547,
+      "lng": 126.89482773
+    },
+    {
+      "pnu": "4128111100100240031",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-31",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65413633,
+      "lng": 126.89493349
+    },
+    {
+      "pnu": "4128111100100420032",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-32",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 61-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65535778,
+      "lng": 126.89408465
+    },
+    {
+      "pnu": "4128111100100400002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 40-2",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 49-6",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65510752,
+      "lng": 126.89449481
+    },
+    {
+      "pnu": "4128111100100390002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 0.51999669,
+      "bld_nm": "19년고양C38",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 39-2",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-30",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65502473,
+      "lng": 126.89474726
+    },
+    {
+      "pnu": "4128111100100390002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 0.51999669,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 39-2",
+      "road_addr": "경기 고양시 덕양구 삼송로 189-30",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65503675,
+      "lng": 126.89475613
+    },
+    {
+      "pnu": "4128111100100230001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 3.30033036,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 23-1",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65403282,
+      "lng": 126.89584126
+    },
+    {
+      "pnu": "4128111100100210003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 3.49721618,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 21-3",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65382454,
+      "lng": 126.89565023
+    },
+    {
+      "pnu": "4128111100100240001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 3.70547902,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-1",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 33-1",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65454389,
+      "lng": 126.89531563
+    },
+    {
+      "pnu": "4128111100100240017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 3.97901331,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-17",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 21",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65418529,
+      "lng": 126.89569265
+    },
+    {
+      "pnu": "4128111100100400001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 4.09305139,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 40-1",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 51",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65515357,
+      "lng": 126.89468716
+    },
+    {
+      "pnu": "4128111100100350001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 5.22095062,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 35-1",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 39",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65474124,
+      "lng": 126.89513264
+    },
+    {
+      "pnu": "4128111100100210005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 5.43569154,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 21-5",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65386146,
+      "lng": 126.89581998
+    },
+    {
+      "pnu": "4128111100100330004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 5.96211235,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 33-4",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 27",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65486137,
+      "lng": 126.89395264
+    },
+    {
+      "pnu": "4128111100100240002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 6.47512107,
+      "bld_nm": "비이",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-2",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 29",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65441858,
+      "lng": 126.8954867
+    },
+    {
+      "pnu": "4128111100100270032",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 6.74771391,
+      "bld_nm": "성모약국",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-32",
+      "road_addr": "경기 고양시 덕양구 삼송로 185",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65374552,
+      "lng": 126.89430181
+    },
+    {
+      "pnu": "4128111100100350005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 7.13557551,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 35-5",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 35",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65466966,
+      "lng": 126.89523525
+    },
+    {
+      "pnu": "4128111100100420003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 7.21003858,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-3",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 61-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.6556102,
+      "lng": 126.89409394
+    },
+    {
+      "pnu": "4128111100100330007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 7.23453354,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 33-7",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 21",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65456447,
+      "lng": 126.89405709
+    },
+    {
+      "pnu": "4128111100100330008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 7.65933074,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 33-8",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 17",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.6544655,
+      "lng": 126.8940919
+    },
+    {
+      "pnu": "4128111100100230004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 7.79264246,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 23-4",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65387094,
+      "lng": 126.89591059
+    },
+    {
+      "pnu": "4128111100100240003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 7.83687579,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-3",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 23",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6542842,
+      "lng": 126.8956465
+    },
+    {
+      "pnu": "4128111100100410003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 7.85481718,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 41-3",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 57",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65540489,
+      "lng": 126.89448106
+    },
+    {
+      "pnu": "4128111100100360000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 8.14515415,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 36",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 43",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65494767,
+      "lng": 126.89496092
+    },
+    {
+      "pnu": "4128111100100240004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 8.70897235,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 24-4",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 19",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65413185,
+      "lng": 126.89581779
+    },
+    {
+      "pnu": "4128111100100270030",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 9.30214587,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-30",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 11",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65413243,
+      "lng": 126.89417396
+    },
+    {
+      "pnu": "4128111100100270049",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 9.38146178,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-49",
+      "road_addr": "경기 고양시 덕양구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6536211,
+      "lng": 126.89434583
+    },
+    {
+      "pnu": "4128111100100330006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 9.43356592,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 33-6",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 23",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65469926,
+      "lng": 126.89397663
+    },
+    {
+      "pnu": "4128111100100270031",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 9.63897532,
+      "bld_nm": "뜰안채",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-31",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 9",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65402439,
+      "lng": 126.89419752
+    },
+    {
+      "pnu": "4128111100100460004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 9.76770996,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 46-4",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 63",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65565591,
+      "lng": 126.89421827
+    },
+    {
+      "pnu": "4128111100100270029",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 9.94576093,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 27-29",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 13",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65424041,
+      "lng": 126.89413908
+    },
+    {
+      "pnu": "4128111100100330013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 9.97644389,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 33-13",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 5",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65391636,
+      "lng": 126.89422107
+    },
+    {
+      "pnu": "4128111100100420010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 10.70400379,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-10",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 43",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65549088,
+      "lng": 126.89367544
+    },
+    {
+      "pnu": "4128111100100410001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 10.71524044,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 41-1",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 61",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65556648,
+      "lng": 126.89435504
+    },
+    {
+      "pnu": "4128111100100390001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 11.29037738,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 39-1",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 47",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65509135,
+      "lng": 126.89485772
+    },
+    {
+      "pnu": "4128111100100410002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 11.57005152,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 41-2",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 59",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65551275,
+      "lng": 126.8944235
+    },
+    {
+      "pnu": "4128111100100420023",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 13.62868554,
+      "bld_nm": "창익골든뷰",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-23",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 44",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 7
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65559975,
+      "lng": 126.89384689
+    },
+    {
+      "pnu": "4128111100100230003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 16.04996172,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 23-3",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65389862,
+      "lng": 126.89603507
+    },
+    {
+      "pnu": "4128111100100330009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 16.86445641,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 33-9",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 15",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65433002,
+      "lng": 126.89403632
+    },
+    {
+      "pnu": "4128111100100420001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 17.22680375,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-1",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 65",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.6557094,
+      "lng": 126.89410447
+    },
+    {
+      "pnu": "4128111100100330014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 21.64394944,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 33-14",
+      "road_addr": "경기 고양시 덕양구 삼송로 183",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65369063,
+      "lng": 126.89414354
+    },
+    {
+      "pnu": "4128111100100420029",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 22.30374674,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-29",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 42-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65570853,
+      "lng": 126.89393442
+    },
+    {
+      "pnu": "4128111100100570051",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 22.69913029,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 57-51",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 36",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65471566,
+      "lng": 126.89541627
+    },
+    {
+      "pnu": "4128111100100330034",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 23.04679864,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 33-34",
+      "road_addr": "경기 고양시 덕양구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65363794,
+      "lng": 126.89414179
+    },
+    {
+      "pnu": "4128111100100590001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 24.52207212,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 59-1",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 26",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65435717,
+      "lng": 126.89581596
+    },
+    {
+      "pnu": "4128111100102680001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 25.43857264,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 268-1",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 58",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.6555677,
+      "lng": 126.8945931
+    },
+    {
+      "pnu": "4128111100102680001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 25.43857264,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 268-1",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 16-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65393302,
+      "lng": 126.89614476
+    },
+    {
+      "pnu": "4128111100100550002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.11227443,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 55-2",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 40",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65494005,
+      "lng": 126.89523306
+    },
+    {
+      "pnu": "4128111100100590002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.26098498,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 59-2",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 22",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65423288,
+      "lng": 126.89597081
+    },
+    {
+      "pnu": "4128111100100460008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.45088935,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 46-8",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 67",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65578122,
+      "lng": 126.8940472
+    },
+    {
+      "pnu": "4128111100100600007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.67401671,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 60-7",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 20",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65422297,
+      "lng": 126.89600977
+    },
+    {
+      "pnu": "4128111100100600007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.67401671,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 60-7",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 18",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65410229,
+      "lng": 126.89610737
+    },
+    {
+      "pnu": "4128111100102680001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.98990868,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 268-1",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 16-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65393302,
+      "lng": 126.89614476
+    },
+    {
+      "pnu": "4128111100102680001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.98990868,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 268-1",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 58",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.6555677,
+      "lng": 126.8945931
+    },
+    {
+      "pnu": "4128111100100420009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 27.22093026,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-9",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 47",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65564369,
+      "lng": 126.89359484
+    },
+    {
+      "pnu": "4128111100100500047",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 27.44704539,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-47",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 64",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65575598,
+      "lng": 126.89439885
+    },
+    {
+      "pnu": "4128111100100520008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 27.95925796,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 52-8",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 50",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65526295,
+      "lng": 126.89492435
+    },
+    {
+      "pnu": "4128111100100580002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.01532843,
+      "bld_nm": "한빛주택",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 58-2",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 28-1",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65452778,
+      "lng": 126.89568987
+    },
+    {
+      "pnu": "4128111100100600007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.20943386,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 60-7",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 20",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65422297,
+      "lng": 126.89600977
+    },
+    {
+      "pnu": "4128111100100600007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.20943386,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 60-7",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 18",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65410229,
+      "lng": 126.89610737
+    },
+    {
+      "pnu": "4128111100100520007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 29.98221747,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 52-7",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 54",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65537965,
+      "lng": 126.89483271
+    },
+    {
+      "pnu": "4128111100100570063",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 31.03738154,
+      "bld_nm": "A+B동",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 57-63",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 34-1",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65473473,
+      "lng": 126.89562018
+    },
+    {
+      "pnu": "4128111100100570063",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 31.03738154,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 57-63",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 34",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65466751,
+      "lng": 126.89558897
+    },
+    {
+      "pnu": "4128111100100500052",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 31.94910085,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-52",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 68",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65585437,
+      "lng": 126.89425067
+    },
+    {
+      "pnu": "4128111100100520006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 32.49495386,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 52-6",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 56",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65546202,
+      "lng": 126.89482342
+    },
+    {
+      "pnu": "4128111100100520006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 32.49495386,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 52-6",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 56-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65551432,
+      "lng": 126.89472958
+    },
+    {
+      "pnu": "4128111100100500042",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 34.18291318,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-42",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 66",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65585483,
+      "lng": 126.89434136
+    },
+    {
+      "pnu": "4128111100100420028",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 34.27729062,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-28",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 48-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65581657,
+      "lng": 126.89391087
+    },
+    {
+      "pnu": "4128111100100420007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 34.64373762,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-7",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 49",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65570661,
+      "lng": 126.89356032
+    },
+    {
+      "pnu": "4128111100100600001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 34.66616148,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 60-1",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65408882,
+      "lng": 126.89621492
+    },
+    {
+      "pnu": "4128111100100520006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 35.17683007,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 52-6",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 56-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65551432,
+      "lng": 126.89472958
+    },
+    {
+      "pnu": "4128111100100520006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 35.17683007,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 52-6",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 56",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65546202,
+      "lng": 126.89482342
+    },
+    {
+      "pnu": "4128111100100500046",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 35.2337404,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-46",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 39-24",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65578349,
+      "lng": 126.89448932
+    },
+    {
+      "pnu": "4128111100100500048",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 35.49815863,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-48",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 60",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65566696,
+      "lng": 126.89461497
+    },
+    {
+      "pnu": "4128111100100580022",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 37.35014163,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 58-22",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 24",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65433124,
+      "lng": 126.89603157
+    },
+    {
+      "pnu": "4128111100100600010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 37.84098586,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 60-10",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 5-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65395397,
+      "lng": 126.89628403
+    },
+    {
+      "pnu": "4128111100100570063",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 37.91442702,
+      "bld_nm": "A+B동",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 57-63",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 34-1",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65473473,
+      "lng": 126.89562018
+    },
+    {
+      "pnu": "4128111100100570063",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 37.91442702,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 57-63",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 34",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65466751,
+      "lng": 126.89558897
+    },
+    {
+      "pnu": "4128111100100520009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 37.98802038,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 52-9",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 38-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65512025,
+      "lng": 126.89522026
+    },
+    {
+      "pnu": "4128111100100420025",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 38.07387659,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-25",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 48",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65580674,
+      "lng": 126.89375223
+    },
+    {
+      "pnu": "4128111100100290003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 38.11974445,
+      "bld_nm": "한준길치과의원",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 29-3",
+      "road_addr": "경기 고양시 덕양구 삼송로 181",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65365364,
+      "lng": 126.89396246
+    },
+    {
+      "pnu": "4128111100100460002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 38.76279021,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 46-2",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 69",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6558892,
+      "lng": 126.89401231
+    },
+    {
+      "pnu": "4128111100100580010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 38.78576629,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 58-10",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 28-3",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65458238,
+      "lng": 126.89579146
+    },
+    {
+      "pnu": "4128111100100500050",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 38.82056298,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-50",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 31-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65560445,
+      "lng": 126.89472885
+    },
+    {
+      "pnu": "4128111100100500040",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 39.6519106,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-40",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 70",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65592635,
+      "lng": 126.89422741
+    },
+    {
+      "pnu": "4128111100100580013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 39.65785088,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 58-13",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 28-4",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65443003,
+      "lng": 126.89596275
+    },
+    {
+      "pnu": "4128111100100570045",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 40.63238084,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 57-45",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 36-1",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.65490528,
+      "lng": 126.89548275
+    },
+    {
+      "pnu": "4128111100100260018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 41.13068863,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 26-18",
+      "road_addr": "경기 고양시 덕양구 삼송로 186-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65332662,
+      "lng": 126.89452825
+    },
+    {
+      "pnu": "4128111100100260018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 41.13068863,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 26-18",
+      "road_addr": "경기 고양시 덕양구 삼송로 184-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6533138,
+      "lng": 126.89440103
+    },
+    {
+      "pnu": "4128111100100260018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 42.55354241,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 26-18",
+      "road_addr": "경기 고양시 덕양구 삼송로 186-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65332662,
+      "lng": 126.89452825
+    },
+    {
+      "pnu": "4128111100100260018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 42.55354241,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 26-18",
+      "road_addr": "경기 고양시 덕양구 삼송로 184-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6533138,
+      "lng": 126.89440103
+    },
+    {
+      "pnu": "4128111100100610011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 42.99700332,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-11",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 11",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.6542689,
+      "lng": 126.89617945
+    },
+    {
+      "pnu": "4128111100100500054",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 43.83120886,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-54",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 39-22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65590054,
+      "lng": 126.8944657
+    },
+    {
+      "pnu": "4128111100100600004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 46.10679904,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 60-4",
+      "road_addr": "경기 고양시 덕양구 삼송로 203",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65389963,
+      "lng": 126.8964644
+    },
+    {
+      "pnu": "4128111100100600004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 46.10679904,
+      "bld_nm": "삼송새마을금고",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 60-4",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65398147,
+      "lng": 126.8963745
+    },
+    {
+      "pnu": "4128111100100510003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 46.81004948,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 51-3",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 48-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65544367,
+      "lng": 126.89501358
+    },
+    {
+      "pnu": "4128111100100580011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 48.14894011,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 58-11",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 28-5",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.65462791,
+      "lng": 126.89588179
+    },
+    {
+      "pnu": "4128111100100420026",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 49.44449082,
+      "bld_nm": "삼송하우스",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-26",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 52",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65590571,
+      "lng": 126.89371742
+    },
+    {
+      "pnu": "4128111100100500000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 49.53020582,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 72",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65601625,
+      "lng": 126.89418133
+    },
+    {
+      "pnu": "4128111100100580016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.34867645,
+      "bld_nm": "세솔빌리지",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 58-16",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 28-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65453842,
+      "lng": 126.89600722
+    },
+    {
+      "pnu": "4128111100100500049",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.61696049,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-49",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 31-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65583844,
+      "lng": 126.89465893
+    },
+    {
+      "pnu": "4128111100100290004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 51.26652491,
+      "bld_nm": "한약방",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 29-4",
+      "road_addr": "경기 고양시 덕양구 삼송로 179-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65363486,
+      "lng": 126.89381524
+    },
+    {
+      "pnu": "4128111100100500039",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 51.49426915,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-39",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 39-18",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65600829,
+      "lng": 126.89438546
+    },
+    {
+      "pnu": "4128111100100510002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 51.99582019,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 51-2",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 31-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65560544,
+      "lng": 126.89492157
+    },
+    {
+      "pnu": "4128111100100610009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 53.18030368,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-9",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 15",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65445794,
+      "lng": 126.89613257
+    },
+    {
+      "pnu": "4128111100100300009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 53.36830017,
+      "bld_nm": "삼송로177-6",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-9",
+      "road_addr": "경기 고양시 덕양구 삼송로 177-6",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65390478,
+      "lng": 126.89372235
+    },
+    {
+      "pnu": "4128111100100600004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 53.71732609,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 60-4",
+      "road_addr": "경기 고양시 덕양구 삼송로 203",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65389963,
+      "lng": 126.8964644
+    },
+    {
+      "pnu": "4128111100100600004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 53.71732609,
+      "bld_nm": "삼송새마을금고",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 60-4",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65398147,
+      "lng": 126.8963745
+    },
+    {
+      "pnu": "4128111100100500043",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 56.4042696,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-43",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 39-21",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65592851,
+      "lng": 126.89464686
+    },
+    {
+      "pnu": "4128111100100570054",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 57.07809912,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 57-54",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 38-10",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65513961,
+      "lng": 126.89548085
+    },
+    {
+      "pnu": "4128111100100420045",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 57.60078428,
+      "bld_nm": "삼성아트빌",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-45",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 53",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65590443,
+      "lng": 126.89346801
+    },
+    {
+      "pnu": "4128111100100500034",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 59.59203513,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-34",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 74",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65610626,
+      "lng": 126.89415793
+    },
+    {
+      "pnu": "4128111100100520016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 60.67986089,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 52-16",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 48-9",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.6554985,
+      "lng": 126.89516051
+    },
+    {
+      "pnu": "4128111100100420002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 61.26010528,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 42-2",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 56",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65600674,
+      "lng": 126.89367503
+    },
+    {
+      "pnu": "4128111100100610058",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 61.30673994,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-58",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 19",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65472752,
+      "lng": 126.89597167
+    },
+    {
+      "pnu": "4128111100102920003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 61.34159097,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 292-3",
+      "road_addr": "경기 고양시 덕양구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6534015,
+      "lng": 126.89607884
+    },
+    {
+      "pnu": "4128111100100260019",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 61.53063805,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 26-19",
+      "road_addr": "경기 고양시 덕양구 삼송로 186",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65314282,
+      "lng": 126.89453344
+    },
+    {
+      "pnu": "4128111100100510004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 61.86549157,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 51-4",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 48-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65557032,
+      "lng": 126.89510324
+    },
+    {
+      "pnu": "4128111100100500073",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 62.73184723,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-73",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 31-8",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65585728,
+      "lng": 126.89481749
+    },
+    {
+      "pnu": "4128111100100500096",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 63.81496294,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-96",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 39-17",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65604544,
+      "lng": 126.89460056
+    },
+    {
+      "pnu": "4128111100100470015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 64.16778188,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 47-15",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 71",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65604997,
+      "lng": 126.89372758
+    },
+    {
+      "pnu": "4128111100100280001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 64.48264602,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 28-1",
+      "road_addr": "경기 고양시 덕양구 삼송로 179",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65375109,
+      "lng": 126.89363291
+    },
+    {
+      "pnu": "4128111100100610014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 64.90811461,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-14",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 10",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65427047,
+      "lng": 126.89648553
+    },
+    {
+      "pnu": "4128111100100510000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 64.94878211,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 51",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 48-13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65566917,
+      "lng": 126.89504576
+    },
+    {
+      "pnu": "4128111100100180005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 65.45089252,
+      "bld_nm": "삼송역",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 18-5",
+      "road_addr": "경기 고양시 덕양구 삼송로 194",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65324812,
+      "lng": 126.89573425
+    },
+    {
+      "pnu": "4128111100100300010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 67.11410976,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-10",
+      "road_addr": "경기 고양시 덕양구 삼송로 177-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65390396,
+      "lng": 126.89356364
+    },
+    {
+      "pnu": "4128111100100500058",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 67.99996133,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-58",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 39-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65596526,
+      "lng": 126.8947826
+    },
+    {
+      "pnu": "4128111100100610015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 68.19026405,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-15",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 8",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6541808,
+      "lng": 126.89657695
+    },
+    {
+      "pnu": "4128111100100500053",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 68.58726675,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-53",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 76",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65618738,
+      "lng": 126.89415727
+    },
+    {
+      "pnu": "4128111100100470013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 69.12949057,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 47-13",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 75",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65616842,
+      "lng": 126.89397603
+    },
+    {
+      "pnu": "4128111100100480013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 69.39671332,
+      "bld_nm": "삼송블루빌",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 48-13",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 57",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 6
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65598508,
+      "lng": 126.89337666
+    },
+    {
+      "pnu": "4128111100100300005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 71.15638703,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-5",
+      "road_addr": "경기 고양시 덕양구 삼송로 177-12",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65412876,
+      "lng": 126.89345978
+    },
+    {
+      "pnu": "4128111100100500033",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 71.42070651,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-33",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 39-14",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65620622,
+      "lng": 126.89431583
+    },
+    {
+      "pnu": "4128111100100500088",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 72.13421688,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-88",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 38-12",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65526626,
+      "lng": 126.89557052
+    },
+    {
+      "pnu": "4128111100100500004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 72.13612559,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-4",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 39-15",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65615337,
+      "lng": 126.89455434
+    },
+    {
+      "pnu": "4128111100100610055",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 72.13969986,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-55",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 21",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65482695,
+      "lng": 126.89602755
+    },
+    {
+      "pnu": "4128111100100610016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 72.59583246,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-16",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65413609,
+      "lng": 126.89664533
+    },
+    {
+      "pnu": "4128111100100260008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 72.85579897,
+      "bld_nm": "신도농협",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 26-8",
+      "road_addr": "경기 고양시 덕양구 삼송로 184",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65304263,
+      "lng": 126.89433019
+    },
+    {
+      "pnu": "4128111100100520011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 73.65044381,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 52-11",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 48-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65546362,
+      "lng": 126.89538753
+    },
+    {
+      "pnu": "4128111100100180025",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 73.98949486,
+      "bld_nm": "삼송역",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 18-25",
+      "road_addr": "경기 고양시 덕양구 삼송로 198",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65329522,
+      "lng": 126.89613065
+    },
+    {
+      "pnu": "4128111100100300001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 74.02277182,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-1",
+      "road_addr": "경기 고양시 덕양구 삼송로 177-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65424558,
+      "lng": 126.89339081
+    },
+    {
+      "pnu": "4128111100100610017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 74.06342215,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-17",
+      "road_addr": "경기 고양시 덕양구 삼송로 205",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65399211,
+      "lng": 126.89669184
+    },
+    {
+      "pnu": "4128111100100470014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 74.44910127,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 47-14",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 75-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6561583,
+      "lng": 126.89376071
+    },
+    {
+      "pnu": "4128111100100300050",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 75.10145051,
+      "bld_nm": "신도동우체국",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-50",
+      "road_addr": "경기 고양시 덕양구 삼송로 180",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65313961,
+      "lng": 126.89390995
+    },
+    {
+      "pnu": "4128111100100500074",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 76.12866467,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-74",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 31-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65579552,
+      "lng": 126.89507874
+    },
+    {
+      "pnu": "4128111100100500031",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 76.16330711,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-31",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 78",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65625006,
+      "lng": 126.8940774
+    },
+    {
+      "pnu": "4128111100100260005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 76.54313254,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 26-5",
+      "road_addr": "경기 고양시 덕양구 삼송로 190-8",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65300756,
+      "lng": 126.8945232
+    },
+    {
+      "pnu": "4128111100100610002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 77.20603446,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-2",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65445974,
+      "lng": 126.896484
+    },
+    {
+      "pnu": "4128111100100500072",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 77.7245785,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-72",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 31-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65593909,
+      "lng": 126.89495287
+    },
+    {
+      "pnu": "4128111100100300012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 78.94936787,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-12",
+      "road_addr": "경기 고양시 덕양구 삼송로 177-3",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65362421,
+      "lng": 126.8934979
+    },
+    {
+      "pnu": "4128111100100610013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 79.41953509,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-13",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 10-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65438816,
+      "lng": 126.89658661
+    },
+    {
+      "pnu": "4128111100100160045",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 80.31791981,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 16-45",
+      "road_addr": "경기 고양시 덕양구 삼송로 190-5",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTVon기업_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65297355,
+      "lng": 126.89492025
+    },
+    {
+      "pnu": "4128111100100500028",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 80.43437608,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-28",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 39-9",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65624338,
+      "lng": 126.89453093
+    },
+    {
+      "pnu": "4128111100100300029",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 80.68319581,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-29",
+      "road_addr": "경기 고양시 덕양구 삼송로 177-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6535431,
+      "lng": 126.89349856
+    },
+    {
+      "pnu": "4128111100100520014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 80.81329132,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 52-14",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 23",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65559863,
+      "lng": 126.89535243
+    },
+    {
+      "pnu": "4128111100100500064",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.14402864,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-64",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65572418,
+      "lng": 126.8952267
+    },
+    {
+      "pnu": "4128111100100470012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.72408075,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 47-12",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 79",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6562817,
+      "lng": 126.89395574
+    },
+    {
+      "pnu": "4128111100100480037",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 82.66867476,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 48-37",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 59",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.65605648,
+      "lng": 126.89324004
+    },
+    {
+      "pnu": "4128111100100480017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 82.83598558,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 48-17",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 58",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65616603,
+      "lng": 126.89351123
+    },
+    {
+      "pnu": "4128111100100610001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 84.03304861,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-1",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65490853,
+      "lng": 126.89611759
+    },
+    {
+      "pnu": "4128111100100610056",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 84.53984479,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-56",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 23",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65482788,
+      "lng": 126.89620893
+    },
+    {
+      "pnu": "4128111100100470011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 84.73042474,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 47-11",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 56-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65626663,
+      "lng": 126.89379384
+    },
+    {
+      "pnu": "4128111100100300023",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 85.7224777,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-23",
+      "road_addr": "경기 고양시 덕양구 삼송로 177-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65381284,
+      "lng": 126.89337166
+    },
+    {
+      "pnu": "4128111100100300008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 86.37515645,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-8",
+      "road_addr": "경기 고양시 덕양구 삼송로 177-13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65421784,
+      "lng": 126.893255
+    },
+    {
+      "pnu": "4128111100100500089",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 87.12702546,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-89",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65534807,
+      "lng": 126.8957059
+    },
+    {
+      "pnu": "4128111100100610064",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 88.83684161,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-64",
+      "road_addr": "경기 고양시 덕양구 삼송로 207",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65396594,
+      "lng": 126.8968621
+    },
+    {
+      "pnu": "4128111100100500030",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 89.36977924,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-30",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 39-12",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.6563732,
+      "lng": 126.8942669
+    },
+    {
+      "pnu": "4128111100100520002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 89.5607444,
+      "bld_nm": "백년주택",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 52-2",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 19",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65553653,
+      "lng": 126.89554566
+    },
+    {
+      "pnu": "4128111100100500075",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 90.34741283,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-75",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 29",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65587728,
+      "lng": 126.89520279
+    },
+    {
+      "pnu": "4128111100100500032",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 90.63782269,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-32",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 80",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65638607,
+      "lng": 126.89423501
+    },
+    {
+      "pnu": "4128111100100300034",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 90.91338444,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-34",
+      "road_addr": "경기 고양시 덕양구 삼송로 178",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65312031,
+      "lng": 126.89366071
+    },
+    {
+      "pnu": "4128111100100500071",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 91.31005332,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-71",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 31-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65601183,
+      "lng": 126.89507699
+    },
+    {
+      "pnu": "4128111100100500066",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 91.97739704,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 50-66",
+      "road_addr": "경기 고양시 덕양구 삼송로205번안길 37",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65611947,
+      "lng": 126.89497408
+    },
+    {
+      "pnu": "4128111100100300013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 93.82405742,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-13",
+      "road_addr": "경기 고양시 덕양구 삼송로 175",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65352431,
+      "lng": 126.89335134
+    },
+    {
+      "pnu": "4128111100100300011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 94.45880796,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-11",
+      "road_addr": "경기 고양시 덕양구 삼송로 177-9",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.65400136,
+      "lng": 126.89322275
+    },
+    {
+      "pnu": "4128111100100470010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 94.96926836,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 47-10",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 81-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65633827,
+      "lng": 126.89370256
+    },
+    {
+      "pnu": "4128111100100160015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.21943576,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 16-15",
+      "road_addr": "경기 고양시 덕양구 신도1길 2-7",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65283929,
+      "lng": 126.89474829
+    },
+    {
+      "pnu": "4128111100100260009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.37221429,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 26-9",
+      "road_addr": "경기 고양시 덕양구 신도길 5",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65284399,
+      "lng": 126.89426379
+    },
+    {
+      "pnu": "4128111100100470016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.42462708,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 47-16",
+      "road_addr": "경기 고양시 덕양구 삼송로193번길 81",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65636572,
+      "lng": 126.8937817
+    },
+    {
+      "pnu": "4128111100100300027",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.48257632,
+      "bld_nm": "신도지구대",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-27",
+      "road_addr": "경기 고양시 덕양구 신도길 6",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65290557,
+      "lng": 126.89396854
+    },
+    {
+      "pnu": "4128111100100610038",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.78887053,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-38",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 20-4",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65455975,
+      "lng": 126.89665324
+    },
+    {
+      "pnu": "4128111100100480031",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.87625848,
+      "bld_nm": "삼송클래식빌",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 48-31",
+      "road_addr": "경기 고양시 덕양구 삼송로185번길 63",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65610067,
+      "lng": 126.89306962
+    },
+    {
+      "pnu": "4128111100100610049",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 98.04061924,
+      "bld_nm": "안식일교회",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-49",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 20-8",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65441636,
+      "lng": 126.89681311
+    },
+    {
+      "pnu": "4128111100100300046",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 98.07371472,
+      "bld_nm": "삼송분기국사",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-46",
+      "road_addr": "경기 고양시 덕양구 신도길 4",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.65299442,
+      "lng": 126.89371841
+    },
+    {
+      "pnu": "4128111100100610059",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 98.5072368,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 61-59",
+      "road_addr": "경기 고양시 덕양구 삼송로205번길 22",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6547303,
+      "lng": 126.89651582
+    },
+    {
+      "pnu": "4128111100100300017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 98.50876232,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-17",
+      "road_addr": "경기 고양시 덕양구 삼송로 177-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.65385709,
+      "lng": 126.89321259
+    },
+    {
+      "pnu": "4128111100100300015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.24479501,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 30-15",
+      "road_addr": "경기 고양시 덕양구 삼송로 177-11",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6541451,
+      "lng": 126.89313089
+    },
+    {
+      "pnu": "4128111100100160037",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.60237331,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 고양시 덕양구 삼송동 16-37",
+      "road_addr": "경기 고양시 덕양구 신도길 5-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.6527998,
+      "lng": 126.89443419
+    }
+  ]
+}

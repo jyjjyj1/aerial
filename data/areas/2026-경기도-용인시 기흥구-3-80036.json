@@ -1,0 +1,2550 @@
+{
+  "area": {
+    "area_id": "2026-경기도-용인시 기흥구-3-80036",
+    "area_name": "2026-경기도-용인시 기흥구-3",
+    "sido": "경기도",
+    "sigungu": "용인시 기흥구",
+    "geojson": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              127.1045937,
+              37.2711566
+            ],
+            [
+              127.1045186,
+              37.2700574
+            ],
+            [
+              127.1063104,
+              37.2705035
+            ],
+            [
+              127.10601,
+              37.2714619
+            ],
+            [
+              127.1058839,
+              37.271464
+            ],
+            [
+              127.1054306,
+              37.2714576
+            ],
+            [
+              127.1045911,
+              37.2711566
+            ],
+            [
+              127.1045937,
+              37.2711566
+            ]
+          ]
+        ]
+      ]
+    },
+    "center": [
+      37.27080147407178,
+      127.10535338337213
+    ],
+    "building_count": 88,
+    "inside_count": 34,
+    "near_count": 54
+  },
+  "buildings": [
+    {
+      "pnu": "4146310100100710035",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "신갈삼익리베리움",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-35",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 47",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 4
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27033853,
+      "lng": 127.10472341
+    },
+    {
+      "pnu": "4146310100100710027",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-27",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.27058478,
+      "lng": 127.10497395
+    },
+    {
+      "pnu": "4146310100100710005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "효경빌딩",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-5",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51-26",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27105519,
+      "lng": 127.10547905
+    },
+    {
+      "pnu": "4146310100100710023",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-23",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2708105,
+      "lng": 127.10508556
+    },
+    {
+      "pnu": "4146310100100710010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-10",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27082011,
+      "lng": 127.10526597
+    },
+    {
+      "pnu": "4146310100100700003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대진한의원빌딩",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 70-3",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 63-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27074188,
+      "lng": 127.10613487
+    },
+    {
+      "pnu": "4146310100100710025",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-25",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.27068434,
+      "lng": 127.1050975
+    },
+    {
+      "pnu": "4146310100100700002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "이레빌딩",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 70-2",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 63-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27084997,
+      "lng": 127.10611175
+    },
+    {
+      "pnu": "4146310100100710024",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-24",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.27069294,
+      "lng": 127.10497338
+    },
+    {
+      "pnu": "4146310100100700002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "이레빌딩",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 70-2",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 63-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27084997,
+      "lng": 127.10611175
+    },
+    {
+      "pnu": "4146310100100700004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "먹쇠참숯갈비",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 70-4",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 63-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27062481,
+      "lng": 127.10616931
+    },
+    {
+      "pnu": "4146310100100710003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "경원빌딩",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-3",
+      "road_addr": "경기 용인시 기흥구 신갈로 51",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2713526,
+      "lng": 127.10546622
+    },
+    {
+      "pnu": "4146310100100710022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-22",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51-13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27079205,
+      "lng": 127.10496159
+    },
+    {
+      "pnu": "4146310100100710002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "예림프라자빌딩우리은행구갈지점",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-2",
+      "road_addr": "경기 용인시 기흥구 중부대로 344",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27133397,
+      "lng": 127.10528585
+    },
+    {
+      "pnu": "4146310100100710029",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "모텔쉘브르",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-29",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27049456,
+      "lng": 127.10495186
+    },
+    {
+      "pnu": "4146310100100700009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동인빌딩",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 70-9",
+      "road_addr": "경기 용인시 기흥구 신갈로 52",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 6,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27127302,
+      "lng": 127.10592908
+    },
+    {
+      "pnu": "4146310100100700007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "이레빌딩",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 70-7",
+      "road_addr": "경기 용인시 기흥구 신갈로 48",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 4,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 4
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27091258,
+      "lng": 127.10596479
+    },
+    {
+      "pnu": "4146310100100710020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-20",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51-17",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.27090022,
+      "lng": 127.10496102
+    },
+    {
+      "pnu": "4146310100100710021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-21",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51-15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27090067,
+      "lng": 127.10509637
+    },
+    {
+      "pnu": "4146310100100710013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "밀밭제과",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-13",
+      "road_addr": "경기 용인시 기흥구 신갈로 43-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.27060442,
+      "lng": 127.10545884
+    },
+    {
+      "pnu": "4146310100100710001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "큐리텔",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-1",
+      "road_addr": "경기 용인시 기흥구 중부대로 342",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27120699,
+      "lng": 127.10504965
+    },
+    {
+      "pnu": "4146310100100700008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "세븐업편의점",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 70-8",
+      "road_addr": "경기 용인시 기흥구 신갈로 50",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27102041,
+      "lng": 127.10586272
+    },
+    {
+      "pnu": "4146310100100710006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "신갈장",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-6",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51-22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 7,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 16
+        }
+      ],
+      "lat": 37.27105451,
+      "lng": 127.10527603
+    },
+    {
+      "pnu": "4146310100100710030",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "쉘부르모텔",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-30",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2703325,
+      "lng": 127.1050091
+    },
+    {
+      "pnu": "4146310100100710008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "학국기원",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-8",
+      "road_addr": "경기 용인시 기흥구 신갈로 47-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27092892,
+      "lng": 127.10545715
+    },
+    {
+      "pnu": "4146310100100710031",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼익마에스트로",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-31",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 45-6",
+      "avail_gen_cnt": 220,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27041235,
+      "lng": 127.1046252
+    },
+    {
+      "pnu": "4146310100100710017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-17",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51-19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27098127,
+      "lng": 127.10493804
+    },
+    {
+      "pnu": "4146310100100700002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "일군스위트클래스포디움",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 70-2",
+      "road_addr": "경기 용인시 기흥구 신갈로 46",
+      "avail_gen_cnt": 132,
+      "int_scrbr_cnt": 31,
+      "tv_scrbr_cnt": 33,
+      "skb_pop_cnt": 6,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 23
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 8
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 22
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27065978,
+      "lng": 127.10584204
+    },
+    {
+      "pnu": "4146310100100700002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "일군스위트클래스포디움",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 70-2",
+      "road_addr": "경기 용인시 기흥구 신갈로 46",
+      "avail_gen_cnt": 132,
+      "int_scrbr_cnt": 31,
+      "tv_scrbr_cnt": 33,
+      "skb_pop_cnt": 6,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 23
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 8
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 22
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27065978,
+      "lng": 127.10584204
+    },
+    {
+      "pnu": "4146310100100710000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "보림복합상가",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71",
+      "road_addr": "경기 용인시 기흥구 중부대로 340",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27110682,
+      "lng": 127.10474564
+    },
+    {
+      "pnu": "4146310100100710009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "신갈정형외과",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-9",
+      "road_addr": "경기 용인시 기흥구 신갈로 47",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27084779,
+      "lng": 127.10545757
+    },
+    {
+      "pnu": "4146310100100710033",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-33",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 45-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27056618,
+      "lng": 127.10480486
+    },
+    {
+      "pnu": "4146310100100710011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-11",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27071195,
+      "lng": 127.10526654
+    },
+    {
+      "pnu": "4146310100100710014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "원덕빌딩",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-14",
+      "road_addr": "경기 용인시 기흥구 신갈로 43",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.27041483,
+      "lng": 127.1053696
+    },
+    {
+      "pnu": "4146310100100710028",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-28",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 51-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2705942,
+      "lng": 127.10509797
+    },
+    {
+      "pnu": "4146310100100710012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "현대약국",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 71-12",
+      "road_addr": "경기 용인시 기흥구 신갈로 45",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27073054,
+      "lng": 127.10543563
+    },
+    {
+      "pnu": "4146310100104700009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 10.91583474,
+      "bld_nm": "로얄즉석현수막",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 470-9",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 45-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27106081,
+      "lng": 127.1044639
+    },
+    {
+      "pnu": "4146310100100690000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 12.93103126,
+      "bld_nm": "뷰티플렉스",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 69",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 63-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.27133702,
+      "lng": 127.10619944
+    },
+    {
+      "pnu": "4146310100100690002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 18.13420912,
+      "bld_nm": "제일생명",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 69-2",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 63-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27109409,
+      "lng": 127.10633606
+    },
+    {
+      "pnu": "4146310100104700021",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 20.66839694,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 470-21",
+      "road_addr": "경기 용인시 기흥구 중부대로 336",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27100051,
+      "lng": 127.10434966
+    },
+    {
+      "pnu": "4146310100100690001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 21.43481232,
+      "bld_nm": "중앙조경",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 69-1",
+      "road_addr": "경기 용인시 기흥구 중부대로 356",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        }
+      ],
+      "lat": 37.27132834,
+      "lng": 127.106301
+    },
+    {
+      "pnu": "4146310100100690003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 35.55833687,
+      "bld_nm": "서초골",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 69-3",
+      "road_addr": "경기 용인시 기흥구 중부대로 358",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27123884,
+      "lng": 127.10649321
+    },
+    {
+      "pnu": "4146310100100590002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 36.49415302,
+      "bld_nm": "신갈중앙의원",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 59-2",
+      "road_addr": "경기 용인시 기흥구 중부대로 339",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27157558,
+      "lng": 127.10475447
+    },
+    {
+      "pnu": "4146310100104690002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 39.59515261,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 469-2",
+      "road_addr": "경기 용인시 기흥구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27142985,
+      "lng": 127.10430407
+    },
+    {
+      "pnu": "4146310100100590004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 41.80121785,
+      "bld_nm": "동원빌딩",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 59-4",
+      "road_addr": "경기 용인시 기흥구 중부대로 343-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 5,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 5
+        }
+      ],
+      "lat": 37.27175706,
+      "lng": 127.10511445
+    },
+    {
+      "pnu": "4146310100100610000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 42.65988569,
+      "bld_nm": "현대치과의원",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 61",
+      "road_addr": "경기 용인시 기흥구 중부대로 353",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27178793,
+      "lng": 127.10626477
+    },
+    {
+      "pnu": "4146310100104690010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 43.47579013,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 469-10",
+      "road_addr": "경기 용인시 기흥구 중부대로 337",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.2715472,
+      "lng": 127.10448302
+    },
+    {
+      "pnu": "4146310100100690015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 45.55721972,
+      "bld_nm": "흥일빌딩",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 69-15",
+      "road_addr": "경기 용인시 기흥구 중부대로 358-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27114018,
+      "lng": 127.10664035
+    },
+    {
+      "pnu": "4146310100104670003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 49.12012051,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 467-3",
+      "road_addr": "경기 용인시 기흥구 중부대로 335",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27153701,
+      "lng": 127.10430803
+    },
+    {
+      "pnu": "4146310100100590003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.42348991,
+      "bld_nm": "청록빌딩",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 59-3",
+      "road_addr": "경기 용인시 기흥구 중부대로 343",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27176536,
+      "lng": 127.10490011
+    },
+    {
+      "pnu": "4146310100100580016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.59528795,
+      "bld_nm": "중앙빌딩",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 58-16",
+      "road_addr": "경기 용인시 기흥구 신갈로 57",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27191116,
+      "lng": 127.10537307
+    },
+    {
+      "pnu": "4146310100100610001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 54.4675622,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 61-1",
+      "road_addr": "경기 용인시 기흥구 신갈로58번길 6",
+      "avail_gen_cnt": 76,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27183349,
+      "lng": 127.10641116
+    },
+    {
+      "pnu": "4146310100100610018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 54.90363557,
+      "bld_nm": "두보빌딩",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 61-18",
+      "road_addr": "경기 용인시 기흥구 중부대로 355",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27170775,
+      "lng": 127.10654717
+    },
+    {
+      "pnu": "4146310100100600016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 57.82750046,
+      "bld_nm": "롯데리아",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 60-16",
+      "road_addr": "경기 용인시 기흥구 신갈로 60",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27198492,
+      "lng": 127.10586897
+    },
+    {
+      "pnu": "4146310100104690008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 58.12508808,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 469-8",
+      "road_addr": "경기 용인시 기흥구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27172825,
+      "lng": 127.10458448
+    },
+    {
+      "pnu": "4146310100100690011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 58.54642637,
+      "bld_nm": "신갈공영주차장",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 69-11",
+      "road_addr": "경기 용인시 기흥구 갈천로7번길 69",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27086153,
+      "lng": 127.10687866
+    },
+    {
+      "pnu": "4146310100100600015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 61.07309373,
+      "bld_nm": "마실방",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 60-15",
+      "road_addr": "경기 용인시 기흥구 신갈로58번길 1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.27201241,
+      "lng": 127.10600418
+    },
+    {
+      "pnu": "4146310100100580015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 63.42861037,
+      "bld_nm": "카이스트안경",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 58-15",
+      "road_addr": "경기 용인시 기흥구 신갈로 59",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27202841,
+      "lng": 127.10539502
+    },
+    {
+      "pnu": "4146310100100600014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 67.51490385,
+      "bld_nm": "훼미리마트",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 60-14",
+      "road_addr": "경기 용인시 기흥구 신갈로58번길 3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27205801,
+      "lng": 127.10616185
+    },
+    {
+      "pnu": "4146310100104670021",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 67.75270723,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 467-21",
+      "road_addr": "경기 용인시 기흥구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27170882,
+      "lng": 127.10426543
+    },
+    {
+      "pnu": "4146310100100590001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 70.22542985,
+      "bld_nm": "덕영빌딩",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 59-1",
+      "road_addr": "경기 용인시 기흥구 신갈로57번길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.2719,
+      "lng": 127.10473021
+    },
+    {
+      "pnu": "4146310100104670012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 71.12603629,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 467-12",
+      "road_addr": "경기 용인시 기흥구 신갈로57번길 5-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27183622,
+      "lng": 127.10452752
+    },
+    {
+      "pnu": "4146310100100580013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 72.42672037,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 58-13",
+      "road_addr": "경기 용인시 기흥구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27209531,
+      "lng": 127.10525719
+    },
+    {
+      "pnu": "4146310100100580014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 75.30507747,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 58-14",
+      "road_addr": "경기 용인시 기흥구 신갈로 61",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27213684,
+      "lng": 127.10547341
+    },
+    {
+      "pnu": "4146310100100610003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 76.37000793,
+      "bld_nm": "만리향",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 61-3",
+      "road_addr": "경기 용인시 기흥구 신갈로58번길 8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.27192441,
+      "lng": 127.10664755
+    },
+    {
+      "pnu": "4146310100100600013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 77.9993989,
+      "bld_nm": "풍원장여관옆",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 60-13",
+      "road_addr": "경기 용인시 기흥구 신갈로58번길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27211269,
+      "lng": 127.10634203
+    },
+    {
+      "pnu": "4146310300101730019",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 78.00053004,
+      "bld_nm": "로젠기흥지점",
+      "jibun_addr": "경기 용인시 기흥구 상갈동 173-19",
+      "road_addr": "경기 용인시 기흥구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.26936203,
+      "lng": 127.10439092
+    },
+    {
+      "pnu": "4146310300101000002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 79.61224731,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 상갈동 100-2",
+      "road_addr": "경기 용인시 기흥구 갈천로 63",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.2697306,
+      "lng": 127.10622379
+    },
+    {
+      "pnu": "4146310100100610016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 79.89569702,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 61-16",
+      "road_addr": "경기 용인시 기흥구 신갈로58번길 14-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        }
+      ],
+      "lat": 37.27179874,
+      "lng": 127.10680611
+    },
+    {
+      "pnu": "4146310100100600018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 80.07533892,
+      "bld_nm": "그린원룸텔",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 60-18",
+      "road_addr": "경기 용인시 기흥구 신갈로 62",
+      "avail_gen_cnt": 28,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 20,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 19,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)_S",
+          "count": 18
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27218368,
+      "lng": 127.10600329
+    },
+    {
+      "pnu": "4146310300101000001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.56722326,
+      "bld_nm": "대우현대(아)상가",
+      "jibun_addr": "경기 용인시 기흥구 상갈동 100-1",
+      "road_addr": "경기 용인시 기흥구 갈천로 62",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.26966894,
+      "lng": 127.10605023
+    },
+    {
+      "pnu": "4146310300101000003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.69163014,
+      "bld_nm": "맥스빌아파트상가",
+      "jibun_addr": "경기 용인시 기흥구 상갈동 100-3",
+      "road_addr": "경기 용인시 기흥구 금화로108번길 37",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.26976031,
+      "lng": 127.10642195
+    },
+    {
+      "pnu": "4146310300101010000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 82.14250732,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 상갈동 101",
+      "road_addr": "경기 용인시 기흥구 갈천로 68",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.26983336,
+      "lng": 127.10670354
+    },
+    {
+      "pnu": "4146310100100610017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 82.97537012,
+      "bld_nm": "신우전기",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 61-17",
+      "road_addr": "경기 용인시 기흥구 중부대로 359",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.27169989,
+      "lng": 127.10689686
+    },
+    {
+      "pnu": "4146310300101730009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 85.28683726,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 상갈동 173-9",
+      "road_addr": "경기 용인시 기흥구 신갈로 31",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_비즈_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.26946842,
+      "lng": 127.10538582
+    },
+    {
+      "pnu": "4146310300101010003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 86.18071314,
+      "bld_nm": "형제방앗간",
+      "jibun_addr": "경기 용인시 기흥구 상갈동 101-3",
+      "road_addr": "경기 용인시 기흥구 갈천로 68-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_비즈_광랜W(50)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        }
+      ],
+      "lat": 37.26985184,
+      "lng": 127.1068388
+    },
+    {
+      "pnu": "4146310100100580011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 86.37651246,
+      "bld_nm": "OK비디오방",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 58-11",
+      "road_addr": "경기 용인시 기흥구 신갈로 61-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27223581,
+      "lng": 127.10541649
+    },
+    {
+      "pnu": "4146310100100580012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 88.00869619,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 58-12",
+      "road_addr": "경기 용인시 기흥구 #-#",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2722352,
+      "lng": 127.10523603
+    },
+    {
+      "pnu": "4146310100100610004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 89.87129463,
+      "bld_nm": "대림부동산",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 61-4",
+      "road_addr": "경기 용인시 기흥구 신갈로58번길 8-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.27195202,
+      "lng": 127.1068166
+    },
+    {
+      "pnu": "4146310100100600012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 91.0306378,
+      "bld_nm": "골드라인",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 60-12",
+      "road_addr": "경기 용인시 기흥구 신갈로58번길 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27216741,
+      "lng": 127.10653349
+    },
+    {
+      "pnu": "4146310300101010001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 92.24158886,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 상갈동 101-1",
+      "road_addr": "경기 용인시 기흥구 금화로108번길 36-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.26973421,
+      "lng": 127.10670406
+    },
+    {
+      "pnu": "4146310300101010004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 92.43979781,
+      "bld_nm": "이화모텔",
+      "jibun_addr": "경기 용인시 기흥구 상갈동 101-4",
+      "road_addr": "경기 용인시 기흥구 갈천로 70",
+      "avail_gen_cnt": 24,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.2698613,
+      "lng": 127.10697409
+    },
+    {
+      "pnu": "4146310300101000004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 94.4175294,
+      "bld_nm": "먹보네부대찌개",
+      "jibun_addr": "경기 용인시 기흥구 상갈동 100-4",
+      "road_addr": "경기 용인시 기흥구 금화로108번길 35",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.26964317,
+      "lng": 127.10643384
+    },
+    {
+      "pnu": "4146310100100690006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.06833908,
+      "bld_nm": "하이마트",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 69-6",
+      "road_addr": "경기 용인시 기흥구 중부대로 362",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.27121412,
+      "lng": 127.10719264
+    },
+    {
+      "pnu": "4146310100100600019",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.076393,
+      "bld_nm": "신갈쇼핑센타",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 60-19",
+      "road_addr": "경기 용인시 기흥구 신갈로 62-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 23,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 21,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 52
+        }
+      ],
+      "lat": 37.2723279,
+      "lng": 127.10600253
+    },
+    {
+      "pnu": "4146310100104670011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.22832807,
+      "bld_nm": "강원상황국밥",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 467-11",
+      "road_addr": "경기 용인시 기흥구 신갈로57번길 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.27211595,
+      "lng": 127.10461629
+    },
+    {
+      "pnu": "4146310300101010002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 97.48102007,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 상갈동 101-2",
+      "road_addr": "경기 용인시 기흥구 금화로108번길 36-5",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.26974375,
+      "lng": 127.10686191
+    },
+    {
+      "pnu": "4146310100100610013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.48816691,
+      "bld_nm": "우성전기",
+      "jibun_addr": "경기 용인시 기흥구 신갈동 61-13",
+      "road_addr": "경기 용인시 기흥구 중부대로 361",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.27167353,
+      "lng": 127.10710002
+    },
+    {
+      "pnu": "4146310300101010007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.7763521,
+      "bld_nm": "서울우유신갈보급소",
+      "jibun_addr": "경기 용인시 기흥구 상갈동 101-7",
+      "road_addr": "경기 용인시 기흥구 갈천로 72",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.26986171,
+      "lng": 127.10709816
+    },
+    {
+      "pnu": "4146310300101000000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.82217906,
+      "bld_nm": "루블루시네마",
+      "jibun_addr": "경기 용인시 기흥구 상갈동 100",
+      "road_addr": "경기 용인시 기흥구 신갈로 32",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "B인터넷_타사임차",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.26945201,
+      "lng": 127.10587089
+    }
+  ]
+}

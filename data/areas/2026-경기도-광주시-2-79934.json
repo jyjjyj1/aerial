@@ -87,13 +87,13 @@
   },
   "buildings": [
     {
-      "pnu": "4161011200100030010",
+      "pnu": "4161011200100390013",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "한일빌딩",
-      "jibun_addr": "경기 광주시 역동 3-10",
-      "road_addr": "경기 광주시 경안로25번길 29",
+      "bld_nm": "정겨운빌딩",
+      "jibun_addr": "경기 광주시 역동 39-13",
+      "road_addr": "경기 광주시 역동로 21",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -103,17 +103,17 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40719376,
-      "lng": 127.25672158
+      "lat": 37.4054764,
+      "lng": 127.25880619
     },
     {
-      "pnu": "4161011200100250006",
+      "pnu": "4161011200100480018",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "제일빌딩",
-      "jibun_addr": "경기 광주시 역동 25-6",
-      "road_addr": "경기 광주시 중앙로 83",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 48-18",
+      "road_addr": "경기 광주시 역동로34번길 12-19",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -123,17 +123,51 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40727169,
-      "lng": 127.2595688
+      "lat": 37.40606922,
+      "lng": 127.25778735
     },
     {
-      "pnu": "4161011200100160001",
+      "pnu": "4161011200100140003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 16-1",
-      "road_addr": "경기 광주시 중앙로 95-15",
+      "jibun_addr": "경기 광주시 역동 14-3",
+      "road_addr": "경기 광주시 역동로34번길 24-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40661915,
+      "lng": 127.25783078
+    },
+    {
+      "pnu": "4161011200100260010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 26-10",
+      "road_addr": "경기 광주시 역동로 16",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -143,97 +177,17 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40768374,
-      "lng": 127.25830193
+      "lat": 37.40625215,
+      "lng": 127.25908619
     },
     {
-      "pnu": "4161011200100160001",
+      "pnu": "4161011200100080010",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 16-1",
-      "road_addr": "경기 광주시 중앙로 95-15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40768374,
-      "lng": 127.25830193
-    },
-    {
-      "pnu": "4161011200100140002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 14-2",
-      "road_addr": "경기 광주시 역동로10번길 15-8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40611452,
-      "lng": 127.2579002
-    },
-    {
-      "pnu": "4161011200100150002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 15-2",
-      "road_addr": "경기 광주시 역동로10번길 14-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40684632,
-      "lng": 127.2587227
-    },
-    {
-      "pnu": "4161011200100610007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 61-7",
-      "road_addr": "경기 광주시 역동로 39",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40450477,
-      "lng": 127.25723534
-    },
-    {
-      "pnu": "4161011200100140016",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 14-16",
-      "road_addr": "경기 광주시 역동로10번길 17-3",
+      "bld_nm": "용훈빌딩",
+      "jibun_addr": "경기 광주시 역동 8-10",
+      "road_addr": "경기 광주시 역동로34번길 31",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 0,
@@ -248,8 +202,93 @@
         }
       ],
       "tv_tech": [],
-      "lat": 37.40618696,
-      "lng": 127.25805816
+      "lat": 37.40772673,
+      "lng": 127.25728483
+    },
+    {
+      "pnu": "4161011200100250008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 25-8",
+      "road_addr": "경기 광주시 중앙로 79-4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40714231,
+      "lng": 127.25954522
+    },
+    {
+      "pnu": "4161011200100030012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 3-12",
+      "road_addr": "경기 광주시 경안로25번길 35",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.40668864,
+      "lng": 127.25655372
+    },
+    {
+      "pnu": "4161011200100400022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "소라장",
+      "jibun_addr": "경기 광주시 역동 40-22",
+      "road_addr": "경기 광주시 역동로 24",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40562887,
+      "lng": 127.25843283
+    },
+    {
+      "pnu": "4161011200100270009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 27-9",
+      "road_addr": "경기 광주시 중앙로 69-4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40641784,
+      "lng": 127.26078056
     },
     {
       "pnu": "4161011200100270071",
@@ -282,56 +321,16 @@
       "lng": 127.26035027
     },
     {
-      "pnu": "4161011200100140006",
+      "pnu": "4161011200100230025",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 14-6",
-      "road_addr": "경기 광주시 역동로10번길 18-1",
+      "jibun_addr": "경기 광주시 역동 23-25",
+      "road_addr": "경기 광주시 역동로10번길 10-5",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.406457,
-      "lng": 127.2578765
-    },
-    {
-      "pnu": "4161011200100070001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 7-1",
-      "road_addr": "경기 광주시 경안로25번길 21",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40796071,
-      "lng": 127.25710329
-    },
-    {
-      "pnu": "4161011200100230050",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "조광빌라",
-      "jibun_addr": "경기 광주시 역동 23-50",
-      "road_addr": "경기 광주시 중앙로 83-17",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -339,26 +338,116 @@
       "int_tech": [
         {
           "method": "광랜FTTH(GB)",
-          "count": 3
+          "count": 2
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
+          "count": 1
         }
       ],
-      "lat": 37.4069188,
-      "lng": 127.25890326
+      "lat": 37.40672066,
+      "lng": 127.25898299
     },
     {
-      "pnu": "4161011200100230032",
+      "pnu": "4161011200100140009",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 23-32",
-      "road_addr": "경기 광주시 역동로10번길 11-1",
+      "jibun_addr": "경기 광주시 역동 14-9",
+      "road_addr": "경기 광주시 역동로10번길 16",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40645746,
+      "lng": 127.25810248
+    },
+    {
+      "pnu": "4161011200100150010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 15-10",
+      "road_addr": "경기 광주시 역동로10번길 14-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40670208,
+      "lng": 127.25871187
+    },
+    {
+      "pnu": "4161011200100080020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "서울크리닉",
+      "jibun_addr": "경기 광주시 역동 8-20",
+      "road_addr": "경기 광주시 중앙로 95-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.408027,
+      "lng": 127.25866242
+    },
+    {
+      "pnu": "4161011200100160006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 16-6",
+      "road_addr": "경기 광주시 중앙로 83-22",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        }
+      ],
+      "lat": 37.4070712,
+      "lng": 127.25849599
+    },
+    {
+      "pnu": "4161011200100610003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 61-3",
+      "road_addr": "경기 광주시 역동로 41-1",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
@@ -378,45 +467,20 @@
           "count": 1
         }
       ],
-      "lat": 37.4063141,
-      "lng": 127.25852102
+      "lat": 37.40425018,
+      "lng": 127.25711796
     },
     {
-      "pnu": "4161011200100470001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "예건",
-      "jibun_addr": "경기 광주시 역동 47-1",
-      "road_addr": "경기 광주시 역동로 26-8",
-      "avail_gen_cnt": 18,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.40558297,
-      "lng": 127.2580262
-    },
-    {
-      "pnu": "4161011200100270030",
+      "pnu": "4161011200100400027",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 27-30",
-      "road_addr": "경기 광주시 역동로 15",
+      "jibun_addr": "경기 광주시 역동 40-27",
+      "road_addr": "경기 광주시 역동로 26-6",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -424,42 +488,27 @@
       "int_tech": [
         {
           "method": "광랜FTTH(GB)",
-          "count": 2
+          "count": 1
         }
       ],
-      "tv_tech": [],
-      "lat": 37.40569358,
-      "lng": 127.25922357
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40551113,
+      "lng": 127.25816202
     },
     {
-      "pnu": "4161011200100670001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "한솔목공기계",
-      "jibun_addr": "경기 광주시 역동 67-1",
-      "road_addr": "경기 광주시 역동로 53",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40371343,
-      "lng": 127.25623568
-    },
-    {
-      "pnu": "4161011200100030016",
+      "pnu": "4161011200100480016",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 3-16",
-      "road_addr": "경기 광주시 경안로25번길 33-7",
-      "avail_gen_cnt": 1,
+      "jibun_addr": "경기 광주시 역동 48-16",
+      "road_addr": "경기 광주시 역동로34번길 12-3",
+      "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -468,17 +517,17 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.4069778,
-      "lng": 127.25690307
+      "lat": 37.40594275,
+      "lng": 127.25765217
     },
     {
-      "pnu": "4161011200100390008",
+      "pnu": "4161011200100060004",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "성일철강건축공업사",
-      "jibun_addr": "경기 광주시 역동 39-8",
-      "road_addr": "경기 광주시 역동로 25-5",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 6-4",
+      "road_addr": "경기 광주시 경안로25번길 27-3",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -488,8 +537,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.4053772,
-      "lng": 127.25878391
+      "lat": 37.40738358,
+      "lng": 127.25698085
     },
     {
       "pnu": "4161011200100600002",
@@ -522,16 +571,16 @@
       "lng": 127.2568102
     },
     {
-      "pnu": "4161011200100220010",
+      "pnu": "4161011200100230033",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "희망빌딩",
-      "jibun_addr": "경기 광주시 역동 22-10",
-      "road_addr": "경기 광주시 중앙로 95-1",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 23-33",
+      "road_addr": "경기 광주시 역동로 24-9",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -542,9 +591,218 @@
           "count": 1
         }
       ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40626027,
+      "lng": 127.25864549
+    },
+    {
+      "pnu": "4161011200100260006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 26-6",
+      "road_addr": "경기 광주시 중앙로 79",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40818063,
-      "lng": 127.25885402
+      "lat": 37.40716396,
+      "lng": 127.25978384
+    },
+    {
+      "pnu": "4161011200100480015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 48-15",
+      "road_addr": "경기 광주시 역동로34번길 12-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40603294,
+      "lng": 127.25767448
+    },
+    {
+      "pnu": "4161011200100230006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 23-6",
+      "road_addr": "경기 광주시 중앙로 83-20",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40709875,
+      "lng": 127.25874449
+    },
+    {
+      "pnu": "4161011200100160004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 16-4",
+      "road_addr": "경기 광주시 중앙로 89-13",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40708891,
+      "lng": 127.25833774
+    },
+    {
+      "pnu": "4161011200100180006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 18-6",
+      "road_addr": "경기 광주시 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40705882,
+      "lng": 127.25779795
+    },
+    {
+      "pnu": "4161011200100230032",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 23-32",
+      "road_addr": "경기 광주시 역동로10번길 11-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.4063141,
+      "lng": 127.25852102
+    },
+    {
+      "pnu": "4161011200100030016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 3-16",
+      "road_addr": "경기 광주시 경안로25번길 33-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.4069778,
+      "lng": 127.25690307
+    },
+    {
+      "pnu": "4161011200100460002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "이스타빌",
+      "jibun_addr": "경기 광주시 역동 46-2",
+      "road_addr": "경기 광주시 역동로 32",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 13,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTVon기업회선)_M",
+          "count": 12
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40519482,
+      "lng": 127.25775627
     },
     {
       "pnu": "4161011200100140008",
@@ -567,55 +825,15 @@
       "lng": 127.25798911
     },
     {
-      "pnu": "4161011200100400039",
+      "pnu": "4161011200100150014",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 40-39",
-      "road_addr": "경기 광주시 역동로 25-6",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40483559,
-      "lng": 127.25840148
-    },
-    {
-      "pnu": "4161011200100110004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 11-4",
-      "road_addr": "경기 광주시 경안로25번길 33-9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40693292,
-      "lng": 127.25699361
-    },
-    {
-      "pnu": "4161011200100230004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "신흥빌딩",
-      "jibun_addr": "경기 광주시 역동 23-4",
-      "road_addr": "경기 광주시 중앙로 85",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
+      "jibun_addr": "경기 광주시 역동 15-14",
+      "road_addr": "경기 광주시 역동로10번길 13",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -624,12 +842,152 @@
       "int_tech": [
         {
           "method": "광랜FTTH",
-          "count": 2
+          "count": 1
         }
       ],
       "tv_tech": [],
-      "lat": 37.40743359,
-      "lng": 127.25939879
+      "lat": 37.40634086,
+      "lng": 127.25838534
+    },
+    {
+      "pnu": "4161011200100080002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 8-2",
+      "road_addr": "경기 광주시 중앙로 95-29",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40778195,
+      "lng": 127.25783834
+    },
+    {
+      "pnu": "4161010100100330046",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 경안동 33-46",
+      "road_addr": "경기 광주시 경안로25번길 17-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40821324,
+      "lng": 127.25717027
+    },
+    {
+      "pnu": "4161011200100070005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "광성상가",
+      "jibun_addr": "경기 광주시 역동 7-5",
+      "road_addr": "경기 광주시 경안로25번길 23",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40787053,
+      "lng": 127.25708098
+    },
+    {
+      "pnu": "4161011200100130008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 13-8",
+      "road_addr": "경기 광주시 역동로10번길 20-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.40645644,
+      "lng": 127.25760532
+    },
+    {
+      "pnu": "4161011200100480006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 48-6",
+      "road_addr": "경기 광주시 역동로34번길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40523071,
+      "lng": 127.25767706
+    },
+    {
+      "pnu": "4161011200100140016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 14-16",
+      "road_addr": "경기 광주시 역동로10번길 17-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.40618696,
+      "lng": 127.25805816
     },
     {
       "pnu": "4161011200100480019",
@@ -662,13 +1020,51 @@
       "lng": 127.2577764
     },
     {
-      "pnu": "4161011200100130005",
+      "pnu": "4161011200100260025",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 13-5",
-      "road_addr": "경기 광주시 역동로34번길 20",
+      "jibun_addr": "경기 광주시 역동 26-25",
+      "road_addr": "경기 광주시 역동로10번길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40638773,
+      "lng": 127.25926654
+    },
+    {
+      "pnu": "4161011200100030010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한일빌딩",
+      "jibun_addr": "경기 광주시 역동 3-10",
+      "road_addr": "경기 광주시 경안로25번길 29",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -678,77 +1074,57 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40664571,
-      "lng": 127.25759341
+      "lat": 37.40719376,
+      "lng": 127.25672158
     },
     {
-      "pnu": "4161011200100180006",
+      "pnu": "4161011200100140014",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 18-6",
+      "jibun_addr": "경기 광주시 역동 14-14",
+      "road_addr": "경기 광주시 역동로10번길 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40630353,
+      "lng": 127.257764
+    },
+    {
+      "pnu": "4161011200100270102",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "조광페인트",
+      "jibun_addr": "경기 광주시 역동 27-102",
+      "road_addr": "경기 광주시 중앙로 69-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40586739,
+      "lng": 127.26047723
+    },
+    {
+      "pnu": "4161011200100230031",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 23-31",
       "road_addr": "경기 광주시 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40705882,
-      "lng": 127.25779795
-    },
-    {
-      "pnu": "4161011200100480002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "이슬람사원",
-      "jibun_addr": "경기 광주시 역동 48-2",
-      "road_addr": "경기 광주시 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40573532,
-      "lng": 127.25759634
-    },
-    {
-      "pnu": "4161011200100080031",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 8-31",
-      "road_addr": "경기 광주시 중앙로 95-11",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40792104,
-      "lng": 127.25834362
-    },
-    {
-      "pnu": "4161011200100480006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 48-6",
-      "road_addr": "경기 광주시 역동로34번길 6",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -758,17 +1134,62 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40523071,
-      "lng": 127.25767706
+      "lat": 37.40656685,
+      "lng": 127.258701
     },
     {
-      "pnu": "4161010100100330046",
+      "pnu": "4161011200100260031",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 경안동 33-46",
-      "road_addr": "경기 광주시 경안로25번길 17-1",
+      "jibun_addr": "경기 광주시 역동 26-31",
+      "road_addr": "경기 광주시 중앙로 79-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40685731,
+      "lng": 127.25969442
+    },
+    {
+      "pnu": "4161011200100470001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "예건",
+      "jibun_addr": "경기 광주시 역동 47-1",
+      "road_addr": "경기 광주시 역동로 26-8",
+      "avail_gen_cnt": 18,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.40558297,
+      "lng": 127.2580262
+    },
+    {
+      "pnu": "4161011200100070004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 7-4",
+      "road_addr": "경기 광주시 중앙로 95-37",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -778,17 +1199,112 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40821324,
-      "lng": 127.25717027
+      "lat": 37.40804188,
+      "lng": 127.25712562
     },
     {
-      "pnu": "4161011200100250008",
+      "pnu": "4161011200100390017",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 25-8",
-      "road_addr": "경기 광주시 중앙로 83-5",
+      "jibun_addr": "경기 광주시 역동 39-17",
+      "road_addr": "경기 광주시 역동로 20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.40599924,
+      "lng": 127.25882711
+    },
+    {
+      "pnu": "4161011200100230050",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "조광빌라",
+      "jibun_addr": "경기 광주시 역동 23-50",
+      "road_addr": "경기 광주시 중앙로 83-17",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.4069188,
+      "lng": 127.25890326
+    },
+    {
+      "pnu": "4161011200100230052",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 23-52",
+      "road_addr": "경기 광주시 중앙로 83-13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40693736,
+      "lng": 127.25916309
+    },
+    {
+      "pnu": "4161011200100140015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 14-15",
+      "road_addr": "경기 광주시 역동로10번길 17-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40620468,
+      "lng": 127.25791121
+    },
+    {
+      "pnu": "4161011200100160003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "세린빌딩",
+      "jibun_addr": "경기 광주시 역동 16-3",
+      "road_addr": "경기 광주시 중앙로 89-1",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -798,48 +1314,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 0.0,
-      "lng": 0.0
-    },
-    {
-      "pnu": "4161011200100110001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 11-1",
-      "road_addr": "경기 광주시 경안로25번길 16-13",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40705021,
-      "lng": 127.25704973
-    },
-    {
-      "pnu": "4161011200100110005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 11-5",
-      "road_addr": "경기 광주시 경안로25번길 16-15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40694228,
-      "lng": 127.25716307
+      "lat": 37.4071885,
+      "lng": 127.25855211
     },
     {
       "pnu": "4161011200100060003",
@@ -872,13 +1348,13 @@
       "lng": 127.25699192
     },
     {
-      "pnu": "4161011200100080002",
+      "pnu": "4161011200100480023",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 8-2",
-      "road_addr": "경기 광주시 중앙로 95-29",
+      "jibun_addr": "경기 광주시 역동 48-23",
+      "road_addr": "경기 광주시 역동로34번길 12-27",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -888,20 +1364,40 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40778195,
-      "lng": 127.25783834
+      "lat": 37.40597023,
+      "lng": 127.25786677
     },
     {
-      "pnu": "4161011200100480014",
+      "pnu": "4161011200100110005",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 48-14",
-      "road_addr": "경기 광주시 역동로34번길 12-11",
+      "jibun_addr": "경기 광주시 역동 11-5",
+      "road_addr": "경기 광주시 경안로25번길 16-15",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40694228,
+      "lng": 127.25716307
+    },
+    {
+      "pnu": "4161011200100220010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "희망빌딩",
+      "jibun_addr": "경기 광주시 역동 22-10",
+      "road_addr": "경기 광주시 중앙로 95-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -909,30 +1405,21 @@
       "int_tech": [
         {
           "method": "광랜FTTH",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
         }
       ],
-      "lat": 37.40615014,
-      "lng": 127.2576854
+      "tv_tech": [],
+      "lat": 37.40818063,
+      "lng": 127.25885402
     },
     {
-      "pnu": "4161011200100060002",
+      "pnu": "4161011200100400018",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 6-2",
-      "road_addr": "경기 광주시 경안로25번길 25-1",
+      "jibun_addr": "경기 광주시 역동 40-18",
+      "road_addr": "경기 광주시 역동로 26-2",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -942,8 +1429,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40759982,
-      "lng": 127.25693496
+      "lat": 37.40552038,
+      "lng": 127.25827499
     },
     {
       "pnu": "4161011200100450005",
@@ -996,6 +1483,156 @@
       "lng": 127.26062315
     },
     {
+      "pnu": "4161011200100130005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 13-5",
+      "road_addr": "경기 광주시 역동로34번길 20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40664571,
+      "lng": 127.25759341
+    },
+    {
+      "pnu": "4161011200100480002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "이슬람사원",
+      "jibun_addr": "경기 광주시 역동 48-2",
+      "road_addr": "경기 광주시 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40573532,
+      "lng": 127.25759634
+    },
+    {
+      "pnu": "4161011200100480009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "재단법인한국이슬람교",
+      "jibun_addr": "경기 광주시 역동 48-9",
+      "road_addr": "경기 광주시 역동로34번길 10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40577172,
+      "lng": 127.25776571
+    },
+    {
+      "pnu": "4161011200100250008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 25-8",
+      "road_addr": "경기 광주시 중앙로 83-5",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    {
+      "pnu": "4161011200100270030",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 27-30",
+      "road_addr": "경기 광주시 역동로 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.40569358,
+      "lng": 127.25922357
+    },
+    {
+      "pnu": "4161011200100390014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동진카크리닉",
+      "jibun_addr": "경기 광주시 역동 39-14",
+      "road_addr": "경기 광주시 역동로 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40557605,
+      "lng": 127.25905446
+    },
+    {
+      "pnu": "4161011200100230004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "신흥빌딩",
+      "jibun_addr": "경기 광주시 역동 23-4",
+      "road_addr": "경기 광주시 중앙로 85",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.40743359,
+      "lng": 127.25939879
+    },
+    {
       "pnu": "4161011200100030029",
       "match_type": "inside",
       "in_area": true,
@@ -1026,13 +1663,13 @@
       "lng": 127.25693653
     },
     {
-      "pnu": "4161011200100230052",
+      "pnu": "4161011200100110004",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 23-52",
-      "road_addr": "경기 광주시 중앙로 83-13",
+      "jibun_addr": "경기 광주시 역동 11-4",
+      "road_addr": "경기 광주시 경안로25번길 33-9",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1042,108 +1679,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40693736,
-      "lng": 127.25916309
-    },
-    {
-      "pnu": "4161011200100480020",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 48-20",
-      "road_addr": "경기 광주시 역동로34번길 12-29",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40596141,
-      "lng": 127.25795719
-    },
-    {
-      "pnu": "4161011200100150005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 15-5",
-      "road_addr": "경기 광주시 역동로10번길 14-7",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40672882,
-      "lng": 127.25856489
-    },
-    {
-      "pnu": "4161011200100230046",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 23-46",
-      "road_addr": "경기 광주시 중앙로 83-18",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40709898,
-      "lng": 127.25885749
-    },
-    {
-      "pnu": "4161011200100110011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 11-11",
-      "road_addr": "경기 광주시 경안로25번길 33-14",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40669905,
-      "lng": 127.25723165
-    },
-    {
-      "pnu": "4161011200100060005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 6-5",
-      "road_addr": "경기 광주시 경안로25번길 27",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.4074464,
-      "lng": 127.25684506
+      "lat": 37.40693292,
+      "lng": 127.25699361
     },
     {
       "pnu": "4161011200100270028",
@@ -1186,13 +1723,192 @@
       "lng": 127.25976288
     },
     {
-      "pnu": "4161011200100460004",
+      "pnu": "4161011200100390008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성일철강건축공업사",
+      "jibun_addr": "경기 광주시 역동 39-8",
+      "road_addr": "경기 광주시 역동로 25-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.4053772,
+      "lng": 127.25878391
+    },
+    {
+      "pnu": "4161011200100400039",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 46-4",
-      "road_addr": "경기 광주시 역동로 33",
+      "jibun_addr": "경기 광주시 역동 40-39",
+      "road_addr": "경기 광주시 역동로 25-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40483559,
+      "lng": 127.25840148
+    },
+    {
+      "pnu": "4161011200100480017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 48-17",
+      "road_addr": "경기 광주시 역동로34번길 12-17",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40618642,
+      "lng": 127.25779827
+    },
+    {
+      "pnu": "4161011200100670001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한솔목공기계",
+      "jibun_addr": "경기 광주시 역동 67-1",
+      "road_addr": "경기 광주시 역동로 53",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40371343,
+      "lng": 127.25623568
+    },
+    {
+      "pnu": "4161011200100140013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 14-13",
+      "road_addr": "경기 광주시 역동로10번길 17-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.4062948,
+      "lng": 127.25789962
+    },
+    {
+      "pnu": "4161011200100230005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "광주축협본점",
+      "jibun_addr": "경기 광주시 역동 23-5",
+      "road_addr": "경기 광주시 중앙로 87",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40741499,
+      "lng": 127.25911636
+    },
+    {
+      "pnu": "4161011200100060002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 6-2",
+      "road_addr": "경기 광주시 경안로25번길 25-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40759982,
+      "lng": 127.25693496
+    },
+    {
+      "pnu": "4161011200100240005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "해원빌라",
+      "jibun_addr": "경기 광주시 역동 24-5",
+      "road_addr": "경기 광주시 역동로10번길 7-2",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.40634197,
+      "lng": 127.25892771
+    },
+    {
+      "pnu": "4161011200100080031",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 8-31",
+      "road_addr": "경기 광주시 중앙로 95-11",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1202,8 +1918,82 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40456553,
-      "lng": 127.25764394
+      "lat": 37.40792104,
+      "lng": 127.25834362
+    },
+    {
+      "pnu": "4161011200100480014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 48-14",
+      "road_addr": "경기 광주시 역동로34번길 12-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40615014,
+      "lng": 127.2576854
+    },
+    {
+      "pnu": "4161011200100110001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 11-1",
+      "road_addr": "경기 광주시 경안로25번길 16-13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40705021,
+      "lng": 127.25704973
+    },
+    {
+      "pnu": "4161011200100070001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 7-1",
+      "road_addr": "경기 광주시 경안로25번길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40796071,
+      "lng": 127.25710329
     },
     {
       "pnu": "4161011200100230007",
@@ -1231,53 +2021,13 @@
       "lng": 127.2588585
     },
     {
-      "pnu": "4161011200100400005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "동일빌딩",
-      "jibun_addr": "경기 광주시 역동 40-5",
-      "road_addr": "경기 광주시 역동로 25",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40525052,
-      "lng": 127.25854703
-    },
-    {
-      "pnu": "4161011200100080005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "낙원빌딩",
-      "jibun_addr": "경기 광주시 역동 8-5",
-      "road_addr": "경기 광주시 중앙로 95-35",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40804221,
-      "lng": 127.25728382
-    },
-    {
-      "pnu": "4161011200100400017",
+      "pnu": "4161011200100150005",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 40-17",
-      "road_addr": "경기 광주시 역동로 24-3",
+      "jibun_addr": "경기 광주시 역동 15-5",
+      "road_addr": "경기 광주시 역동로10번길 14-7",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1287,17 +2037,17 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40585423,
-      "lng": 127.2584434
+      "lat": 37.40672882,
+      "lng": 127.25856489
     },
     {
-      "pnu": "4161011200100110006",
+      "pnu": "4161011200100140006",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 11-6",
-      "road_addr": "경기 광주시 경안로25번길 33-11",
+      "jibun_addr": "경기 광주시 역동 14-6",
+      "road_addr": "경기 광주시 역동로10번길 18-1",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1307,17 +2057,17 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40686111,
-      "lng": 127.25714073
+      "lat": 37.406457,
+      "lng": 127.2578765
     },
     {
-      "pnu": "4161011200100390013",
+      "pnu": "4161011200100480020",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "정겨운빌딩",
-      "jibun_addr": "경기 광주시 역동 39-13",
-      "road_addr": "경기 광주시 역동로 21",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 48-20",
+      "road_addr": "경기 광주시 역동로34번길 12-29",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1327,55 +2077,47 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.4054764,
-      "lng": 127.25880619
+      "lat": 37.40596141,
+      "lng": 127.25795719
     },
     {
-      "pnu": "4161011200100450011",
+      "pnu": "4161011200100390011",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "에버그린",
-      "jibun_addr": "경기 광주시 역동 45-11",
-      "road_addr": "경기 광주시 역동로 31-1",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 2,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 39-11",
+      "road_addr": "경기 광주시 역동로 23",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E",
-          "count": 3
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 1
+          "method": "광랜FTTH(GB)",
+          "count": 2
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.40462707,
-      "lng": 127.25781459
+      "lat": 37.40541286,
+      "lng": 127.25859171
     },
     {
-      "pnu": "4161011200100270038",
+      "pnu": "4161011200100060005",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 27-38",
-      "road_addr": "경기 광주시 역동로 17",
+      "jibun_addr": "경기 광주시 역동 6-5",
+      "road_addr": "경기 광주시 경안로25번길 27",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1385,8 +2127,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.405405,
-      "lng": 127.2591567
+      "lat": 37.4074464,
+      "lng": 127.25684506
     },
     {
       "pnu": "4161011200100480010",
@@ -1409,16 +2151,16 @@
       "lng": 127.25767645
     },
     {
-      "pnu": "4161011200100140011",
+      "pnu": "4161011200100120001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 14-11",
-      "road_addr": "경기 광주시 역동로10번길 15",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
+      "jibun_addr": "경기 광주시 역동 12-1",
+      "road_addr": "경기 광주시 경안로25번길 33-17",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -1427,33 +2169,65 @@
         {
           "method": "광랜FTTH(GB)",
           "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
         }
       ],
-      "lat": 37.40630418,
-      "lng": 127.25808038
+      "lat": 37.4068162,
+      "lng": 127.25721998
     },
     {
-      "pnu": "4161011200100270068",
+      "pnu": "4161011200100110015",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "갤러리아플라자오피스텔",
-      "jibun_addr": "경기 광주시 역동 27-68",
-      "road_addr": "경기 광주시 역동로 5",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 11-15",
+      "road_addr": "경기 광주시 역동로34번길 19-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40670829,
+      "lng": 127.25734462
+    },
+    {
+      "pnu": "4161011200100030011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "오래숯불갈비부페",
+      "jibun_addr": "경기 광주시 역동 3-11",
+      "road_addr": "경기 광주시 경안로25번길 31",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40702247,
+      "lng": 127.25671083
+    },
+    {
+      "pnu": "4161011200100060001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 6-1",
+      "road_addr": "경기 광주시 경안로25번길 25",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1463,42 +2237,183 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40618629,
-      "lng": 127.2603016
+      "lat": 37.40767197,
+      "lng": 127.25695732
     },
     {
-      "pnu": "4161011200100450009",
+      "pnu": "4161011200100270028",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "한백정다운빌",
-      "jibun_addr": "경기 광주시 역동 45-9",
-      "road_addr": "경기 광주시 역동로10번길 15-3",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 27-28",
+      "road_addr": "경기 광주시 역동로 4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40667652,
+      "lng": 127.25981546
+    },
+    {
+      "pnu": "4161011200100270028",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 27-28",
+      "road_addr": "경기 광주시 역동로 4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40667652,
+      "lng": 127.25981546
+    },
+    {
+      "pnu": "4161011200100160001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "조광부페",
+      "jibun_addr": "경기 광주시 역동 16-1",
+      "road_addr": "경기 광주시 중앙로 89",
+      "avail_gen_cnt": 24,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "method": "광랜E(GB)",
           "count": 1
         }
       ],
-      "lat": 37.40611508,
-      "lng": 127.25817138
+      "tv_tech": [],
+      "lat": 37.40766611,
+      "lng": 127.25849408
+    },
+    {
+      "pnu": "4161011200100160001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "조광부페",
+      "jibun_addr": "경기 광주시 역동 16-1",
+      "road_addr": "경기 광주시 중앙로 89",
+      "avail_gen_cnt": 24,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.40766611,
+      "lng": 127.25849408
+    },
+    {
+      "pnu": "4161011200100250006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "제일빌딩",
+      "jibun_addr": "경기 광주시 역동 25-6",
+      "road_addr": "경기 광주시 중앙로 83",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40727169,
+      "lng": 127.2595688
+    },
+    {
+      "pnu": "4161011200100150007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 15-7",
+      "road_addr": "경기 광주시 역동로10번길 14-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40657531,
+      "lng": 127.25842979
+    },
+    {
+      "pnu": "4161011200100270038",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 27-38",
+      "road_addr": "경기 광주시 역동로 17",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.405405,
+      "lng": 127.2591567
+    },
+    {
+      "pnu": "4161011200100150008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 15-8",
+      "road_addr": "경기 광주시 역동로10번길 14-1",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.40648501,
+      "lng": 127.25835098
     },
     {
       "pnu": "4161011200100240007",
@@ -1535,210 +2450,6 @@
       "lng": 127.25907457
     },
     {
-      "pnu": "4161011200100140007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 14-7",
-      "road_addr": "경기 광주시 역동로10번길 18",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40645723,
-      "lng": 127.25798949
-    },
-    {
-      "pnu": "4161011200100130002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 13-2",
-      "road_addr": "경기 광주시 역동로34번길 20-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40661888,
-      "lng": 127.25769519
-    },
-    {
-      "pnu": "4161011200100580005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "대복빌딩",
-      "jibun_addr": "경기 광주시 역동 58-5",
-      "road_addr": "경기 광주시 역동로 47",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40401138,
-      "lng": 127.25647199
-    },
-    {
-      "pnu": "4161011200100250008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 25-8",
-      "road_addr": "경기 광주시 중앙로 79-4",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40714231,
-      "lng": 127.25954522
-    },
-    {
-      "pnu": "4161011200100270028",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 27-28",
-      "road_addr": "경기 광주시 역동로 4",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40667652,
-      "lng": 127.25981546
-    },
-    {
-      "pnu": "4161011200100270028",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 27-28",
-      "road_addr": "경기 광주시 역동로 4",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40667652,
-      "lng": 127.25981546
-    },
-    {
-      "pnu": "4161011200100070003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "동양파크빌",
-      "jibun_addr": "경기 광주시 역동 7-3",
-      "road_addr": "경기 광주시 역동로34번길 25",
-      "avail_gen_cnt": 113,
-      "int_scrbr_cnt": 29,
-      "tv_scrbr_cnt": 38,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 16
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 13
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV)",
-          "count": 5
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 6
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 23
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air 2)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40730383,
-      "lng": 127.25764778
-    },
-    {
-      "pnu": "4161011200100270024",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성도빌딩",
-      "jibun_addr": "경기 광주시 역동 27-24",
-      "road_addr": "경기 광주시 중앙로 71",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40657961,
-      "lng": 127.26054276
-    },
-    {
       "pnu": "4161011200100150012",
       "match_type": "inside",
       "in_area": true,
@@ -1759,6 +2470,86 @@
       "lng": 127.25844873
     },
     {
+      "pnu": "4161011200100230034",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 23-34",
+      "road_addr": "경기 광주시 역동로10번길 11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40634153,
+      "lng": 127.25871302
+    },
+    {
+      "pnu": "4161011200100400005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동일빌딩",
+      "jibun_addr": "경기 광주시 역동 40-5",
+      "road_addr": "경기 광주시 역동로 25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40525052,
+      "lng": 127.25854703
+    },
+    {
+      "pnu": "4161011200100160001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 16-1",
+      "road_addr": "경기 광주시 중앙로 95-15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40768374,
+      "lng": 127.25830193
+    },
+    {
+      "pnu": "4161011200100160001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 16-1",
+      "road_addr": "경기 광주시 중앙로 95-15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40768374,
+      "lng": 127.25830193
+    },
+    {
       "pnu": "4161011200100230049",
       "match_type": "inside",
       "in_area": true,
@@ -1777,224 +2568,6 @@
       "tv_tech": [],
       "lat": 37.40692749,
       "lng": 127.25874504
-    },
-    {
-      "pnu": "4161011200100450003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "이스타빌",
-      "jibun_addr": "경기 광주시 역동 45-3",
-      "road_addr": "경기 광주시 역동로 26-7",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40534847,
-      "lng": 127.25795916
-    },
-    {
-      "pnu": "4161011200100030011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "오래숯불갈비부페",
-      "jibun_addr": "경기 광주시 역동 3-11",
-      "road_addr": "경기 광주시 경안로25번길 31",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40702247,
-      "lng": 127.25671083
-    },
-    {
-      "pnu": "4161011200100110009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 11-9",
-      "road_addr": "경기 광주시 경안로25번길 33-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40673452,
-      "lng": 127.25694905
-    },
-    {
-      "pnu": "4161011200100080020",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "서울크리닉",
-      "jibun_addr": "경기 광주시 역동 8-20",
-      "road_addr": "경기 광주시 중앙로 95-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.408027,
-      "lng": 127.25866242
-    },
-    {
-      "pnu": "4161011200100260006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 26-6",
-      "road_addr": "경기 광주시 중앙로 79",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40716396,
-      "lng": 127.25978384
-    },
-    {
-      "pnu": "4161011200100270032",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "오토프로자동차전시장",
-      "jibun_addr": "경기 광주시 역동 27-32",
-      "road_addr": "경기 광주시 역동로 13",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40547826,
-      "lng": 127.25972142
-    },
-    {
-      "pnu": "4161011200100140005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 14-5",
-      "road_addr": "경기 광주시 역동로10번길 20",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40647482,
-      "lng": 127.25777475
-    },
-    {
-      "pnu": "4161011200100120001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 12-1",
-      "road_addr": "경기 광주시 경안로25번길 33-17",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.4068162,
-      "lng": 127.25721998
-    },
-    {
-      "pnu": "4161011200100400033",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 40-33",
-      "road_addr": "경기 광주시 역동로10번길 15-5",
-      "avail_gen_cnt": 5,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜PBOX(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40621797,
-      "lng": 127.25842122
     },
     {
       "pnu": "4161011200100150011",
@@ -2031,43 +2604,13 @@
       "lng": 127.25863315
     },
     {
-      "pnu": "4161011200100230029",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "스타빌",
-      "jibun_addr": "경기 광주시 역동 23-29",
-      "road_addr": "경기 광주시 중앙로 83-10",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40728898,
-      "lng": 127.25920716
-    },
-    {
-      "pnu": "4161011200100110015",
+      "pnu": "4161011200100220014",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 11-15",
-      "road_addr": "경기 광주시 역동로34번길 19-2",
+      "jibun_addr": "경기 광주시 역동 22-14",
+      "road_addr": "경기 광주시 중앙로 91",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -2077,53 +2620,39 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40670829,
-      "lng": 127.25734462
+      "lat": 37.40793747,
+      "lng": 127.2589565
     },
     {
-      "pnu": "4161011200100240010",
+      "pnu": "4161011200100270032",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 24-10",
-      "road_addr": "경기 광주시 역동로10번길 6",
+      "bld_nm": "오토프로자동차전시장",
+      "jibun_addr": "경기 광주시 역동 27-32",
+      "road_addr": "경기 광주시 역동로 13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40547826,
+      "lng": 127.25972142
+    },
+    {
+      "pnu": "4161011200100270024",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성도빌딩",
+      "jibun_addr": "경기 광주시 역동 27-24",
+      "road_addr": "경기 광주시 중앙로 71",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.4065769,
-      "lng": 127.25920944
-    },
-    {
-      "pnu": "4161011200100060001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 6-1",
-      "road_addr": "경기 광주시 경안로25번길 25",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -2131,38 +2660,18 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40767197,
-      "lng": 127.25695732
+      "lat": 37.40657961,
+      "lng": 127.26054276
     },
     {
-      "pnu": "4161011200100150007",
+      "pnu": "4161011200100400033",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 15-7",
-      "road_addr": "경기 광주시 역동로10번길 14-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40657531,
-      "lng": 127.25842979
-    },
-    {
-      "pnu": "4161011200100160004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 16-4",
-      "road_addr": "경기 광주시 중앙로 89-13",
-      "avail_gen_cnt": 3,
+      "jibun_addr": "경기 광주시 역동 40-33",
+      "road_addr": "경기 광주시 역동로10번길 15-5",
+      "avail_gen_cnt": 5,
       "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
@@ -2171,48 +2680,28 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜PBOX(GB)",
           "count": 2
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 2 STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.40708891,
-      "lng": 127.25833774
+      "lat": 37.40621797,
+      "lng": 127.25842122
     },
     {
-      "pnu": "4161011200100270153",
+      "pnu": "4161011200100110010",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 27-153",
-      "road_addr": "경기 광주시 역동로 9",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40604416,
-      "lng": 127.25984562
-    },
-    {
-      "pnu": "4161011200100400036",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "동일빌라",
-      "jibun_addr": "경기 광주시 역동 40-36",
-      "road_addr": "경기 광주시 역동로 25-4",
-      "avail_gen_cnt": 8,
+      "jibun_addr": "경기 광주시 역동 11-10",
+      "road_addr": "경기 광주시 경안로25번길 33-12",
+      "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -2221,253 +2710,62 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜W",
           "count": 1
         }
       ],
       "tv_tech": [],
-      "lat": 37.40497983,
-      "lng": 127.25841231
+      "lat": 37.40670776,
+      "lng": 127.25708473
     },
     {
-      "pnu": "4161011200100400013",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "솥뚜껑삼겹살",
-      "jibun_addr": "경기 광주시 역동 40-13",
-      "road_addr": "경기 광주시 역동로 28",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40537581,
-      "lng": 127.25810596
-    },
-    {
-      "pnu": "4161011200100150008",
+      "pnu": "4161011200100240002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 15-8",
-      "road_addr": "경기 광주시 역동로10번길 14-1",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.40648501,
-      "lng": 127.25835098
-    },
-    {
-      "pnu": "4161011200100400023",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 40-23",
-      "road_addr": "경기 광주시 역동로 24-5",
+      "jibun_addr": "경기 광주시 역동 24-2",
+      "road_addr": "경기 광주시 역동로10번길 10-6",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40598045,
-      "lng": 127.2584543
-    },
-    {
-      "pnu": "4161011200100270102",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "조광페인트",
-      "jibun_addr": "경기 광주시 역동 27-102",
-      "road_addr": "경기 광주시 중앙로 69-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40586739,
-      "lng": 127.26047723
-    },
-    {
-      "pnu": "4161011200100070006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 7-6",
-      "road_addr": "경기 광주시 경안로25번길 23-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40774418,
-      "lng": 127.25700229
-    },
-    {
-      "pnu": "4161011200100150006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 15-6",
-      "road_addr": "경기 광주시 역동로10번길 14-5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40664756,
-      "lng": 127.25849735
-    },
-    {
-      "pnu": "4161011200100150003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 15-3",
-      "road_addr": "경기 광주시 역동로10번길 16-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40661978,
-      "lng": 127.25813586
-    },
-    {
-      "pnu": "4161011200100230026",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "스카이빌",
-      "jibun_addr": "경기 광주시 역동 23-26",
-      "road_addr": "경기 광주시 역동로10번길 10",
-      "avail_gen_cnt": 16,
       "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜E",
-          "count": 2
+          "method": "광랜FTTH(GB)",
+          "count": 3
         }
       ],
       "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.40663937,
-      "lng": 127.25890416
+      "lat": 37.40660369,
+      "lng": 127.25908506
     },
     {
-      "pnu": "4161011200100670003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성심만물사",
-      "jibun_addr": "경기 광주시 역동 67-3",
-      "road_addr": "경기 광주시 역동로 51",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40382165,
-      "lng": 127.25625792
-    },
-    {
-      "pnu": "4161011200100140014",
+      "pnu": "4161011200100130014",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 14-14",
-      "road_addr": "경기 광주시 역동로10번길 19",
+      "jibun_addr": "경기 광주시 역동 13-14",
+      "road_addr": "경기 광주시 역동로10번길 20-1",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40630353,
-      "lng": 127.257764
-    },
-    {
-      "pnu": "4161011200100390002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성환빌딩",
-      "jibun_addr": "경기 광주시 역동 39-2",
-      "road_addr": "경기 광주시 역동로 18",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
+      "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -2477,67 +2775,23 @@
         {
           "method": "광랜FTTH",
           "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
         }
       ],
       "tv_tech": [],
-      "lat": 37.40593646,
-      "lng": 127.25898551
+      "lat": 37.40646564,
+      "lng": 127.25769568
     },
     {
-      "pnu": "4161011200100130026",
+      "pnu": "4161011200100260020",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 13-26",
-      "road_addr": "경기 광주시 역동로34번길 12",
+      "bld_nm": "무늬미술학원",
+      "jibun_addr": "경기 광주시 역동 26-20",
+      "road_addr": "경기 광주시 역동로10번길 3",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.4059967,
-      "lng": 127.2575842
-    },
-    {
-      "pnu": "4161011200100130025",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 13-25",
-      "road_addr": "경기 광주시 역동로34번길 14",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40614995,
-      "lng": 127.257595
-    },
-    {
-      "pnu": "4161011200100150004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 15-4",
-      "road_addr": "경기 광주시 역동로10번길 14-9",
-      "avail_gen_cnt": 10,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -2548,54 +2802,55 @@
           "count": 1
         }
       ],
+      "tv_tech": [],
+      "lat": 37.40636993,
+      "lng": 127.25937959
+    },
+    {
+      "pnu": "4161011200100030008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "광주빌라",
+      "jibun_addr": "경기 광주시 역동 3-8",
+      "road_addr": "경기 광주시 경안로25번길 33-8",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(AI Sound Max STB)",
+          "count": 1
         }
       ],
-      "lat": 37.40681006,
-      "lng": 127.25862112
-    },
-    {
-      "pnu": "4161011200100400028",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "영빈장여관",
-      "jibun_addr": "경기 광주시 역동 40-28",
-      "road_addr": "경기 광주시 역동로 29",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40498811,
-      "lng": 127.25805071
-    },
-    {
-      "pnu": "4161011200100480001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 48-1",
-      "road_addr": "경기 광주시 역동로34번길 12-13",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40624934,
-      "lng": 127.25770768
+      "lat": 37.40674319,
+      "lng": 127.25677953
     },
     {
       "pnu": "4161011200100150022",
@@ -2638,6 +2893,139 @@
       "lng": 127.25714378
     },
     {
+      "pnu": "4161011200100670003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성심만물사",
+      "jibun_addr": "경기 광주시 역동 67-3",
+      "road_addr": "경기 광주시 역동로 51",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40382165,
+      "lng": 127.25625792
+    },
+    {
+      "pnu": "4161011200100240010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 24-10",
+      "road_addr": "경기 광주시 역동로10번길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.4065769,
+      "lng": 127.25920944
+    },
+    {
+      "pnu": "4161011200100480001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 48-1",
+      "road_addr": "경기 광주시 역동로34번길 12-13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40624934,
+      "lng": 127.25770768
+    },
+    {
+      "pnu": "4161011200100400036",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동일빌라",
+      "jibun_addr": "경기 광주시 역동 40-36",
+      "road_addr": "경기 광주시 역동로 25-4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.40497983,
+      "lng": 127.25841231
+    },
+    {
+      "pnu": "4161011200100230026",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "스카이빌",
+      "jibun_addr": "경기 광주시 역동 23-26",
+      "road_addr": "경기 광주시 역동로10번길 10",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40663937,
+      "lng": 127.25890416
+    },
+    {
       "pnu": "4161011200100080008",
       "match_type": "inside",
       "in_area": true,
@@ -2672,13 +3060,53 @@
       "lng": 127.25727301
     },
     {
-      "pnu": "4161011200100480016",
+      "pnu": "4161011200100150006",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 48-16",
-      "road_addr": "경기 광주시 역동로34번길 12-3",
+      "jibun_addr": "경기 광주시 역동 15-6",
+      "road_addr": "경기 광주시 역동로10번길 14-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40664756,
+      "lng": 127.25849735
+    },
+    {
+      "pnu": "4161011200100110011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 11-11",
+      "road_addr": "경기 광주시 경안로25번길 33-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40669905,
+      "lng": 127.25723165
+    },
+    {
+      "pnu": "4161011200100610007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 61-7",
+      "road_addr": "경기 광주시 역동로 39",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -2688,38 +3116,28 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40594275,
-      "lng": 127.25765217
+      "lat": 37.40450477,
+      "lng": 127.25723534
     },
     {
-      "pnu": "4161011200100160006",
+      "pnu": "4161011200100140007",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 16-6",
-      "road_addr": "경기 광주시 중앙로 83-22",
-      "avail_gen_cnt": 5,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
+      "jibun_addr": "경기 광주시 역동 14-7",
+      "road_addr": "경기 광주시 역동로10번길 18",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
-        }
-      ],
-      "lat": 37.4070712,
-      "lng": 127.25849599
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40645723,
+      "lng": 127.25798949
     },
     {
       "pnu": "4161011200100080019",
@@ -2742,34 +3160,24 @@
       "lng": 127.25831176
     },
     {
-      "pnu": "4161011200100230033",
+      "pnu": "4161011200100110006",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 23-33",
-      "road_addr": "경기 광주시 역동로 24-9",
+      "jibun_addr": "경기 광주시 역동 11-6",
+      "road_addr": "경기 광주시 경안로25번길 33-11",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40626027,
-      "lng": 127.25864549
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40686111,
+      "lng": 127.25714073
     },
     {
       "pnu": "4161011200100400008",
@@ -2802,13 +3210,101 @@
       "lng": 127.25854408
     },
     {
-      "pnu": "4161011200100610003",
+      "pnu": "4161011200100450011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "에버그린",
+      "jibun_addr": "경기 광주시 역동 45-11",
+      "road_addr": "경기 광주시 역동로 31-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 3
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40462707,
+      "lng": 127.25781459
+    },
+    {
+      "pnu": "4161011200100230029",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "스타빌",
+      "jibun_addr": "경기 광주시 역동 23-29",
+      "road_addr": "경기 광주시 중앙로 83-10",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40728898,
+      "lng": 127.25920716
+    },
+    {
+      "pnu": "4161011200100400013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "솥뚜껑삼겹살",
+      "jibun_addr": "경기 광주시 역동 40-13",
+      "road_addr": "경기 광주시 역동로 28",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40537581,
+      "lng": 127.25810596
+    },
+    {
+      "pnu": "4161011200100070006",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 61-3",
-      "road_addr": "경기 광주시 역동로 41-1",
+      "jibun_addr": "경기 광주시 역동 7-6",
+      "road_addr": "경기 광주시 경안로25번길 23-1",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
@@ -2824,167 +3320,24 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV)",
           "count": 1
         }
       ],
-      "lat": 37.40425018,
-      "lng": 127.25711796
+      "lat": 37.40774418,
+      "lng": 127.25700229
     },
     {
-      "pnu": "4161011200100230031",
+      "pnu": "4161011200100150004",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 23-31",
-      "road_addr": "경기 광주시 #-#",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40656685,
-      "lng": 127.258701
-    },
-    {
-      "pnu": "4161011200100480012",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 48-12",
-      "road_addr": "경기 광주시 역동로 26-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40563659,
-      "lng": 127.25780004
-    },
-    {
-      "pnu": "4161011200100140015",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 14-15",
-      "road_addr": "경기 광주시 역동로10번길 17-4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40620468,
-      "lng": 127.25791121
-    },
-    {
-      "pnu": "4161011200100240002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 24-2",
-      "road_addr": "경기 광주시 역동로10번길 10-6",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40660369,
-      "lng": 127.25908506
-    },
-    {
-      "pnu": "4161011200100130014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 13-14",
-      "road_addr": "경기 광주시 역동로10번길 20-1",
-      "avail_gen_cnt": 1,
+      "jibun_addr": "경기 광주시 역동 15-4",
+      "road_addr": "경기 광주시 역동로10번길 14-9",
+      "avail_gen_cnt": 10,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.40646564,
-      "lng": 127.25769568
-    },
-    {
-      "pnu": "4161011200100140009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 14-9",
-      "road_addr": "경기 광주시 역동로10번길 16",
-      "avail_gen_cnt": 5,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40645746,
-      "lng": 127.25810248
-    },
-    {
-      "pnu": "4161011200100030008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "광주빌라",
-      "jibun_addr": "경기 광주시 역동 3-8",
-      "road_addr": "경기 광주시 경안로25번길 33-8",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -2992,127 +3345,28 @@
       "int_tech": [
         {
           "method": "광랜FTTH(GB)",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
-        },
-        {
-          "method": "Btv(AI Sound Max STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40674319,
-      "lng": 127.25677953
-    },
-    {
-      "pnu": "4161011200100260020",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "무늬미술학원",
-      "jibun_addr": "경기 광주시 역동 26-20",
-      "road_addr": "경기 광주시 역동로10번길 3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.40636993,
-      "lng": 127.25937959
-    },
-    {
-      "pnu": "4161011200100230028",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 23-28",
-      "road_addr": "경기 광주시 역동로10번길 12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.40654889,
-      "lng": 127.25873496
+      "lat": 37.40681006,
+      "lng": 127.25862112
     },
     {
-      "pnu": "4161011200100230040",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "영현빌라",
-      "jibun_addr": "경기 광주시 역동 23-40",
-      "road_addr": "경기 광주시 역동로10번길 10-9",
-      "avail_gen_cnt": 7,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40683793,
-      "lng": 127.25902782
-    },
-    {
-      "pnu": "4161011200100270009",
+      "pnu": "4161011200100460004",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 27-9",
-      "road_addr": "경기 광주시 중앙로 69-4",
+      "jibun_addr": "경기 광주시 역동 46-4",
+      "road_addr": "경기 광주시 역동로 33",
       "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 3,
+      "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -3120,17 +3374,17 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40641784,
-      "lng": 127.26078056
+      "lat": 37.40456553,
+      "lng": 127.25764394
     },
     {
-      "pnu": "4161011200100070004",
+      "pnu": "4161011200100130026",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 7-4",
-      "road_addr": "경기 광주시 중앙로 95-37",
+      "jibun_addr": "경기 광주시 역동 13-26",
+      "road_addr": "경기 광주시 역동로34번길 12",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -3140,8 +3394,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40804188,
-      "lng": 127.25712562
+      "lat": 37.4059967,
+      "lng": 127.2575842
     },
     {
       "pnu": "4161011200100270098",
@@ -3178,40 +3432,35 @@
       "lng": 127.25941404
     },
     {
-      "pnu": "4161011200100150014",
+      "pnu": "4161011200100480012",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 15-14",
-      "road_addr": "경기 광주시 역동로10번길 13",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
+      "jibun_addr": "경기 광주시 역동 48-12",
+      "road_addr": "경기 광주시 역동로 26-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
+      "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40634086,
-      "lng": 127.25838534
+      "lat": 37.40563659,
+      "lng": 127.25780004
     },
     {
-      "pnu": "4161011200100260025",
+      "pnu": "4161011200100230028",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 26-25",
-      "road_addr": "경기 광주시 역동로10번길 5",
+      "jibun_addr": "경기 광주시 역동 23-28",
+      "road_addr": "경기 광주시 역동로10번길 12",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 4,
+      "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -3219,35 +3468,95 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 3
+          "method": "광랜FTTH",
+          "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(단독IPTV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.40638773,
-      "lng": 127.25926654
+      "lat": 37.40654889,
+      "lng": 127.25873496
     },
     {
-      "pnu": "4161011200100160003",
+      "pnu": "4161011200100230046",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "세린빌딩",
-      "jibun_addr": "경기 광주시 역동 16-3",
-      "road_addr": "경기 광주시 중앙로 89-1",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 23-46",
+      "road_addr": "경기 광주시 중앙로 83-18",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40709898,
+      "lng": 127.25885749
+    },
+    {
+      "pnu": "4161011200100230040",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "영현빌라",
+      "jibun_addr": "경기 광주시 역동 23-40",
+      "road_addr": "경기 광주시 역동로10번길 10-9",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40683793,
+      "lng": 127.25902782
+    },
+    {
+      "pnu": "4161011200100130025",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 13-25",
+      "road_addr": "경기 광주시 역동로34번길 14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40614995,
+      "lng": 127.257595
+    },
+    {
+      "pnu": "4161011200100270153",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 27-153",
+      "road_addr": "경기 광주시 역동로 9",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -3257,20 +3566,20 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.4071885,
-      "lng": 127.25855211
+      "lat": 37.40604416,
+      "lng": 127.25984562
     },
     {
-      "pnu": "4161011200100240005",
+      "pnu": "4161011200100450003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "해원빌라",
-      "jibun_addr": "경기 광주시 역동 24-5",
-      "road_addr": "경기 광주시 역동로10번길 7-2",
-      "avail_gen_cnt": 11,
+      "bld_nm": "이스타빌",
+      "jibun_addr": "경기 광주시 역동 45-3",
+      "road_addr": "경기 광주시 역동로 26-7",
+      "avail_gen_cnt": 12,
       "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -3287,44 +3596,24 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
         }
       ],
-      "lat": 37.40634197,
-      "lng": 127.25892771
+      "lat": 37.40534847,
+      "lng": 127.25795916
     },
     {
-      "pnu": "4161011200100480009",
+      "pnu": "4161011200100390002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "재단법인한국이슬람교",
-      "jibun_addr": "경기 광주시 역동 48-9",
-      "road_addr": "경기 광주시 역동로34번길 10",
+      "bld_nm": "성환빌딩",
+      "jibun_addr": "경기 광주시 역동 39-2",
+      "road_addr": "경기 광주시 역동로 18",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
+      "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40577172,
-      "lng": 127.25776571
-    },
-    {
-      "pnu": "4161011200100400027",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 40-27",
-      "road_addr": "경기 광주시 역동로 26-6",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -3333,25 +3622,24 @@
         {
           "method": "광랜FTTH(GB)",
           "count": 1
-        }
-      ],
-      "tv_tech": [
+        },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
-      "lat": 37.40551113,
-      "lng": 127.25816202
+      "tv_tech": [],
+      "lat": 37.40593646,
+      "lng": 127.25898551
     },
     {
-      "pnu": "4161011200100400018",
+      "pnu": "4161011200100150002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 40-18",
-      "road_addr": "경기 광주시 역동로 26-2",
+      "jibun_addr": "경기 광주시 역동 15-2",
+      "road_addr": "경기 광주시 역동로10번길 14-10",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -3361,20 +3649,74 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40552038,
-      "lng": 127.25827499
+      "lat": 37.40684632,
+      "lng": 127.2587227
     },
     {
-      "pnu": "4161011200100030012",
+      "pnu": "4161011200100450009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한백정다운빌",
+      "jibun_addr": "경기 광주시 역동 45-9",
+      "road_addr": "경기 광주시 역동로10번길 15-3",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40611508,
+      "lng": 127.25817138
+    },
+    {
+      "pnu": "4161011200100140002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 3-12",
-      "road_addr": "경기 광주시 경안로25번길 35",
+      "jibun_addr": "경기 광주시 역동 14-2",
+      "road_addr": "경기 광주시 역동로10번길 15-8",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
+      "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40611452,
+      "lng": 127.2579002
+    },
+    {
+      "pnu": "4161011200100140011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 14-11",
+      "road_addr": "경기 광주시 역동로10번길 15",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -3383,22 +3725,249 @@
         {
           "method": "광랜FTTH",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
         }
       ],
-      "tv_tech": [],
-      "lat": 37.40668864,
-      "lng": 127.25655372
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40630418,
+      "lng": 127.25808038
     },
     {
-      "pnu": "4161011200100230025",
+      "pnu": "4161011200100110009",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 23-25",
-      "road_addr": "경기 광주시 역동로10번길 10-5",
+      "jibun_addr": "경기 광주시 역동 11-9",
+      "road_addr": "경기 광주시 경안로25번길 33-10",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40673452,
+      "lng": 127.25694905
+    },
+    {
+      "pnu": "4161011200100400023",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 40-23",
+      "road_addr": "경기 광주시 역동로 24-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40598045,
+      "lng": 127.2584543
+    },
+    {
+      "pnu": "4161011200100150003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 15-3",
+      "road_addr": "경기 광주시 역동로10번길 16-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40661978,
+      "lng": 127.25813586
+    },
+    {
+      "pnu": "4161011200100070003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동양파크빌",
+      "jibun_addr": "경기 광주시 역동 7-3",
+      "road_addr": "경기 광주시 역동로34번길 25",
+      "avail_gen_cnt": 113,
+      "int_scrbr_cnt": 30,
+      "tv_scrbr_cnt": 40,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 17
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 13
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 25
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.40730383,
+      "lng": 127.25764778
+    },
+    {
+      "pnu": "4161011200100400028",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "영빈장여관",
+      "jibun_addr": "경기 광주시 역동 40-28",
+      "road_addr": "경기 광주시 역동로 29",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40498811,
+      "lng": 127.25805071
+    },
+    {
+      "pnu": "4161011200100400017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 40-17",
+      "road_addr": "경기 광주시 역동로 24-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40585423,
+      "lng": 127.2584434
+    },
+    {
+      "pnu": "4161011200100080005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "낙원빌딩",
+      "jibun_addr": "경기 광주시 역동 8-5",
+      "road_addr": "경기 광주시 중앙로 95-35",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40804221,
+      "lng": 127.25728382
+    },
+    {
+      "pnu": "4161011200100130002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 13-2",
+      "road_addr": "경기 광주시 역동로34번길 20-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40661888,
+      "lng": 127.25769519
+    },
+    {
+      "pnu": "4161011200100270068",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "갤러리아플라자오피스텔",
+      "jibun_addr": "경기 광주시 역동 27-68",
+      "road_addr": "경기 광주시 역동로 5",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40618629,
+      "lng": 127.2603016
+    },
+    {
+      "pnu": "4161011200100580005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대복빌딩",
+      "jibun_addr": "경기 광주시 역동 58-5",
+      "road_addr": "경기 광주시 역동로 47",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -3407,7 +3976,7 @@
       "int_tech": [
         {
           "method": "광랜FTTH(GB)",
-          "count": 2
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -3416,37 +3985,17 @@
           "count": 1
         }
       ],
-      "lat": 37.40672066,
-      "lng": 127.25898299
+      "lat": 37.40401138,
+      "lng": 127.25647199
     },
     {
-      "pnu": "4161011200100260031",
+      "pnu": "4161011200100260011",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 26-31",
-      "road_addr": "경기 광주시 중앙로 79-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40685731,
-      "lng": 127.25969442
-    },
-    {
-      "pnu": "4161011200100150010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 15-10",
-      "road_addr": "경기 광주시 역동로10번길 14-8",
+      "jibun_addr": "경기 광주시 역동 26-11",
+      "road_addr": "경기 광주시 역동로 14",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -3456,18 +4005,18 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40670208,
-      "lng": 127.25871187
+      "lat": 37.40624335,
+      "lng": 127.25918791
     },
     {
-      "pnu": "4161011200100260010",
+      "pnu": "4161011200100140005",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 26-10",
-      "road_addr": "경기 광주시 역동로 16",
-      "avail_gen_cnt": 1,
+      "jibun_addr": "경기 광주시 역동 14-5",
+      "road_addr": "경기 광주시 역동로10번길 20",
+      "avail_gen_cnt": 6,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -3476,208 +4025,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40625215,
-      "lng": 127.25908619
-    },
-    {
-      "pnu": "4161011200100230051",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 23-51",
-      "road_addr": "경기 광주시 중앙로 83-15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40694616,
-      "lng": 127.25906137
-    },
-    {
-      "pnu": "4161011200100220014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 22-14",
-      "road_addr": "경기 광주시 중앙로 91",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40793747,
-      "lng": 127.2589565
-    },
-    {
-      "pnu": "4161011200100060004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 6-4",
-      "road_addr": "경기 광주시 경안로25번길 27-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40738358,
-      "lng": 127.25698085
-    },
-    {
-      "pnu": "4161011200100080010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "용훈빌딩",
-      "jibun_addr": "경기 광주시 역동 8-10",
-      "road_addr": "경기 광주시 역동로34번길 31",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.40772673,
-      "lng": 127.25728483
-    },
-    {
-      "pnu": "4161011200100480023",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 48-23",
-      "road_addr": "경기 광주시 역동로34번길 12-27",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40597023,
-      "lng": 127.25786677
-    },
-    {
-      "pnu": "4161011200100110010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 11-10",
-      "road_addr": "경기 광주시 경안로25번길 33-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.40670776,
-      "lng": 127.25708473
-    },
-    {
-      "pnu": "4161011200100480018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 48-18",
-      "road_addr": "경기 광주시 역동로34번길 12-19",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40606922,
-      "lng": 127.25778735
-    },
-    {
-      "pnu": "4161011200100390014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "동진카크리닉",
-      "jibun_addr": "경기 광주시 역동 39-14",
-      "road_addr": "경기 광주시 역동로 19",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40557605,
-      "lng": 127.25905446
-    },
-    {
-      "pnu": "4161011200100070005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "광성상가",
-      "jibun_addr": "경기 광주시 역동 7-5",
-      "road_addr": "경기 광주시 경안로25번길 23",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40787053,
-      "lng": 127.25708098
+      "lat": 37.40647482,
+      "lng": 127.25777475
     },
     {
       "pnu": "4161011200100400003",
@@ -3710,43 +4059,13 @@
       "lng": 127.25824236
     },
     {
-      "pnu": "4161011200100230006",
+      "pnu": "4161011200100230051",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 23-6",
-      "road_addr": "경기 광주시 중앙로 83-20",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40709875,
-      "lng": 127.25874449
-    },
-    {
-      "pnu": "4161011200100480017",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 48-17",
-      "road_addr": "경기 광주시 역동로34번길 12-17",
+      "jibun_addr": "경기 광주시 역동 23-51",
+      "road_addr": "경기 광주시 중앙로 83-15",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -3756,331 +4075,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40618642,
-      "lng": 127.25779827
-    },
-    {
-      "pnu": "4161011200100460002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "이스타빌",
-      "jibun_addr": "경기 광주시 역동 46-2",
-      "road_addr": "경기 광주시 역동로 32",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 13,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTVon기업회선)_M",
-          "count": 12
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40519482,
-      "lng": 127.25775627
-    },
-    {
-      "pnu": "4161011200100140003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 14-3",
-      "road_addr": "경기 광주시 역동로34번길 24-4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air 2)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40661915,
-      "lng": 127.25783078
-    },
-    {
-      "pnu": "4161011200100230034",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 23-34",
-      "road_addr": "경기 광주시 역동로10번길 11",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40634153,
-      "lng": 127.25871302
-    },
-    {
-      "pnu": "4161011200100260011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 26-11",
-      "road_addr": "경기 광주시 역동로 14",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40624335,
-      "lng": 127.25918791
-    },
-    {
-      "pnu": "4161011200100160001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "조광부페",
-      "jibun_addr": "경기 광주시 역동 16-1",
-      "road_addr": "경기 광주시 중앙로 89",
-      "avail_gen_cnt": 24,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.40766611,
-      "lng": 127.25849408
-    },
-    {
-      "pnu": "4161011200100160001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "조광부페",
-      "jibun_addr": "경기 광주시 역동 16-1",
-      "road_addr": "경기 광주시 중앙로 89",
-      "avail_gen_cnt": 24,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.40766611,
-      "lng": 127.25849408
-    },
-    {
-      "pnu": "4161011200100480015",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 48-15",
-      "road_addr": "경기 광주시 역동로34번길 12-9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40603294,
-      "lng": 127.25767448
-    },
-    {
-      "pnu": "4161011200100130008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 13-8",
-      "road_addr": "경기 광주시 역동로10번길 20-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.40645644,
-      "lng": 127.25760532
-    },
-    {
-      "pnu": "4161011200100140013",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 14-13",
-      "road_addr": "경기 광주시 역동로10번길 17-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.4062948,
-      "lng": 127.25789962
-    },
-    {
-      "pnu": "4161011200100390011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 39-11",
-      "road_addr": "경기 광주시 역동로 23",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40541286,
-      "lng": 127.25859171
-    },
-    {
-      "pnu": "4161011200100230005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "광주축협본점",
-      "jibun_addr": "경기 광주시 역동 23-5",
-      "road_addr": "경기 광주시 중앙로 87",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40741499,
-      "lng": 127.25911636
-    },
-    {
-      "pnu": "4161011200100400022",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "소라장",
-      "jibun_addr": "경기 광주시 역동 40-22",
-      "road_addr": "경기 광주시 역동로 24",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40562887,
-      "lng": 127.25843283
-    },
-    {
-      "pnu": "4161011200100390017",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 39-17",
-      "road_addr": "경기 광주시 역동로 20",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.40599924,
-      "lng": 127.25882711
+      "lat": 37.40694616,
+      "lng": 127.25906137
     },
     {
       "pnu": "4161011200100030019",
@@ -4388,12 +4384,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
           "method": "광랜FTTH(GB)",
           "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -4727,11 +4723,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
@@ -4961,6 +4957,26 @@
       "distance_meter": 25.16104904,
       "bld_nm": "N/A",
       "jibun_addr": "경기 광주시 역동 3-14",
+      "road_addr": "경기 광주시 경안로25번길 39-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40637314,
+      "lng": 127.25654344
+    },
+    {
+      "pnu": "4161011200100030014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 25.16104904,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 3-14",
       "road_addr": "경기 광주시 경안로25번길 39",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
@@ -4980,26 +4996,6 @@
       "lng": 127.25640762
     },
     {
-      "pnu": "4161011200100030014",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 25.16104904,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 3-14",
-      "road_addr": "경기 광주시 경안로25번길 39-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40637314,
-      "lng": 127.25654344
-    },
-    {
       "pnu": "4161011200100020002",
       "match_type": "100m",
       "in_area": false,
@@ -5016,12 +5012,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "비즈원(다회선)",
-          "count": 1
-        },
-        {
           "method": "광랜E",
           "count": 2
+        },
+        {
+          "method": "비즈원(다회선)",
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -5076,12 +5072,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
         },
         {
           "method": "Btv(IPTV_smart 3 STB)",
@@ -5176,26 +5172,6 @@
       "match_type": "100m",
       "in_area": false,
       "distance_meter": 29.77609636,
-      "bld_nm": "역리주유소",
-      "jibun_addr": "경기 광주시 역동 57-2",
-      "road_addr": "경기 광주시 역동로 50",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40430846,
-      "lng": 127.25629025
-    },
-    {
-      "pnu": "4161011200100570002",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 29.77609636,
       "bld_nm": "N/A",
       "jibun_addr": "경기 광주시 역동 57-2",
       "road_addr": "경기 광주시 문화로 4",
@@ -5210,6 +5186,26 @@
       "tv_tech": [],
       "lat": 37.40423831,
       "lng": 127.25625099
+    },
+    {
+      "pnu": "4161011200100570002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 29.77609636,
+      "bld_nm": "역리주유소",
+      "jibun_addr": "경기 광주시 역동 57-2",
+      "road_addr": "경기 광주시 역동로 50",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40430846,
+      "lng": 127.25629025
     },
     {
       "pnu": "4161011200100550003",
@@ -5303,6 +5299,26 @@
       "distance_meter": 31.15710646,
       "bld_nm": "N/A",
       "jibun_addr": "경기 광주시 역동 3-14",
+      "road_addr": "경기 광주시 경안로25번길 39-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40637314,
+      "lng": 127.25654344
+    },
+    {
+      "pnu": "4161011200100030014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 31.15710646,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 광주시 역동 3-14",
       "road_addr": "경기 광주시 경안로25번길 39",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
@@ -5320,26 +5336,6 @@
       "tv_tech": [],
       "lat": 37.40644497,
       "lng": 127.25640762
-    },
-    {
-      "pnu": "4161011200100030014",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 31.15710646,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 광주시 역동 3-14",
-      "road_addr": "경기 광주시 경안로25번길 39-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40637314,
-      "lng": 127.25654344
     },
     {
       "pnu": "4161011200100640006",
@@ -5444,11 +5440,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air 3)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         }
       ],
@@ -5502,11 +5498,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -5608,26 +5604,6 @@
       "match_type": "100m",
       "in_area": false,
       "distance_meter": 33.43207163,
-      "bld_nm": "역리주유소",
-      "jibun_addr": "경기 광주시 역동 57-2",
-      "road_addr": "경기 광주시 역동로 50",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40430846,
-      "lng": 127.25629025
-    },
-    {
-      "pnu": "4161011200100570002",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 33.43207163,
       "bld_nm": "N/A",
       "jibun_addr": "경기 광주시 역동 57-2",
       "road_addr": "경기 광주시 문화로 4",
@@ -5642,6 +5618,26 @@
       "tv_tech": [],
       "lat": 37.40423831,
       "lng": 127.25625099
+    },
+    {
+      "pnu": "4161011200100570002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 33.43207163,
+      "bld_nm": "역리주유소",
+      "jibun_addr": "경기 광주시 역동 57-2",
+      "road_addr": "경기 광주시 역동로 50",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40430846,
+      "lng": 127.25629025
     },
     {
       "pnu": "4161011200100040004",
@@ -5796,11 +5792,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -6084,11 +6080,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
+          "method": "Btv(판매 Apple tv STB)",
           "count": 1
         },
         {
-          "method": "Btv(판매 Apple tv STB)",
+          "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
         },
         {
@@ -6445,22 +6441,22 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
         }
       ],
       "lat": 37.40620229,
@@ -6489,12 +6485,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(판매 Apple tv 3세대 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 1
         }
       ],
       "lat": 37.40559896,
@@ -6683,11 +6679,7 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv x NUGU STB)",
           "count": 1
         },
         {
@@ -6695,7 +6687,11 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -7504,11 +7500,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
@@ -7622,11 +7618,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_B tv air)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         }
       ],
@@ -7720,11 +7716,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
@@ -7828,11 +7824,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
@@ -7888,11 +7884,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air 3)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         }
       ],
@@ -8456,12 +8452,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
           "method": "광랜FTTH",
           "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -8565,12 +8561,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E",
-          "count": 33
-        },
-        {
           "method": "광랜E(GB)",
           "count": 109
+        },
+        {
+          "method": "광랜E",
+          "count": 33
         },
         {
           "method": "광랜E(2.5GB)",
@@ -8579,28 +8575,40 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 100
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 3
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 9
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 18
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 100
         },
         {
           "method": "Btv(IPTV)",
           "count": 4
         },
         {
-          "method": "Btv(단독IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 7
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
           "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 19
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 6
         },
         {
           "method": "Btv(IPTV_smart 2 STB)",
@@ -8615,31 +8623,19 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 7
-        },
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
-        },
-        {
-          "method": "Btv(판매 Apple tv 3세대 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_B tv air 4)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD4 STB)",
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 9
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         }
       ],
@@ -8773,11 +8769,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
@@ -8811,11 +8807,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
@@ -9192,11 +9188,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
@@ -9865,11 +9861,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
         }
       ],

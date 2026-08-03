@@ -1,0 +1,6150 @@
+{
+  "area": {
+    "area_id": "2026-경기도-안산시 단원구-1-80044",
+    "area_name": "2026-경기도-안산시 단원구-1",
+    "sido": "경기도",
+    "sigungu": "안산시 단원구",
+    "geojson": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              126.8136898,
+              37.3437285
+            ],
+            [
+              126.8151007,
+              37.3436816
+            ],
+            [
+              126.8149612,
+              37.3418008
+            ],
+            [
+              126.8128315,
+              37.3418946
+            ],
+            [
+              126.8128584,
+              37.3419458
+            ],
+            [
+              126.8136898,
+              37.3437285
+            ]
+          ]
+        ]
+      ]
+    },
+    "center": [
+      37.342713200436094,
+      126.81413105986913
+    ],
+    "building_count": 158,
+    "inside_count": 92,
+    "near_count": 66
+  },
+  "buildings": [
+    {
+      "pnu": "4127310900111410011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-11",
+      "road_addr": "경기 안산시 단원구 우목안길 5",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34245061,
+      "lng": 126.81440808
+    },
+    {
+      "pnu": "4127310900111420009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-9",
+      "road_addr": "경기 안산시 단원구 달미로 77",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34271487,
+      "lng": 126.81490242
+    },
+    {
+      "pnu": "4127310900111420011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-11",
+      "road_addr": "경기 안산시 단원구 우목안길 12",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 4
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34283093,
+      "lng": 126.81470944
+    },
+    {
+      "pnu": "4127310900111440001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1144-1",
+      "road_addr": "경기 안산시 단원구 우목골길 3-13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34220116,
+      "lng": 126.81336042
+    },
+    {
+      "pnu": "4127310900111420008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-8",
+      "road_addr": "경기 안산시 단원구 달미로 77-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34282309,
+      "lng": 126.81491273
+    },
+    {
+      "pnu": "4127310900111420010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-10",
+      "road_addr": "경기 안산시 단원구 우목안길 10",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34272277,
+      "lng": 126.81471042
+    },
+    {
+      "pnu": "4127310900111410006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-6",
+      "road_addr": "경기 안산시 단원구 우목안길 13",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34302772,
+      "lng": 126.81444799
+    },
+    {
+      "pnu": "4127310900111440004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1144-4",
+      "road_addr": "경기 안산시 단원구 우목골길 3-5",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34217654,
+      "lng": 126.81377835
+    },
+    {
+      "pnu": "4127310900111430013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-13",
+      "road_addr": "경기 안산시 단원구 우목안길 2-1",
+      "avail_gen_cnt": 17,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 6
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.34214337,
+      "lng": 126.8142754
+    },
+    {
+      "pnu": "4127310900111390008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1139-8",
+      "road_addr": "경기 안산시 단원구 우목골길 7-8",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34278892,
+      "lng": 126.81368246
+    },
+    {
+      "pnu": "4127310900111430014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-14",
+      "road_addr": "경기 안산시 단원구 우목안길 4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34214416,
+      "lng": 126.81441086
+    },
+    {
+      "pnu": "4127310900111400004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1140-4",
+      "road_addr": "경기 안산시 단원구 우목골길 7",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34255595,
+      "lng": 126.81392167
+    },
+    {
+      "pnu": "4127310900111410016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-16",
+      "road_addr": "경기 안산시 단원구 우목골길 10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34269292,
+      "lng": 126.81422524
+    },
+    {
+      "pnu": "4127310900111430012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-12",
+      "road_addr": "경기 안산시 단원구 우목안길 2",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.3421516,
+      "lng": 126.81413985
+    },
+    {
+      "pnu": "4127310900111410017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한양파크빌2차",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-17",
+      "road_addr": "경기 안산시 단원구 우목골길 10-1",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.34281015,
+      "lng": 126.81423546
+    },
+    {
+      "pnu": "4127310900111440005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1144-5",
+      "road_addr": "경기 안산시 단원구 우목골길 3-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.34217726,
+      "lng": 126.81390253
+    },
+    {
+      "pnu": "4127310900111420003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-3",
+      "road_addr": "경기 안산시 단원구 달미로 83-1",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34335514,
+      "lng": 126.81495305
+    },
+    {
+      "pnu": "4127310900111430016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-16",
+      "road_addr": "경기 안산시 단원구 우목안길 6",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34229889,
+      "lng": 126.81466912
+    },
+    {
+      "pnu": "4127310900111430003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-3",
+      "road_addr": "경기 안산시 단원구 달미로 73",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34230908,
+      "lng": 126.81487224
+    },
+    {
+      "pnu": "4127310900111430002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-2",
+      "road_addr": "경기 안산시 단원구 달미로 73-1",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.3424173,
+      "lng": 126.81488254
+    },
+    {
+      "pnu": "4127310900111420002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-2",
+      "road_addr": "경기 안산시 단원구 달미로 85",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 4
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34346336,
+      "lng": 126.81496336
+    },
+    {
+      "pnu": "4127310900111390004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1139-4",
+      "road_addr": "경기 안산시 단원구 우목골길 13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34303365,
+      "lng": 126.81391732
+    },
+    {
+      "pnu": "4127310900111410015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-15",
+      "road_addr": "경기 안산시 단원구 우목골길 8-1",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34257568,
+      "lng": 126.81421502
+    },
+    {
+      "pnu": "4127310900111420000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142",
+      "road_addr": "경기 안산시 단원구 우목골길 26",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 12,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34357955,
+      "lng": 126.81479296
+    },
+    {
+      "pnu": "4127310900111430005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-5",
+      "road_addr": "경기 안산시 단원구 달미로 69",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34207467,
+      "lng": 126.81486308
+    },
+    {
+      "pnu": "4127310900111400000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대왕홈랜드",
+      "jibun_addr": "경기 안산시 단원구 선부동 1140",
+      "road_addr": "경기 안산시 단원구 우목골길 7-13",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.34258866,
+      "lng": 126.8133456
+    },
+    {
+      "pnu": "4127310900111420016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-16",
+      "road_addr": "경기 안산시 단원구 우목안길 18",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34337205,
+      "lng": 126.81476097
+    },
+    {
+      "pnu": "4127310900111440009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1144-9",
+      "road_addr": "경기 안산시 단원구 선부로 165-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34203063,
+      "lng": 126.81348615
+    },
+    {
+      "pnu": "4127310900111390005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1139-5",
+      "road_addr": "경기 안산시 단원구 우목골길 11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 6,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 5
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.3429076,
+      "lng": 126.81394105
+    },
+    {
+      "pnu": "4127310900111410022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-22",
+      "road_addr": "경기 안산시 단원구 우목골길 18",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34337825,
+      "lng": 126.81427546
+    },
+    {
+      "pnu": "4127310900111390000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1139",
+      "road_addr": "경기 안산시 단원구 우목골길 19",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.34366524,
+      "lng": 126.81402447
+    },
+    {
+      "pnu": "4127310900111430000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143",
+      "road_addr": "경기 안산시 단원구 우목안길 8",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34253343,
+      "lng": 126.81470085
+    },
+    {
+      "pnu": "4127310900111410003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-3",
+      "road_addr": "경기 안산시 단원구 우목안길 17",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34336134,
+      "lng": 126.81446754
+    },
+    {
+      "pnu": "4127310900111410004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-4",
+      "road_addr": "경기 안산시 단원구 우목안길 15",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34325318,
+      "lng": 126.81446852
+    },
+    {
+      "pnu": "4127310900111430001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대정빌딩",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-1",
+      "road_addr": "경기 안산시 단원구 달미로 75",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34252552,
+      "lng": 126.81489285
+    },
+    {
+      "pnu": "4127310900111390010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1139-10",
+      "road_addr": "경기 안산시 단원구 우목골길 7-12",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.34280537,
+      "lng": 126.81341136
+    },
+    {
+      "pnu": "4127310900111440003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한양파크빌1차",
+      "jibun_addr": "경기 안산시 단원구 선부동 1144-3",
+      "road_addr": "경기 안산시 단원구 우목골길 3-7",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.3421847,
+      "lng": 126.81363152
+    },
+    {
+      "pnu": "4127310900111420006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-6",
+      "road_addr": "경기 안산시 단원구 달미로 81",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34303046,
+      "lng": 126.81492213
+    },
+    {
+      "pnu": "4127310900111430006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-6",
+      "road_addr": "경기 안산시 단원구 달미로 67",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 4,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 4
+        }
+      ],
+      "lat": 37.34195743,
+      "lng": 126.81485285
+    },
+    {
+      "pnu": "4127310900111400003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1140-3",
+      "road_addr": "경기 안산시 단원구 우목골길 7-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34255517,
+      "lng": 126.8137862
+    },
+    {
+      "pnu": "4127310900111430017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-17",
+      "road_addr": "경기 안산시 단원구 우목안길 6-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(단독IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.3424252,
+      "lng": 126.81469055
+    },
+    {
+      "pnu": "4127310900111400002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1140-2",
+      "road_addr": "경기 안산시 단원구 우목골길 7-7",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34257227,
+      "lng": 126.81362799
+    },
+    {
+      "pnu": "4127310900111440007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1144-7",
+      "road_addr": "경기 안산시 단원구 선부로 169",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34201417,
+      "lng": 126.81375725
+    },
+    {
+      "pnu": "4127310900111410012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-12",
+      "road_addr": "경기 안산시 단원구 우목안길 3",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.34235139,
+      "lng": 126.81439769
+    },
+    {
+      "pnu": "4127310900111420015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-15",
+      "road_addr": "경기 안산시 단원구 우목안길 16",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34326383,
+      "lng": 126.81475067
+    },
+    {
+      "pnu": "4127310900111410014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-14",
+      "road_addr": "경기 안산시 단원구 우목골길 8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.34246745,
+      "lng": 126.81420471
+    },
+    {
+      "pnu": "4127310900111390006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1139-6",
+      "road_addr": "경기 안산시 단원구 우목골길 9",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34278148,
+      "lng": 126.81395348
+    },
+    {
+      "pnu": "4127310900111410000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141",
+      "road_addr": "경기 안산시 단원구 우목골길 22",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34360365,
+      "lng": 126.8142847
+    },
+    {
+      "pnu": "4127310900111440011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1144-11",
+      "road_addr": "경기 안산시 단원구 선부로 163",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34204708,
+      "lng": 126.81321506
+    },
+    {
+      "pnu": "4127310900111400006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1140-6",
+      "road_addr": "경기 안산시 단원구 우목골길 3-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34240181,
+      "lng": 126.81376501
+    },
+    {
+      "pnu": "4127310900111440006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1144-6",
+      "road_addr": "경기 안산시 단원구 선부로 169-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34201489,
+      "lng": 126.81388143
+    },
+    {
+      "pnu": "4127310900111430008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-8",
+      "road_addr": "경기 안산시 단원구 선부로 175",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.3419827,
+      "lng": 126.81454781
+    },
+    {
+      "pnu": "4127310900111400007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1140-7",
+      "road_addr": "경기 안산시 단원구 우목골길 3-8",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34240997,
+      "lng": 126.81361818
+    },
+    {
+      "pnu": "4127310900111420001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-1",
+      "road_addr": "경기 안산시 단원구 달미로 85-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34357159,
+      "lng": 126.81497366
+    },
+    {
+      "pnu": "4127310900111430009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-9",
+      "road_addr": "경기 안산시 단원구 선부로 173-1",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34198185,
+      "lng": 126.81440105
+    },
+    {
+      "pnu": "4127310900111390003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1139-3",
+      "road_addr": "경기 안산시 단원구 우목골길 13-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34316023,
+      "lng": 126.81398391
+    },
+    {
+      "pnu": "4127310900111420012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-12",
+      "road_addr": "경기 안산시 단원구 우목안길 12-1",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34293014,
+      "lng": 126.81471983
+    },
+    {
+      "pnu": "4127310900111410010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-10",
+      "road_addr": "경기 안산시 단원구 우목안길 7",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 7,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 5
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34256778,
+      "lng": 126.81440701
+    },
+    {
+      "pnu": "4127310900111410020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-20",
+      "road_addr": "경기 안산시 단원구 우목골길 14-1",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 4
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34314378,
+      "lng": 126.81425501
+    },
+    {
+      "pnu": "4127310900111410019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-19",
+      "road_addr": "경기 안산시 단원구 우목골길 14",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34303562,
+      "lng": 126.81425599
+    },
+    {
+      "pnu": "4127310900111410005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-5",
+      "road_addr": "경기 안산시 단원구 우목안길 13-1",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34314495,
+      "lng": 126.81445821
+    },
+    {
+      "pnu": "4127310900111390007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1139-7",
+      "road_addr": "경기 안산시 단원구 우목골길 7-4",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34278069,
+      "lng": 126.81381801
+    },
+    {
+      "pnu": "4127310900111410002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-2",
+      "road_addr": "경기 안산시 단원구 우목안길 17-1",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34347858,
+      "lng": 126.81447776
+    },
+    {
+      "pnu": "4127310900111390011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1139-11",
+      "road_addr": "경기 안산시 단원구 우목골길 7-14",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34282262,
+      "lng": 126.81327573
+    },
+    {
+      "pnu": "4127310900111410009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-9",
+      "road_addr": "경기 안산시 단원구 우목안길 9",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34268502,
+      "lng": 126.81441724
+    },
+    {
+      "pnu": "4127310900111440002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1144-2",
+      "road_addr": "경기 안산시 단원구 우목골길 3-9",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(AI Sound Max STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 1
+        }
+      ],
+      "lat": 37.34219293,
+      "lng": 126.81349597
+    },
+    {
+      "pnu": "4127310900111410018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-18",
+      "road_addr": "경기 안산시 단원구 우목골길 12",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.34292739,
+      "lng": 126.81424569
+    },
+    {
+      "pnu": "4127310900111410013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-13",
+      "road_addr": "경기 안산시 단원구 우목안길 1",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34235022,
+      "lng": 126.81419449
+    },
+    {
+      "pnu": "4127310900111430004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-4",
+      "road_addr": "경기 안산시 단원구 달미로 71",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.3421919,
+      "lng": 126.8148733
+    },
+    {
+      "pnu": "4127310900111420005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "청암교회",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-5",
+      "road_addr": "경기 안산시 단원구 달미로 81-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.3431475,
+      "lng": 126.81489849
+    },
+    {
+      "pnu": "4127310900111440008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1144-8",
+      "road_addr": "경기 안산시 단원구 선부로 167",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.3420224,
+      "lng": 126.8136217
+    },
+    {
+      "pnu": "4127310900111440010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1144-10",
+      "road_addr": "경기 안산시 단원구 선부로 165",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.34202984,
+      "lng": 126.81335069
+    },
+    {
+      "pnu": "4127310900111430010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-10",
+      "road_addr": "경기 안산시 단원구 선부로 173",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34198107,
+      "lng": 126.81426558
+    },
+    {
+      "pnu": "4127310900111440000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1144",
+      "road_addr": "경기 안산시 단원구 우목골길 3-15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34220037,
+      "lng": 126.81322495
+    },
+    {
+      "pnu": "4127310900111420007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-7",
+      "road_addr": "경기 안산시 단원구 달미로 79",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34293132,
+      "lng": 126.81492303
+    },
+    {
+      "pnu": "4127310900111420004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-4",
+      "road_addr": "경기 안산시 단원구 달미로 83",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34325599,
+      "lng": 126.81495395
+    },
+    {
+      "pnu": "4127310900111410023",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-23",
+      "road_addr": "경기 안산시 단원구 우목골길 18-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34348641,
+      "lng": 126.81427447
+    },
+    {
+      "pnu": "4127310900111390001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1139-1",
+      "road_addr": "경기 안산시 단원구 우목골길 17",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34348484,
+      "lng": 126.81400353
+    },
+    {
+      "pnu": "4127310900111430007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-7",
+      "road_addr": "경기 안산시 단원구 선부로 177",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34196553,
+      "lng": 126.81469473
+    },
+    {
+      "pnu": "4127310900111410008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "뉴서울하이츠",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-8",
+      "road_addr": "경기 안산시 단원구 우목안길 9-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34280225,
+      "lng": 126.81442746
+    },
+    {
+      "pnu": "4127310900111430011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "햇살나무목공방",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-11",
+      "road_addr": "경기 안산시 단원구 선부로 171",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34198929,
+      "lng": 126.81413003
+    },
+    {
+      "pnu": "4127310900111430015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-15",
+      "road_addr": "경기 안산시 단원구 우목안길 4-1",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34213593,
+      "lng": 126.81454641
+    },
+    {
+      "pnu": "4127310900111430018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1143-18",
+      "road_addr": "경기 안산시 단원구 우목안길 4-2",
+      "avail_gen_cnt": 14,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34213678,
+      "lng": 126.81469317
+    },
+    {
+      "pnu": "4127310900111410007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-7",
+      "road_addr": "경기 안산시 단원구 우목안길 11",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34291048,
+      "lng": 126.81443777
+    },
+    {
+      "pnu": "4127310900111400005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1140-5",
+      "road_addr": "경기 안산시 단원구 우목골길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34240273,
+      "lng": 126.81392306
+    },
+    {
+      "pnu": "4127310900111400009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1140-9",
+      "road_addr": "경기 안산시 단원구 우목골길 3-14",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 3,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34242623,
+      "lng": 126.81331321
+    },
+    {
+      "pnu": "4127310900111410001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1141-1",
+      "road_addr": "경기 안산시 단원구 우목골길 24",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.3435868,
+      "lng": 126.81448807
+    },
+    {
+      "pnu": "4127310900111400001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1140-1",
+      "road_addr": "경기 안산시 단원구 우목골길 7-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 37.34257142,
+      "lng": 126.81348123
+    },
+    {
+      "pnu": "4127310900111420013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-13",
+      "road_addr": "경기 안산시 단원구 우목안길 14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34303836,
+      "lng": 126.81473013
+    },
+    {
+      "pnu": "4127310900111390002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1139-2",
+      "road_addr": "경기 안산시 단원구 우목골길 15",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34332254,
+      "lng": 126.81399372
+    },
+    {
+      "pnu": "4127310900111400008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1140-8",
+      "road_addr": "경기 안산시 단원구 우목골길 3-12",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34241813,
+      "lng": 126.81347134
+    },
+    {
+      "pnu": "4127310900111420014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1142-14",
+      "road_addr": "경기 안산시 단원구 우목안길 14-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34314659,
+      "lng": 126.81474044
+    },
+    {
+      "pnu": "4127310900200880001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 6.52142382,
+      "bld_nm": "청소년문화의집",
+      "jibun_addr": "경기 안산시 단원구 선부동 88-1",
+      "road_addr": "경기 안산시 단원구 우목골길 7-15",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34257808,
+      "lng": 126.81307474
+    },
+    {
+      "pnu": "4127310900110910003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 25.737035,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-3",
+      "road_addr": "경기 안산시 단원구 달미로 88",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34370019,
+      "lng": 126.81539022
+    },
+    {
+      "pnu": "4127310900110910020",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.68189111,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-20",
+      "road_addr": "경기 안산시 단원구 달미로 86",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34353795,
+      "lng": 126.81539169
+    },
+    {
+      "pnu": "4127310900110900019",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.86631334,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-19",
+      "road_addr": "경기 안산시 단원구 달미로 78",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34269933,
+      "lng": 126.81533157
+    },
+    {
+      "pnu": "4127310900110900000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 27.87402731,
+      "bld_nm": "선부한빛의원",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090",
+      "road_addr": "경기 안산시 단원구 달미로 84",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        }
+      ],
+      "lat": 37.34324045,
+      "lng": 126.8153831
+    },
+    {
+      "pnu": "4127310900110900018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.06556029,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-18",
+      "road_addr": "경기 안산시 단원구 달미로 78-1",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_비즈_광랜W(50)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34280762,
+      "lng": 126.81535316
+    },
+    {
+      "pnu": "4127310900110900017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.26748434,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-17",
+      "road_addr": "경기 안산시 단원구 달미로 80",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34291584,
+      "lng": 126.81536347
+    },
+    {
+      "pnu": "4127310900110900016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.40226272,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-16",
+      "road_addr": "경기 안산시 단원구 달미로 82",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.34303308,
+      "lng": 126.81537369
+    },
+    {
+      "pnu": "4127310900110900015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.60418142,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-15",
+      "road_addr": "경기 안산시 단원구 달미로 82-1",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 5,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.3431413,
+      "lng": 126.815384
+    },
+    {
+      "pnu": "4127310900110900020",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.66092632,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-20",
+      "road_addr": "경기 안산시 단원구 달미로 76",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.34259123,
+      "lng": 126.81534384
+    },
+    {
+      "pnu": "4127310900110850000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 33.54751287,
+      "bld_nm": "한양프라자",
+      "jibun_addr": "경기 안산시 단원구 선부동 1085",
+      "road_addr": "경기 안산시 단원구 달미로 63",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 5,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 4,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.34151149,
+      "lng": 126.81465649
+    },
+    {
+      "pnu": "4127310900110850000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 33.54751287,
+      "bld_nm": "공작한양아파트",
+      "jibun_addr": "경기 안산시 단원구 선부동 1085",
+      "road_addr": "경기 안산시 단원구 선부로 166",
+      "avail_gen_cnt": 2040,
+      "int_scrbr_cnt": 766,
+      "tv_scrbr_cnt": 2110,
+      "skb_pop_cnt": 127,
+      "catv_digital_cnt": 286,
+      "catv_internet_cnt": 106,
+      "catv_8vsb_cnt": 98,
+      "int_tech": [
+        {
+          "method": "CA_비즈_광랜W(50)_구",
+          "count": 3
+        },
+        {
+          "method": "VDSL-III(IP)",
+          "count": 3
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 470
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 22
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 3
+        },
+        {
+          "method": "광랜E",
+          "count": 182
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 15
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 62
+        },
+        {
+          "method": "VDSL-II(IP)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 25
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 17
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 18
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 14
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 16
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 158
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 75
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 5
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 17
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 10
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 37
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 15
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 79
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 63
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 50
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 449
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 8
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 13
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 9
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 13
+        },
+        {
+          "method": "Btv(단독IPTV_UHD_STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 33
+        },
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 20
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(단독IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(AI Sound Max STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 9
+        },
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 13
+        },
+        {
+          "method": "Btv(IPTV_서라운드STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 9
+        },
+        {
+          "method": "Btv(단독IPTV)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB_공청)_30",
+          "count": 900
+        },
+        {
+          "method": "미디어TV(VOD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.33997885,
+      "lng": 126.81251138
+    },
+    {
+      "pnu": "4127310900110910002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 36.36995219,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-2",
+      "road_addr": "경기 안산시 단원구 달미로 90",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34384479,
+      "lng": 126.81545664
+    },
+    {
+      "pnu": "4127310900110910019",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 36.72946517,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-19",
+      "road_addr": "경기 안산시 단원구 화정천서로3길 22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34352959,
+      "lng": 126.81550466
+    },
+    {
+      "pnu": "4127310900111370004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 37.55419666,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1137-4",
+      "road_addr": "경기 안산시 단원구 선삼로2길 12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34405012,
+      "lng": 126.81355809
+    },
+    {
+      "pnu": "4127310900110910004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 37.67260458,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-4",
+      "road_addr": "경기 안산시 단원구 화정천서로4안길 21-1",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34368295,
+      "lng": 126.81552585
+    },
+    {
+      "pnu": "4127310900110870011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 37.96575745,
+      "bld_nm": "화성프라자",
+      "jibun_addr": "경기 안산시 단원구 선부동 1087-11",
+      "road_addr": "경기 안산시 단원구 선부로 183",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "미디어TV(VOD)_smart3",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.3420057,
+      "lng": 126.8154056
+    },
+    {
+      "pnu": "4127310900110900001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 44.04347871,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-1",
+      "road_addr": "경기 안산시 단원구 화정천서로3길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34321445,
+      "lng": 126.81556397
+    },
+    {
+      "pnu": "4127310900110900014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 44.2406528,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-14",
+      "road_addr": "경기 안산시 단원구 화정천서로2안길 24",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34305215,
+      "lng": 126.81555416
+    },
+    {
+      "pnu": "4127310900110870000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 46.82136385,
+      "bld_nm": "서일주유소",
+      "jibun_addr": "경기 안산시 단원구 선부동 1087",
+      "road_addr": "경기 안산시 단원구 달미로 72",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34229484,
+      "lng": 126.81552716
+    },
+    {
+      "pnu": "4127310900110910018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 48.77437837,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-18",
+      "road_addr": "경기 안산시 단원구 화정천서로3길 20-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34352136,
+      "lng": 126.81564022
+    },
+    {
+      "pnu": "4127310900110910005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 49.67679071,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-5",
+      "road_addr": "경기 안산시 단원구 화정천서로4안길 21",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34368373,
+      "lng": 126.81566132
+    },
+    {
+      "pnu": "4127310900110880000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 49.95872415,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1088",
+      "road_addr": "경기 안산시 단원구 화정천서로2안길 23",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34281807,
+      "lng": 126.81560144
+    },
+    {
+      "pnu": "4127310900110880025",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.08888665,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1088-25",
+      "road_addr": "경기 안산시 단원구 화정천서로2안길 25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34266477,
+      "lng": 126.81559154
+    },
+    {
+      "pnu": "4127310900111370005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 51.49142954,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1137-5",
+      "road_addr": "경기 안산시 단원구 선삼로2길 10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.34413032,
+      "lng": 126.8133993
+    },
+    {
+      "pnu": "4127310900110910000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 55.52216969,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091",
+      "road_addr": "경기 안산시 단원구 달미로 94",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34408822,
+      "lng": 126.81546572
+    },
+    {
+      "pnu": "4127310900110900013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 56.15141488,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-13",
+      "road_addr": "경기 안산시 단원구 화정천서로2안길 22",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34306195,
+      "lng": 126.81568954
+    },
+    {
+      "pnu": "4127310900110900002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 57.08575543,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-2",
+      "road_addr": "경기 안산시 단원구 화정천서로3길 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.34320629,
+      "lng": 126.81571081
+    },
+    {
+      "pnu": "4127310900110910017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 60.81840861,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-17",
+      "road_addr": "경기 안산시 단원구 화정천서로3길 20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34351313,
+      "lng": 126.81577577
+    },
+    {
+      "pnu": "4127310900110910006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 61.760403,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-6",
+      "road_addr": "경기 안산시 단원구 화정천서로4안길 19-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 15,
+      "tv_scrbr_cnt": 16,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 8,
+      "catv_internet_cnt": 15,
+      "catv_8vsb_cnt": 8,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 7
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 8
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)_S",
+          "count": 7
+        },
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 8
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34365747,
+      "lng": 126.81579704
+    },
+    {
+      "pnu": "4127310900110880001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 63.06733166,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1088-1",
+      "road_addr": "경기 안산시 단원구 화정천서로2안길 21",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 6,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34280089,
+      "lng": 126.81574836
+    },
+    {
+      "pnu": "4127310900111370001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 63.27857557,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1137-1",
+      "road_addr": "경기 안산시 단원구 선삼로2길 8-3",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(AI Sound Max STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.34425664,
+      "lng": 126.81342073
+    },
+    {
+      "pnu": "4127310900110880024",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 63.33079852,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1088-24",
+      "road_addr": "경기 안산시 단원구 화정천서로2길 18-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34262957,
+      "lng": 126.81573863
+    },
+    {
+      "pnu": "4127310900110860000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 63.68085639,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1086",
+      "road_addr": "경기 안산시 단원구 달미로 64",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.34141868,
+      "lng": 126.8154973
+    },
+    {
+      "pnu": "4127310900110860000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 63.68085639,
+      "bld_nm": "수정한양아파트",
+      "jibun_addr": "경기 안산시 단원구 선부동 1086",
+      "road_addr": "경기 안산시 단원구 선부광장북로 67",
+      "avail_gen_cnt": 1870,
+      "int_scrbr_cnt": 714,
+      "tv_scrbr_cnt": 2013,
+      "skb_pop_cnt": 109,
+      "catv_digital_cnt": 165,
+      "catv_internet_cnt": 56,
+      "catv_8vsb_cnt": 60,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 183
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 12
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 4
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 37
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 468
+        },
+        {
+          "method": "VDSL-III(IP)",
+          "count": 6
+        },
+        {
+          "method": "VDSL-II(IP)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 13
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 15
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 56
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 12
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 72
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 12
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 21
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 13
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 14
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 88
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 19
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 454
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 31
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 11
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 73
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 40
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 13
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 4
+        },
+        {
+          "method": "Btv(VOD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 7
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(AI Sound Max STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_8VSB_공청)_20",
+          "count": 1000
+        },
+        {
+          "method": "Btv(IPTV_서라운드STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 2
+        },
+        {
+          "method": "Btv(자급 Apple tv STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.3394117,
+      "lng": 126.81574524
+    },
+    {
+      "pnu": "4127310900110870012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 63.98922904,
+      "bld_nm": "도원스위트빌1차아파트",
+      "jibun_addr": "경기 안산시 단원구 선부동 1087-12",
+      "road_addr": "경기 안산시 단원구 화정천서로2길 17",
+      "avail_gen_cnt": 66,
+      "int_scrbr_cnt": 12,
+      "tv_scrbr_cnt": 12,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜E",
+          "count": 3
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 7
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.34226891,
+      "lng": 126.81571932
+    },
+    {
+      "pnu": "4127310900110870001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 64.05079403,
+      "bld_nm": "대흥빌딩",
+      "jibun_addr": "경기 안산시 단원구 선부동 1087-1",
+      "road_addr": "경기 안산시 단원구 선부로 185",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34198937,
+      "lng": 126.81569928
+    },
+    {
+      "pnu": "4127310900110900003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 69.12983592,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-3",
+      "road_addr": "경기 안산시 단원구 화정천서로3길 17",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34319806,
+      "lng": 126.81584636
+    },
+    {
+      "pnu": "4127310900110900012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 69.26086598,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-12",
+      "road_addr": "경기 안산시 단원구 화정천서로2안길 20-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34304477,
+      "lng": 126.81583647
+    },
+    {
+      "pnu": "4127310900110910007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 72.71628292,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-7",
+      "road_addr": "경기 안산시 단원구 화정천서로4안길 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34366721,
+      "lng": 126.81592114
+    },
+    {
+      "pnu": "4127310900110910016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 72.86244046,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-16",
+      "road_addr": "경기 안산시 단원구 화정천서로3길 18",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        }
+      ],
+      "lat": 37.3435049,
+      "lng": 126.81591132
+    },
+    {
+      "pnu": "4127310900110960020",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 74.00330833,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1096-20",
+      "road_addr": "경기 안산시 단원구 달미로 96",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.34427756,
+      "lng": 126.81547529
+    },
+    {
+      "pnu": "4127310900111370000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 74.48468223,
+      "bld_nm": "안산영광침례교회",
+      "jibun_addr": "경기 안산시 단원구 선부동 1137",
+      "road_addr": "경기 안산시 단원구 선삼로2길 8-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.34426428,
+      "lng": 126.81318357
+    },
+    {
+      "pnu": "4127310900110880002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 77.10794868,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1088-2",
+      "road_addr": "경기 안산시 단원구 화정천서로2안길 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.34279279,
+      "lng": 126.81590649
+    },
+    {
+      "pnu": "4127310900110880023",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 77.50390979,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1088-23",
+      "road_addr": "경기 안산시 단원구 화정천서로2길 18",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34260344,
+      "lng": 126.81589692
+    },
+    {
+      "pnu": "4127310900111360004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 77.8679937,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1136-4",
+      "road_addr": "경기 안산시 단원구 선삼로2길 8-2",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        }
+      ],
+      "lat": 37.3444292,
+      "lng": 126.81364496
+    },
+    {
+      "pnu": "4127310900111360005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 80.17901125,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1136-5",
+      "road_addr": "경기 안산시 단원구 선삼로2길 8-4",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34442815,
+      "lng": 126.81346433
+    },
+    {
+      "pnu": "4127310900110900004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 82.10591647,
+      "bld_nm": "르노그린빌",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-4",
+      "road_addr": "경기 안산시 단원구 화정천서로3길 15-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜PBOX",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34319891,
+      "lng": 126.81599312
+    },
+    {
+      "pnu": "4127310900110900011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 82.23608845,
+      "bld_nm": "모닝스위트",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-11",
+      "road_addr": "경기 안산시 단원구 화정천서로2안길 20",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34304562,
+      "lng": 126.81598322
+    },
+    {
+      "pnu": "4127310900110910008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 84.7161326,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-8",
+      "road_addr": "경기 안산시 단원구 화정천서로4안길 17",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.34366799,
+      "lng": 126.81605661
+    },
+    {
+      "pnu": "4127310900110910015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 84.9064739,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-15",
+      "road_addr": "경기 안산시 단원구 화정천서로3길 16-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34349667,
+      "lng": 126.81604687
+    },
+    {
+      "pnu": "4127310900110960019",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 86.18609661,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1096-19",
+      "road_addr": "경기 안산시 단원구 달미로 96-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.3443948,
+      "lng": 126.81548552
+    },
+    {
+      "pnu": "4127310900111360006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 87.7134598,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1136-6",
+      "road_addr": "경기 안산시 단원구 선삼로2길 8-6",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 10,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34444507,
+      "lng": 126.81327224
+    },
+    {
+      "pnu": "4127310900110940023",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 88.16898994,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1094-23",
+      "road_addr": "경기 안산시 단원구 화정천서로4길 20",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34427025,
+      "lng": 126.8157689
+    },
+    {
+      "pnu": "4127310900110870014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 89.9408263,
+      "bld_nm": "선부빌딩",
+      "jibun_addr": "경기 안산시 단원구 선부동 1087-14",
+      "road_addr": "경기 안산시 단원구 화정천서로2길 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34227061,
+      "lng": 126.81601283
+    },
+    {
+      "pnu": "4127310900110880003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 90.15036413,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1088-3",
+      "road_addr": "경기 안산시 단원구 화정천서로2안길 17-1",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.34278462,
+      "lng": 126.81605333
+    },
+    {
+      "pnu": "4127310900110870023",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 90.2683017,
+      "bld_nm": "유송빌딩",
+      "jibun_addr": "경기 안산시 단원구 선부동 1087-23",
+      "road_addr": "경기 안산시 단원구 선부로 187",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.34195501,
+      "lng": 126.81599312
+    },
+    {
+      "pnu": "4127310900110880022",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 90.54629222,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1088-22",
+      "road_addr": "경기 안산시 단원구 화정천서로2길 16-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.34259528,
+      "lng": 126.81604376
+    },
+    {
+      "pnu": "4127310900111360003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 91.90413419,
+      "bld_nm": "일신빌라",
+      "jibun_addr": "경기 안산시 단원구 선부동 1136-3",
+      "road_addr": "경기 안산시 단원구 선삼로2길 4-1",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.34455532,
+      "lng": 126.81363252
+    },
+    {
+      "pnu": "4127310900110900010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.34554588,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-10",
+      "road_addr": "경기 안산시 단원구 화정천서로2안길 18-1",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34302844,
+      "lng": 126.81613015
+    },
+    {
+      "pnu": "4127310900110930000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.38142495,
+      "bld_nm": "선부3동달미경로당",
+      "jibun_addr": "경기 안산시 단원구 선부동 1093",
+      "road_addr": "경기 안산시 단원구 화정천서로4안길 18",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34406464,
+      "lng": 126.8160643
+    },
+    {
+      "pnu": "4127310900111360002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.5894876,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1136-2",
+      "road_addr": "경기 안산시 단원구 선삼로2길 4-5",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 37.34457243,
+      "lng": 126.8134743
+    },
+    {
+      "pnu": "4127310900110900005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.21272654,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1090-5",
+      "road_addr": "경기 안산시 단원구 화정천서로3길 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34318179,
+      "lng": 126.81615133
+    },
+    {
+      "pnu": "4127310900111360007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.61787868,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1136-7",
+      "road_addr": "경기 안산시 단원구 선삼로2길 8-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34446211,
+      "lng": 126.81310274
+    },
+    {
+      "pnu": "4127310900110910009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.74405223,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-9",
+      "road_addr": "경기 안산시 단원구 화정천서로4안길 15-1",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜PBOX",
+          "count": 1
+        },
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.34365976,
+      "lng": 126.81619216
+    },
+    {
+      "pnu": "4127310900110910014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 97.88250121,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1091-14",
+      "road_addr": "경기 안산시 단원구 화정천서로3길 16",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.34349752,
+      "lng": 126.81619363
+    },
+    {
+      "pnu": "4127310900110940022",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 98.85505657,
+      "bld_nm": "주노그린빌",
+      "jibun_addr": "경기 안산시 단원구 선부동 1094-22",
+      "road_addr": "경기 안산시 단원구 화정천서로4길 18-1",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.34428017,
+      "lng": 126.81592687
+    },
+    {
+      "pnu": "4127310900110960018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.88434669,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안산시 단원구 선부동 1096-18",
+      "road_addr": "경기 안산시 단원구 달미로 98",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.34452111,
+      "lng": 126.81550695
+    }
+  ]
+}
