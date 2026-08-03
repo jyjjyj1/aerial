@@ -47,2521 +47,952 @@
   },
   "buildings": [
     {
-      "pnu": "1147010200104060206",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "청보빌딩",
-      "jibun_addr": "서울 양천구 목동 406-206",
-      "road_addr": "서울 양천구 목동동로 264",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(2.5GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.52565547,
-      "lng": 126.87514911
-    },
-    {
-      "pnu": "1147010200104060223",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "송헌빌딩",
-      "jibun_addr": "서울 양천구 목동 406-223",
-      "road_addr": "서울 양천구 목동동로 256",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.52575925,
-      "lng": 126.87432208
-    },
-    {
-      "pnu": "1147010200104060208",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 양천구 목동 406-208",
-      "road_addr": "서울 양천구 목동동로 262-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.52562771,
-      "lng": 126.87501353
-    },
-    {
-      "pnu": "1147010200104060265",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 양천구 목동 406-265",
-      "road_addr": "서울 양천구 오목로 329",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52491995,
-      "lng": 126.87412539
-    },
-    {
-      "pnu": "1147010200109340000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "목동금호1차아파트",
-      "jibun_addr": "서울 양천구 목동 934",
-      "road_addr": "서울 양천구 목동동로 258",
-      "avail_gen_cnt": 224,
-      "int_scrbr_cnt": 92,
-      "tv_scrbr_cnt": 81,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜V",
-          "count": 41
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 41
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 10
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 7
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 51
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 7
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(판매 Apple tv 3세대 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(AI Sound Max STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.52514684,
-      "lng": 126.87441774
-    },
-    {
       "pnu": "1147010200109160002",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 916-2",
       "road_addr": "서울 양천구 목동동로 250-1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "FAHMxhbJ2OpHB/1D:Sef+Y6VOWuBGWBNms/PqefhnECc6pJcwGep2AmYEszz3MR7oDg0F8j6fKZKM7Iqprd+qsRgWvrmAlqmkbBLLWC7my612KWCW743i+JaCA0KORKQoVWs=",
       "lat": 37.52602146,
       "lng": 126.87375982
     },
     {
-      "pnu": "1147010200109360000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "진도2차아파트",
-      "jibun_addr": "서울 양천구 목동 936",
-      "road_addr": "서울 양천구 목동동로 250",
-      "avail_gen_cnt": 179,
-      "int_scrbr_cnt": 84,
-      "tv_scrbr_cnt": 82,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 34
-        },
-        {
-          "method": "광랜E(500)",
-          "count": 50
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 20
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 44
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(AI Sound Max STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52589169,
-      "lng": 126.87380039
-    },
-    {
-      "pnu": "1147010200104060021",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "대학빌딩",
-      "jibun_addr": "서울 양천구 목동 406-21",
-      "road_addr": "서울 양천구 오목로 325",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTVon기업_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTVon기업 UHD2)",
-          "count": 2
-        }
-      ],
-      "lat": 37.52510659,
-      "lng": 126.87362588
-    },
-    {
-      "pnu": "1147010200104060205",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 양천구 목동 406-205",
-      "road_addr": "서울 양천구 목동동로 262",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.52573599,
-      "lng": 126.87503526
-    },
-    {
-      "pnu": "1147010200104060180",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "동진빌딩",
-      "jibun_addr": "서울 양천구 목동 406-180",
-      "road_addr": "서울 양천구 오목로 337",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.52479809,
-      "lng": 126.87494123
-    },
-    {
-      "pnu": "1147010200104060052",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 양천구 목동 406-52",
-      "road_addr": "서울 양천구 오목로 329-1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52502727,
-      "lng": 126.87396605
-    },
-    {
       "pnu": "1147010200104060022",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
       "bld_nm": "그린빌딩",
       "jibun_addr": "서울 양천구 목동 406-22",
       "road_addr": "서울 양천구 오목로 333",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "WzQkI7gkTu1vfirh:iFaVOJixuqC8u66FNZJZg4hHI2VKtbpTSGpkhuDvY1VvzV1/exE+HLNIYb6QJvcAwY+BlXwJ6MmLew0FIDbD6VXakKt6QxOxpcREu86QJt7u/9P7a12nVZX8kOOU9egE8z7Q6IeTpd9vRHqXsHbe5e7zlS942uIPONJhDnMXelIrxeohrHINzeGgM/Vti/mLqDYvSTzbckc6bwUhI8B7YcyRF3ygKiw8OOyqyrI/XjJRl3zXQS4YyHWh4m/HuRw2NNI0D82V54rvguwg369fkekZHw==",
       "lat": 37.52483264,
       "lng": 126.87465802
     },
     {
-      "pnu": "1147010200104060216",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 양천구 목동 406-216",
-      "road_addr": "서울 양천구 오목로 337-15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52551138,
-      "lng": 126.87517294
-    },
-    {
       "pnu": "1147010200104060262",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-262",
       "road_addr": "서울 양천구 오목로 329-2",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "3INp31vbDTav88VE:bjfOLeZJNM3omhdpP/4kvdD4G+EWqXbayjpXx5MhYNs+/Ip71/f+GrIO9Z5+VFt6XTuq11pZJGPMODQT5+2q2lvPiWjn98IH14ItL0bcttsK9hrHRB0=",
       "lat": 37.52503724,
       "lng": 126.87414704
     },
     {
-      "pnu": "1147010200104060184",
+      "pnu": "1147010200104060216",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "거리에빌딩",
-      "jibun_addr": "서울 양천구 목동 406-184",
-      "road_addr": "서울 양천구 오목로 331",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52488498,
-      "lng": 126.87432939
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 양천구 목동 406-216",
+      "road_addr": "서울 양천구 오목로 337-15",
+      "enc_subscriber": "knYTrDYCq7rpLg8S:8JoiljYcqu2eZjs/YdMUdSJEp7oZUioScxfbLggrv2F4zvZzrs/G6YM42kF/iAhoz1U3cuRjHKEZkjjiwLND5/6pkHBe6kGXBdlOHzjjwmkA9KKKoRNO7rwZ8iiMF2vln5tdtgc20Csgik1cUuntMycQg23Djp/tkmPyohZdP4n7TeCeCaxHln7slb5sF7ValE3IycJp3CZx870VP0ursclUjxshtx4JvMV6zcE=",
+      "lat": 37.52551138,
+      "lng": 126.87517294
     },
     {
-      "pnu": "1147010200104060258",
+      "pnu": "1147010200104060021",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 양천구 목동 406-258",
-      "road_addr": "서울 양천구 오목로 329-6",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52518163,
-      "lng": 126.87417979
+      "bld_nm": "대학빌딩",
+      "jibun_addr": "서울 양천구 목동 406-21",
+      "road_addr": "서울 양천구 오목로 325",
+      "enc_subscriber": "r9LbGAKmUTZCPLqj:byDt0k0/LEM17G1fktObccFy5gix87+C2CNWA9ZDuAE+N+Urk3R69t4/tEKfJ/3cJlYQxcLpwgalW7x+bHuJevNtMUhAcDCXK6Li7PX+X7oIDZ4gF984/0FwkrP53nyO/e6ZB/rqy6xXLkJg67y+OllwC87u74RtqIAV6liXr9o8N7JxmB4YTaj0zOYS4oCYKtuXGQfPcjATygPrQC9luFLS9e+b4RxEz9vu+w31NPE8ceyWqJUn5ucYGHwxpDo=",
+      "lat": 37.52510659,
+      "lng": 126.87362588
+    },
+    {
+      "pnu": "1147010200109360000",
+      "match_type": "inside",
+      "bld_nm": "진도2차아파트",
+      "jibun_addr": "서울 양천구 목동 936",
+      "road_addr": "서울 양천구 목동동로 250",
+      "enc_subscriber": "dDDl3K1za+3Uszf4:8sdCtGIR7KkFI5dXoIDiY+jLppt2MKLYpsyffGJ13UbGruh+ysHC7HlDP+XaOvIIBf8XRmQImCt4i8lHVvg6+YSrp+c8zgo/D+Tktjftc19v/1qFLQR5smiZlaDm4y7YREILa5HE3oceynkiNqGn5O4Wp11munBcBSO2umuFHWsGB9UXh1xTSc8HX9skECvv7bFPyRSaVPDpZEkCJq9QF4qN2/+qXasHuhXdSICxRjjlfst4JevgdHzIofmyhutaJHYfdUS4jZXvOViDKHax1H9rqaOs+VExFGaVujbWgxLlRu7A0hXcNSLN+R+KIeT3eyVAavF3T3IhdpXf6I3jp8bM6UlasuZeldkVaEFyHbbX472XL0IWxifjHFq73l8L2GHNiTOqkD3+hVWe/GztCnanggil+shQHYhQSmU8eUsGaVo0TAzaY66wE03BzYG8HSI/Hvjw92gTkeyECHabv8rDFYj4h6RNuCaVqijnRae+ZrPXa/XFkr238Y9i+tEqHuxQSJM2Jni1oX4HV7EnvUzFMuWn9J0OpBq+MvkwzYRiEdFvhf4XLT7deQW3d4H6HS8uCQpyFNM6a60ACgrbjsIO92jKBy3OYkn4y6d+X5cXwlIqaxXKC388qqaiHTxPo0vJYnibzbucMzh8dVSsvXDQpJv6tYGBrdvgFe6Ug5rH4Wlx3HN3ltyCriCmm4qHP09PuFuOgcjXq2HaWk1kyFSSem5qzeCcSR3JCEo11UeY/dViUbcmR9uwJZR4WSPxfEwWxCPWrJHyT4uX8yZmmVLQcLjsanSJIgVgC0fUTdoCgxp6KT7Lr4iDMMokbmNdn4e8bBQvVb3DEfl400uFnN5QaUKdZzk7k2C2fWDpywuZGdWloISozszVO3O75DECD5ipC1/W6TzHl0gd1Cej/FeZ4CjMrg==",
+      "lat": 37.52589169,
+      "lng": 126.87380039
     },
     {
       "pnu": "1147010200104060202",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
       "bld_nm": "양지타운",
       "jibun_addr": "서울 양천구 목동 406-202",
       "road_addr": "서울 양천구 목동동로 260",
-      "avail_gen_cnt": 19,
-      "int_scrbr_cnt": 7,
-      "tv_scrbr_cnt": 7,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 5
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "ILoSONYNxQ3yzD0B:CKWnA2qPmgOpKXs4I4VebM6Hp6CJWF3MfOshnNd1cxwn7mpHrn0Xa+zQzPdBnQg8Gf+EpgMfyjly3RlKewhEy3hHnmSBgLvoFFlBhWiuSevAPn9bKtMvZJdWi2JpsNYMhC8NK3bkn+7UAKcYSYcH0YF2Rab/BurwM2pr43k8zPBmTd3TGqXTpcq1Gsm2PH1S7MCOw2472qzNmV4lxMIRUf/ESASg2LY/aCJv/LXpJIgb+rdFhc63Wv3MSxrvjsuC/Daf02kDDnMgr0tkjWZc0C25me7QkqbJ1aC2vLUvlsT8mXXoQW3zDSSW01ivVwlY30L5OiMbykVlcoEcRk+zO8d1cqaBNgcAhHFK3uRSmrlo68uW0yYekQsW24PZK2NrlZ3wMWFivEbV2qLkG8+OUyC/EH1Z++J1MNM60jv+Z2Qf3D+pxjUFaEEEuPHRdiiOswogjlgWEJxqZqP0CbZ8zdG8oa+drDG+YPQ=",
       "lat": 37.52576159,
       "lng": 126.87476344
     },
     {
+      "pnu": "1147010200109340000",
+      "match_type": "inside",
+      "bld_nm": "목동금호1차아파트",
+      "jibun_addr": "서울 양천구 목동 934",
+      "road_addr": "서울 양천구 목동동로 258",
+      "enc_subscriber": "m07z9UtEp7CZ5wh5:TmR8H5cOFdc3roTKHJW/GRA2uD1UDKfUn5JUK6vJrn3woQ7wKOFJBDOKarzI47L5HKTXkU1m/c3XlH40gIjEeFjemP+OPw9lX7R0hy/1oY1ILJUk/ZGA/BGmbe/G2S91gl0vo14y/1lmNjA5B+dRqeN0ow2MRj+Q50xIgNw7IqxXTCHyK17cwApuolF6DvpWSqcBrWcS42lHfZre0R2tbmhtEvdeRkO/nrX5R+WOdarwLGe+sMqvgZmcapsOGOYH5yqLVjpRckUNeZnQm/sogyDbsWq1pwq2ujtRnrS2C6r9x73J7ycpcAe4ojpEAJIXOrzGADmbtWmv+oHV8KjH/c6VaABQs1TYFH80oVPvSpHfgaEZJ6bR5ctShuYQw0nnCjT+8/ow75aweeMbeyBNlEkn0/bzdBZILw4ua9BVi3ACeLHziczgh+bWgHIelZ+4nWjqRilUMh6ykTGXqT87R/Z/GbWKt3xNbut2QWY7QIsZ2nHNfBrjvU7Inbg5e0EK4+IOR5xv3Wf62Bol8lIb+mHhuwRgoiNcTvS/ZeK7CPnWJorcC+a6699yRPAfZAtvnq/SQ9seGBuCrYsed0dskWBQa69e3F+uIMyd24stw+/yfGIr31SkWXb30LMORntUCqTYLtFuTSnkIjJiQVNrK5dx4Y4lsuiytHTCLx8eUHp1gH/WbzA9uVQXymzPnTlQEjrnOC8FIZF4kMEZx5bKh7xQwMcBDCG6cr95ZkDhIr3ElCTBrOyijd8Fw3yxLv/ed+tTazF7mDGdaqhyGS54nIBwfRLNjoo6dFKEzBjDf6dGT1UVJXi1bak1YETGlLra85dP33UnnRekcTFUf+Dfd+WQYSkRl3KiWy1y1bU9HALdnqlx93ZDcXjnqBJaU4Ayvf1QSpdTQMBqEd3L2x+BlqquinDtVAGHSQo6UfWL4HOxABm1vOJVkMDmQ1I/7fQgJYsbefccA6gNyW+cw+sXiNPHekUsDqgd6eRofS89kIRHU4MWJUXGSsP7UTsYgq/tRvgx3PUoZKzIxmFux/02ZKdcriI4BGjM",
+      "lat": 37.52514684,
+      "lng": 126.87441774
+    },
+    {
+      "pnu": "1147010200104060258",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 양천구 목동 406-258",
+      "road_addr": "서울 양천구 오목로 329-6",
+      "enc_subscriber": "TUiRaBGkJxrcmmrU:uGIoxvzdVfUyWKQSf5BMcD29n7IidJ+x2FE2gN0Eut2nAIL25PhpDSf0kv8OSEpRwUHJ84uF1zmx27Wb3ftHJt5potE2GKILW8nNBp9wXGUCcNrD22M=",
+      "lat": 37.52518163,
+      "lng": 126.87417979
+    },
+    {
+      "pnu": "1147010200104060208",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 양천구 목동 406-208",
+      "road_addr": "서울 양천구 목동동로 262-1",
+      "enc_subscriber": "6B/Cf8OMik5bh9RG:Pw5lu0tMS0lvtBpn+gzRDeawRqt1blexzLpDJvGn3Vgt7hK8SaF/0XjELpQdZAlVqR1IYgfZyOxQmiC6cI2ghwEHi/3TGqZByKZHmOVIcLDARCBHb4/CJHUTEIk3WBDD5cWCm49hXr9DmjAI/Qqfyxo376yF9nxg5HFBAH0v",
+      "lat": 37.52562771,
+      "lng": 126.87501353
+    },
+    {
+      "pnu": "1147010200104060180",
+      "match_type": "inside",
+      "bld_nm": "동진빌딩",
+      "jibun_addr": "서울 양천구 목동 406-180",
+      "road_addr": "서울 양천구 오목로 337",
+      "enc_subscriber": "kaAwKXpk6CxmozLb:ENacftk2KIvPG/gpE6byiOwblpljXSQwnhAjrGgjZqw+ANBs8GFwi8LTDr7hw74BtF74X/wkOdrq1hpxAd6zypLF6DDSZ9GfXXd1R1r5XCteJe63ECrYxWP72NlzfV3UFBKEytvGYQlrgLfmK255OI5RMyi9fdg3RaiSHSkh",
+      "lat": 37.52479809,
+      "lng": 126.87494123
+    },
+    {
+      "pnu": "1147010200104060223",
+      "match_type": "inside",
+      "bld_nm": "송헌빌딩",
+      "jibun_addr": "서울 양천구 목동 406-223",
+      "road_addr": "서울 양천구 목동동로 256",
+      "enc_subscriber": "+9dqtQ3eKeUy75qD:3CBxYuZbGBqpptvWSOoq6dld7a+3pjyoB/7GRfzN5xMRglHoYyG4VtU1F+X2JpnLPlIKmp2Iy1cDysjEWKLm27PVEMVt9SxGEcuv/vJkv0nyVISqAQQB3ys+ssMVeiXBtojjyi+VkR2KUJaLDy9lF2bkNEzpcNCnjVjldT87",
+      "lat": 37.52575925,
+      "lng": 126.87432208
+    },
+    {
+      "pnu": "1147010200104060205",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 양천구 목동 406-205",
+      "road_addr": "서울 양천구 목동동로 262",
+      "enc_subscriber": "j/sFWid6KeHyoS76:6bDF4p9IRFjBhK0kK0G3fMCNLz72DfPh987iVMLs1rxBFTOj5JL0f94QFtze5QRZdBa1YgvTl+Zgh+bHMILzThUf22NKkiE7CNM6bTz5+SQr4xEmsiakOi4XuWi1/FP9bYOgdQHbWeCASTvFJZYO11mhrGBSgVZ8sfob9Nq6",
+      "lat": 37.52573599,
+      "lng": 126.87503526
+    },
+    {
+      "pnu": "1147010200104060052",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 양천구 목동 406-52",
+      "road_addr": "서울 양천구 오목로 329-1",
+      "enc_subscriber": "J7+w0g+Z550IKwEE:+ttf4/uYvlpjSpP9pOr3IE5QsfEp6OSwGL/h7t169eQXOo1p9M1LIjBn9zc3dHES/FOw7N/+XL82awvTPOwxqulHhooZX3ZtEQ9ww/km/fVhiERgz88=",
+      "lat": 37.52502727,
+      "lng": 126.87396605
+    },
+    {
+      "pnu": "1147010200104060206",
+      "match_type": "inside",
+      "bld_nm": "청보빌딩",
+      "jibun_addr": "서울 양천구 목동 406-206",
+      "road_addr": "서울 양천구 목동동로 264",
+      "enc_subscriber": "euovDfBLPKwiUSjA:sHwrAqKLpjEmkqUBpJZPjYJWIsnZwXIgVv9Q5EYzQxTle6yTxE0EEOw56u2HptgWa7AFt8t9EMocPiRUMN7YjtYflmBjiHqHUQ5fFfokjka4D04alkRYKGssXS1+cFx5oL9CXOIv82Aq16ojognBxcbTETdnfIANHove3loh94clZubE1uWEKvv+Pv58itysEtOdWtsprUyfIRedWFXYu4SWNewKZpZFikgLZDSXpBUZoGor2vRYFPoi1fOxgvfOozCrsmBXzWlROOFvriBYWr2ndvxvFiwj5/U=",
+      "lat": 37.52565547,
+      "lng": 126.87514911
+    },
+    {
+      "pnu": "1147010200104060265",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 양천구 목동 406-265",
+      "road_addr": "서울 양천구 오목로 329",
+      "enc_subscriber": "GmQObuvRrIlGn7hM:7NOfmiUbKsbsQ2DAq3cD1vQRVZ0sKG+2uM+Qn727B3TkOfROV0j9JiKGYihJuz2RdNliSvSkmwWLwMHmyvSxN0qB+8Rm2xrnGWJD4QCP3lCDS+87A7M=",
+      "lat": 37.52491995,
+      "lng": 126.87412539
+    },
+    {
+      "pnu": "1147010200104060184",
+      "match_type": "inside",
+      "bld_nm": "거리에빌딩",
+      "jibun_addr": "서울 양천구 목동 406-184",
+      "road_addr": "서울 양천구 오목로 331",
+      "enc_subscriber": "vGTHu6wbdusK/SCD:sJbMYrgMl2uAqbj1dTVuM0pWPW6HCgqJOx7eJut6WL5sNW+L1dEjrGC9P6EoSm2TA7knd3lzLz8quLZcz0O76t2ioIiSjBFgUH7ZohYFJo6fAXOscXs=",
+      "lat": 37.52488498,
+      "lng": 126.87432939
+    },
+    {
       "pnu": "1147010200104060296",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 10.18775847,
       "bld_nm": "해남고시원",
       "jibun_addr": "서울 양천구 목동 406-296",
       "road_addr": "서울 양천구 오목로 337-2",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "Qr4piN3ShS6cx+Hm:d5cKDaR4qvvHQd99oovPBS7o2shoaw2wQERbpJrM88PogzL4HVBzq8zojuTXfg+cRyLII6qqR4zj81Yw/uKDZHT1L39XufqwV8V2Zz+pDVdds9exh90=",
       "lat": 37.52488076,
       "lng": 126.87523479
     },
     {
       "pnu": "1147010200104060228",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 10.88104579,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-228",
       "road_addr": "서울 양천구 오목로 337-20",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "rqDjoQiDotUnf/6w:v1QKok8sOUDSVlBSW69CQ6aUme3HU95V0KedP2AQDiLCvfkC6iv/E3WOa3/OZcwxIRtHv8M7RqM87wubyKxYb3ZGMg4Cl7A+De+skZSqO/dTX+OXOTg=",
       "lat": 37.5255306,
       "lng": 126.87539913
     },
     {
       "pnu": "1147010200104060290",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 10.99635315,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-290",
       "road_addr": "서울 양천구 오목로 321-5",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV)",
-          "count": 2
-        }
-      ],
+      "enc_subscriber": "g5xNZ9I6LhQVmMeb:7NSTRk67CBadagGdHcqA3Ag//JZbPVRsd4F0fAt7gqgnieXHLmS5HGa0BvGaoi98UaL/g4vA0A6+TW9X5ifFTkQ4dBx4Z+Pd5adhyxfMpAP4GaNAuaa5gaMiGHixvx4X/zmdBIS3u9DfLoxZmhbjNVDW93RQpg5+ORLhfRfBAfoS4SPXEdyByG86FzINRvdiUT0KUpCWVeB/X/WYKQ==",
       "lat": 37.52552822,
       "lng": 126.87324888
     },
     {
       "pnu": "1147010200104060025",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 11.48638123,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-25",
       "road_addr": "서울 양천구 목동동로 266",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "+dtP/SQb3Al9N/II:bsgcd/W3DFDF+vnjWiaCLD3XYGAJJ2NZpZlQQFwF4MIbtDmXZVH5lQs+fOaMdwpTl2sKIVVe31a9gDOd4TTrf/qSZVe/SgHs79vW2InJn6Mzsv3TijH4AjWcD+oNh8V9UIWyf6x6QHkHB35NXnyTcUSaUAs+GvsFZ4HfnspnJDOYxrbI34zVE0mPJKXQrRAbsEmzNHYmxytFuEyLqj6DohUlRhPn2cRDaQlR12+C5QqplRnhRi/0Oirr1chpnytd/SCbrdytXe8hckOCFKL+Yz8bWTD0ShWwH/RCRTjtM9zO2sZ7CeKbBdVg6gaaTXqDcbWiYxs+Jn51QpcubecqZYalt1g=",
       "lat": 37.52563894,
       "lng": 126.87543217
     },
     {
       "pnu": "1147010200104060271",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 14.75519182,
       "bld_nm": "소망빌딩",
       "jibun_addr": "서울 양천구 목동 406-271",
       "road_addr": "서울 양천구 오목로 337-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 8,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 5
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTVon기업 UHD2)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "25SU3ytUlpznownU:tWzVwqE4P3lqo1NevHR3mzBZz3cUV6lWsvlwFEI4v5wFZdHmcFgP0dsqlQfW/QIUtscZdzAvNQcvyiq58KeJSnUyNhZUUHJGllTRON7cpX8ac3yFla0bIJlI5bqRMr2ZKAVMDKiCpN0BpjTQUJfXwx7yjYLMfgBneTACZZM5hA5FSrwubGBUmRQi6PSUDX2fH8H3H5C7vfRAYS4GRTUULyCiFT16++rI6IkoZ1wh3y62ljtm9EjpCT//w8kxOURGGNb409MWOAsnkPcuDDb5CvW+RbI=",
       "lat": 37.52521496,
       "lng": 126.87536781
     },
     {
       "pnu": "1147010200104060036",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 15.90039852,
       "bld_nm": "서경빌딩",
       "jibun_addr": "서울 양천구 목동 406-36",
       "road_addr": "서울 양천구 오목로 321-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 2
-        }
-      ],
+      "enc_subscriber": "BnuSSvROBUb9xltC:apfhLjQUiN6NcqQFH5bjU2PB0q3Mde36ZiYyXf+VlELj76uBjPoPgdihBDDBowAZvJ5c/KS2GvErvDWtYPvtVG4BpCRSLhRKdlzJsC7Xqq1RsGp8Qbh3rOHT6PvPLo8dExcra5RZc2cin/uZOH7LUxCoPtCJZFoCRU8MqzrSwWshNbsQvS9T6k1RbehP5z0aPvdxoetwM5K0inSTaNnHCIt4zSa4DkWHNRSxk5b20JREWTfQ6LP7SvnpHFaPCMWfKWtqYyqgchuEoTLaV/Gh0ib6DRE89B1U7P0OiAwQyp9oHfGOM3JZLpD7EWC6QxySyRAOSWdyo41IzN1leRsNtfRgm1InRRbii4092w==",
       "lat": 37.52527526,
       "lng": 126.87313783
     },
     {
       "pnu": "1147010200104060035",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 18.91004221,
       "bld_nm": "시험상가",
       "jibun_addr": "서울 양천구 목동 406-35",
       "road_addr": "서울 양천구 오목로 319",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "chozIVfglBdg5Sfa:gkF4aWDUeLIC87wuzS6r4IO3S2D4FYZlbiRnFpjHaZO851rSRTsJx1OyzW10zhLPakYdLZLCmZgPrPCAAIo9QMExv5/d3DiOJiJ2RAtt0lRuEldyT4s=",
       "lat": 37.52507655,
       "lng": 126.87306027
     },
     {
       "pnu": "1147010200104060034",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 19.58829273,
       "bld_nm": "범한빌딩",
       "jibun_addr": "서울 양천구 목동 406-34",
       "road_addr": "서울 양천구 오목로 339",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "GFNJOSMM+dlGNP66:mUub+e5ftx6I+3EgILfFej3LU6nfjM/egzeyQz9X14b045NBziAqbciEG2T05tVoBHUIcjQi2yWpxf6GMivX3sFOXh9AZdYmI7RBeAiuAtzfnQ5A+tw=",
       "lat": 37.52476401,
       "lng": 126.87531498
     },
     {
       "pnu": "1147010200104060291",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 21.1954871,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-291",
       "road_addr": "서울 양천구 목동동로 226-19",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "ZcVVnJM84EcgDgJ+:piGM9Nn/EdWUHpnWAnN+lNymmmdGiIUafedEI5PLvVN6QeIFCx2YZFJwvPvkdqEkbCSUuirr6e2vXMBWQ6KkcRSg/S9sbnQhf77wb2b+nJlIdIcbac0=",
       "lat": 37.52554565,
       "lng": 126.87313557
     },
     {
       "pnu": "1147010200104060297",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 24.34292089,
       "bld_nm": "지유526",
       "jibun_addr": "서울 양천구 목동 406-297",
       "road_addr": "서울 양천구 오목로 337-6",
-      "avail_gen_cnt": 5,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "Zxc5GMOp77zUC+8I:tCN/0SejnnRJhF5Kt5r/K3BzUd6hL3Gg1siPDuXrMzd50bvZkwLOsRTq65j9bUfrimHUzYnwAH0bgNPvxkOnrRnFv35WVZur7VMIqdsxutgsOAdmdcQ=",
       "lat": 37.52504407,
       "lng": 126.87543713
     },
     {
       "pnu": "1147010200104060227",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 25.02169496,
       "bld_nm": "금강빌딩",
       "jibun_addr": "서울 양천구 목동 406-227",
       "road_addr": "서울 양천구 목동동로 266-1",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
+      "enc_subscriber": "jB97khndQJLoYaeZ:EDqklYm1JkIub7/1YtxJEKuZU3k3t14PRSNeNxQJanVHs6K/ez15y66c+Nit4pzvVFwchKtmiznC5Yg2lL3OONrvzxFwCqlnqk8FfR9Onq2qtUN5CuAgTLCsccD9CWHnki5G93OUCR3jZY36MtVUQzGd7e8HXCQBIYd3s1xddJMHs6eaHyFHT+VetQHFwBztia+bEhA4q20N79X1Xcjs95qY/HWzrv8tbKM7b/mJvkMpWjHGzBr1KySQRNc1QHtgZFZiSGfYL02joa9xXCzssrZ8hg==",
       "lat": 37.52560366,
       "lng": 126.87557959
     },
     {
       "pnu": "1147010200104060298",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 26.47150248,
       "bld_nm": "성창빌딩",
       "jibun_addr": "서울 양천구 목동 406-298",
       "road_addr": "서울 양천구 오목로 337-4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "9cRkzrsqKW8PujJe:Ex9PrsoAhruoU0vt9YnO/Fg6qiHOCtNi98KMM+fVYQR/g/hYwYWMiI7f09zQmqG/U0IcvZjCsm5HhPBjJamma68SzVZTZeBlGhttkyvcbcroO1c0ln7249RIXknjTltsM3q1hsr5YnUnyIdLYUmJUpY2nXReyKzJJYaJEEJtE8J6Pkg55vHtltLASlmwtMd6SJ1IuRxIBAckyVd/fg82vYJef55PRySgvK7HHOt+w3jqhlDwvWi39YeliJ+j3PEb89qNwcJf92PJkCPTOIrINdmeVw==",
       "lat": 37.52485468,
       "lng": 126.87541608
     },
     {
       "pnu": "1147010200104060072",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 31.64625668,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-72",
       "road_addr": "서울 양천구 목동동로 228-14",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "CkH5NWVOtodWKIHi:9yWF5RTwdeH5x1NYTQo7yLmQJjfRzhl2BKyDWKFpp7ziXm7KqPw5ZtCZAcAIwFcmBwr54p+KHyuwhz7XxutvceWEJtUl2/X22nEXgO5JjUb2/9tzZlhoRY16iDaUkm1ieNVN6rqFBWoCPruxkFfAwFSZGhc2/U4Y3FlEDmkiPmrxHgv8TdzRX8lTSGPTd905uEs9uG3153KmUyXS3mxKoUuSkS8=",
       "lat": 37.52562623,
       "lng": 126.87303304
     },
     {
       "pnu": "1147010200104060126",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 32.33382274,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-126",
       "road_addr": "서울 양천구 목동동로 226-16",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "odVi1B2LIMPrmqEA:5EvMLd9dFmEDoUlzOAx0l5gJyIbg4hLGYf09FXoNwhN+ePmmyhah+Um7MaarvParnrl3Bu3NvTSFak04+U6hcXtWMzSbHzCIT++66TRrPyCr7NdtNbrcWf+DOsLtvV9AESue/kY0GWP1xnd2HzBf7NgBzdzEtaCgEKQBYt02",
       "lat": 37.52540961,
       "lng": 126.87297826
     },
     {
       "pnu": "1147010200104060116",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 33.87526521,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-116",
       "road_addr": "서울 양천구 목동동로 222-15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "kX1nPImYH0+3R87i:gJWQCNYMBOn4ceBGH8k1hbc9szSEVn8aAboNJoSqpLMVxC33jcF3NvOFNa6bRfvv3AP5lz23nDyidQWWw8R4iPmsQsKHy83+TIxcOwaJJHW6/syDO/s=",
       "lat": 37.52533733,
       "lng": 126.87294492
     },
     {
       "pnu": "1147010200104060074",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 33.99647659,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-74",
       "road_addr": "서울 양천구 목동동로 226-15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "owGmdMHQjT6t3rlQ:lg0ADqp+FFt6eE+2InwDXVvZur24fsiRJxI8yTi0wakmEIs/VOBRNM0LVZgRj1Tfx5vgW39GLiMwaHa+oRHu+LI/IDq0Nk6LNW97t+gTrBwm9nVbuqw=",
       "lat": 37.52554487,
       "lng": 126.87298845
     },
     {
       "pnu": "1147010200104060030",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 35.90382109,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-30",
       "road_addr": "서울 양천구 오목로 342",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "sdLXiKh2MWBrjOm3:Gc858VsdWkGkcEHeutBQhFH8qA99dyuLQAVi7pyqi3xf+l4O+4f2nDGM2HfYpWgAq8jnNW6Ef03sUAs3WX4vNDZvqNlQA/93SbadCmS/7VJrX63cKkE=",
       "lat": 37.52444873,
       "lng": 126.87535156
     },
     {
       "pnu": "1147010200104060274",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 38.36165447,
       "bld_nm": "신한빌딩",
       "jibun_addr": "서울 양천구 목동 406-274",
       "road_addr": "서울 양천구 목동동로 268",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "Rs8Vl2Y7PaUfZpj4:N9vCD+XbtKXeMxRbg8sCQ32tJ3bqqxHD4h3V/UWReH/H5Zw2z+klQ/DEIsYkB0nXqIoctMnNTH6ECAKSGDPLWadYjZX7Rz6TAhDjWSRmRyn/XpE9AXwgU76f0bi0UreMTwksNAa40HJr+3RTqhC5/AzJEqeI8rG7seSbOirs",
       "lat": 37.5255774,
       "lng": 126.87572693
     },
     {
       "pnu": "1147010200104050268",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 40.09925554,
       "bld_nm": "협성빌딩A동",
       "jibun_addr": "서울 양천구 목동 405-268",
       "road_addr": "서울 양천구 오목로 340",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 9,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "Z7Bvwh/iFwyJcb48:S4wLN/j3jvVaKQTN5tzGGfVlb1nEyXxDmDns68y21j7qfacRz19a1n7/sGgFQhagdIhRmyuOW43u6Gb4giqa9ApQnXdl0+51Vw8Y5dOEmJnP064VL6o=",
       "lat": 37.52432123,
       "lng": 126.87510365
     },
     {
       "pnu": "1147010200104060071",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 41.84605981,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-71",
       "road_addr": "서울 양천구 목동동로 228-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "RsHU+/77f8xY6R/V:cUK4IGnUyy7O3M6ldoPEOCJ7AaxChxfEfzmD3urgs7gq2xD+moHhWaemjXjSuVbkpYF/r1DPqBRFk8DkWMlZYWsx+0zTEWeS7eqJzaV2FZbdFJmn4DACZ9obuKGruXWgMw4m5151Xx1SHmTyHgrCRmfT/nDJmUX7lWgTMvzF",
       "lat": 37.52564365,
       "lng": 126.87291972
     },
     {
       "pnu": "1147010200104060100",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 43.51793319,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-100",
       "road_addr": "서울 양천구 목동동로 226-14",
-      "avail_gen_cnt": 2,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "tlazgl3I/LzFI3f9:l52j15buERBP1c14U1rnmwlEaAvLR7Orm9KiX3jOwpA9VFSgYYa5cBn+E1f0gVNjGmlAhNowXp9h3clL9+LOPABqMytAy5xyIP4tmPkicfr8SaguAr4=",
       "lat": 37.52542698,
       "lng": 126.87285363
     },
     {
       "pnu": "1147010200104060115",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 43.89825647,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-115",
       "road_addr": "서울 양천구 목동동로 222-13",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "/ZJYEHpuw8+QQTM/:iVhE72WkM54OWlfD9x3BR/KyGDQ+U5N+sL+7SvI2KUWBH5XIsqLkRZPjX2OGt1xmXNFrUAMYR4fQcOFPjf164BaooeqVQQrx0Wq1TG67uqcmXlK3Gc3eFHRIXst5DEFK1BnnaKrBO0ONU4hB2CWl2xetsep7CgKY4YRvQ8BzwjIjiyhFhEqK5pt2PbQmE3if+Yn8YeEx4k7wcyORlPAOgTum/YxC5093L+Sea/4=",
       "lat": 37.52534574,
       "lng": 126.87283168
     },
     {
       "pnu": "1147010200104060075",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 44.37245793,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-75",
       "road_addr": "서울 양천구 목동동로 226-13",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "iYfddbWuM6pHDWO5:Tnm8d1YqyooCJDiROZAhIX961bXGD7TR1pwS5dc6ywnLRtZ6zJBkUPJOVDonIpvD3yEeLOqbbBdn0HFR4BietaIyj+FKmoA+yRu8K5Vx7Ff9CDcqtQk=",
       "lat": 37.52557131,
       "lng": 126.87287506
     },
     {
       "pnu": "1147010200104060244",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 46.37810409,
       "bld_nm": "대영상가",
       "jibun_addr": "서울 양천구 목동 406-244",
       "road_addr": "서울 양천구 오목로 315",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "LPuDnwlirjU0dbv3:eocxOuxm8qYKCKW9Cgno116UdRBvA53TOSTno14BzyWnKx15xrVBhwthHWsvfgXdhitO176ViIOyAImL+vLHz6ulo3K1kfCrRFWI1zEN3UzGf622k78=",
       "lat": 37.52511999,
       "lng": 126.87275435
     },
     {
       "pnu": "1147010200104050284",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 47.23432324,
       "bld_nm": "삼보빌딩",
       "jibun_addr": "서울 양천구 목동 405-284",
       "road_addr": "서울 양천구 오목로 328",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "J+wNq4wEm8geYOwk:nhz+ZjXPG/fLj2h/2hRAvAoDnAeLpv7AXxLPosQi96XyRJRsJHS5J1WWW/GfPOGfJ4dOyeED0afHtXgRtLDgR0gu/jMhO5lG/lsrqtlIziUuQCCMhcvM6/TVB+gPswfKpgR8KGW0kPv0Xh1DO0qXfTB4poRyfHqDgmTURW9A",
       "lat": 37.52444971,
       "lng": 126.87383507
     },
     {
       "pnu": "1147010200104050285",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 47.24865946,
       "bld_nm": "삼보빌딩",
       "jibun_addr": "서울 양천구 목동 405-285",
       "road_addr": "서울 양천구 오목로 330",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "GfUlkG5pkov9AwND:K8mk8/knM56cd/hEi7vzJM9TvMz7D4truOKiueNP2mgELuNnIQ1djESNEJUqfjYj1RUjDw72i/H5z7naBJ+mpHkVvchbY/L4ppbr/1oZTqXFuFgv7fE=",
       "lat": 37.52442352,
       "lng": 126.87399373
     },
     {
       "pnu": "1147010200104050179",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 47.87810144,
       "bld_nm": "태형빌딩",
       "jibun_addr": "서울 양천구 목동 405-179",
       "road_addr": "서울 양천구 오목로 324",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "3rP196ZN8P4dUN+R:LZ/up/cMG5ybMyQ3B58yfCvpPcuXZ6ZoHjVaXqGqJcV8SJWAx6ug0p8vk1nnnKKB8KPTH+VdAqDfdNuP8G6yzMVWOrqUbemXtuyZZ4plmoMNyHFXiAJx95sf9aVmrnevSQDg4j15+iX8Qh41tOk4fh6HkThfVsC1XmhFUG2z",
       "lat": 37.52453684,
       "lng": 126.87326849
     },
     {
       "pnu": "1147010200104050212",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 48.32506083,
       "bld_nm": "복지빌딩",
       "jibun_addr": "서울 양천구 목동 405-212",
       "road_addr": "서울 양천구 오목로 326",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "k1XdEbXiLDeBbY+M:4lPQsqX+WW6VesguM+iC607hKNhAXNxJptpRnegx0T9BZr9NGIX15EhRGjY1Z/aYaH5Hn4aJjNPIG3j1AkAeNMM07BfrIxbDcBSjg+Fi/rPnG6fsFj4=",
       "lat": 37.52448433,
       "lng": 126.87356318
     },
     {
       "pnu": "1147010200104050112",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 48.51541088,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 405-112",
       "road_addr": "서울 양천구 오목로 332",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "KJy3yHvICob89TR0:5w1zZZtm7fwzcxHnEqC8jC0aWTr0nZnRxp02u2raMi/kHGu5a45fFnAmkzgxGWhJj3Huv+PEmu7SsJUkfCigyC9bY9Jv6uNOwSoRQo0pr3nOUNOyW98=",
       "lat": 37.52439696,
       "lng": 126.87408449
     },
     {
       "pnu": "1147010200104050282",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 48.66521823,
       "bld_nm": "보성빌딩",
       "jibun_addr": "서울 양천구 목동 405-282",
       "road_addr": "서울 양천구 오목로 322",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "zBRTM/nEXlVqvxJF:Hv7KSs9U5Ll2WOx0ZYUKeG/Ccgqrf3TDSds8ciBv/JmBlw9jxOXqHBluhcaokQQ61Q6YKqQTpFYmkp41DTVl9+tV7xg3QfGSkbRPVruIwJCyrP1IYvc=",
       "lat": 37.52457176,
       "lng": 126.87305318
     },
     {
       "pnu": "1147010200104060119",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 52.61165325,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-119",
       "road_addr": "서울 양천구 목동동로 222-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "DuGy99T+qWKoSVff:iksthlDLWkhWOMluiSJaCdAznICcdYOOp26uHYTCXTizSdW1HPA8FdU8iKuUK5IW55UyfAeTIbkI3svh2jZbTqR4WJ8jMC88wy0fkRsZTRmiLzqaN0Y=",
       "lat": 37.52523692,
       "lng": 126.8727081
     },
     {
       "pnu": "1147010200104060101",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 53.89392836,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-101",
       "road_addr": "서울 양천구 목동동로 226-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "bP9is4XgAM9r7Qy6:oTW7hGTlmBlFadVbSsn24mEImBPWJxKOq5PI4UL6J6laB/cxwPirmg1UoABDc4Gwg5huUIgxroPmcQyFsOCON92/1P32rd63NdKuKWVHU0ApW9KzH+Y=",
       "lat": 37.52545342,
       "lng": 126.87274024
     },
     {
       "pnu": "1147010200104060114",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 54.27513318,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-114",
       "road_addr": "서울 양천구 목동동로 222-11",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "gaQg3GGtAFA5dJZB:T37Qi9AvYHrGMrhmWl5Wnb/SkF3JM1PCbvT2pfOOxYHSM6NjrQg5G0J/V1xIolfBM2vDnhTaWmH3c4zxxIK227KrMGgl3PC92pvULCz0GDYSjfls2v8=",
       "lat": 37.52537218,
       "lng": 126.87271828
     },
     {
       "pnu": "1147010200104060076",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 54.39629007,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-76",
       "road_addr": "서울 양천구 목동동로 226-11",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "yM4XC4Z9jzeZTBWR:wHoQRBKeR0hahk2XFd3XDffyM1GdC2PCIaucbfnCxSC0xSjPsEgwY3gsDTmx/on8MlnCUy9sEarRTLFF6Al+aK9t83ZU5NscAPkAJjZZddmccwXS05KJAmyVLgIVSGDKBc2retEsVX+BrKYcOb9AkK7mCXyLqzlCFWLN86M5",
       "lat": 37.52557972,
       "lng": 126.87276181
     },
     {
       "pnu": "1147010200104050281",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 54.45085002,
       "bld_nm": "정수빌딩",
       "jibun_addr": "서울 양천구 목동 405-281",
       "road_addr": "서울 양천구 오목로 320",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "ETnEZQdwafMQHWuH:Z7Sl0TELrPwjc7g8ycY7uu8uovvGAWOwpJUIvLUusFPgNwZ4XseU7Y3xxdrwDRXBRdZToBwyAAE2EgQtUmzTI4fGDthPeklLVslomC+0+2ugrP3iQAA=",
       "lat": 37.52458888,
       "lng": 126.87288328
     },
     {
       "pnu": "1147010200104060070",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 56.33783876,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-70",
       "road_addr": "서울 양천구 목동동로 228-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "Sx9CPST0hgaA6rFl:nPl0q8kluefb298FCiUNcI8oCT2yMBXa2mrP4x+0B6hgDo7YekUl/g0o9RX03wGU/iIkoRnMGrtQn8Sd4K7rONp3a+u61Ta4x9/BMO4X1bnaVku/DkqeHDgigF1i2bLLTwbQBm5cdYwkXyGALeAiftWTnmy+D7ZpYtNVEcxT",
       "lat": 37.52567886,
       "lng": 126.87276098
     },
     {
       "pnu": "1147010200104050240",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 61.41018377,
       "bld_nm": "화로구이",
       "jibun_addr": "서울 양천구 목동 405-240",
       "road_addr": "서울 양천구 오목로 334",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "olkhXHSSBrXMEw8S:VVyBxIGkPKvCmi6+OZUOE/poZFEA1tHVnk90RqDQtf+s6Jbby2V6MT7CKobuXdopXVFSZFwG+vTkwyJfa0DUjkrCb46coMFSjvX73m/4XVdjsBvaMUQ=",
       "lat": 37.52421861,
       "lng": 126.87444812
     },
     {
       "pnu": "1147010200104060028",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 64.73117533,
       "bld_nm": "슬로우스퀘어",
       "jibun_addr": "서울 양천구 목동 406-28",
       "road_addr": "서울 양천구 오목로 345",
-      "avail_gen_cnt": 152,
-      "int_scrbr_cnt": 18,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 5
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 6
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "PKNNCIX+8fhiF3r2:JkxUydwKHQZ8ZpTIOSuCqKyvTFFL3gGRBM3TSTIxwmZfIzBFhg5R7n5EJ/O9ELygcUZHbeHUa6H2i755LfkK/BkGC8oyKf3/WI5NfQ5rcfZ2gEjwmLBxd708vrLGoq/yr94kxokqoku84a1GZ34YALx97rOUWyyWSj9pIuk9aRHqoJyWZecjXoo1x82RuqiahRFOfDJSCsIeJ5u71MMa",
       "lat": 37.52481189,
       "lng": 126.87584648
     },
     {
       "pnu": "1147010200104050251",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 64.85692422,
       "bld_nm": "협성빌딩B동",
       "jibun_addr": "서울 양천구 목동 405-251",
       "road_addr": "서울 양천구 오목로 336",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "oaTs+wjw9NjjlNyx:TKVTVEktNno2gmsi/9lE0OttiDMc0AoplZV0TqMlwpLwVWWAiyMbaHgr6fDSsno+emcTBHUgwJee/pHwxQdz6gZQ5uSHuH/HWCWRerI2Jb+Z2Xo0NY8=",
       "lat": 37.52414777,
       "lng": 126.87468637
     },
     {
       "pnu": "1147010200104060120",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 65.94169297,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-120",
       "road_addr": "서울 양천구 오목로 313-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "Trhc5VI4tblOg1NO:xuUjCWH//rvS5H0V2env9WUg4jKf8jKfwAPQrk+0uTbZY8QjWeFfjt23NDh3FKbiKiUveLKQ2QSUhhXoYPU1AIOah/1pWwP9dErE/l2NaVKOQvRnRqw=",
       "lat": 37.52526318,
       "lng": 126.87256076
     },
     {
       "pnu": "1147010200104060102",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 65.98891952,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-102",
       "road_addr": "서울 양천구 오목로 313-6",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "m9inApF0ekZu8Uge:V8mMHO+nNfT2gUPl1u87HcvGsG84Mcm6vDDZ86w2pBvCXfplwXjx4oC/SD7N82+PlS3ModsxlYBgRBLd00MFjXkUOEJENPRO1qaG04LZFPJNyaEGv2nmsfqNHDzFjl3x7E2mAcrqeZPmmJ88ZTT+xswD/Oolugi7rms=",
       "lat": 37.52541658,
       "lng": 126.87259342
     },
     {
       "pnu": "1147010200104060077",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 67.5492355,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-77",
       "road_addr": "서울 양천구 오목로 313-8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "M2EP4uldU/ohV2jy:Y2HfyW0CGw8WO60bN0gZsPffiUcFsRhPZ0Fn1a6LQ+CQjOJrFPSYyVMMtyBKQqExSzxkrIUfj2XoYZEcMWf102don941ZXrn4c3koa0KHbhYPN/uQnE=",
       "lat": 37.52559696,
       "lng": 126.87261455
     },
     {
       "pnu": "1147010200104060069",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 68.50686849,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-69",
       "road_addr": "서울 양천구 오목로 313-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "IvmQ3eHV9dvHwXDc:+Q1SkaNr/kYkKO4B/iWpQjQ9bOvZQo7Tk+wFeJFhumc/Dywwpyb2TD6ECg12UAAHBgjyMgtpjLXvpcIvmXJpC1jpZg045IX7hRYSprpLAT1uJ13mGKcweZbioIbGPh4A/wDExQk5GGKmCyf3pf2aPGP45tF2QsOYIig=",
       "lat": 37.52569617,
       "lng": 126.87262503
     },
     {
       "pnu": "1147010200104050280",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 68.52625297,
       "bld_nm": "세화빌딩",
       "jibun_addr": "서울 양천구 목동 405-280",
       "road_addr": "서울 양천구 오목로 318",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "ZK7vo2oZWMWyRHWH:kboR0QjVFP/fjOh4uLwVnVlx5exQsKYM2BNJij9cYLFOYrwGC7ZyhJV/1tIqa4MbVxgiCWUsFByfc4cbf740wW9gsfyuB4GvcN6xj/uGpuI1+fn28QFCigpnl80rFDeIYOdZ4MY6ubkiAgaPEuxSJQnz6G78trz+Ej31W0CN",
       "lat": 37.52462355,
       "lng": 126.8726227
     },
     {
       "pnu": "1147010200104050216",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 68.63210939,
       "bld_nm": "미정빌딩",
       "jibun_addr": "서울 양천구 목동 405-216",
       "road_addr": "서울 양천구 오목로54길 2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "P0k7cjx4m1Npi52o:+jt7vMgLZHtvOkrEoEesAV/rIddhbLwyA2VKjxH7ScDxQc6VMiz0GqER4w1PKoAFSD2DVPlFpM1/rJIBK5XfZafjMcHlZ7sXhALURrs2t6TtU7IsPJC9K3RY26rWPSAuGC5U9K8CyJbs8wWgO5RmFyrX04oNpdGb0jvgQg7g",
       "lat": 37.52434751,
       "lng": 126.87325876
     },
     {
       "pnu": "1147010200109320000",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 70.03969518,
       "bld_nm": "현대1차아파트",
       "jibun_addr": "서울 양천구 목동 932",
       "road_addr": "서울 양천구 목동동로 240",
-      "avail_gen_cnt": 242,
-      "int_scrbr_cnt": 109,
-      "tv_scrbr_cnt": 80,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(500)",
-          "count": 64
-        },
-        {
-          "method": "광랜E",
-          "count": 43
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 45
-        },
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 9
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 16
-        },
-        {
-          "method": "Btv(판매 Apple tv 3세대 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 3
-        }
-      ],
+      "enc_subscriber": "FI+ZSd2MLE3Ac7ho:9Y0R932wCVTxgPolFtHxpV+M8ouWTpOjv0ZXx0EEVHjfcCohMvtRGa/FVbvy3wgncj77V/5MKmdu5oBZ4AFjsDGtSQbCo7PErhxKogc5yi9NpQYFMIIOGm/Sy9zSK1odGHlgdNbFvzgK2QFzu3lodtKnRV7wFCUQRcvoQMT/fPGGY5oApCiTkCSBR1P+WAGmXLs+9zIxF1jJLSIo5YHLnN08BdCgMDr5kXzYrW7T28EG4EJsfVjB1S4TTRzMdSpmUgPaoMxZ7mtmWLuBLJiMjrzZCgqmTd+fHGOot1utK014FcI65ndDLuXeXcMst1IsDA/TdHwyylBKgSneQm9dXOwZynepr9Bh1+GkT52cDwMfr8kJqYANcvMoOei4X8vA0qp8j1K5Htv6eRoapI/AMxoQTIvuKWnaoG5pGdDElbR2L5HlEDwaCeutcWsTZxa4Z57dGUge19027QyTWyLE5h4/ZXhqISFsUNcQdgvAGM5FENYag/VfGK0yRRkv4FQ5MWQvL3DfKWT/RnleqfHlKGyR9UHKWs84/LDkkkHTNxHgdY0crl9htEcwaCsXegkc/yfjjGMj1T7xi6nFO/XzOCcqaYBQmtvx4kVPgSoKASJvS0xn13dyRo4Gexz5LfhwQRIaSnCwokz9sJazvDseuB4u1gXIzD1j5BcBTkJax7qz7r7yjtSONExiPyFIJI/KDI/jpImtZBk45UHRef3eDlwz+1IJVlPkJwj44cqc9gIogHdAIOBx/Y1+cJMJ+n/JD9WNiuAKoBp5mL7lVoXo7p4hyp81A6+5jQd/sKt4Qq2SWJpye/WCp2UguB7eHcfyF9vq711IuZ1Grkw4tceoeKQhABEIEhVg7YvtB3xZbOVx0B504DT4NLvTgX8B1nBJacpDMuIlj1qHcV0=",
       "lat": 37.52597581,
       "lng": 126.87266796
     },
     {
       "pnu": "1147010200104050300",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 76.13739802,
       "bld_nm": "연지프로빌",
       "jibun_addr": "서울 양천구 목동 405-300",
       "road_addr": "서울 양천구 오목로54길 1",
-      "avail_gen_cnt": 24,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "UXMBL5avBlUI1di/:Zlr+6IkrXHo/Eahr8mnIqk0qOiX3S69C4Jme1YkA0xJFo0udfbR5xNpkq6RbMFrHgEDGvNoaOibX55+wnDxv17a7B+Eciv3nGYWlyDTm/VWyHQI07Thm8V7CYIXSl7cCnailmGBuDXm94mqS/t219CFEwglnb8GQ8xmCvaigbcJPMn4ZZHHWhCvpJsA42SzvC45YS470dq2FlRUaynuQMpAaAqkO7c8exvFB6Dhg+p66vFWLlN98Pdlzg+k171GgNVx4Vh8RwSkngW8vnmnjRitGm+W8WrmOeF4NYRWxKKOiAc9nfkzRwixm1KXPwHJymuFJyeanOVTYP0aT+9wOLQ==",
       "lat": 37.52423184,
       "lng": 126.87354265
     },
     {
       "pnu": "1147010200104050293",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 76.43430114,
       "bld_nm": "동해아파트",
       "jibun_addr": "서울 양천구 목동 405-293",
       "road_addr": "서울 양천구 목동동로14길 13",
-      "avail_gen_cnt": 15,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "dl8Ut5XnHYASmfdv:YF4uC+SXuRFSDiQM3l+9V7+3CeFKYYBNJdxndsJB5ixKiML7A5u+3YHPZs27wxKEmJhNniXTvTaDXCiLImt3c2CXiHYQcUmad27tMhDnSfZ5dEXS9fzClgGO5mkvWfXQ91Bz4P65zZR5IxlGhpfdqwMBnrmyd7rwPrA=",
       "lat": 37.52431915,
       "lng": 126.87301002
     },
     {
       "pnu": "1147010200104050016",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 76.44166607,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 405-16",
       "road_addr": "서울 양천구 오목로56길 2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "Buzbty5JqLwMdQX+:koPhIrejSM4lG8a/qx1/90CeA5n/Dk7zzTEo2FhQVm12tB6yfN1SZ83+C5pzbXkuNPs/5/Cq+74FSlsSxkt8P6Q9RZR29+K6C2I8Lzp3O46aDBmVTi8=",
       "lat": 37.52418809,
       "lng": 126.87379199
     },
     {
       "pnu": "1147010200104510000",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 79.66133981,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 451",
       "road_addr": "서울 양천구 신목로 105-1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "EgAsRfsUIk6vErw0:OU8zhWtANCvnt9k0tPcgp+sxhAHhuwBAEAAU/gHMqLR9D0ZyfW0UxRqFPA52MoHwpFae5xM0YNl3U8c6tFZqoN/c7ogKuBjuFp1tmcH80O/7X1BtkAs=",
       "lat": 37.52393418,
       "lng": 126.87556659
     },
     {
       "pnu": "1147010200104510000",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 79.66133981,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 451",
       "road_addr": "서울 양천구 신목로 107-1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "YSGtuk7ZNPH1Ddaw:kUDK7v+e/CJrnMjLmeW3pXlUrMqTF3KsUAptu7egJcKGZexlXUWELTJfKSydVKM/7b9eHDR3ke0laP2L37Mu9JRquei+66soMz07NgbwJVZaVepUQNY=",
       "lat": 37.52419812,
       "lng": 126.87573567
     },
     {
       "pnu": "1147010200109470000",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 80.30899814,
       "bld_nm": "월드메르디앙3차아파트",
       "jibun_addr": "서울 양천구 목동 947",
       "road_addr": "서울 양천구 목동동로 270",
-      "avail_gen_cnt": 108,
-      "int_scrbr_cnt": 44,
-      "tv_scrbr_cnt": 35,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 17
-        },
-        {
-          "method": "광랜E(500)",
-          "count": 21
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 6
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 24
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 4
-        }
-      ],
+      "enc_subscriber": "VcnmaXsRy8TCYEsI:KE75yklz6RKeiXNaXY2Gu3ju6rZA1OY/rdm//2w3Ih3rewsTz0mFI1aNUJsPxwLaPtnElELLZ0KyDfOSw2Dfwhn6q0sGAma1IVwEkWB2b+0EjtYI6zfAsuuuuaSKU56Jpi4AfYpDnOFsG+bshvOD66I+7ggtSrjNwuEodM0ZaybVNP/eLxW8RhVcFtIJb11BB8M7dNb6VFDk1CWSzxp7ghFBV6KjahsxKLw0A44S2e08va65IDyPFh8pYFHE+52lUHiUdgp/kDiBW25YNTXmmUBsecB307sGRVl25O9sZ94OxGlVCH0n7ycc732RBCwxLDlFyM+zhWzmJfcEYOM/uh96gUJe4fQp0zaqXASXR+8RhfDLavoEeXZhNpv2Q9fBhectigETR4jPW7KpOnhdpq/TUcgKPzwozEIYuzm6BR/6K5MG0hKeuRHNLi/Y6GUnREPzFxbNOZOBEyInaYg82sE6FwdCS0QFNk9Mypy0+eGMhqHnIbTnogSg1s5mBnPf0g04OFZDRIpLECjCaYxJLjnJ+tvQ4FdKJ8QBwynk5ZAxPm7IfUA1rXdKOedgEdsFALX2Pdv5LZNvRZ9bR0ybfhy/uF7Chp0HsoEDw1Pp3bJIp2kxNSjrLgI1kNzfxvuVgtKnrWZwejwklmhVjufIdm7j7cDTRuFPfYJseFxbw+K61jGFnu9l7ah68Y9ZmUPo0qd49FQOAnYcJL6ZaQWyC5aoXA==",
       "lat": 37.52527311,
       "lng": 126.87613689
     },
     {
       "pnu": "1147010200104050136",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 80.35716491,
       "bld_nm": "혜화빌딩",
       "jibun_addr": "서울 양천구 목동 405-136",
       "road_addr": "서울 양천구 오목로 316",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "H0hNdNY6DmD52AV6:L8alTC2z1Hfx4g9//1Rv7QGxQSJYj3Y5mBw4l53W4bG494d2delYccc8ak/WpYcpPzVBxBB9Q++lOex+fQhafPNjkqVg0R2A4yOlmpZHwWaCABsWQUDVim07rJJQuum/Hgm3eo4iby0LwFDYrShgskWcx+eQMkea6c1tBF8h",
       "lat": 37.52464067,
       "lng": 126.8724528
     },
     {
       "pnu": "1147010200104050148",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 81.31608663,
       "bld_nm": "청석빌딩",
       "jibun_addr": "서울 양천구 목동 405-148",
       "road_addr": "서울 양천구 오목로 320-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "B4kvjJE57irhxz4D:n9pL8PGmNocQkiB7g2IQnheTFXk1SAvvWZ6D52a9WFbb3Ua9gOKoX47YfKfRgFZr5MesumHBwBN0d1QhnARawYDaJWBHBBp+gWrrRLq7vfkn0lDn5tMXcZN19DNA4shzS0nCfwtmLtKCVbfuj7OkXRQD4G73KptjCEqG/bYtL8X44wTwNiGvt2xfoyzXlUm9piDfvdG2EvaVmawMhMmCSX3bNXxxk60pftdhQ/I=",
       "lat": 37.52440754,
       "lng": 126.87268109
     },
     {
       "pnu": "1147010200104050346",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 81.76811739,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 405-346",
       "road_addr": "서울 양천구 오목로54길 6",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "75S37tIHUohpPDmq:PiUXTugMLkzp5kuSRnQdUi1coqTQxdUsvq/E8i63bUHgs6ugRq7fOX5zEAOSX1tTWWHr5PfmOqTk06CDtFVjKUjiYfYwlXxkkGF7UfsPjIAkJXaWEE0=",
       "lat": 37.52423022,
       "lng": 126.87323711
     },
     {
       "pnu": "1147010200104050233",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 82.59982583,
       "bld_nm": "목1동구립도서관",
       "jibun_addr": "서울 양천구 목동 405-233",
       "road_addr": "서울 양천구 오목로 320-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "Wv6f/W5v/NnhEQiv:9+bLoZv/HhXSq1wLpVbvh5aYOvzfoz1u/lU2d83a/gTy7fA3OiQZYLNhHW9IPMKfFr9pB4P4wzbTZ6v1Cxv+g9LvsEHRIX0qwuoESAJRPeOIEONLDEg=",
       "lat": 37.52432708,
       "lng": 126.87280625
     },
     {
       "pnu": "1147010200104060068",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 83.5549611,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-68",
       "road_addr": "서울 양천구 오목로 313-7",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "4sDMMNqk/6RneGCz:CSW9njezGIWFka3iMLnG12uhpb2rD2eOS2NfQIvfQnFdQ/dM019O4nYYbO8XZi/gTQ1Cgk6CEWZi8kdkG1S/hzv84kblhGovVqvzM0c9CSKI3ZfI6XM=",
       "lat": 37.52565915,
       "lng": 126.87244427
     },
     {
       "pnu": "1147010200104060121",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 85.18064114,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-121",
       "road_addr": "서울 양천구 오목로 313-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "JJx5y9juLssZwL2f:4DfL7ZpWUD33IunN4FrM/owqF6t0x8P92+gIHieg887uK8OGwQjL4tmk39udF7t+cMnhJ0VZIaXWPpg8Y/4jduDuvUHA37Krf93h1hH9blSzJe1kQ2c=",
       "lat": 37.52528908,
       "lng": 126.87234551
     },
     {
       "pnu": "1147010200104050025",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 86.09300691,
       "bld_nm": "청학스포츠타운",
       "jibun_addr": "서울 양천구 목동 405-25",
       "road_addr": "서울 양천구 오목로 344",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "s+fr9v9CaEVYneiA:nhE8u2bFKJPFHknSRL76DROcnF1SLoGArTy5MEY8K52azOoIn7nW8ldF0JJw5A0HH08xELYZTtgSJSbAE8ghjMHV8JYgJc6LAMMkbrRsTlCzs8UFznE=",
       "lat": 37.52396244,
       "lng": 126.87543483
     },
     {
       "pnu": "1147010200104050241",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 86.67223989,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 405-241",
       "road_addr": "서울 양천구 오목로56길 5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
+      "enc_subscriber": "NoNG2VLKcBqwCecl:NxCfGEL6b1vGCzKAD2T2sSA/sJ0w3MMrLlFNGO9ORhgHw9Xg2uHWFDVg1AJmmiG9/riUGF3NuR1KNDEOLIZMYQX5WVOdY64t3Iqb0MIMY/CctzMvLvPAGPjJg5NUkGkdo/QvNIloMP0+wkEWe80w7el+pz2jTjoxxe3ywWXX37dW5MVlwpbmrNDGYNTmDu/LwnyHlB+EpLfZRrN/TIzArIPr3BBzliYGDgg0JMo=",
       "lat": 37.52404545,
       "lng": 126.87408743
     },
     {
       "pnu": "1147010200104050151",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 86.83934281,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 405-151",
       "road_addr": "서울 양천구 오목로 320-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "uIQJQcD/U9d/tDCR:n00+Ok+TEQGKl2MrNQon9VhGn0ZdUS4QnEcpMDaRz3Hp/Y8OlqoRWiXPdtKC+H/XPn8AsvryuvPSPRTS7j4/v7cAi25FK1o3RAzA2HWSeBcVsnc4ywg=",
       "lat": 37.52446973,
       "lng": 126.87251082
     },
     {
       "pnu": "1147010200104060218",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 87.80060501,
       "bld_nm": "아이스빌딩",
       "jibun_addr": "서울 양천구 목동 406-218",
       "road_addr": "서울 양천구 오목로 313-5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "7CnWiPzlkrwcK+5f:sW7chDIw5wSqUY9sCRFIUoZa6mgwSXnWBuUH2SuMjJ3yFMEGg1X0JRCc10b2ySrVmOlaZJWOEqVC286nwnz2VBoRhThnO6b24jXihwdvAwSsbMPAVxVVAH9MVpMLi4bgj6kp/GSNvtJbWS8fRqeL9xTkMidCqIo03KPRIj/6L887llHx973pMsiUFSrwjYFnh27xTDCM3ClFrxFQq760JNE=",
       "lat": 37.52552354,
       "lng": 126.87236618
     },
     {
       "pnu": "1147010200104060112",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 87.8279669,
       "bld_nm": "유씨근린생활시설",
       "jibun_addr": "서울 양천구 목동 406-112",
       "road_addr": "서울 양천구 오목로 313-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "rjEaDt8FPbQpFhO2:AOPK5kHaBH15ifwnKzXDLqreM15p8p3HgcDgFc6EEjAbvVdeA/5Pp4d7ygHm1nQveECaAPArRlAxvxEEnvbCmw5WSv4femyf3m0sUzN0EUffrc/5H+ah6cGIG6yi+l+oMMZU7tKXrWiGVIM6Y7H0npDxuu7Lo06phDQLW2dQ",
       "lat": 37.52542427,
       "lng": 126.87234438
     },
     {
       "pnu": "1147010200104060317",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 90.6609464,
       "bld_nm": "구립목1동노인정",
       "jibun_addr": "서울 양천구 목동 406-317",
       "road_addr": "서울 양천구 오목로 313",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "I+ziJr4h7ww4mOKs:dQUbFBHH6UhuIfb533E+Kotv2tx3VDCSxSdxsO2cEZVrGIjDDSfHojAfWqFIBRCXqHLS+GK3BWfj06MlP/+tql76fzosjY/GWhKfN6ZFuWTQ7p8kN6o=",
       "lat": 37.52521655,
       "lng": 126.8722669
     },
     {
       "pnu": "1147010200104060079",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 91.25604844,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-79",
       "road_addr": "서울 양천구 목동동로 226-5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "0hGoX021Ix0AXWd7:8nQ4/y3vwrhCJ9W5fYlHqqJl8FeKFgt6Xolac3jXNQJ7rf0QjWuZHkWkQUpxhbFt1omAA32R34KkIqYjzz5VVgRSuxuhiZ3MiyLaa43ZKqHpTLy7OzTiQIKBH2fCyx/b748Fle4+4V8bsVddoGrJOHM4oVaURKpr4WqcCMb4Y9Bb2XD6LR6fAA2IZGRMECQn1OuQzsKk4rfXfH1Tdv+peR9OVJQdhKXboDMcLAs=",
       "lat": 37.52564966,
       "lng": 126.87235381
     },
     {
       "pnu": "1147010200104060316",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 93.42533075,
       "bld_nm": "오목장여관",
       "jibun_addr": "서울 양천구 목동 406-316",
       "road_addr": "서울 양천구 신목로 119",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "yJ+rzUqY0e9meZTP:5Tm3ngxjLTQgZ9gYc820hpwXMWs2e/VDoTP38sO3uJnwT+5L4hosOHBI1O3fGunwphgKeCXPkIeHfJBsX6y8ERDtnSbjkdDtStWTnaSvWYbWB+HJhkWDibDqubo/pvq6RU47I090wjcxgyr5lpJtxaPm4363xvyPtO4=",
       "lat": 37.52507536,
       "lng": 126.87624039
     },
     {
       "pnu": "1147010200104510000",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 93.86370423,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 451",
       "road_addr": "서울 양천구 신목로 107-1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "CSssvhZuKhx+KmBG:TI0LCxALZJyG3bMIO7Y0/U156xA9us2F0AvJexfkj2FuFlm/gBPmBA17evxUJsO+hIZF6eU06mFtdOoRWAn8DBhTkJOwDhhdPRa/Ugknj0aRKgTwR/Y=",
       "lat": 37.52419812,
       "lng": 126.87573567
     },
     {
       "pnu": "1147010200104510000",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 93.86370423,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 451",
       "road_addr": "서울 양천구 신목로 105-1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "7zZOOCmpVx9SeRMw:K+WRIm9Zmn9lxSeCu4a0yt0EP2LF225Nez3KrT2EvwG16znOv2SaOT7d1PCQXHx47A31gKwP1fVEHw9AC5PtIli7BYc7NJfKhpyS1DbwFjBhsU93jH8=",
       "lat": 37.52393418,
       "lng": 126.87556659
     },
     {
       "pnu": "1147010200104050160",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 94.3414964,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 405-160",
       "road_addr": "서울 양천구 목동동로14길 7-1",
-      "avail_gen_cnt": 2,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜PBOX(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "kZPf6wG9z8EP2TXV:IesQd/5x7WxmcX7dyLWBXQZ6sc6TlB3azBL+0B984Xa5sGGn+Ls7P+fbn/pa+R52s2jsyWdfG2/TFnTeXrP0WG6hWvxMKX5meBuN9p0ISc072fwKuVNYTnMM4l8E49KDTIRqkZf6LOhl2mucBnI0vNeAFXs0evrenWDgEWDtsK5qE2AB7Ssm0zFLzJreR9oqKDCfCKoXwaMrCbRwSk0iUcnYlunJkCcC6U7kuwVznb0g2HQjuO7/ZY9Vz4gu0JF/ac9l5ZsCADvvw91FGx6p+vgddLG3XWSI5aiJ",
       "lat": 37.52448709,
       "lng": 126.87238618
     },
     {
       "pnu": "1147010200104060122",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 96.36458031,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-122",
       "road_addr": "서울 양천구 목동동로 222-6",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "QKpy6z7HviCk9024:wBuu2DJagiTDobqyXvxTQiQrACuS9oHaxeHsNHbHgCotBTCbjxOEdJSrFMtB9POeeU4TS/YeVFhVFnqT/s5fQr8WnqBI60S7NbYH/YitlJQanF/M9K/GRY5C3hbioG2huiOSFrQGq8z7d+6fPLDRGXjGdxlYi0+iex8+7jjXDjI31B0zaDgZZ5VuYxXwPqSeWw+INSZ7JU6Ri5LVWvcFG27AHSc=",
       "lat": 37.52530644,
       "lng": 126.87222088
     },
     {
       "pnu": "1147010200104050014",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 97.13089437,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 405-14",
       "road_addr": "서울 양천구 오목로56길 6-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "xaKZQPNfdufiChh3:VbuTPh9LzD7jD0hfc8EV4Z13J/U7JLc4D9y8uxpXXM/EGXglxn3lUTPklG+Gm0z5R/Nh2+FKzuj0Q7fCbBJonb3JbY8myEWsqksu+HgRtMhzkPoqIepsnzoacaVwekxT4Hko1cPUV0+a0YwrifEoIAMN0AL57xog+UBLLU6T",
       "lat": 37.52399005,
       "lng": 126.87383892
     },
     {
       "pnu": "1147010200104050153",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 97.15625994,
       "bld_nm": "진안빌딩",
       "jibun_addr": "서울 양천구 목동 405-153",
       "road_addr": "서울 양천구 목동동로14길 9",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "XWNotnQmXfCgz+WJ:9WscIBWKKtRk9YhC3+duB3MeUAZXR95RGYf47J3dJItHP968SnYyzQSwOSkNR5VSxGCuTwjaYkPduSbXqBIt/RogVhl8+2dLi7zM/B+7X0U2Tpkcgrc=",
       "lat": 37.52436139,
       "lng": 126.87247777
     },
     {
       "pnu": "1147010200104060066",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 97.76778201,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 406-66",
       "road_addr": "서울 양천구 목동동로 228-4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "8NtM2eCv4g/nJ8TZ:MNnoFq6olHecrPBiswK9W+qAyWO3vbnGN9LWjYRbEjBHod9Y3qEx6m2J2Itba9vbBIwTpHeagZWDa/MkHozMkLewtz2FN2iTtZKHm8aTfraZwpL4AM196a21L+O4wyi9yRrJpkr2hUSYw7F+ugaVdU00IM1ML3Kyarrz3q4z76t9etABgLgX0qdtXd1qg76m61MHsGK2Dma8cKjlHDhArPMz3Ls=",
       "lat": 37.52573048,
       "lng": 126.87229655
     },
     {
       "pnu": "1147010200104050080",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 98.0143147,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 405-80",
       "road_addr": "서울 양천구 오목로54길 7-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "4OgK5Rt5GK1mqxms:gjnEPPSxkUJCEpZa3mg2fsi5ixbBVbilRVS9F7LVGVyEORfmZdRNXpzT4wE6O5x7tMcfWgYGBjnHtae5fSDrIh5WvCyF9chaeb6sgu7Kb7mR9AQj2Es=",
       "lat": 37.52402472,
       "lng": 126.87357834
     },
     {
       "pnu": "1147010200104050078",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 98.2383761,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 405-78",
       "road_addr": "서울 양천구 오목로54길 7-5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "gkC2LFv7Spp3LTmW:HNCyWBN7wzviKAn/I79TNdqib1/VsE1RoEH+EW8Ho/nZLGUQ4Bwk1BGFoDhljDM+yL6+Pf/iyouSkcznF9VBc1n/OyR47J77woCu3MfgD7OQeLS3BvM=",
       "lat": 37.52399846,
       "lng": 126.87372568
     },
     {
       "pnu": "1147010200104050070",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 98.46511634,
       "bld_nm": "경인빌딩",
       "jibun_addr": "서울 양천구 목동 405-70",
       "road_addr": "서울 양천구 오목로54길 8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "ZAXbTU724NL8klkC:zWZr9IfkbnPN2ha0P/IOq1NiMOrnlBc3ruVijZy+hMsUa5mYlSaPjDaz969hHNz1r9maZmzYNqKRNomAxXmaU9ePZ372UA8HGBzPyhmJU0zJt7Zl+ac=",
       "lat": 37.52408571,
       "lng": 126.87318173
     },
     {
       "pnu": "1147010200104050147",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 99.50491554,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 405-147",
       "road_addr": "서울 양천구 목동동로14길 12-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "9g8oGvW7ELNxoJ+I:RCwV6Sq5Of5IydX1dI9L+2O/A+jvemD7cZEguOhrfTY9VCfHpIlUKYhxjMP7nj4biov2UFbxBKqD84MWLl5Ia6Uz4F7pUIEjzl0KDNP3kc9FLwboh40KjkJHyfCQHWgatybnZKRDlDg+417vI3p/jJoANrJZ45NO0VVQy+K0ZvT2SYC0/QBtXY4pPEa1/fT7XzGNSDBPkB4NsP3Z9QZS0EQ1VTZ7mIXCWrFPsRcQ4PDdbkCdS98GIF9pImgkOQ5fVpgHT7En9o4C1FMkypPS",
       "lat": 37.52412927,
       "lng": 126.87289844
     },
     {
       "pnu": "1147010200104050054",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 99.65194351,
       "bld_nm": "N/A",
       "jibun_addr": "서울 양천구 목동 405-54",
       "road_addr": "서울 양천구 목동동로14길 16",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
+      "enc_subscriber": "080ChX17DBHkw0fS:LFnQgimJk394bk0pEedWMfZT/68OdxBe/AgQsWApSkaxk8s/2LCyC0uRBYvQ8PCXhiz4USjiC4d0953eR3eYqC0X4nsMhLX5xkHP3+jFuaBPVAKIe9hnqUlZSAsnumnRRFka+4YknEMFWw/AlhDd2GsJtSNQCmuhZsuK5fjAxVl/ytgiaT1ZVaLeCYaaMiS+nO1zcWPYhmYJSOkqJkJbAiAPH/ZUDF5WFSSSc4uAqyke5BvkIa9drKr4X1WjQD7fp2jm/bJrJWAEWlwlDZbaW/m6bw==",
       "lat": 37.52411161,
       "lng": 126.87296649
     }

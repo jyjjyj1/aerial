@@ -19,7 +19,21 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body class="dark-theme">
-    <div class="app-container">
+    <!-- 접속 인증 오버레이 -->
+    <div id="authOverlay" class="auth-overlay">
+        <div class="auth-card">
+            <div class="logo auth-logo">
+                <span class="logo-b">B</span>
+                <h2>SKB 공중선정비 어시스턴스</h2>
+            </div>
+            <p>인증번호를 입력해주세요</p>
+            <input type="password" id="authInput" maxlength="10" placeholder="인증번호 (6~10자리)" autocomplete="off">
+            <button id="authSubmitBtn" type="button">확인</button>
+            <div id="authError" class="auth-error"></div>
+        </div>
+    </div>
+
+    <div class="app-container" id="appContainer" style="display:none;">
         <!-- Sidebar Panel (Left) -->
         <aside class="sidebar" id="sidebar">
             <header class="sidebar-header">
@@ -106,6 +120,10 @@
                         <div class="legend-item">
                             <span class="legend-color legend-buffer-point"></span>
                             <span class="legend-text">100m 이내 건물 (주황색 #F59E0B)</span>
+                        </div>
+                        <div class="legend-item">
+                            <span class="legend-color legend-hover-point"></span>
+                            <span class="legend-text">선택/호버 건물 (회색 #374151)</span>
                         </div>
                     </div>
                 </section>

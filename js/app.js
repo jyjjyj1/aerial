@@ -4,6 +4,7 @@
 
 import { loadAreas, loadAreaData, filterBuildings, state } from './data.js';
 import { initMap, renderAreaOnMap, setMapTheme } from './map.js';
+import { requireAuth } from './auth.js';
 import { 
     initDOMElements, 
     updateAreaSelect, 
@@ -15,6 +16,14 @@ import {
 
 // Application Orchestration
 document.addEventListener('DOMContentLoaded', async () => {
+    // 0. 인증번호를 통과할 때까지 앱 초기화를 미룬다.
+    await requireAuth();
+
+    const appContainer = document.getElementById('appContainer');
+    if (appContainer) {
+        appContainer.style.display = '';
+    }
+
     // 1. Cache DOM Elements
     initDOMElements();
     

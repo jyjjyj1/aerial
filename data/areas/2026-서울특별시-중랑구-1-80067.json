@@ -67,2391 +67,802 @@
   },
   "buildings": [
     {
-      "pnu": "1126010500100800001",
+      "pnu": "1126010500102410005",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중랑구 망우동 80-1",
-      "road_addr": "서울 중랑구 망우로87길 111",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.60450123,
-      "lng": 127.10880023
+      "bld_nm": "해피리움",
+      "jibun_addr": "서울 중랑구 망우동 241-5",
+      "road_addr": "서울 중랑구 양원역로8길 21",
+      "enc_subscriber": "ijcTC28hgLU4EfGO:2ux32LxuJBf7t/tz0nO/XnOEraUAB6KJoFosh5g2Vr9D7dT5jageFElT4MzsOm2Ay8vUbvPbLhEIz2LjyFsDussXoPNC4JlfEDAVui3F+zr3rylLv/s=",
+      "lat": 37.60507483,
+      "lng": 127.10786737
     },
     {
-      "pnu": "1126010500102320004",
+      "pnu": "1126010500102330028",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "대영빌라트",
-      "jibun_addr": "서울 중랑구 망우동 232-4",
-      "road_addr": "서울 중랑구 양원역로 25-9",
-      "avail_gen_cnt": 17,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 9,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 4
-        },
-        {
-          "method": "광랜W",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 7
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.60304445,
-      "lng": 127.1071085
+      "bld_nm": "통이네덕하우스",
+      "jibun_addr": "서울 중랑구 망우동 233-28",
+      "road_addr": "서울 중랑구 양원역로 25-10",
+      "enc_subscriber": "8pspkAQMuCnV59Z9:M/tRVoOWR6FX4c9ySZVcfY9+1dN9zW0+3+o4SXfhR9Vdao780VHbRF0yO0PfqcMC4vfy0rkncMea5Du/EVR42H921nfKxDQZagAAJCtRP6iINF8A4QQ=",
+      "lat": 37.60314454,
+      "lng": 127.1073912
     },
     {
       "pnu": "1126010500102260000",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
       "bld_nm": "경남아파트",
       "jibun_addr": "서울 중랑구 망우동 226",
       "road_addr": "서울 중랑구 양원역로 37",
-      "avail_gen_cnt": 250,
-      "int_scrbr_cnt": 76,
-      "tv_scrbr_cnt": 75,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 8
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 17
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 47
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 4
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 6
-        },
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 50
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 5
-        },
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 3
-        },
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "Vpxuo4cWAZ5ViHvS:xVdkPht453A651NpRm/aSPY6domqMEsUa+tmjbc6yS2AfAIF6pvDlqs9m+I8rcsO7+CcOg7O6RgnpJRVrVPGp4ylPQQt3wcvfLG1wZinbYKOBRCO0XriiJGkHCs2i8XUveGAqs1+Y0CM5BMFNcekRq3F/PvNnj9xPOzCxw02+vS3cjzYUmFRY5MjUJXLlfLooyQUkRo/swW2Y67DCDmL1q0BkJFGiF6lZ4j6vetr/FSu7QnIWIB9E0nS1PAQkMoCTfAmS4qnWpS0z+mI5om+NlSzF7XdXS+8ZvPHynBl8rbY0Mvw8L6Y3dA0EvZKz5UQ3uQ8r3Wied0fzh3VNGUEEXu86Ye/Y9xq5AOSbLfiAfAiGlZ1CgVHuCusUBh/vBPE7IOiShwPXqls+W0jUPbv12qAuEttCgbrGupdm1FJZdhKqDlcfVPDnq3dZX83uzqjSYMpcziLgxp1RT7L4qPAVFk8rwU5ptGI9JUy7HWgf0UIFJg+sU4YBQVfzUfyGlDy9tg+STu4ekX3+bSjtQ+1zI0BW18aRVRMaedHq6QUdsryobZbFjhrqde5Xz3PrR83rsCXxeCMfk9v9VD709kW5KtxMItL+zBRTgYCDgCfoZVvk3oIaEnnmSOXNyxCJclXoprXL3OBZqDU9guvGW5kHXhFzasSouohzGQSLDqfNIrN305hwJ7b4dKyHEVuTGXcQnwdmjFUGkjTz/nWatUn1wA5mS/fSvmO9FiFMuFNX9ilPyb6GFqzs5KC49GzIfOp3PqVuVbBvOygZ6+EId2z6rCOLC+FqfwvAxNu0j4dDzwatMiGoaad8z7mKk0hzBPf3TlFMPtFhI4uj4aFXQJI5Gc1D7yIKA1v4Q4iw7zlAnv9bTiEwYhdDCDhGtRIdvIbTqm+dvG8vOZpQmgdlV289eAWyX1m88fK1nSTnT5P6tUKt3GX2GOViQQv4IMUdZ99sDslC/rfMmuZ0Q==",
       "lat": 37.60369167,
       "lng": 127.10658396
     },
     {
       "pnu": "1126010500102130015",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
       "bld_nm": "민중서점",
       "jibun_addr": "서울 중랑구 망우동 213-15",
       "road_addr": "서울 중랑구 송림길 126",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "HBmaA5FMy7pOsYG4:D+RH2atyoAWS9EMJ7zhKHKisFZPl1WM11Xn5/DvSEs78u4pXXyJ9WGRJSUfcFfyqIr4jS06Oa3nsX9UH9RSY50RzWZPcsFDmObsQtIb3cwOhvetUkdGInT0yJLD7/4swDGE5+NEUDb/sZORyF8bP09qXzK/HEoxmICW858OXVTgkuG4Msord/s1bqPH5kj2wM+yMzySxsBVz1qioiJru",
       "lat": 37.60559106,
       "lng": 127.10584888
     },
     {
-      "pnu": "1126010500102380002",
+      "pnu": "1126010500102330009",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "신일빌라",
-      "jibun_addr": "서울 중랑구 망우동 238-2",
-      "road_addr": "서울 중랑구 양원역로 53",
-      "avail_gen_cnt": 42,
-      "int_scrbr_cnt": 14,
-      "tv_scrbr_cnt": 16,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 8
-        },
-        {
-          "method": "광랜W",
-          "count": 6
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 12
-        },
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        }
-      ],
-      "lat": 37.6054028,
-      "lng": 127.10615576
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중랑구 망우동 233-9",
+      "road_addr": "서울 중랑구 양원역로 25-2",
+      "enc_subscriber": "3cCXOAxUWmhEg6bJ:LpVfS4t0RcQcdaUNg5GWvZhzpqvz3SN4bj0cIiDrHWPruLdef6rITmWdpJ3ey3/4C5f3MUExcJMouYUuTE+TXHo0A9FdEVZaD3SPddtg2+0cVd/Hf2E=",
+      "lat": 37.60291083,
+      "lng": 127.10758502
     },
     {
       "pnu": "1126010500100830008",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 83-8",
       "road_addr": "서울 중랑구 망우로87길 123",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "L99p5gmKHIT4u+My:KI9Z46klHi1iWpE+bV1IJhdEuKWBnRJQoXIswuf8vVCmgloxnudIDmJRSmkWJ+dVEjX9fyAwTjT/BjVn3FYxMyU+HYKnSUIwnVzkcUfht3WWQhWRW+c=",
       "lat": 37.60477978,
       "lng": 127.10853819
     },
     {
-      "pnu": "1126010500100830005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중랑구 망우동 83-5",
-      "road_addr": "서울 중랑구 양원역로8길 26",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(AI Sound Max STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.6049504,
-      "lng": 127.1083447
-    },
-    {
-      "pnu": "1126010500102320010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "선경쉐르빌",
-      "jibun_addr": "서울 중랑구 망우동 232-10",
-      "road_addr": "서울 중랑구 양원역로 25-5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.60290103,
-      "lng": 127.10734717
-    },
-    {
       "pnu": "1126010500102330013",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 233-13",
       "road_addr": "서울 중랑구 양원역로 25-14",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "qY1xc+KG5OFZpWqh:gekyTsE+Cg36otq+CyOX9UYtzDNYpPGOqalNpWxPdgBAkPltkhEuKHIGHu6PungeiyAbh39K3gm4H/4LOuCiDNOZgNpm5MVSDyi7CNutiWS+G+qv4gM=",
       "lat": 37.60327054,
       "lng": 127.1073339
     },
     {
-      "pnu": "1126010500102320002",
+      "pnu": "1126010500102380002",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "송원그린빌",
-      "jibun_addr": "서울 중랑구 망우동 232-2",
-      "road_addr": "서울 중랑구 양원역로 25-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.60282854,
-      "lng": 127.10723426
-    },
-    {
-      "pnu": "1126010500102330007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중랑구 망우동 233-7",
-      "road_addr": "서울 중랑구 양원역로 25-8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.60309985,
-      "lng": 127.10750473
-    },
-    {
-      "pnu": "1126010500100860014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중랑구 망우동 86-14",
-      "road_addr": "서울 중랑구 #-#",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.60362194,
-      "lng": 127.10729806
-    },
-    {
-      "pnu": "1126010500102130003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "개나리아파트",
-      "jibun_addr": "서울 중랑구 망우동 213-3",
-      "road_addr": "서울 중랑구 송림길 124",
-      "avail_gen_cnt": 78,
-      "int_scrbr_cnt": 16,
-      "tv_scrbr_cnt": 16,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 6
-        },
-        {
-          "method": "광랜W",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 7
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 10
-        },
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.60501402,
-      "lng": 127.10579528
+      "bld_nm": "신일빌라",
+      "jibun_addr": "서울 중랑구 망우동 238-2",
+      "road_addr": "서울 중랑구 양원역로 53",
+      "enc_subscriber": "PIZ30LJcW/gagEgw:2iVSVkV4/IZMjkQdBH31QqYG7BicMikVl4fv7dn5ndUxDsLfTKjVvyPAxBgclEy8W4wBBBQmM0irqQNLAi3CTEFv6UvLn6uj2X1lLEVWVx6kHZiSNPZlGN3kUak3MSYBIzMb37kn71xGTKNo1lx7OzSxPn6J5YHbOxUYgFs9Lcb4B/mq3vuUj8QdMM02gzg4+y5vaqkpFq5FIF27EaCRuO5ovxSukqZDVqlZADqeTm7fErbbv2Tpq4bvhQkYNHqHh3n8WS5+uHZ5UNK+DgigWav6fOPOn4Gt3Fqy92ZyPyBIT7EaeYU2rDijTggyBfwCMutG3r94xxuMpuZTQF2l1Oil5p1BMAikb6OiWe37RLJ7ipGFjb8bEsSeLb2H046UnyYUgLIF5NLcNwHiEQJAVB3iugZkQD7SMp6Xb8+z6DfjR25qm6qubm+R4oHnmyWAblqpQ29L0jNQ6ck7o/ISAVn1eVmYoRL1YIlnL4xzMWcqt0nFvRGUZXq0HdYRlkwLFYcpQ8vmYXjup1k=",
+      "lat": 37.6054028,
+      "lng": 127.10615576
     },
     {
       "pnu": "1126010500100850003",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
       "bld_nm": "동원중학교",
       "jibun_addr": "서울 중랑구 망우동 85-3",
       "road_addr": "서울 중랑구 양원역로 32",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "Hx+2JrqVjn2yW2IM:eKlMwq+cXZx8BLYGWBJgA0bs8sKtvonF3fB0bDqCk5in/KSUidW6BzrRyu5aUHedI7+FsNTzECx7cTqd3LKvqe9vi39lIw27hRpMPucS/Hs0DoxlTD8=",
       "lat": 37.6036621,
       "lng": 127.10853272
     },
     {
       "pnu": "1126010500102360005",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
       "bld_nm": "삼성카센타",
       "jibun_addr": "서울 중랑구 망우동 236-5",
       "road_addr": "서울 중랑구 양원역로 45",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
+      "enc_subscriber": "WxzYjSufPXUn+7rF:1dZZM0EpMBiG2w6rapSApgBp56yOkqEFPYiXmgy9ouECc0m8kHotDvS2ktf7aoKlIC+B05ckuJkgz1MmnWe2foI9RFi14KK63KSaC2E8T3XbRJpTFWrUUJi2LQxBUBPIDdGB1tic40Kv8OxFJc5ko34628dHV3li4aLtLMDVYjTLo7pFr9w5HOvLgiIc36vwOFW7KpsSYH1ulJ9PXRLN9GxT80UvCTOsMrzeDjVqBFu77+d3+r53K+K3LqhC3CLF16RkKaxa5aQLz8O3P2g=",
       "lat": 37.60449431,
       "lng": 127.10671569
     },
     {
-      "pnu": "1126010500102270000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "시립북부노인병원및시립중랑노인전문요양원",
-      "jibun_addr": "서울 중랑구 망우동 227",
-      "road_addr": "서울 중랑구 양원역로 38",
-      "avail_gen_cnt": 200,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.60438935,
-      "lng": 127.10767922
-    },
-    {
-      "pnu": "1126010500102330017",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중랑구 망우동 233-17",
-      "road_addr": "서울 중랑구 양원역로 31",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.60332495,
-      "lng": 127.10743557
-    },
-    {
-      "pnu": "1126010500102400003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중랑구 망우동 240-3",
-      "road_addr": "서울 중랑구 양원역로8길 25",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 16,
-      "tv_scrbr_cnt": 11,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 12
-        },
-        {
-          "method": "광랜E",
-          "count": 4
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 10
-        },
-        {
-          "method": "Btv(IPTV_B tv air 2)",
-          "count": 1
-        }
-      ],
-      "lat": 37.60512067,
-      "lng": 127.10804925
-    },
-    {
-      "pnu": "1126010500102390001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "송곡고등학교",
-      "jibun_addr": "서울 중랑구 망우동 239-1",
-      "road_addr": "서울 중랑구 양원역로 50",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.60565069,
-      "lng": 127.10751398
-    },
-    {
-      "pnu": "1126010500100830004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중랑구 망우동 83-4",
-      "road_addr": "서울 중랑구 양원역로8길 30",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.60503219,
-      "lng": 127.1085482
-    },
-    {
-      "pnu": "1126010500102330008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중랑구 망우동 233-8",
-      "road_addr": "서울 중랑구 양원역로 25-6",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.60298279,
-      "lng": 127.10753933
-    },
-    {
-      "pnu": "1126010500102410005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "해피리움",
-      "jibun_addr": "서울 중랑구 망우동 241-5",
-      "road_addr": "서울 중랑구 양원역로8길 21",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.60507483,
-      "lng": 127.10786737
-    },
-    {
-      "pnu": "1126010500102330009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "서울 중랑구 망우동 233-9",
-      "road_addr": "서울 중랑구 양원역로 25-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.60291083,
-      "lng": 127.10758502
-    },
-    {
-      "pnu": "1126010500102360007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "대보아파트",
-      "jibun_addr": "서울 중랑구 망우동 236-7",
-      "road_addr": "서울 중랑구 양원역로 49",
-      "avail_gen_cnt": 80,
-      "int_scrbr_cnt": 26,
-      "tv_scrbr_cnt": 25,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 16
-        },
-        {
-          "method": "광랜W",
-          "count": 10
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air)",
-          "count": 1
-        },
-        {
-          "method": "Btv(판매 Apple tv 3세대 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 15
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(단독IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.60473623,
-      "lng": 127.1062839
-    },
-    {
       "pnu": "1126010500102330005",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 233-5",
       "road_addr": "서울 중랑구 양원역로 25-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "UfgMniKHlTEhNVdO:nK+0j3B8u+TEmOiiVbcoQkYq23Q0bGg+9wTHfBqlfreBOS4cG2CY8le8nb3Zrxd9UmeMxDT0gH3RViV4Oey7v+JgyneCRplqCpU6CQrpbc1sPGfiPVE=",
       "lat": 37.60321657,
       "lng": 127.10736817
     },
     {
-      "pnu": "1126010500102330028",
+      "pnu": "1126010500100800001",
       "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "통이네덕하우스",
-      "jibun_addr": "서울 중랑구 망우동 233-28",
-      "road_addr": "서울 중랑구 양원역로 25-10",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.60314454,
-      "lng": 127.1073912
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중랑구 망우동 80-1",
+      "road_addr": "서울 중랑구 망우로87길 111",
+      "enc_subscriber": "Hq3hlItbpZv8jnPg:gyQgI9E7edx01+Rv38WamQ0KTgMr24KGCjz3wIMliZVVcAl8N3hM9Kw+vpazjOSlycMXm+yx4s4GqW2KmJwbhhUb7v2kzbhPbvTB9BfJ7pFRfStc4mg=",
+      "lat": 37.60450123,
+      "lng": 127.10880023
+    },
+    {
+      "pnu": "1126010500102320004",
+      "match_type": "inside",
+      "bld_nm": "대영빌라트",
+      "jibun_addr": "서울 중랑구 망우동 232-4",
+      "road_addr": "서울 중랑구 양원역로 25-9",
+      "enc_subscriber": "G8rfS47424+zz7L7:tHPOdEGl6b/1F/TdgIIGsxb3B6dHwRbu8ydvf7w8f/TmUKvMxKenURKxVAcGYjnTXErYSr/6+Au92IzKKBgVmkiIsO/tNJoME5qUWSEeAg4lqauZON/M67ctAb96OOpPOi1pc1KbK+IAwIy2v9Ici1KjviXKsQm4gjFIjCt824wRnUWDL9DEkZa6DRPLfqDrdGaKkGMKGzU6AchNCTc4ukOwVVKj6SweaW8xA9QiLMxt6t9rEprkCNuYYODBnyAeZP3SdgHqmYWnTlVR/NeFnV/9xhrq/ZH8qyWhlDtOaZanuhS5l+4E9F3iNXVX0ZajLmTfy6bXLT9zmzo=",
+      "lat": 37.60304445,
+      "lng": 127.1071085
+    },
+    {
+      "pnu": "1126010500102360007",
+      "match_type": "inside",
+      "bld_nm": "대보아파트",
+      "jibun_addr": "서울 중랑구 망우동 236-7",
+      "road_addr": "서울 중랑구 양원역로 49",
+      "enc_subscriber": "7pzhFEdZsTBWefk7:QpbWszF+OsXId5pPsXAYWrbyeoThJDMMh7wVq1AXR+X0+2QmuDagAkQfGSrPM/t+4/utLn9y1TOErg2HT+btUL/f+LbYgkeQqHjfCS11DIaFV7+buxYESUDaOhdfBPO+xDe9yKBgAn5eh9atd7YIkWDFHBVOUmfBz9uDVQJpMptKzjbOCOY6pbjlN9V48LjLOHM3HyXnonXJTboJk7xyIn8JwZzQfR4z0ZRjwABDss/HjdBPPTUjT80fZtX5YVfOLYE29ixqElkJtairVhyfWWu4SAX45tGTkY3WKYgtkvgTJbIotv/DpkOFvVa2CDWMvJ1gwuce/awXIIxBfOsVd12yzCeb3EYtmcrDmlb0Pt2qyHvLW1xAOlkQraQ2UNGlNOrRKR/cZ5hzV1Q/1OW99xA7NtjCL+ltO8ONmYrlilEMY9hUo6bJxz7Qm0m8GQPWmn0KCBQKMul8LRgDpCQj3Es/O9naa5wy1odJ2OiUrfeDfyNNT8I7Moxel7pe3r4CLrWqdY2qJYKfKJhZ1RRbAOZ2Y9pxGgPh6xgTLEb36Hl/5PGBFJ4rQwE779v+7+FoQRqOW9VANztyn1UbYGTU4A+g7X8xk2W/nbZ7YN5HogfcVQMquPfQT6pCmIctIPE9PZG5RG+Q+UAiAR9TBptTBCZAFekh9HgvODbFuDrheMDHv+z/GmRR0bvCNJipjBWWJ2yw83VF3vG2VzQcYH+P9E0d7nAKryxbTMenotik4bjin6GAvuOfk7mnsf6gIrRBO1PECmM9R2cVIFw4fy6ChlhOKIKySMuK7GPpHPGp",
+      "lat": 37.60473623,
+      "lng": 127.1062839
+    },
+    {
+      "pnu": "1126010500102320010",
+      "match_type": "inside",
+      "bld_nm": "선경쉐르빌",
+      "jibun_addr": "서울 중랑구 망우동 232-10",
+      "road_addr": "서울 중랑구 양원역로 25-5",
+      "enc_subscriber": "pYK09FeSTyNS8VUU:3rhs6FB1L7h/6KV25nSSwQtBt9RhyW+yVlC72jgpHYybh7jj4QrJ1hZ0BCF/qZtXCRi5KyDV4GRPWPT+xhR6whUHcWbyO8f0V/PVB0box+fYoMcJoSw=",
+      "lat": 37.60290103,
+      "lng": 127.10734717
+    },
+    {
+      "pnu": "1126010500102330007",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중랑구 망우동 233-7",
+      "road_addr": "서울 중랑구 양원역로 25-8",
+      "enc_subscriber": "0twMrOuP0A8k2+fm:Fcx07TWP4GmXd60ZqRNDGbZFRm+5dw5fMieSFr+Z3ib0MDP3k+LEGsNq6txK4sQvmNGZiuj4BFnD9YoqNLKJRiYP+9fktv9UDYGI2jQVnl2NeHDO1jk=",
+      "lat": 37.60309985,
+      "lng": 127.10750473
+    },
+    {
+      "pnu": "1126010500100830005",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중랑구 망우동 83-5",
+      "road_addr": "서울 중랑구 양원역로8길 26",
+      "enc_subscriber": "vpmxqHnAN/Ev1tUD:ipwPrQNABm4SNVNaUZSsm1kf2Rgrdu4vjCV0N21feyPWfHEhKvOrK8dVvbayRjKTMSEqErN40/O4A6d9RKlcIYn0oUnU6RykJ6wwVNBzr8T8rsV8SDjEPQSCTtN6JIiYlhflln0mpKMR4sPi4kZ33KtbhtlnPQGJuJxAKuI6VV39Z/f9zK0bgVGbp3M9sJrQm+/JqnkBondAgW+i5Hy3Kf2uA4SIjlFJZysN",
+      "lat": 37.6049504,
+      "lng": 127.1083447
+    },
+    {
+      "pnu": "1126010500102330017",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중랑구 망우동 233-17",
+      "road_addr": "서울 중랑구 양원역로 31",
+      "enc_subscriber": "YxBrKra77KfdZY+u:835nBXm5Y5XxOr5IiLrPwmkA0MQUavefwtZm7EvcfYOfEpzlPDp9SmTL1rEUvUh7sLKeCFz+mgfAONlmaWs2gYq+IPVyjcUu/cpBD2cCH8aI0KkIYjM=",
+      "lat": 37.60332495,
+      "lng": 127.10743557
+    },
+    {
+      "pnu": "1126010500100830004",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중랑구 망우동 83-4",
+      "road_addr": "서울 중랑구 양원역로8길 30",
+      "enc_subscriber": "fVVrN7C7Et7BjoCV:BEXxdZE/wSjOgK3t6inc+nmJmsm8LpK9jHIdTycyZGUPji1prWnr6sQ2WmHzlVd8ldKxkLDALW1imaTLPLgt1ZOz+N3e4tqbJP6HYrOQEwiMu8W6yeUKBrwlFjtF0tWxnqcggJb54YwldOuiH37xBa4WMyROhR98Ky6Kpg==",
+      "lat": 37.60503219,
+      "lng": 127.1085482
+    },
+    {
+      "pnu": "1126010500102270000",
+      "match_type": "inside",
+      "bld_nm": "시립북부노인병원및시립중랑노인전문요양원",
+      "jibun_addr": "서울 중랑구 망우동 227",
+      "road_addr": "서울 중랑구 양원역로 38",
+      "enc_subscriber": "SxE8/IGb1i3O94+A:A2nhjYzRW+oR8aG3+xX5VdhYGIKkrflSV5JoQYjWVILq/A/XKOB86uSVRO56NE03y5p3l4fJ7KIuWiYXZyFAfuxYaVy3UTvUw29x8gGFM6ROD5Jc9FhWIOPS6Je1Pv4KwdLVLvZwoihP/83KgDOKIC6//ANHcY29aw4Z",
+      "lat": 37.60438935,
+      "lng": 127.10767922
+    },
+    {
+      "pnu": "1126010500102390001",
+      "match_type": "inside",
+      "bld_nm": "송곡고등학교",
+      "jibun_addr": "서울 중랑구 망우동 239-1",
+      "road_addr": "서울 중랑구 양원역로 50",
+      "enc_subscriber": "kg8SZ69cZmzM5Sei:YY6dSe1VE3X/VNYJwTH8lu7kiTbZPWLNURskwWMp0fn+wouypWp9BKBKPIvg5tstyUkuepy/cpoX8UrGEdz8vnriSjeNbD1joSZhYzir7KbMp9ZQdA8=",
+      "lat": 37.60565069,
+      "lng": 127.10751398
+    },
+    {
+      "pnu": "1126010500100860014",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중랑구 망우동 86-14",
+      "road_addr": "서울 중랑구 #-#",
+      "enc_subscriber": "SHjtusQEGrQ2fbwL:RMVrGq9lQPiRWVTArWgsICvR2azmRLki8wDk8qd9DsPM/BtG1MhuuxVeHBinwjHOOQB2qvMalIRzBFKC0srjwH/FGeYovHARMN2rlC/P50MNisQ/YVg=",
+      "lat": 37.60362194,
+      "lng": 127.10729806
+    },
+    {
+      "pnu": "1126010500102330008",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중랑구 망우동 233-8",
+      "road_addr": "서울 중랑구 양원역로 25-6",
+      "enc_subscriber": "9qlaErfv/3tFdEAN:0oASFV1d1zvXuZv7ZrwpPZ0pFPdgH2tw5F4GVdKKEbMe4JwRPMIiPmBzVjiJtiXcRQMsHZhDrfoMmnJdXYsamI3NuZ1g5C9yCapbEDqQxk3fXFVVymYewcYseUhV/v6KtAwUUxUWVIFI5uX3EZvh5M7O/FQzt8N47ZX4eVeFrxl0ccFMIdWGgcWXKhtIMgXG+I9xiXSu69F3QC/E9xCy3w4T1/xHGg==",
+      "lat": 37.60298279,
+      "lng": 127.10753933
+    },
+    {
+      "pnu": "1126010500102130003",
+      "match_type": "inside",
+      "bld_nm": "개나리아파트",
+      "jibun_addr": "서울 중랑구 망우동 213-3",
+      "road_addr": "서울 중랑구 송림길 124",
+      "enc_subscriber": "9RPVVUrnKjZBQ46R:GUZP7fnNfC8PfLCNEmTj8XOnFdnkLD5Pod0UfxpraaacVWL3moN8tNwVugOx2JEuk0qyC0++tD5pbE+81YHi4vIKF5r4IGUChA1DzSxF2LwTmfWOf/jOs3FcfkfSObmLYAjXffNG348f7ak0uUBmHl3Cg2/PvWv/bCck+ur2WioLq7w2fKXZH3kQlqKO21ZaJ6Fkt96+DLxjpGlQ1VilikSGnvPo4lF9B8D4Ikb5n55acEfHHFyyEi8kLeNpX8hOq09cpwaQILoB1g+mEgYxVR/T5Dd78CK40JcxPH1v1w3yeDtNHsqmj7tR+un6TAzbvnXNr2EK+NgORPNfSCA2eBvzqIEOWdBd0qeBSxua+eDb/IDExBNU/ZYGdlImzj4yCRRaTz/m9nHMKcKnBOmwD1NpxzmazsBzcuehONiVW6P7tyXIJeETXSJ+Ts8qy5PAtO54YUL2xc8GqFpmPJ7g2ipvHx6+d3td+pnW/dw1TuUgGB65noFeHAtYQSxN/NmWu0U18N8fOs4QzsfnZbPjjCKOSdRqIaITPp/LlSbmZSXae6Q0r7o1NogDUv5/sMOCva099LU=",
+      "lat": 37.60501402,
+      "lng": 127.10579528
+    },
+    {
+      "pnu": "1126010500102400003",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "서울 중랑구 망우동 240-3",
+      "road_addr": "서울 중랑구 양원역로8길 25",
+      "enc_subscriber": "x80N1OMNlkzBklm2:8BQy0Z5SYM1IyPoqWaCWv1orJBlxbba8uCbI7uUBgPMfpQ68G7BhznriqNsXzKSlcKHWs/2sne+tnOD94dVS0VfHUi7MKUYoNjhkD5/3Y4NFQG4bVFiYy0Or5uxQ3uVCEV0PCznE8dzFSVWsrqGiJhpRDgbxq59RgWpPFQzEcshjZMmmMPUDAmrNlcoKs4yvMOihQjgBGkyFXZcArRO/iwo7FT0I+V7d5C3hOLUkCAMNy8nF7bHvIQ0bgDahBF2rRBoXgiqp5/05nxndFaxmT8+FrMXmaXxDZMtVHVMzPSHbN/JzQ8VzWIZ9Blc3CiTsWOwLDl0UST4NZ41R5wPgkv0=",
+      "lat": 37.60512067,
+      "lng": 127.10804925
+    },
+    {
+      "pnu": "1126010500102320002",
+      "match_type": "inside",
+      "bld_nm": "송원그린빌",
+      "jibun_addr": "서울 중랑구 망우동 232-2",
+      "road_addr": "서울 중랑구 양원역로 25-3",
+      "enc_subscriber": "4GLSmrfbbcS+46FK:vFnbNgJwHXN8pWnBQduBIa7ytAOyY8CQm/ZZs6+1WJYGMZtwLhzutLjncWPq8AzzN+B9EwUP64PaPxA1G1ajz33Rw+u3Ai2BXvJlTPN/f3ty/5tEZSpr8BnJEgnBfc2Eyfa8ndzx8pJ6OS8u06EBkZcqvcncE9AKthJ84vb82leRyW+opLP8KEYdfRXi2tgvxlv/9606QlDk15K2G1P2Ta7MJsskfaHl7WWkrPgU0Rxd5WJmCCCnWjuMr5SJZSLHyDjmZMmDDGQ69IXGSiE=",
+      "lat": 37.60282854,
+      "lng": 127.10723426
     },
     {
       "pnu": "1126010500102330022",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 5.22387164,
       "bld_nm": "카센타",
       "jibun_addr": "서울 중랑구 망우동 233-22",
       "road_addr": "서울 중랑구 양원역로 26",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "pyg6jwQ46t20KzKW:SYH+OAd1ppjcRcJVzxEyENQXwaZeQHTb08e5cHuQjusTYmt+MSk+ieIwY93B/piD7fD0w0uV0SkxxCc3bfkMF5IU3w5nWp2bkzc7jDneypovdRmLTmc=",
       "lat": 37.60291204,
       "lng": 127.10794755
     },
     {
       "pnu": "1126010500101850006",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 9.27387123,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 185-6",
       "road_addr": "서울 중랑구 양원역로 17-33",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 6,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 3
-        },
-        {
-          "method": "광랜W",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "BMEQy+I+w4sHJYr0:KA9UswhPtcRMQu/lpbGB2B9xm+mdCu+ta7i1K8qsXilf5gk2BT1ePsY4utziqRnqaRnb8IxYiQMv15v6MS+Uu5/plW+hSbyTtRSywPqJh1VFYguJ8l/IDEvJAJGCa91PNkrmqo/9dhXltBdjwKj8dl34IJEswLmdlDNKY3zZ71u0HuDCrSrdpaQAePzhGuKtFioEdrLD0m7Yv6e02ag0RPHIwY5u9g27b5DF6mlcT1PHPtNLw7Ft5Wnl2H9DRcpdwEPM89qGBqEBQ7jGf/jfvGpYEVuhjG/uVdhhY7x4OfL26kexAzZuiGFdn8FeeFx0+cNv4kSKTvKD2qDuNWL1KFbjd5XeboDGFympoGWbamomxycpwYt9YOEGX0VwK1eXY5jaLVowgPNHJMSe",
       "lat": 37.60268478,
       "lng": 127.10737096
     },
     {
       "pnu": "1126010500100860005",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 17.91212341,
       "bld_nm": "운지그린맨션",
       "jibun_addr": "서울 중랑구 망우동 86-5",
       "road_addr": "서울 중랑구 양원역로 20-13",
-      "avail_gen_cnt": 15,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 7,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        },
-        {
-          "method": "광랜W",
-          "count": 4
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 6
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "CfyKRFwPqzn4W9Eo:U2QiWMSuc+mGECiU+AEKn8mmlUv5A3XDsvssVOPiyE8hTj9twIDt+nICID8cTsGrO3n36bksL44DIIOQUITVNTEH8lwTl/3w97mmAsOMB6vwHa2NZ7Ghxh3KoTELKw1ZN5P9QhBCSbuEWQ3884mSFcej9fQquh85Q+g3lJrLgEa88e5f1/hTis4oRP/UYXq1+friyuFG8E4kKBnmQIO13zNYfwtPJrJ3QgSd2XDVQEiIArdFy4xR+NpKHqf33XYW0pyHm0n68Ny4BQt1PgvHsIb++oBtyXuJcDJsWm7peicviEnvKA8vqsq6WyKp8h5jX+yzP4M/F+xz1v4=",
       "lat": 37.602968,
       "lng": 127.1085137
     },
     {
       "pnu": "1126010500101820007",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 18.06097887,
       "bld_nm": "02063(일반건물)",
       "jibun_addr": "서울 중랑구 망우동 182-7",
       "road_addr": "서울 중랑구 양원역로 24",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "RmSunp2HVwzZXALh:HSEbsfjHWHvJiQ/BVyHRTlkgF13rJS2z5bHDHhdR4MIgSEzfD9TkOqWw0i1Tj/BHC3EPNO82/9DzQ+mBmWEO457Guw5cD3QyfUCAWwxEbUXQHt4rESLLzJZcypPk3Y204soFv/OMvjTmOE14b9zRFYWp3DMMnO0=",
       "lat": 37.60279494,
       "lng": 127.10797082
     },
     {
       "pnu": "1126010500101830000",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 18.21509777,
       "bld_nm": "해동빌딩",
       "jibun_addr": "서울 중랑구 망우동 183",
       "road_addr": "서울 중랑구 양원역로 25",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "mTyk2R4thTfyK9Ta:rI138eripbpcDhkkFLx+Eq/B3pwVloKbY5Xunu+DdLDzqW+++UIr00PPAqrD9Xngn/mS0oqOuj4NlsWgF6M0hFoHgBl0Eti9QXcVsudexrat5QoKtLPV9pVC26Ozw85ixdqwyYncdKmmBfo2o6PvlIvfMnssZewGoEo3PWlXD/A8R4zF/i0uMBuys6gTdCFgUjhOjK5qreclN1Px1RMsKRZ6pMsbrSsclh1rXQ7Ev6Psh3ipfpJgqS2HreYYQsHWO1r3ZYQkP+2GRftxrU45HgD+HYY6D9Rxlw==",
       "lat": 37.60269478,
       "lng": 127.10766546
     },
     {
       "pnu": "1126010500101850007",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 20.76054437,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 185-7",
       "road_addr": "서울 중랑구 #-#",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "gR1vP65HfzgIOyFE:jhiGQtRHaGrWE8asGjBSdZ6yDSng/FFrHA5S7hzg1KkUeEqHMWqpXH1ThVMY866TGlyBvn2R4eijBJfEx8qyZMCGh7E7OkIhVJxXtqsvgyusM61rfFU=",
       "lat": 37.60257666,
       "lng": 127.10738286
     },
     {
       "pnu": "1126010500105980000",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 30.36452633,
       "bld_nm": "신내역힐데스하임",
       "jibun_addr": "서울 중랑구 망우동 598",
       "road_addr": "서울 중랑구 봉화산로 301",
-      "avail_gen_cnt": 233,
-      "int_scrbr_cnt": 83,
-      "tv_scrbr_cnt": 88,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 63
-        },
-        {
-          "method": "광랜E",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 18
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 13
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 56
-        },
-        {
-          "method": "Btv(자급 Apple tv STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 9
-        },
-        {
-          "method": "Btv(판매 Apple tv 3세대 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(AI Sound Max STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "yRo0msTASHYI3m4h:JNqR5102TEsEunaJ5DLC5oUjwBGeJUWIPX4yKDQDmdK89riWencRxZjQxRkPbGhrGoZOGTRnN64rXSDmO/pKf1fEIQ14cbN1KrtU8yngyWLWNWZxI91QYiOBvh3mEHjf5JO2B7VgzYcdBO+flsbGlpWxkHUVgrgW0OH7WVoCu8Is6sZ25bLef4EODuo6zecv2a2QUD4Os5QbjelR4Mv6oSGldaPcFpUiI3dmvcVPVC6rGTiMK+hn5lwFwk9TpKr1Al02y6THU5GZsIrdH2GmNXd0CbFM6q8Cs5+WY9G/yjUASUr8NojOShNLXxgtSZFuaFP4nm+1WtPp9hvyWNTGrnF0cCvcMI1ynLSTwRBhIIZb1et3hYO0Zj2SJpLfy8fAJn2rOLYRezQBUmZ9GLOy3SPCj4hJ/JZ8TvwQKb/UXXoZ2DYO6wOqn4Koxzjjd/htgAG+KwQ7dlBTu6Q2AqHluxERHjp/vSvb9VBiMqZt6QD5PIpN4wGOrLo/cnmE4+5Rpvl6r8qATwLvN3v5QQp9+bIrjgv61YZozvbGb3o+2j2LzZagjKeoIKOzSNCCk/Ds/4y8KYyYrgX/y8bU1rWdU/6CyHyDYwyVGxVUVRwjVdlXhnz5D2279eqSdtd2X6FTERPAECK1ItKkRApuoi0NaBNge69c9nDfSE3ixkIclpVH6xO1bEL4KSAiPlUhV7GwV9yBbqe2zPLP4vqc9GG/7beEjHx80OXY8xd5xBNTf/FTVt1XfEph1U5C3OyLZEB0amzRHcLy6tE5oXWKqZMLoNGLOxVlQr+8mwvb0ukLoRl56v512YXZlIglOGoWtFsQdCMgyAIowsij6vTsmILazPP51NzKntN3/VWLguJTQP2dWJmJCz6/wQ8QEKuD+J/fYxyaZFWiZ3P/ztvMq4YkU3UtyOJLMBDhGz//bAtqxPbVLlEg0Chfm9JVwNdfN9y/JeGPUYvf0Of2evB1q7mx",
       "lat": 37.60655337,
       "lng": 127.1079171
     },
     {
       "pnu": "1126010500101840001",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 30.7020107,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 184-1",
       "road_addr": "서울 중랑구 양원역로 17-29",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 4
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        }
-      ],
+      "enc_subscriber": "K4YOE+/z1w6195xM:xFkmwlPsoT9pfk4rVTnFtFYo4fbdItXkOV8VJOrHmCfDalYtJaWRjjYyf6GFisgrc2Pfy9gyjVvuiiFQXiHeQckmL5cnRnFAW58wt5q/LfNRePr4R50YXGNYl4dnsLvDGdNjiuni0oUF4FZyD7QDpaKZ/1X9lyWQ691WyH1k4vghQTkztNdSYpkV65r/LlgA9CwQoEjf9UrSDx7pZK1dawI0DP363X2BQN69",
       "lat": 37.60253212,
       "lng": 127.1075417
     },
     {
       "pnu": "1126010500101820079",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 32.57240496,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 182-79",
       "road_addr": "서울 중랑구 양원역로 23",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "BfPOI+Q3WULDWCT8:IRJQQVCprMjfRgVs9SMmImy4eo0eB6FVEUPTZssgrSE9nIHYNImYHufEcghBaLwTVIe6oA309Wl2+WhZ62h09IodZDlu57o1z9tSYPTU/ZN3xl3687T2jJvLdvWfF55A2pzxouIsMlxECsgDZuMDge+etm9ewVdDh/JFRl59R0ovTVuBNcACT9gbqTsTXoLaoWAN73x3a26vtVFoWwHrBiQsabc=",
       "lat": 37.60259604,
       "lng": 127.1077906
     },
     {
       "pnu": "1126010500101820011",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 34.22198303,
       "bld_nm": "동원빌딩",
       "jibun_addr": "서울 중랑구 망우동 182-11",
       "road_addr": "서울 중랑구 양원역로 22-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "jaPZX8RV7tBj6VAw:AEPXA0IR9t0AoThNH1bK5t7R2e79mHo+dR/CdlsAqTk3/vhtoeTcK8manJXK30ly+Ikk28S+E/RBITzuMTSNHwoFym18s3XOzqFcIlO6RpinU7QCwzo=",
       "lat": 37.60265997,
       "lng": 127.1080395
     },
     {
       "pnu": "1126010500101820004",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 35.46893653,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 182-4",
       "road_addr": "서울 중랑구 양원역로 17-16",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "FGjUmlu0ZfFOmyj0:IB9UF/Cs2bAWss0NbqdQDmwYRV/jyg4yIha73vidON8VOAJV1dvTnyO6lyr3jb/3EjZaK6T6Jkl/UEc8YHER/AFgGsZni1J01Fm1KXtgP8gYxOr/NDjO/rxawYncqDAumihIS6wUHskKMgjqxm/5qQssAYFTK+1Z0hubrndOUk/QQ10CfIBWScP4WUYEMB93R4MHm3D16IxLZ1Unculo4i3s1F57PMY=",
       "lat": 37.6025417,
       "lng": 127.10771158
     },
     {
       "pnu": "1126010500101820083",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 41.87393721,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 182-83",
       "road_addr": "서울 중랑구 양원역로 21",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "WYlvNnfV78aGjuXy:LfJvEbNEQ845Wp7Tx8ll/cza8Cr9P0xj3IZsKpCxhJgUiqYfmJwXHp7hV7PKEfshzQbq35LYQRPUmRDS8aN8FE8YGkRRdbW2/9iVD0pJM551J5oyMPg=",
       "lat": 37.60252413,
       "lng": 127.10784762
     },
     {
       "pnu": "1126010500105800000",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 42.4199403,
       "bld_nm": "금호어울림아파트",
       "jibun_addr": "서울 중랑구 망우동 580",
       "road_addr": "서울 중랑구 양원역로 18",
-      "avail_gen_cnt": 686,
-      "int_scrbr_cnt": 255,
-      "tv_scrbr_cnt": 298,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 163
-        },
-        {
-          "method": "광랜E",
-          "count": 91
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 60
-        },
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 166
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 20
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(단독IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 6
-        },
-        {
-          "method": "Btv(AI Sound Max STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(판매 Apple tv 3세대 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 11
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_B tv air)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 2
-        }
-      ],
+      "enc_subscriber": "WqAw3J3TDwUzRyRE:gSgrp4f4yUuZu+D3cPvYIbIF661FZ0QUfi86LxRvH6qXoQ+gF+VDb9PxslX2wayn5kuLzoVAluSs98ifPHdpWWfTG8xbzWAKbWFX/qfIC/jgqthF7SxUVm+z6G1qzTTVtebzv3vAQHKWksbbuzInEnPxAdLn3EBxnokTplS3qTwtRwteaLeLydzio4tDWXoCgBWW91t76NeXaAXeqZYvW4YNjmjbMA3SFuikWBMkgbHeSuECg6ov15Lh/jjYPatLgPfgyidIwi7EAxzlk1Jb6n/U/8TySKYM8gqk0AAuWFPb2JeQHSUsRtxu7O7RA+ku+oyL4kaHMZVWrxYck9x/sT+dDSEpMnHSiilw2PEk+D/9dczuA2bvGY0kGNajxuAq2RNih+hr7V9gjrWPMwMxbU1j0Ips+2UOwXFrtqXtVs0rKDbfoi0eo5NMe6BiVseTAUDn8Wc06z9UwPgJlbc5ixsbaDn/wnsU1Bx8GkYj6piHofa10r/uXCneEYv+Zrtv/K9p3nAJNMSMvoK4INF5bLPGAghJikIggPXJ8nwcgVJXQg6I+k+UHTy5h7i271btUYMNeWjzI2jhL13z8ePEE/gYcl9rSMTIX1WKY244N0T+MldYr1KTxWo3D5q4DCzZH1qaVZohhyhmIOQTd4V79EeySknNQUo8xI0VR5BY7q11rPY2th+hvWxUkmjYDa4C4iD5r+8Ke6OgQ0TIOLEWFfoh+8AAIs4J3P0hwFZSRwIVxuimuecOCUbpQhlGYTJfiPjyzW88MJI6TJUN9kDMX6ymH5bzv8SEoUuMBtup4zPtibW1GRIiu5Ty4KVsBMcjfobh8L5G34EtA21HG/VQOoFFuXVvdgfB0nuuo3ckhUiBTKwNbT67ruo8XSscvQHt1wZNItsrIfjWGREPF9C4EUK1kNjXHWmLonnC+7yUNxYjJ8r9TMsYBLbuAjh0yQCf3qhZ4aTq3dryraQG9DTUpivzoCeGpkdMIxHxsoAquNTTF7oKBwLvCnGbYbIfAL5hLb8DzwAfKu6GrVYGo9oHI2Ou5ja1YHl+ZTcUyZFQTdB8L9uXjEbx75YMcC4RIVooy/ml4Qqz+VACKb87mE11CNp7Rz7lBX0gfEARbAj0A0SghNzwtOXaZKs6hUkn0XDWpL3uC79yFZsHLQas0nFl98Js9uM4FuRmoV9/ojFPOfMr9L2pOgpebvy27spyFoHUX5dUs7qJDN8ncXmaR97etNk8FCQbOSctGOiMGzc8pXLdU66ncjOoiUPNLILUVBZd6ImcYhMGeAAWtct+mvBBPKUDpWEYgO4Kk3ZfMB/PuEDRlxUxPglSk73d+CL8EZsySWazMZH8zwnPDsYIJxfebwhmbkpFYmZsrIxugpZ1oQ9nJVvA3FNtS9yiqOGDjADpcVBuundhP9wA22bp1RP3Bs6XoBXPuyXfQDzMhQ==",
       "lat": 37.60277012,
       "lng": 127.10863936
     },
     {
       "pnu": "1126010500101840002",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 42.78030314,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 184-2",
       "road_addr": "서울 중랑구 양원역로 17-27",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "M1F2Bqwwx/jDxFBl:AuY+C1HzX2KLs8bR93ofjuXCUfCmGWme36sY+UysFXBubcldkvKhqUSS8PCASPniZ91iLtUus+1qNiXelGaM9WuvFDNOg1zJOk/6XMjatt2sqwc6U80=",
       "lat": 37.60243317,
       "lng": 127.10759886
     },
     {
       "pnu": "1126010500101780001",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 43.2425096,
       "bld_nm": "염광아파트",
       "jibun_addr": "서울 중랑구 망우동 178-1",
       "road_addr": "서울 중랑구 망우로81길 27",
-      "avail_gen_cnt": 233,
-      "int_scrbr_cnt": 71,
-      "tv_scrbr_cnt": 72,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 38
-        },
-        {
-          "method": "광랜W",
-          "count": 33
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 43
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 6
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 12
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 2
-        }
-      ],
+      "enc_subscriber": "HhQpEwizgY7NhlyA:wPtmjWHvum9/VpX/TyOD6FzJqPZ9U+Kre6OjpL8Zds+CAM8ZCHLBWuBUPG7QG0hgtaOjvJ3ljDXtVO1qXe05zPgkvlLNmiLX/94aVZrDgZu0RW6CH9pE6JmwkXAcHvlUQO/6NOqin7ihQgyGaVnEeVTN+Pz+iXULh0iazuz2do66m6XzALSxZ5UpB+6z1X7r6cTT6ml2bMI6D3TZckuhxwrI9U2gTiPFzL78Or8ArfbuUb+QDbZ1l0lvazR2UpC34i8eB/iCV/dM4VFE2FYRAVjXjtoKwt3X9UKm24OSmP4tAFpFqkogxnRrvNFJ4vCpS/L86bX49iKyfqiG6WW/HugeqRmwtGSY0X5Yde4cE4QG5v2wJvSSIAT5RMHmYj5jtnxiWaRKSq6cR+QDByNr6ZQoNbR8rErFpzOjU1MuEOK6uhOdITprOZVHCYDEHv+FxR+Rafj/nIo8gsVmSOHASns3K7H9cckWqTwNU5YMB31Ide89CAsOFXLFpoNJAN70Lm4l3cY7ES5rmz30d0v2+ltF+7zPK0X6YV5fK7Jebh/i3y6B7fkpe8Ojd5PyN6DVOUXOv8v5/Nn/kqG51yd7czEpT18XZGIYR81ihqXad8OQ4gJnVGDcOKFJG+D4eYyOGZlxt9DhSRIYIamOp6dwCFBjaR91hGXRgS1WM7pfe9hCMO9CKm2o7RKkcK+rI8LJZGyIur0Z3X19qggFTMksLll1hw4sP9gBaZiEUY8Jebrv/Y7Fpx7EmC+TfKMC8d2L7ewzHDbYUjNOsBPcvYR9y67F68d+6rgKvso/cxAT9jl4vHJAiUSceAD3MmrYg52tUOWuRkfmwqrOF3GCEKSTVrV3hEoOACaIwjJ9s6PMcKuORcLM7KCAUcrZkzeOcJhMiZnETFMX4UR6TaVl0bM3qqbkSlX28nQC/8PYP16nDtSAAsQOCm61wRE3i64W0HpzJsSGQw/C3wghL1y7up8Xa8RwHMAEyrOMkmkwdO+q8g==",
       "lat": 37.602242,
       "lng": 127.10703342
     },
     {
       "pnu": "1126010500101820034",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 45.4927133,
       "bld_nm": "02063(일반건물)",
       "jibun_addr": "서울 중랑구 망우동 182-34",
       "road_addr": "서울 중랑구 양원역로 20-5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "fP88hWhvm0IWPCYY:yE/DcYcxo7/qFJ77lL4SgTjtqxc8eAu5utlP51EP05GEWO2ksMrLaAMXxXimPihipCw8TMJCoJdJJrKaMUyvKOTFuLOV15if4ZpVKwOPzbgxyTzXJro=",
       "lat": 37.60259736,
       "lng": 127.1081871
     },
     {
       "pnu": "1126010500101820019",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 46.62220976,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 182-19",
       "road_addr": "서울 중랑구 양원역로 17-14",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "Xwp7Tr7S9j+VGa09:K9G6utZAQloUQMmVzt3j3mICUaWBHp4ktuGrAv3/RrOLef8OtVr35QEPvtsEw9/Y6/xOOJPhwkprEVKHwIznIusb6nOE/uVE8Zju+E7jaaXXZ1ziB6s=",
       "lat": 37.60245176,
       "lng": 127.1077687
     },
     {
       "pnu": "1126010500101840041",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 47.31591965,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 184-41",
       "road_addr": "서울 중랑구 양원역로 17-25",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "xCa+eHJVUgTJoRjn:tuQocQPPcfqBgw0lfQ1mt74NsFxyoiXQLi1D11MxMKQDahU4yyKcweQV7QybcW/MbVSsrQwJpJTDXGXosGpMTclX/4wqCtQEDzUn1AvxpWbghVOAbwVzfVKC2/ejcYXjCQZi+ve3qSRq5CLHDiLn+/R2U5MaI1nNJHzlHXXKY0QwOMT110fs6MsCACV3uyq7vUpglqDpUTGP8Yc7jExQb4SKjVQlyXvzTbNCmMXFdkZ9OET3f1wzovW0P6kwVEnSS9fa5xJ0ggceuJkX8vWUm7VeL6YuwFB2+Xete3vTgNLChbui",
       "lat": 37.60235167,
       "lng": 127.107486
     },
     {
       "pnu": "1126010500101820074",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 48.55675884,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 182-74",
       "road_addr": "서울 중랑구 양원역로 22",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "g+kWNXc1xb3f7HfR:7nQIkr3Kz3esPxvH/FEjXfFz6/wmW5K2cH+KiN4Pyjh+wk9CefiwM9TgRmWftYCVv767GmjoKPn6A0OGufz0OiWXj4wyDBIOE1Mu5+fB2jNkMnVd7E0Zmiv5rnnRSx6F8IeyCxO8cOGd1tAmJLeZvJTjDKaP45hir/lMYjH2uxMSqlp2ETBy7Ir7XBwxhrlnCfFzosFKyAHCy+7dRzJ6K1JgHBmfkypUjAAd",
       "lat": 37.6025248,
       "lng": 127.10805154
     },
     {
       "pnu": "1126010500100790012",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 50.88417999,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 79-12",
       "road_addr": "서울 중랑구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "A++sLBttrXFlnYeB:07/6qWIlDxEXbjoeKnDbzX6HXlLJHAg+Ws6WQ4+WzaQRCzVRDk4o67a3U7SzBBqePYMkilnRGKwqdOJTazknmcQxI0O43nBv8IVNBj2jeRsmyNnnlY4=",
       "lat": 37.60419913,
       "lng": 127.11011599
     },
     {
       "pnu": "1126010500101820002",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 55.87886084,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 182-2",
       "road_addr": "서울 중랑구 양원역로 17-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
+      "enc_subscriber": "loGq59tkAJvmW9eg:JVWwOVRoeH7vxNIjQmgHJ6E/1/ENBMCM9fF3lwsoq/y0eW1sS2zeAfN1xmI8bLMv5K9p099AP2bp4mMYBC/VX+kSz2hviCQxPEgRZ/1dNdvSruWwHeQcO9uzYvtul6uO45Gi2KAFKrSYZE6lktpFknVylOhc9zN9Xa8Ob5yXnYItk0LhMAuITLjn8Nvf8KThy7mbZX6GOXb9F26ksy24POqg2tyOSGGeuSMt",
       "lat": 37.60236162,
       "lng": 127.10776917
     },
     {
       "pnu": "1126010500102410002",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 58.11546903,
       "bld_nm": "망우청소년수련관",
       "jibun_addr": "서울 중랑구 망우동 241-2",
       "road_addr": "서울 중랑구 송림길 156",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "uHFHFZ7yan4ytG0t:ZZC2ZzClUm5QN56Z8H+PEYM9PUN0a1aEFfgVuikmBlvWBhOz2GObzDW/K0qqf21xNaRVKxItnQavxc2U1N6zHvRjvoCq4n2C8GhhSV0LyT4KPXoduyw=",
       "lat": 37.60591655,
       "lng": 127.10886079
     },
     {
       "pnu": "1126010500102160000",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 60.15014453,
       "bld_nm": "동원초등학교",
       "jibun_addr": "서울 중랑구 망우동 216",
       "road_addr": "서울 중랑구 송림길 114",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "/BNmaztydmlHjTgj:gGWH3Ci+r/0te07u8thspH5Fv8k3JaxPWW89DkizxF/WPxZ/0vrCyDSktJBPzVdxJTNs/XHmnbejbazYE2ZuSZb8mei4qL29yXgAgmk01MguA69DJfA=",
       "lat": 37.60466931,
       "lng": 127.10514
     },
     {
       "pnu": "1126010500101840040",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 62.67140514,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 184-40",
       "road_addr": "서울 중랑구 양원역로 17-23",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "jbxnbdXZozb0Kdvj:IXhJqMgbA8c4eS8MW/eP746PByuhsN1EZH7/iKE2X4qOveUUCFYhf9f3/DYM/1hJW4ZPcZT7cLjlvfQaOiIeHbA0yNbVEDIQiVCDBCgUPw8lgcYWNOHD4JQXvoDKbvZ9fdAGnTR/jwhdK1z1Zf3dHdHOUeWai/gqlNwpuCti6S3pEknUXYvAw2J0ffywknDBygJ7LFDzESsDS6baJVogHMxFelochx05nFJWoiNfWsYHvAARs7U04P2q9iJ+paWlQE1rEUXzbOXUgAz0jyQ20QXKqQk3VQ==",
       "lat": 37.60219841,
       "lng": 127.10747548
     },
     {
       "pnu": "1126010500102400001",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 63.69614199,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 240-1",
       "road_addr": "서울 중랑구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "SdMX43J8hbuAlix5:zq9YaX8pKDk/BAVV2QRNwi5OEAYLs7cMl11YG7zx23dY3Ynmam0TsRE8nvpsjX8KkKSTenHT3bj1OJZbgyEWxYQ16CD7DYn81k0BoXGpJmQTz06+aYo=",
       "lat": 37.60581781,
       "lng": 127.10898593
     },
     {
       "pnu": "1126010500101840003",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 64.99501496,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 184-3",
       "road_addr": "서울 중랑구 양원역로 17-21",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "A090z8DDxIz13XM6:dmQ9Efys3WOSds52JLvJjIDyoNIeVHOR3yadMxh6kOV9ez+mBbVx2BWB778HvhJ0R59uMvFTtoNM66RVQerZMSwtwlzEGVi47or6UBmRdOLjPGpHBYz+zqMZQTmtNGOq3pzTwfbMKmm3shlnHtsVmDZMWdVRfSB5QtCnHA7NToaZQ/QrOrqmCYtGCBHCQ+EALYFH7GH184iSGEXRtF6OKBDo",
       "lat": 37.60221685,
       "lng": 127.1076
     },
     {
       "pnu": "1126010500106180000",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 68.50521952,
       "bld_nm": "제이타워",
       "jibun_addr": "서울 중랑구 망우동 618",
       "road_addr": "서울 중랑구 양원역로10길 3",
-      "avail_gen_cnt": 109,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 1
-        },
-        {
-          "method": "광랜E(500)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "JTvB0t8KtR8wTnuK:pp04uXfWyd7w93YDXDNtCnOoIkvqMncYLF2AkBlTUfAzxekMzvZj2MVB6tRJFrnBj6vukacG0pIazZ/ls9puEJIBGNovr5zIWCUiISfTz1WYwF/qqYG6+ac6yXP9afC734YBjdYAcCzZsUP1rC41+vVDTtmGifADt5trPVU0f8sG2jnjajaXsSXlxGxfj0VvH2JZS7rb9hKCdW6jGTcN",
       "lat": 37.60665366,
       "lng": 127.10635979
     },
     {
       "pnu": "1126010500100790008",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 71.45518254,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 79-8",
       "road_addr": "서울 중랑구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "9CaYU8DSOsSV+dK0:vk+0bRzx7hkgRMVaE2eqchgS3RYalpZYKlmfbo5Rp67X+zD9rQ7d3ior43TaKGjSx9fPjjjBN3T9bziebD5CyPUmDF50unLOo9R31ziick2ekoMc96o=",
       "lat": 37.60410114,
       "lng": 127.11046771
     },
     {
       "pnu": "1126010500101820063",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 72.29917094,
       "bld_nm": "아이네트학원",
       "jibun_addr": "서울 중랑구 망우동 182-63",
       "road_addr": "서울 중랑구 양원역로 19",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
+      "enc_subscriber": "e2EQsjFFyzqj4QoJ:F6rhc+VOGjtsUZyyOIX0Rp0OD81IwuSQCSxLv9asgT7sUXaARdWFd1xiUeajWavUWrsw1BIqnbMpsG3GwCmXTpRFc2xz/a/5OMtQSM6UUtWDaqWSgAPUHaF8z0AANUbX2aFckCjHAR1OmuvrktikbcxbEjR0AOZRjQztLfh9rHtNXMDaKfzdUJAWjPS4VkR7yuzuG0EiAwqVXqu8IXb63HeqP7yDug==",
       "lat": 37.60225399,
       "lng": 127.10792834
     },
     {
       "pnu": "1126010500106160001",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 72.54695011,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 616-1",
       "road_addr": "서울 중랑구 양원역로 72",
-      "avail_gen_cnt": 7,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 1
-        },
-        {
-          "method": "B인터넷_타사임차",
-          "count": 1
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
+      "enc_subscriber": "alxF66vWVc2XcsHh:SD8fPNBPxWoroK9h/8QV+yYuUTAMAZH94sococnPOWxfmtiJD38o08ZFKHEdJbAL4iSSBI53hZMcGMoXSnf0cbMBry0biwLDcdcNqIfE3hzLh3jAeBveMSp+7YhIwFrCDItEOGEehy3y74FzSpBf4oUlENUsSIOlmYz2b7YYFPrTnrpB4U8yDMuEinLuxWKRVrQq4CLpH7zoZ4e/W4y1QOrpGDqR7GbsK8Ep50DVtdUmoCrUO4FkRTmEPc3VsXFwY+ip+c3DsLeSr79y4KbBxtIumFxzOkZbM2PiShcNt5IiO7qwQqFAZyVlpramu89FZc7aNfu+d9j0dGehQ2cYrg==",
       "lat": 37.60655574,
       "lng": 127.10592309
     },
     {
       "pnu": "1126010500100790009",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 74.77531057,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 79-9",
       "road_addr": "서울 중랑구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "LUzzF2Mdq24J/oKb:8iGc0gV/ev7NDz4QzdmSm8hHqlxKEzrokVUFXjNiLLjoeK/8HvbeOKFdSQPCX6rpSuezT1E7HN++CArsg4VlQexZhamyAkEwT7ckhzUTNaQMctadrPA=",
       "lat": 37.60405634,
       "lng": 127.11054725
     },
     {
       "pnu": "1126010500101850002",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 77.90783853,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 185-2",
       "road_addr": "서울 중랑구 양원역로 17-17",
-      "avail_gen_cnt": 5,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
+      "enc_subscriber": "MZhBSJKj4o3ocxDk:i+32dKpDP2EIoVK1/sAFxC0m+f4xjNEIAJAa5eyhdC29oNAEpTRzNBFNF74caN+7vvUXGr3YhZ74BjXXhPMgbVVNIbbAJ06IhYPci+5k+6PcSmHFvRvaCaa6x1lwnOa/t/551SkjMVuih2k4db2C42qooh/jc5P2oTSMJ591BDU8GDX4i82S5nnZqeH5hb+cZipEzTu6MXaDnpQxl4yxJ5B9qtTkE/hAV1ugx18jvEKMd+jIB0Gx9AuXV74NMlbcCQLuFo41cB9qhbghSj0=",
       "lat": 37.60207244,
       "lng": 127.10754411
     },
     {
       "pnu": "1126010500101850010",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 78.00072112,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 185-10",
       "road_addr": "서울 중랑구 양원역로 17-15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_B tv air)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "hmAOCLsYNqx6ixCV:tXUPMbdEz0l3C5LVrpM5/X4qd4TmjtQHHt9+7Uz3b1CayvAzpalx95Wyu+Ic0BfAHS7qFgTPQYWB35nTO2UMgfYVLfRGdh8GPpUNRLqmudwLcXheAtBXoPUEBd+gD6zDqPX80QrazCuFlIORRG6pIUAlR4996s5iXwWIGt6yAK7Mln0iKZYrJIMiVwcNSs05eJFQa3TVa02ZDtnAfz3Gtd6ezb+6fGaeN6Ney6H0e0Dc4R10Iibt5pq85FF5HOKO3nSZDReWbmiefRREh+4ty6uNlUatby62BQ==",
       "lat": 37.60210887,
       "lng": 127.10765721
     },
     {
       "pnu": "1126010500101820022",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 81.30597185,
       "bld_nm": "신흥상가",
       "jibun_addr": "서울 중랑구 망우동 182-22",
       "road_addr": "서울 중랑구 양원역로 20",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "vcs/ixqg5i/hwuVE:dw5SJUuachTGmwC57UWgWJrC3eqv/P5ECTCnDwD+DiUtJaDn70BVjijbrU6MdsHlL7TvgEtms0GKXDFcnbTb4KsqFSH0+ovVx1OPpPHFNmZrbRI9rDvmZGCPnXmwcMOYB6oNgi363oOCm1fbg2vkmH2rgJTK5nhmfGMN/3s76VQJ/GfwQh88/EmtGo+V6CoI7h9JWRC53nm05ShcY0T0UnXA/zTJONz8",
       "lat": 37.60231866,
       "lng": 127.10840382
     },
     {
       "pnu": "1126010500106180002",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 81.3155718,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 618-2",
       "road_addr": "서울 중랑구 양원역로10길 17",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "/C046fv2OhdXcgoc:Z9oO5+fD9jL3w0/NfJP/J+PmGbpBerIE0JDY1Wewx2DnjMxxmH/VmUqTOwyv+rCGoQvHKcNY8rsC7181FAUvqMx1f3kyfJtREaC8IyxZFz6ORCxHouY=",
       "lat": 37.60680496,
       "lng": 127.10690383
     },
     {
       "pnu": "1126010500100790003",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 82.4344727,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 79-3",
       "road_addr": "서울 중랑구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "cip+qAgtlPdhvc45:ZPB3yJPEz5spLeq+Z+tXlfxmuGsueeWrRYyt59MQB297DM4MoTi29FE2bcRBCQIlPp5nU5R8cvrHNfCfZ1fqNcapX79Ckm+KdHofAGEQG3VQp5827iE=",
       "lat": 37.60424547,
       "lng": 127.11050094
     },
     {
       "pnu": "1126010500100790006",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 82.67150967,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 79-6",
       "road_addr": "서울 중랑구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "F7mygJRP2XDYbKG9:77d5bk6Jn7C7lX2CkcoDhoqffBGW9SsVIyTrd2APC5ZJsXPYk4pZaT1UFaramIziXDzx3eZTwW2l2gSLcjTZKbF5PLIkwQNuEhsuO6Qg5W5mvMFwD58=",
       "lat": 37.60400275,
       "lng": 127.11069481
     },
     {
       "pnu": "1126010500101780086",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 83.20208912,
       "bld_nm": "염광아파트상가",
       "jibun_addr": "서울 중랑구 망우동 178-86",
       "road_addr": "서울 중랑구 망우로81길 28",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "ceRr7aib0br0eObn:6/hAAaLXTEtYhKhtQbgCz3hNulKKDEIgWrnPN6z/y7fwcOJYd6JMEjlcgqTo34Usn42mKDzisCRP7P5cuyVnP7AP5quryK1y5hzQcfJkPyNKx13tkx1gdKWevZQfvzbGOQuDfi2FbHIRDqwQ5o738yLx3uqzMNl7oIAw91fx2K/Bs5zrci36ALVom1v5teY/knS/x8GP4Abvm8EEQXSPm7kI",
       "lat": 37.60199102,
       "lng": 127.10745391
     },
     {
       "pnu": "1126010500106180003",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 83.43340844,
       "bld_nm": "제일프라자",
       "jibun_addr": "서울 중랑구 망우동 618-3",
       "road_addr": "서울 중랑구 양원역로10길 25",
-      "avail_gen_cnt": 44,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 1
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTVon기업 UHD2)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "OaFr30lEnaTsf/zT:drp656QmTBAfPn7wduTndWorCMgq3WfRHbEICuXWvdTqKkIYJDwNwa21q22EFgtzj4sYn6dnzGwef/4S+t/aA3UmNdhQ4rOf1tsSly0C0Pc9DC93K3uECjiuOJrTgSvEDbLYWURZNDiXYI2t+Bhytre6RWkObsfdHOolPyzpvwmWaoQ2QZRxKBikhnJklu5OwNOHYWqM+vRvClAskQ893MfW/I1O7XZFp33jBtavZDm3jV+wPYCF9g1M1tk8c67g8Aolw8ifGtoxxOncFZc=",
       "lat": 37.60689276,
       "lng": 127.10725422
     },
     {
       "pnu": "1126010500100790005",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 84.21266993,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 79-5",
       "road_addr": "서울 중랑구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "eGuXbDjhn1hS31IH:2OSC5s+lAiYrWIaI6EPsh4qwvUFtpfA35wd7N6nl4IH+b1W5PYim7zyVNkdyGgTFeNtKjWNAmeIFDoAkHjxpjGgYUT9V46amJ0X/406KMiTbpV68MwY=",
       "lat": 37.60410171,
       "lng": 127.11063764
     },
     {
       "pnu": "1126010500101780027",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 85.16146045,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 178-27",
       "road_addr": "서울 중랑구 망우로77길 36",
-      "avail_gen_cnt": 5,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "qoLcthyahHE8mYjF:XBFNrbp/kN6cr7IVVqq1b+g/nab4xslmvG5bjQx7Fe196dvLjwMJp/Zh6rTqROaq0YrAVcFr6IHmgap2WOL3PvmP0oDPm9uypHrn6Hs7i0Q0RZnWRaBM+ZAQyJVyArAQeyeZ3dA9ZC5d7XxyghdITiKXf5E18XyFJCEMWk3jW69SEm02iTjottd7LCHD1V2dEQED0z3d3+FMq/KjlOb1scPsC3V8w3jRF/Rr",
       "lat": 37.60220255,
       "lng": 127.10601403
     },
     {
       "pnu": "1126010500101780030",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 86.91613929,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 178-30",
       "road_addr": "서울 중랑구 망우로77길 28-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "bGTP+22YleZrEJlk:R7aaldYLPdZPgCkaiH+e1/zXWWezLY6841Uh9n456WemdueUgqUkzEO7D2snaYy3Guk99OccMk8mh0r0PcF+5OKow2v4Q/JO6I8TOYWL2T+i87PCki8=",
       "lat": 37.60202281,
       "lng": 127.10617358
     },
     {
       "pnu": "1126010500101780028",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 87.51983579,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 178-28",
       "road_addr": "서울 중랑구 망우로77길 34",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "zEExiSn1Rk4BFuHq:jjltE3/D4GyivrHc6ONMDqE6w/ItOMLK8rkHuQukNLfqOXrQcg4Q3vIY7btpKP9dUsJ6xJ6ggqP/T+PSRdjamHyGYME17uDDj4o2ULbDU+vhuKLLN10rvLNixzxEKYi3TvwiO52yL2cdM4rebi/FTGZtykEZzAlvTaVF07XC822tA/NBycTtf4O0DiiFOABv6hdT5nk75pTq8moTWsnqBHOBAgW6zgczHmoB",
       "lat": 37.60211257,
       "lng": 127.10605982
     },
     {
       "pnu": "1126010500106130011",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 87.7635243,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 613-11",
       "road_addr": "서울 중랑구 양원역로14길 19",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 2
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "hpdxmbuKw/4HnCQQ:gocstfVEVADEHWZa0Aoe3vxWdTfTP6XVxqBJlpjS2WfZdJlz4Oe7Lgvt8WvD6I/gu3rSb+42EGvyyFCXpGACOD6ozERoNveDDoCfx1nYeXm7SEf3lMwNTNG+9VVkMbxD8K96LnqQEfQvO1Ga/6PiuXogxbyIW90=",
       "lat": 37.60703209,
       "lng": 127.10762617
     },
     {
       "pnu": "1126010500101780031",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 89.47611689,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 178-31",
       "road_addr": "서울 중랑구 망우로77길 28-4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "2T741Fb9qTKn6ob1:UJufsas2BUwNHxEKf4pRYh5iwkRiG45XhqnryHy+HpoVjP9hy1dfZr9Oi82mCbdslBx8N1KqzWlkshrTAavtwlOT//QTppiPGEUn/D6iN7RO9oEJIJY=",
       "lat": 37.60194196,
       "lng": 127.10625331
     },
     {
       "pnu": "1126010500101850003",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 92.05050873,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 185-3",
       "road_addr": "서울 중랑구 양원역로 17-13",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "78NpxQ7ijbcgr0r0:dtkX179tOGmMvqfLC6sfz1qR5gs7+c6WysS0cuxyCIWQkgRACE5iqdDr1C9zJ32PLgSf3Q/IdfZSFDzBi/nevqXMfv6z7xoKvLlZxZ4jAfmWSAm6dTM=",
       "lat": 37.60196459,
       "lng": 127.10763531
     },
     {
       "pnu": "1126010500106160000",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 92.46207104,
       "bld_nm": "정안빌딩",
       "jibun_addr": "서울 중랑구 망우동 616",
       "road_addr": "서울 중랑구 양원역로 74",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 3
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "FbswjdzpsKWW50Gn:m6Q4e6B7V57RzTwBRZRo4KK8jxnzaZEzzWUxtCfzquEO+orhkOGifN0OJQhBv1x2dd84lnUPtErwVwZrub5HiqyoXGIm2XknW7/nE5ZKZ8ejBLtGCMg0UBMZOSr7yWbDITNFMKZ2q1oQWn5lvl6/lcsT1Eun/J9XE6tNU0y/hxgvpGQ5iI+uR0Tb28iVRIAiDxka2MLT7wbOqx9gx8lX5K3P/ueqFqXPXH8oB7y1NPKh1R/TQgj3sbzljxhkQvY5wXHM5YyjkqTLjip7d+T1COpuf0RCdgAtJL7BGp4V4I8q2GJH0hWdsjhsOW5WUj0Kt4XZhwb0RLJpWtZYZXyZW48xkVm5fNFrTRpPC3zwE6Jlm50FLyxEtpeCohdNuwc=",
       "lat": 37.60690044,
       "lng": 127.10657839
     },
     {
       "pnu": "1126010500101780029",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 93.40121848,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 178-29",
       "road_addr": "서울 중랑구 망우로77길 28-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "nyQYmMQdMPEaxn63:HGmn8aMtoYbYKB10w2vYFruSmWpohIOfAt3XDgIkazF+hJ0X9aFGCd9VJAdX4s/BL5jOlLY8o8KNcSNWlBzkqFynwsBIbkGvww/Kygt5XLNMtz47RZg=",
       "lat": 37.60204042,
       "lng": 127.10604887
     },
     {
       "pnu": "1126010500101780004",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 94.24680583,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 178-4",
       "road_addr": "서울 중랑구 망우로77길 18",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
+      "enc_subscriber": "VhG/gEtNud3y9O5s:hOgXb3c+gquzQSSk8BiwGGo11KDGD8X/PURMIKmxYFVvpdsBRq3MD4UrlX4E+kxGDZovr+iVSvgZn5UqFeiIjtlWnkozopRUqkjhHkg6Dr3BWUm5bj52/k+iPny2rlYdhKzrF57wQn+n/2rAfBueRYkx7WPPu7k=",
       "lat": 37.60185209,
       "lng": 127.10633309
     },
     {
       "pnu": "1126010500101780048",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 96.86295333,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 178-48",
       "road_addr": "서울 중랑구 망우로77길 28-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "InYvglCwlhI0EQro:cPUK8OC85NgfIY72RKVacePzQDl/z24/V3kXu1lc8PwbgB5r2Ylt/FTdsdv7eC8P9kSOuHs8WQ5SDa1BoHzYRg1er5BP3vpcCpe9RgWMvWem1DgtsbA=",
       "lat": 37.60190564,
       "lng": 127.1061742
     },
     {
       "pnu": "1126010500100560000",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 98.12687999,
-      "bld_nm": "캠핑장관리소",
-      "jibun_addr": "서울 중랑구 망우동 56",
-      "road_addr": "서울 중랑구 망우로87길 110",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.60501927,
-      "lng": 127.11008905
-    },
-    {
-      "pnu": "1126010500100560000",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 98.12687999,
       "bld_nm": "청소년커뮤니티센터",
       "jibun_addr": "서울 중랑구 망우동 56",
       "road_addr": "서울 중랑구 송림길 172",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "Vg8+9xFzAcuxESt9:EJVAaMZGrlpxy51ukzGpNYe8MYqJKc/1xTc5K7cUiSOw6UzEVjXxn/YY2hpL73jZPEZ4/STykiWPHzRCYEkIQYhwowemEntGaHAkidHpSizZ35Tj+dA=",
       "lat": 37.60678598,
       "lng": 127.11011382
     },
     {
       "pnu": "1126010500100560000",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 98.12687999,
+      "bld_nm": "캠핑장관리소",
+      "jibun_addr": "서울 중랑구 망우동 56",
+      "road_addr": "서울 중랑구 망우로87길 110",
+      "enc_subscriber": "fS+e+sHrFUIHrA1X:pWV/J74D9O/xvtSddr6Qck52LYPL1rceGQQ8sOS/b2YQIOiqC3qj5WS3g2Y+maXgo5gI7j3w95S8YeyYTxW8QUfrWKSL+nIU+p3d8J64bNRZUfMmo6k=",
+      "lat": 37.60501927,
+      "lng": 127.11008905
+    },
+    {
+      "pnu": "1126010500100560000",
+      "match_type": "100m",
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 56",
       "road_addr": "서울 중랑구 송림길 160",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
+      "enc_subscriber": "kGxhdxfXEXg5IaNV:otPw++cY4qslJ5wxtqogyi4BFRADVXUNESf61OSSJqrzL0STJj3385cPBtEUmeNa6h7ODuSphdvZY3PsH6O4e6dxpgEChYvtFQwmnjSaaw8R3Klt38M=",
       "lat": 37.60643222,
       "lng": 127.1094359
     },
     {
       "pnu": "1126010500101360002",
       "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 99.80786901,
       "bld_nm": "N/A",
       "jibun_addr": "서울 중랑구 망우동 136-2",
       "road_addr": "서울 중랑구 양원역로 17-3",
-      "avail_gen_cnt": 5,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        }
-      ],
+      "enc_subscriber": "OaGgl4xMVbTeHyPr:ox4l1ootqJLPQoHW3WF2UtVnrIM/mGh4VwZLmLJiSA5Qw43pELNvv/zRfwtAKXhaBWvgBxPRcee+rzwfZaUPYN4/UhFKA/e7lhejdpoaFM36LGh9LpxO8R8nUFNpHY6i5wKpXCyhikX8qd0c4WHestmXt3WHj8vKVwZ9oiAGBScllwLb4NsAllsyy1dOgREC5EvofYRYLOK6yiLbb2uPPCL0LcXqM2Ji3auxg1I2Rk06wEI0WdyCE+GCXRIvVfteJZwmXN2a4PID3LEK3UoHxOFxWLhmCy8uIixaQH5yag65VukDlZOGjDJJyy1J8STO8Do4N0Odi5bEP1Pphn/O8A380T7qu9M=",
       "lat": 37.60195625,
       "lng": 127.10783927
     }
