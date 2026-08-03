@@ -38,26 +38,55 @@ export function requireAuth() {
     overlay.style.display = 'flex';
     input.focus();
 
+    // auth.json을 다 불러오기 전까지는 버튼을 비활성화 + 안내 문구 표시.
+    // (이게 없으면, 로딩 중에 사용자가 확인/엔터를 눌러도 authConfig가 없어서
+    //  아무 반응 없이 조용히 무시되는 문제가 있었음 - "버튼이 먹통"으로 보이던 원인)
+    submitBtn.disabled = true;
+    submitBtn.textContent = '불러오는 중...';
+
     return new Promise((resolve) => {
         let authConfig = null;
+        let loadFailed = false;
 
-        fetch('data/auth.json')
+        // 캐시를 무시하고 항상 최신 auth.json을 받아온다.
+        // (GitHub Pages/브라우저가 예전 버전을 계속 캐싱해서 인증번호 변경이
+        //  바로 반영 안 되는 문제를 방지)
+        const cacheBuster = `?t=${Date.now()}`;
+
+        fetch(`data/auth.json${cacheBuster}`, { cache: 'no-store' })
             .then(res => {
                 if (!res.ok) throw new Error(`auth.json 로드 실패: ${res.status}`);
                 return res.json();
             })
             .then(cfg => {
                 authConfig = cfg;
+                submitBtn.disabled = false;
+                submitBtn.textContent = '확인';
             })
             .catch(error => {
                 console.error('인증 설정을 불러오지 못했습니다:', error);
-                // 인증 설정 파일 자체가 아직 없으면(최초 배포 등) 통과시킴
-                overlay.style.display = 'none';
-                resolve();
+                loadFailed = true;
+                errorEl.textContent = '인증 설정을 불러오지 못했습니다. 새로고침 후 다시 시도해주세요.';
+                errorEl.style.display = 'block';
+                submitBtn.disabled = false;
+                submitBtn.textContent = '다시 시도';
             });
 
         const attemptAuth = async () => {
-            if (!authConfig) return; // 아직 auth.json 로딩 중
+            if (loadFailed) {
+                // 로드 자체가 실패했으면 재시도 유도 (새로고침)
+                errorEl.textContent = '인증 설정을 불러오지 못했습니다. 새로고침 후 다시 시도해주세요.';
+                errorEl.style.display = 'block';
+                return;
+            }
+
+            if (!authConfig) {
+                // 아직 auth.json 로딩 중 - 버튼이 비활성화 상태라 보통 여기 안 오지만,
+                // 혹시 모를 경우를 대비해 명확한 안내를 띄운다.
+                errorEl.textContent = '아직 불러오는 중입니다. 잠시만 기다려주세요.';
+                errorEl.style.display = 'block';
+                return;
+            }
 
             const value = input.value.trim();
 
