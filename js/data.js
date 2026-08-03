@@ -2,6 +2,8 @@
  * SKB GIS System - Data and State Management
  */
 
+import { decryptSubscriberData } from './crypto-utils.js';
+
 // Application State
 export const state = {
     areas: [],               // List of maintenance areas (loaded from areas.json)
@@ -97,6 +99,18 @@ export async function loadAreaData(areaId) {
         }
 
         const data = await response.json();
+
+        // 암호화된 인터넷/TV 가입자수 + 기술방식 데이터를 복호화해서
+        // 기존과 동일한 필드(int_scrbr_cnt, tv_scrbr_cnt, int_tech, tv_tech)로 복원.
+        // (map.js, ui.js는 이 필드들을 그대로 쓰므로 여기서만 처리하면 나머지는 안 건드려도 됨)
+        await Promise.all(data.buildings.map(async (b) => {
+            const subscriberData = await decryptSubscriberData(b.enc_subscriber);
+            b.int_scrbr_cnt = subscriberData.int_scrbr_cnt;
+            b.tv_scrbr_cnt = subscriberData.tv_scrbr_cnt;
+            b.int_tech = subscriberData.int_tech;
+            b.tv_tech = subscriberData.tv_tech;
+            delete b.enc_subscriber;
+        }));
         
         // Update state
         state.currentAreaId = areaId;
