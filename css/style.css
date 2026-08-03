@@ -936,9 +936,9 @@ select:focus {
     backdrop-filter: var(--glass-blur);
     border: 1px solid var(--border-color);
     border-radius: 16px;
-    padding: 40px 32px;
+    padding: 40px 36px;
     width: 100%;
-    max-width: 320px;
+    max-width: 400px;
     text-align: center;
     box-shadow: var(--shadow-main);
 }
@@ -992,6 +992,13 @@ select:focus {
     padding: 0 12px;
     margin-bottom: 14px;
     box-sizing: border-box;
+}
+
+.auth-card input::placeholder {
+    font-family: var(--font-ko);
+    font-size: 13px;
+    letter-spacing: normal;
+    color: var(--text-secondary);
 }
 
 .auth-card input:focus {
