@@ -7,6 +7,7 @@
  */
 
 const AUTH_SESSION_KEY = 'skb_gis_authed';
+const FETCH_TIMEOUT_MS = 2000;
 
 async function sha256Hex(text) {
     const bytes = new TextEncoder().encode(text);
@@ -17,15 +18,43 @@ async function sha256Hex(text) {
 }
 
 /**
+ * data/auth.json을 가져온다. 일정 시간 안에 응답이 없으면 자동으로 포기하고
+ * 에러를 던진다 (무한정 "불러오는 중..." 상태로 멈춰있는 문제 방지).
+ */
+async function fetchAuthConfig() {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+
+    try {
+        const res = await fetch('data/auth.json', {
+            cache: 'no-store',
+            signal: controller.signal
+        });
+
+        if (!res.ok) {
+            throw new Error(`auth.json 로드 실패: ${res.status}`);
+        }
+
+        return await res.json();
+    } finally {
+        clearTimeout(timeoutId);
+    }
+}
+
+/**
  * 인증이 끝날 때까지 기다리는 Promise를 반환한다.
  * 이미 이번 세션에 인증됐으면 즉시 통과, 아니면 인증번호 입력창을 띄우고 기다린다.
  */
 export function requireAuth() {
+    const overlay = document.getElementById('authOverlay');
+
     if (sessionStorage.getItem(AUTH_SESSION_KEY) === '1') {
+        // 이미 이번 세션에 인증됐어도, 오버레이는 기본이 display:flex(보이는 상태)라서
+        // 명시적으로 숨겨줘야 함. 안 그러면 화면은 그대로 떠 있는데(이벤트도 안 붙은 채)
+        // 뒤에서는 앱이 이미 초기화되어 있는 "먹통" 상태가 됨.
+        if (overlay) overlay.style.display = 'none';
         return Promise.resolve();
     }
-
-    const overlay = document.getElementById('authOverlay');
     const input = document.getElementById('authInput');
     const errorEl = document.getElementById('authError');
     const submitBtn = document.getElementById('authSubmitBtn');
@@ -41,23 +70,42 @@ export function requireAuth() {
     return new Promise((resolve) => {
         let authConfig = null;
 
-        fetch('data/auth.json')
-            .then(res => {
-                if (!res.ok) throw new Error(`auth.json 로드 실패: ${res.status}`);
-                return res.json();
-            })
-            .then(cfg => {
-                authConfig = cfg;
-            })
-            .catch(error => {
+        const setLoadingState = () => {
+            submitBtn.disabled = true;
+            submitBtn.textContent = '불러오는 중...';
+            errorEl.style.display = 'none';
+        };
+
+        const setReadyState = () => {
+            submitBtn.disabled = false;
+            submitBtn.textContent = '확인';
+        };
+
+        const setRetryState = (message) => {
+            submitBtn.disabled = false;
+            submitBtn.textContent = '다시 시도';
+            errorEl.textContent = message;
+            errorEl.style.display = 'block';
+        };
+
+        const loadAuthConfig = async () => {
+            setLoadingState();
+            try {
+                authConfig = await fetchAuthConfig();
+                setReadyState();
+            } catch (error) {
                 console.error('인증 설정을 불러오지 못했습니다:', error);
-                // 인증 설정 파일 자체가 아직 없으면(최초 배포 등) 통과시킴
-                overlay.style.display = 'none';
-                resolve();
-            });
+                authConfig = null;
+                setRetryState('연결이 원활하지 않습니다. 버튼을 눌러 다시 시도해주세요.');
+            }
+        };
 
         const attemptAuth = async () => {
-            if (!authConfig) return; // 아직 auth.json 로딩 중
+            // authConfig가 없으면(아직 로딩 전, 로딩 실패, 타임아웃 등) 재시도부터
+            if (!authConfig) {
+                loadAuthConfig();
+                return;
+            }
 
             const value = input.value.trim();
 
@@ -85,5 +133,7 @@ export function requireAuth() {
         input.addEventListener('keydown', (e) => {
             if (e.key === 'Enter') attemptAuth();
         });
+
+        loadAuthConfig();
     });
 }
