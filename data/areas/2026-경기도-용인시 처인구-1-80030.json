@@ -1,0 +1,3024 @@
+{
+  "area": {
+    "area_id": "2026-경기도-용인시 처인구-1-80030",
+    "area_name": "2026-경기도-용인시 처인구-1",
+    "sido": "경기도",
+    "sigungu": "용인시 처인구",
+    "geojson": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              127.1663228,
+              37.2448309
+            ],
+            [
+              127.1674118,
+              37.2437163
+            ],
+            [
+              127.1683505,
+              37.2431013
+            ],
+            [
+              127.1683398,
+              37.2435198
+            ],
+            [
+              127.1671972,
+              37.2452323
+            ],
+            [
+              127.166768,
+              37.2450358
+            ],
+            [
+              127.1663228,
+              37.2448309
+            ]
+          ]
+        ]
+      ]
+    },
+    "center": [
+      37.24426457021955,
+      127.16739634837192
+    ],
+    "building_count": 70,
+    "inside_count": 30,
+    "near_count": 40
+  },
+  "buildings": [
+    {
+      "pnu": "4146110300101250001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 125-1",
+      "road_addr": "경기 용인시 처인구 금학로3번길 3-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24494947,
+      "lng": 127.16667032
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 19",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.24392123,
+      "lng": 127.16797151
+    },
+    {
+      "pnu": "4146110300101090012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-12",
+      "road_addr": "경기 용인시 처인구 금학로3번길 25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24349355,
+      "lng": 127.1682214
+    },
+    {
+      "pnu": "4146110300101240010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 124-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24469794,
+      "lng": 127.16697585
+    },
+    {
+      "pnu": "4146110300101240004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 124-4",
+      "road_addr": "경기 용인시 처인구 금학로3번길 2-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24454413,
+      "lng": 127.16677358
+    },
+    {
+      "pnu": "4146110300101090009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-9",
+      "road_addr": "경기 용인시 처인구 금학로3번길 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24430354,
+      "lng": 127.16776685
+    },
+    {
+      "pnu": "4146110300101240001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 124-1",
+      "road_addr": "경기 용인시 처인구 금학로3번길 2-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24463401,
+      "lng": 127.16668298
+    },
+    {
+      "pnu": "4146110300101090015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-15",
+      "road_addr": "경기 용인시 처인구 금학로3번길 27",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24348454,
+      "lng": 127.16822144
+    },
+    {
+      "pnu": "4146110300101090020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "전원주택",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-20",
+      "road_addr": "경기 용인시 처인구 금학로3번길 16-1",
+      "avail_gen_cnt": 14,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.2440868,
+      "lng": 127.16762122
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 19",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.24392123,
+      "lng": 127.16797151
+    },
+    {
+      "pnu": "4146110300101250000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "경호주택",
+      "jibun_addr": "경기 용인시 처인구 삼가동 125",
+      "road_addr": "경기 용인시 처인구 금학로3번길 3",
+      "avail_gen_cnt": 14,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 5,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24492217,
+      "lng": 127.16658024
+    },
+    {
+      "pnu": "4146110300101090023",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-23",
+      "road_addr": "경기 용인시 처인구 금학로3번길 11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.24451797,
+      "lng": 127.16750367
+    },
+    {
+      "pnu": "4146110300101110002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "현대하이츠빌라",
+      "jibun_addr": "경기 용인시 처인구 삼가동 111-2",
+      "road_addr": "경기 용인시 처인구 금학로1번길 8",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2450138,
+      "lng": 127.16710977
+    },
+    {
+      "pnu": "4146110300101250003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 125-3",
+      "road_addr": "경기 용인시 처인구 금학로3번길 1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24487679,
+      "lng": 127.16646768
+    },
+    {
+      "pnu": "4146110300101090003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "늘푸른맨션",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-3",
+      "road_addr": "경기 용인시 처인구 금학로3번길 14",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.24434779,
+      "lng": 127.1674735
+    },
+    {
+      "pnu": "4146110300101120000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "장미맨숀",
+      "jibun_addr": "경기 용인시 처인구 삼가동 112",
+      "road_addr": "경기 용인시 처인구 금학로1번길 10-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.24508626,
+      "lng": 127.16723348
+    },
+    {
+      "pnu": "4146110300101100002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 110-2",
+      "road_addr": "경기 용인시 처인구 금학로3번길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.2447802,
+      "lng": 127.1673814
+    },
+    {
+      "pnu": "4146110300101110003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 111-3",
+      "road_addr": "경기 용인시 처인구 금학로1번길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 8,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 8,
+      "catv_8vsb_cnt": 6,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 5
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 10
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24491424,
+      "lng": 127.16696363
+    },
+    {
+      "pnu": "4146110300101090002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-2",
+      "road_addr": "경기 용인시 처인구 금학로3번길 13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.24452848,
+      "lng": 127.16761928
+    },
+    {
+      "pnu": "4146110300101240007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "세종빌라",
+      "jibun_addr": "경기 용인시 처인구 삼가동 124-7",
+      "road_addr": "경기 용인시 처인구 금학로3번길 10",
+      "avail_gen_cnt": 14,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2443196,
+      "lng": 127.16706772
+    },
+    {
+      "pnu": "4146110300101090006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-6",
+      "road_addr": "경기 용인시 처인구 금학로 23",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 14,
+      "tv_scrbr_cnt": 15,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 13,
+      "catv_8vsb_cnt": 14,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 8
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 5
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 18
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24348391,
+      "lng": 127.16799594
+    },
+    {
+      "pnu": "4146110300101240005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 124-5",
+      "road_addr": "경기 용인시 처인구 금학로3번길 8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24443656,
+      "lng": 127.16698828
+    },
+    {
+      "pnu": "4146110300101090006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-6",
+      "road_addr": "경기 용인시 처인구 금학로 23",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 14,
+      "tv_scrbr_cnt": 15,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 13,
+      "catv_8vsb_cnt": 14,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 8
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 5
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 18
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24348391,
+      "lng": 127.16799594
+    },
+    {
+      "pnu": "4146110300101090018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "전원주택",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-18",
+      "road_addr": "경기 용인시 처인구 금학로3번길 16",
+      "avail_gen_cnt": 14,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24423984,
+      "lng": 127.1675529
+    },
+    {
+      "pnu": "4146110300101240011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 124-11",
+      "road_addr": "경기 용인시 처인구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24410375,
+      "lng": 127.1672378
+    },
+    {
+      "pnu": "4146110300101240003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 124-3",
+      "road_addr": "경기 용인시 처인구 금학로3번길 2-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24458094,
+      "lng": 127.16704402
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 19",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.24392123,
+      "lng": 127.16797151
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 19",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.24392123,
+      "lng": 127.16797151
+    },
+    {
+      "pnu": "4146110300101090006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-6",
+      "road_addr": "경기 용인시 처인구 금학로 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24388011,
+      "lng": 127.16779367
+    },
+    {
+      "pnu": "4146110300101090006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-6",
+      "road_addr": "경기 용인시 처인구 금학로 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24388011,
+      "lng": 127.16779367
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 23",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24361505,
+      "lng": 127.16812369
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 23",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24361505,
+      "lng": 127.16812369
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 17",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24407613,
+      "lng": 127.16789282
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 17",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24407613,
+      "lng": 127.16789282
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 17",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24407613,
+      "lng": 127.16789282
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 17",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24407613,
+      "lng": 127.16789282
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24387141,
+      "lng": 127.16796042
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24387141,
+      "lng": 127.16796042
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24387141,
+      "lng": 127.16796042
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24387141,
+      "lng": 127.16796042
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 23",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24361505,
+      "lng": 127.16812369
+    },
+    {
+      "pnu": "4146110300101090010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-10",
+      "road_addr": "경기 용인시 처인구 금학로3번길 23",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24361505,
+      "lng": 127.16812369
+    },
+    {
+      "pnu": "4146110300102100000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 210",
+      "road_addr": "경기 용인시 처인구 금학로 17",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24380717,
+      "lng": 127.1675548
+    },
+    {
+      "pnu": "4146110300101100004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 110-4",
+      "road_addr": "경기 용인시 처인구 금학로3번길 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24462681,
+      "lng": 127.1673257
+    },
+    {
+      "pnu": "4146110300101090016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 3.96689167,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-16",
+      "road_addr": "경기 용인시 처인구 금학로3번길 29",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.24324164,
+      "lng": 127.16839163
+    },
+    {
+      "pnu": "4146110300101130001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 8.92223846,
+      "bld_nm": "0708X482",
+      "jibun_addr": "경기 용인시 처인구 삼가동 113-1",
+      "road_addr": "경기 용인시 처인구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24517092,
+      "lng": 127.16686078
+    },
+    {
+      "pnu": "4146110300101120002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 9.20745683,
+      "bld_nm": "장미맨숀",
+      "jibun_addr": "경기 용인시 처인구 삼가동 112-2",
+      "road_addr": "경기 용인시 처인구 금학로1번길 10-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.24503278,
+      "lng": 127.16744794
+    },
+    {
+      "pnu": "4146110300101260001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 9.70767082,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 126-1",
+      "road_addr": "경기 용인시 처인구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2446781,
+      "lng": 127.16633326
+    },
+    {
+      "pnu": "4146110300101170000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 11.2108831,
+      "bld_nm": "풍림아파트",
+      "jibun_addr": "경기 용인시 처인구 삼가동 117",
+      "road_addr": "경기 용인시 처인구 삼가로 28",
+      "avail_gen_cnt": 377,
+      "int_scrbr_cnt": 152,
+      "tv_scrbr_cnt": 432,
+      "skb_pop_cnt": 21,
+      "catv_digital_cnt": 97,
+      "catv_internet_cnt": 34,
+      "catv_8vsb_cnt": 17,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)",
+          "count": 2
+        },
+        {
+          "method": "광랜E(500)",
+          "count": 74
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 22
+        },
+        {
+          "method": "광랜E",
+          "count": 43
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 6
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 17
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 66
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 12
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 11
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_8VSB_공청)_20",
+          "count": 200
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 61
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 9
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 8
+        },
+        {
+          "method": "Btv(단독IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(자급 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 9
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 3
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24605919,
+      "lng": 127.16702624
+    },
+    {
+      "pnu": "4146110300101170000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 11.2108831,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 117",
+      "road_addr": "경기 용인시 처인구 금학로1번길 9",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.24528152,
+      "lng": 127.16705045
+    },
+    {
+      "pnu": "4146110300101320000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 14.13292979,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 132",
+      "road_addr": "경기 용인시 처인구 삼가로 14",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.245039,
+      "lng": 127.16645569
+    },
+    {
+      "pnu": "4146110300101090013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 14.86797257,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-13",
+      "road_addr": "경기 용인시 처인구 금학로 31",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2431879,
+      "lng": 127.16851589
+    },
+    {
+      "pnu": "4146110300104810069",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 15.1113017,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 481-69",
+      "road_addr": "경기 용인시 처인구 금학로 2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24447113,
+      "lng": 127.1664582
+    },
+    {
+      "pnu": "4146110300101120001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 15.90866271,
+      "bld_nm": "장미맨션",
+      "jibun_addr": "경기 용인시 처인구 삼가동 112-1",
+      "road_addr": "경기 용인시 처인구 금학로1번길 10",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24521296,
+      "lng": 127.16741332
+    },
+    {
+      "pnu": "4146110300101090014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 23.73709161,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 109-14",
+      "road_addr": "경기 용인시 처인구 금학로 33",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24308737,
+      "lng": 127.16861746
+    },
+    {
+      "pnu": "4146110300101260006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.79018523,
+      "bld_nm": "용인운수",
+      "jibun_addr": "경기 용인시 처인구 삼가동 126-6",
+      "road_addr": "경기 용인시 처인구 삼가로 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24392223,
+      "lng": 127.16679887
+    },
+    {
+      "pnu": "4146110300102110003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 32.80648167,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 211-3",
+      "road_addr": "경기 용인시 처인구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2430803,
+      "lng": 127.16871931
+    },
+    {
+      "pnu": "4146110300102080007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 33.99954661,
+      "bld_nm": "칼리아모텔",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-7",
+      "road_addr": "경기 용인시 처인구 중부대로 1077",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 38,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD2_STB)_M",
+          "count": 38
+        }
+      ],
+      "lat": 37.24362538,
+      "lng": 127.1670144
+    },
+    {
+      "pnu": "4146110300101300001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 34.28080663,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 130-1",
+      "road_addr": "경기 용인시 처인구 삼가로 11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24485726,
+      "lng": 127.16593784
+    },
+    {
+      "pnu": "4146110300102080012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 36.10718399,
+      "bld_nm": "창영빌딩",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-12",
+      "road_addr": "경기 용인시 처인구 중부대로 1083",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 37.24335581,
+      "lng": 127.16732001
+    },
+    {
+      "pnu": "4146110300101300003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 36.52256991,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 130-3",
+      "road_addr": "경기 용인시 처인구 삼가로 9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24471304,
+      "lng": 127.16593847
+    },
+    {
+      "pnu": "4146110300102080009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 37.85212114,
+      "bld_nm": "호텔주노",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-9",
+      "road_addr": "경기 용인시 처인구 중부대로 1081",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24349937,
+      "lng": 127.1670826
+    },
+    {
+      "pnu": "4146110300102080004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 40.6237684,
+      "bld_nm": "산들하임3동",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-4",
+      "road_addr": "경기 용인시 처인구 중부대로 1091-2",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(500)",
+          "count": 3
+        },
+        {
+          "method": "광랜E",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.24250474,
+      "lng": 127.16836004
+    },
+    {
+      "pnu": "4146110300102080004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 40.6237684,
+      "bld_nm": "산들하임2동",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-4",
+      "road_addr": "경기 용인시 처인구 중부대로 1091-1",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 4
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24264608,
+      "lng": 127.16831888
+    },
+    {
+      "pnu": "4146110300102080004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 40.6237684,
+      "bld_nm": "산들하임1동",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-4",
+      "road_addr": "경기 용인시 처인구 중부대로 1091",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.24280458,
+      "lng": 127.1680824
+    },
+    {
+      "pnu": "4146110300102080010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 42.35320179,
+      "bld_nm": "등촌칼국수",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-10",
+      "road_addr": "경기 용인시 처인구 중부대로 1085",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24319394,
+      "lng": 127.16745602
+    },
+    {
+      "pnu": "4146110300101280001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 44.45987321,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 128-1",
+      "road_addr": "경기 용인시 처인구 삼가로 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24451489,
+      "lng": 127.16599572
+    },
+    {
+      "pnu": "4146110300101310000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 45.39812286,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 131",
+      "road_addr": "경기 용인시 처인구 삼가로 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24511873,
+      "lng": 127.16595923
+    },
+    {
+      "pnu": "4146110300104960000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 46.11318193,
+      "bld_nm": "0708H731",
+      "jibun_addr": "경기 용인시 처인구 삼가동 496",
+      "road_addr": "경기 용인시 처인구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24554178,
+      "lng": 127.16754399
+    },
+    {
+      "pnu": "4146110300102110004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 46.16174889,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 211-4",
+      "road_addr": "경기 용인시 처인구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24299956,
+      "lng": 127.16885496
+    },
+    {
+      "pnu": "4146110300101260008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 46.76739756,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 126-8",
+      "road_addr": "경기 용인시 처인구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24377662,
+      "lng": 127.16668404
+    },
+    {
+      "pnu": "4146110300102080013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 48.59917325,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-13",
+      "road_addr": "경기 용인시 처인구 중부대로 1087",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24293902,
+      "lng": 127.1676858
+    },
+    {
+      "pnu": "4146110300102080013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 48.59917325,
+      "bld_nm": "삼성에어콘",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-13",
+      "road_addr": "경기 용인시 처인구 중부대로 1089",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24303207,
+      "lng": 127.16759203
+    },
+    {
+      "pnu": "4146110300102080004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.59915712,
+      "bld_nm": "산들하임1동",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-4",
+      "road_addr": "경기 용인시 처인구 중부대로 1091",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.24280458,
+      "lng": 127.1680824
+    },
+    {
+      "pnu": "4146110300102080004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.59915712,
+      "bld_nm": "산들하임3동",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-4",
+      "road_addr": "경기 용인시 처인구 중부대로 1091-2",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(500)",
+          "count": 3
+        },
+        {
+          "method": "광랜E",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.24250474,
+      "lng": 127.16836004
+    },
+    {
+      "pnu": "4146110300102080004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 50.59915712,
+      "bld_nm": "산들하임2동",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-4",
+      "road_addr": "경기 용인시 처인구 중부대로 1091-1",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 4
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24264608,
+      "lng": 127.16831888
+    },
+    {
+      "pnu": "4146110300101280111",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 51.18637569,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 128-111",
+      "road_addr": "경기 용인시 처인구 삼가로 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24433484,
+      "lng": 127.16607544
+    },
+    {
+      "pnu": "4146110300102080013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 51.31308576,
+      "bld_nm": "삼성에어콘",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-13",
+      "road_addr": "경기 용인시 처인구 중부대로 1089",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24303207,
+      "lng": 127.16759203
+    },
+    {
+      "pnu": "4146110300102080013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 51.31308576,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-13",
+      "road_addr": "경기 용인시 처인구 중부대로 1087",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24293902,
+      "lng": 127.1676858
+    },
+    {
+      "pnu": "4146110300101280112",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 54.30205402,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 128-112",
+      "road_addr": "경기 용인시 처인구 삼가로 7-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24453248,
+      "lng": 127.16583779
+    },
+    {
+      "pnu": "4146110300101300002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 56.91556703,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 130-2",
+      "road_addr": "경기 용인시 처인구 삼가로 13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24495575,
+      "lng": 127.16570062
+    },
+    {
+      "pnu": "4146110300102080006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 60.71274413,
+      "bld_nm": "번지용인로데오",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-6",
+      "road_addr": "경기 용인시 처인구 중부대로 1095",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24259181,
+      "lng": 127.16810133
+    },
+    {
+      "pnu": "4146110300102080004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 66.21295109,
+      "bld_nm": "산들하임3동",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-4",
+      "road_addr": "경기 용인시 처인구 중부대로 1091-2",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(500)",
+          "count": 3
+        },
+        {
+          "method": "광랜E",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.24250474,
+      "lng": 127.16836004
+    },
+    {
+      "pnu": "4146110300102080004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 66.21295109,
+      "bld_nm": "산들하임2동",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-4",
+      "road_addr": "경기 용인시 처인구 중부대로 1091-1",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 4
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24264608,
+      "lng": 127.16831888
+    },
+    {
+      "pnu": "4146110300102080004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 66.21295109,
+      "bld_nm": "산들하임1동",
+      "jibun_addr": "경기 용인시 처인구 삼가동 208-4",
+      "road_addr": "경기 용인시 처인구 중부대로 1091",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.24280458,
+      "lng": 127.1680824
+    },
+    {
+      "pnu": "4146110300101340003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 66.37723596,
+      "bld_nm": "해피보람빌Ⅱ",
+      "jibun_addr": "경기 용인시 처인구 삼가동 134-3",
+      "road_addr": "경기 용인시 처인구 삼가로 17",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24519922,
+      "lng": 127.16573337
+    },
+    {
+      "pnu": "4146110300101280004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 73.18676734,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 128-4",
+      "road_addr": "경기 용인시 처인구 중부대로 1061",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24481095,
+      "lng": 127.16549831
+    },
+    {
+      "pnu": "4146110300101330001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 78.66468117,
+      "bld_nm": "재보빌딩",
+      "jibun_addr": "경기 용인시 처인구 삼가동 133-1",
+      "road_addr": "경기 용인시 처인구 삼가로 20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2456516,
+      "lng": 127.16632897
+    },
+    {
+      "pnu": "4146110300101340001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 83.04127524,
+      "bld_nm": "해피보람빌Ⅰ",
+      "jibun_addr": "경기 용인시 처인구 삼가동 134-1",
+      "road_addr": "경기 용인시 처인구 삼가로 19",
+      "avail_gen_cnt": 24,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2453251,
+      "lng": 127.16562006
+    },
+    {
+      "pnu": "4146110300102130035",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 86.29193718,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 213-35",
+      "road_addr": "경기 용인시 처인구 금학로 39-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24310631,
+      "lng": 127.16932303
+    },
+    {
+      "pnu": "4146110300101170000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 93.01522708,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 117",
+      "road_addr": "경기 용인시 처인구 금학로1번길 9",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.24528152,
+      "lng": 127.16705045
+    },
+    {
+      "pnu": "4146110300101170000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 93.01522708,
+      "bld_nm": "풍림아파트",
+      "jibun_addr": "경기 용인시 처인구 삼가동 117",
+      "road_addr": "경기 용인시 처인구 삼가로 28",
+      "avail_gen_cnt": 377,
+      "int_scrbr_cnt": 152,
+      "tv_scrbr_cnt": 432,
+      "skb_pop_cnt": 21,
+      "catv_digital_cnt": 97,
+      "catv_internet_cnt": 34,
+      "catv_8vsb_cnt": 17,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)",
+          "count": 2
+        },
+        {
+          "method": "광랜E(500)",
+          "count": 74
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 22
+        },
+        {
+          "method": "광랜E",
+          "count": 43
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 6
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 17
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 66
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 12
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 11
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_8VSB_공청)_20",
+          "count": 200
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 61
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 9
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 8
+        },
+        {
+          "method": "Btv(단독IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(자급 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 9
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 3
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24605919,
+      "lng": 127.16702624
+    },
+    {
+      "pnu": "4146110300101730049",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 93.83214656,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 삼가동 173-49",
+      "road_addr": "경기 용인시 처인구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24316452,
+      "lng": 127.16661053
+    },
+    {
+      "pnu": "4146110300101220007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.06284389,
+      "bld_nm": "주은혜교회",
+      "jibun_addr": "경기 용인시 처인구 삼가동 122-7",
+      "road_addr": "경기 용인시 처인구 금학로1번길 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24606084,
+      "lng": 127.16761255
+    }
+  ]
+}
