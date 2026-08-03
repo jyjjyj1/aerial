@@ -943,19 +943,24 @@ select:focus {
     box-shadow: var(--shadow-main);
 }
 
+.auth-logo {
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
 .auth-card .logo-b {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 44px;
-    height: 44px;
+    width: 36px;
+    height: 36px;
     background: var(--skb-blue);
     color: #ffffff;
     font-family: var(--font-en);
     font-weight: 800;
-    font-size: 24px;
-    border-radius: 10px;
-    margin-bottom: 16px;
+    font-size: 20px;
+    border-radius: 8px;
+    flex-shrink: 0;
 }
 
 .auth-card h2 {
@@ -963,7 +968,7 @@ select:focus {
     font-size: 17px;
     font-weight: 700;
     color: var(--text-primary);
-    margin: 0 0 8px;
+    margin: 0;
 }
 
 .auth-card p {
