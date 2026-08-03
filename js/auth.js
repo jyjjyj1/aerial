@@ -7,6 +7,7 @@
  */
 
 const AUTH_SESSION_KEY = 'skb_gis_authed';
+const FETCH_TIMEOUT_MS = 2000;
 
 async function sha256Hex(text) {
     const bytes = new TextEncoder().encode(text);
@@ -14,6 +15,30 @@ async function sha256Hex(text) {
     return Array.from(new Uint8Array(digestBuf))
         .map(b => b.toString(16).padStart(2, '0'))
         .join('');
+}
+
+/**
+ * data/auth.json을 가져온다. 일정 시간 안에 응답이 없으면 자동으로 포기하고
+ * 에러를 던진다 (무한정 "불러오는 중..." 상태로 멈춰있는 문제 방지).
+ */
+async function fetchAuthConfig() {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+
+    try {
+        const res = await fetch('data/auth.json', {
+            cache: 'no-store',
+            signal: controller.signal
+        });
+
+        if (!res.ok) {
+            throw new Error(`auth.json 로드 실패: ${res.status}`);
+        }
+
+        return await res.json();
+    } finally {
+        clearTimeout(timeoutId);
+    }
 }
 
 /**
@@ -38,53 +63,43 @@ export function requireAuth() {
     overlay.style.display = 'flex';
     input.focus();
 
-    // auth.json을 다 불러오기 전까지는 버튼을 비활성화 + 안내 문구 표시.
-    // (이게 없으면, 로딩 중에 사용자가 확인/엔터를 눌러도 authConfig가 없어서
-    //  아무 반응 없이 조용히 무시되는 문제가 있었음 - "버튼이 먹통"으로 보이던 원인)
-    submitBtn.disabled = true;
-    submitBtn.textContent = '불러오는 중...';
-
     return new Promise((resolve) => {
         let authConfig = null;
-        let loadFailed = false;
 
-        // 캐시를 무시하고 항상 최신 auth.json을 받아온다.
-        // (GitHub Pages/브라우저가 예전 버전을 계속 캐싱해서 인증번호 변경이
-        //  바로 반영 안 되는 문제를 방지)
-        const cacheBuster = `?t=${Date.now()}`;
+        const setLoadingState = () => {
+            submitBtn.disabled = true;
+            submitBtn.textContent = '불러오는 중...';
+            errorEl.style.display = 'none';
+        };
 
-        fetch(`data/auth.json${cacheBuster}`, { cache: 'no-store' })
-            .then(res => {
-                if (!res.ok) throw new Error(`auth.json 로드 실패: ${res.status}`);
-                return res.json();
-            })
-            .then(cfg => {
-                authConfig = cfg;
-                submitBtn.disabled = false;
-                submitBtn.textContent = '확인';
-            })
-            .catch(error => {
+        const setReadyState = () => {
+            submitBtn.disabled = false;
+            submitBtn.textContent = '확인';
+        };
+
+        const setRetryState = (message) => {
+            submitBtn.disabled = false;
+            submitBtn.textContent = '다시 시도';
+            errorEl.textContent = message;
+            errorEl.style.display = 'block';
+        };
+
+        const loadAuthConfig = async () => {
+            setLoadingState();
+            try {
+                authConfig = await fetchAuthConfig();
+                setReadyState();
+            } catch (error) {
                 console.error('인증 설정을 불러오지 못했습니다:', error);
-                loadFailed = true;
-                errorEl.textContent = '인증 설정을 불러오지 못했습니다. 새로고침 후 다시 시도해주세요.';
-                errorEl.style.display = 'block';
-                submitBtn.disabled = false;
-                submitBtn.textContent = '다시 시도';
-            });
+                authConfig = null;
+                setRetryState('연결이 원활하지 않습니다. 버튼을 눌러 다시 시도해주세요.');
+            }
+        };
 
         const attemptAuth = async () => {
-            if (loadFailed) {
-                // 로드 자체가 실패했으면 재시도 유도 (새로고침)
-                errorEl.textContent = '인증 설정을 불러오지 못했습니다. 새로고침 후 다시 시도해주세요.';
-                errorEl.style.display = 'block';
-                return;
-            }
-
+            // authConfig가 없으면(아직 로딩 전, 로딩 실패, 타임아웃 등) 재시도부터
             if (!authConfig) {
-                // 아직 auth.json 로딩 중 - 버튼이 비활성화 상태라 보통 여기 안 오지만,
-                // 혹시 모를 경우를 대비해 명확한 안내를 띄운다.
-                errorEl.textContent = '아직 불러오는 중입니다. 잠시만 기다려주세요.';
-                errorEl.style.display = 'block';
+                loadAuthConfig();
                 return;
             }
 
@@ -114,5 +129,7 @@ export function requireAuth() {
         input.addEventListener('keydown', (e) => {
             if (e.key === 'Enter') attemptAuth();
         });
+
+        loadAuthConfig();
     });
 }
