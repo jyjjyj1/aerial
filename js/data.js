@@ -13,7 +13,7 @@ export const state = {
     searchQuery: '',         // Active search query
     filteredBuildings: [],   // Filtered list of buildings
     selectedBuilding: null,  // Currently active/clicked building object
-    theme: 'dark',           // Map theme: 'dark' | 'light'
+    theme: 'light',           // Map theme: 'dark' | 'light'
     stats: {
         total: 0,
         inside: 0,
