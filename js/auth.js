@@ -46,11 +46,15 @@ async function fetchAuthConfig() {
  * 이미 이번 세션에 인증됐으면 즉시 통과, 아니면 인증번호 입력창을 띄우고 기다린다.
  */
 export function requireAuth() {
+    const overlay = document.getElementById('authOverlay');
+
     if (sessionStorage.getItem(AUTH_SESSION_KEY) === '1') {
+        // 이미 이번 세션에 인증됐어도, 오버레이는 기본이 display:flex(보이는 상태)라서
+        // 명시적으로 숨겨줘야 함. 안 그러면 화면은 그대로 떠 있는데(이벤트도 안 붙은 채)
+        // 뒤에서는 앱이 이미 초기화되어 있는 "먹통" 상태가 됨.
+        if (overlay) overlay.style.display = 'none';
         return Promise.resolve();
     }
-
-    const overlay = document.getElementById('authOverlay');
     const input = document.getElementById('authInput');
     const errorEl = document.getElementById('authError');
     const submitBtn = document.getElementById('authSubmitBtn');
