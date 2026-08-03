@@ -103,14 +103,14 @@
   },
   "buildings": [
     {
-      "pnu": "4113510500102210001",
+      "pnu": "4113510500102210008",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 221-1",
-      "road_addr": "경기 성남시 분당구 새마을로7번길 9",
-      "avail_gen_cnt": 1,
+      "jibun_addr": "경기 성남시 분당구 서현동 221-8",
+      "road_addr": "경기 성남시 분당구 #-#",
+      "avail_gen_cnt": 3,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -119,8 +119,211 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.38503848,
-      "lng": 127.13151889
+      "lat": 37.3847041,
+      "lng": 127.13123812
+    },
+    {
+      "pnu": "4113510500102140013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "서현서비스센타",
+      "jibun_addr": "경기 성남시 분당구 서현동 214-13",
+      "road_addr": "경기 성남시 분당구 안골로 3",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38449171,
+      "lng": 127.13250432
+    },
+    {
+      "pnu": "4113510500101990001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "서현빌라",
+      "jibun_addr": "경기 성남시 분당구 서현동 199-1",
+      "road_addr": "경기 성남시 분당구 안골로 16",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.38452267,
+      "lng": 127.13376933
+    },
+    {
+      "pnu": "4113510500102000001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 200-1",
+      "road_addr": "경기 성남시 분당구 안골로 13",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38484636,
+      "lng": 127.13350794
+    },
+    {
+      "pnu": "4113510500102140001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 214-1",
+      "road_addr": "경기 성남시 분당구 새마을로 11",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38417412,
+      "lng": 127.13182811
+    },
+    {
+      "pnu": "4113510500100770001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 77-1",
+      "road_addr": "경기 성남시 분당구 새마을로1번길 2",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.38435165,
+      "lng": 127.13094615
+    },
+    {
+      "pnu": "4113510500102310021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 231-21",
+      "road_addr": "경기 성남시 분당구 안골로 4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38414947,
+      "lng": 127.13259636
+    },
+    {
+      "pnu": "4113510500102110001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 211-1",
+      "road_addr": "경기 성남시 분당구 안골로11번길 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.38519705,
+      "lng": 127.13323513
+    },
+    {
+      "pnu": "4113510500102140011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 214-11",
+      "road_addr": "경기 성남시 분당구 안골로 1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.38431035,
+      "lng": 127.13215503
     },
     {
       "pnu": "4113510500102110002",
@@ -146,6 +349,26 @@
       "tv_tech": [],
       "lat": 37.38503488,
       "lng": 127.13325851
+    },
+    {
+      "pnu": "4113510500102220004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한일그린빌라",
+      "jibun_addr": "경기 성남시 분당구 서현동 222-4",
+      "road_addr": "경기 성남시 분당구 새마을로7번길 6",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.3844628,
+      "lng": 127.13190577
     },
     {
       "pnu": "4113510500102090001",
@@ -186,38 +409,33 @@
       "lng": 127.13315386
     },
     {
-      "pnu": "4113510500102140011",
+      "pnu": "4113510500100770002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 214-11",
-      "road_addr": "경기 성남시 분당구 안골로 1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
+      "jibun_addr": "경기 성남시 분당구 서현동 77-2",
+      "road_addr": "경기 성남시 분당구 새마을로1번길 6",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 3
-        }
-      ],
+      "int_tech": [],
       "tv_tech": [],
-      "lat": 37.38431035,
-      "lng": 127.13215503
+      "lat": 37.38454118,
+      "lng": 127.13102429
     },
     {
-      "pnu": "4113510500102140013",
+      "pnu": "4113510500102210005",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "서현서비스센타",
-      "jibun_addr": "경기 성남시 분당구 서현동 214-13",
-      "road_addr": "경기 성남시 분당구 안골로 3",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 221-5",
+      "road_addr": "경기 성남시 분당구 새마을로7번길 12",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -227,8 +445,131 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.38449171,
-      "lng": 127.13250432
+      "lat": 37.38467896,
+      "lng": 127.13184823
+    },
+    {
+      "pnu": "4113510500102130002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 213-2",
+      "road_addr": "경기 성남시 분당구 안골로 7",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38444843,
+      "lng": 127.13308063
+    },
+    {
+      "pnu": "4113510500102210000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 221",
+      "road_addr": "경기 성남시 분당구 새마을로1번길 12",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 5
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.38505591,
+      "lng": 127.13132677
+    },
+    {
+      "pnu": "4113510500102090002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 209-2",
+      "road_addr": "경기 성남시 분당구 안골로11번길 11",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38550313,
+      "lng": 127.13310938
+    },
+    {
+      "pnu": "4113510500102220004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한일그린빌라",
+      "jibun_addr": "경기 성남시 분당구 서현동 222-4",
+      "road_addr": "경기 성남시 분당구 새마을로7번길 14",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.38473381,
+      "lng": 127.13209648
+    },
+    {
+      "pnu": "4113510500102210001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 221-1",
+      "road_addr": "경기 성남시 분당구 새마을로7번길 9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38503848,
+      "lng": 127.13151889
     },
     {
       "pnu": "4113510500102210002",
@@ -251,14 +592,14 @@
       "lng": 127.13169998
     },
     {
-      "pnu": "4113510500102210007",
+      "pnu": "4113510500100770006",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 221-7",
-      "road_addr": "경기 성남시 분당구 새마을로7번길 4",
-      "avail_gen_cnt": 2,
+      "jibun_addr": "경기 성남시 분당구 서현동 77-6",
+      "road_addr": "경기 성남시 분당구 새마을로 5",
+      "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -267,38 +608,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.38447041,
-      "lng": 127.13145389
-    },
-    {
-      "pnu": "4113510500101990001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "서현빌라",
-      "jibun_addr": "경기 성남시 분당구 서현동 199-1",
-      "road_addr": "경기 성남시 분당구 안골로 16",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
-      "lat": 37.38452267,
-      "lng": 127.13376933
+      "lat": 37.38428021,
+      "lng": 127.13116113
     },
     {
       "pnu": "4113510500100770005",
@@ -319,6 +630,26 @@
       "tv_tech": [],
       "lat": 37.38454506,
       "lng": 127.13120792
+    },
+    {
+      "pnu": "4113510500102120000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "서현빌라트",
+      "jibun_addr": "경기 성남시 분당구 서현동 212",
+      "road_addr": "경기 성남시 분당구 안골로11번길 1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38469211,
+      "lng": 127.13318111
     },
     {
       "pnu": "4113510500100770007",
@@ -361,14 +692,14 @@
       "lng": 127.13107967
     },
     {
-      "pnu": "4113510500102000001",
+      "pnu": "4113510500102210006",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 200-1",
-      "road_addr": "경기 성남시 분당구 안골로 13",
-      "avail_gen_cnt": 0,
+      "bld_nm": "정웅빌딩",
+      "jibun_addr": "경기 성남시 분당구 서현동 221-6",
+      "road_addr": "경기 성남시 분당구 새마을로7번길 8",
+      "avail_gen_cnt": 4,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -377,8 +708,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.38484636,
-      "lng": 127.13350794
+      "lat": 37.38473226,
+      "lng": 127.13159946
     },
     {
       "pnu": "4113510500102130001",
@@ -401,48 +732,14 @@
       "lng": 127.13289902
     },
     {
-      "pnu": "4113510500100770001",
+      "pnu": "4113510500102210007",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 77-1",
-      "road_addr": "경기 성남시 분당구 새마을로1번길 2",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.38435165,
-      "lng": 127.13094615
-    },
-    {
-      "pnu": "4113510500102140001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 214-1",
-      "road_addr": "경기 성남시 분당구 새마을로 11",
-      "avail_gen_cnt": 0,
+      "jibun_addr": "경기 성남시 분당구 서현동 221-7",
+      "road_addr": "경기 성남시 분당구 새마을로7번길 4",
+      "avail_gen_cnt": 2,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -451,305 +748,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.38417412,
-      "lng": 127.13182811
-    },
-    {
-      "pnu": "4113510500102110001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 211-1",
-      "road_addr": "경기 성남시 분당구 안골로11번길 7",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.38519705,
-      "lng": 127.13323513
-    },
-    {
-      "pnu": "4113510500102310021",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 231-21",
-      "road_addr": "경기 성남시 분당구 안골로 4",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38414947,
-      "lng": 127.13259636
-    },
-    {
-      "pnu": "4113510500102210005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 221-5",
-      "road_addr": "경기 성남시 분당구 새마을로7번길 12",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38467896,
-      "lng": 127.13184823
-    },
-    {
-      "pnu": "4113510500102220004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "한일그린빌라",
-      "jibun_addr": "경기 성남시 분당구 서현동 222-4",
-      "road_addr": "경기 성남시 분당구 새마을로7번길 6",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.3844628,
-      "lng": 127.13190577
-    },
-    {
-      "pnu": "4113510500100770002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 77-2",
-      "road_addr": "경기 성남시 분당구 새마을로1번길 6",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38454118,
-      "lng": 127.13102429
-    },
-    {
-      "pnu": "4113510500102220004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "한일그린빌라",
-      "jibun_addr": "경기 성남시 분당구 서현동 222-4",
-      "road_addr": "경기 성남시 분당구 새마을로7번길 14",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.38473381,
-      "lng": 127.13209648
-    },
-    {
-      "pnu": "4113510500102210006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "정웅빌딩",
-      "jibun_addr": "경기 성남시 분당구 서현동 221-6",
-      "road_addr": "경기 성남시 분당구 새마을로7번길 8",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38473226,
-      "lng": 127.13159946
-    },
-    {
-      "pnu": "4113510500102090002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 209-2",
-      "road_addr": "경기 성남시 분당구 안골로11번길 11",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38550313,
-      "lng": 127.13310938
-    },
-    {
-      "pnu": "4113510500102210008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 221-8",
-      "road_addr": "경기 성남시 분당구 #-#",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.3847041,
-      "lng": 127.13123812
-    },
-    {
-      "pnu": "4113510500102210000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 221",
-      "road_addr": "경기 성남시 분당구 새마을로1번길 12",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 5
-        },
-        {
-          "method": "광랜E",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.38505591,
-      "lng": 127.13132677
-    },
-    {
-      "pnu": "4113510500102120000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "서현빌라트",
-      "jibun_addr": "경기 성남시 분당구 서현동 212",
-      "road_addr": "경기 성남시 분당구 안골로11번길 1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38469211,
-      "lng": 127.13318111
-    },
-    {
-      "pnu": "4113510500102130002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 213-2",
-      "road_addr": "경기 성남시 분당구 안골로 7",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38444843,
-      "lng": 127.13308063
-    },
-    {
-      "pnu": "4113510500100770006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 서현동 77-6",
-      "road_addr": "경기 성남시 분당구 새마을로 5",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38428021,
-      "lng": 127.13116113
+      "lat": 37.38447041,
+      "lng": 127.13145389
     },
     {
       "pnu": "4113510500102080002",
@@ -858,6 +858,26 @@
       "distance_meter": 6.66329719,
       "bld_nm": "한일그린빌라",
       "jibun_addr": "경기 성남시 분당구 서현동 222-4",
+      "road_addr": "경기 성남시 분당구 새마을로7번길 6",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.3844628,
+      "lng": 127.13190577
+    },
+    {
+      "pnu": "4113510500102220004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 6.66329719,
+      "bld_nm": "한일그린빌라",
+      "jibun_addr": "경기 성남시 분당구 서현동 222-4",
       "road_addr": "경기 성남시 분당구 새마을로7번길 14",
       "avail_gen_cnt": 8,
       "int_scrbr_cnt": 0,
@@ -875,26 +895,6 @@
       ],
       "lat": 37.38473381,
       "lng": 127.13209648
-    },
-    {
-      "pnu": "4113510500102220004",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 6.66329719,
-      "bld_nm": "한일그린빌라",
-      "jibun_addr": "경기 성남시 분당구 서현동 222-4",
-      "road_addr": "경기 성남시 분당구 새마을로7번길 6",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.3844628,
-      "lng": 127.13190577
     },
     {
       "pnu": "4113510500100830002",
@@ -953,46 +953,26 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
           "method": "광랜FTTH",
           "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         }
       ],
       "lat": 37.3844964,
       "lng": 127.13401797
-    },
-    {
-      "pnu": "4113510500102080002",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 12.37495277,
-      "bld_nm": "서현로얄파크빌",
-      "jibun_addr": "경기 성남시 분당구 서현동 208-2",
-      "road_addr": "경기 성남시 분당구 안골로11번길 17-4",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38607958,
-      "lng": 127.13297101
     },
     {
       "pnu": "4113510500102080002",
@@ -1013,6 +993,26 @@
       "tv_tech": [],
       "lat": 37.3861162,
       "lng": 127.13315158
+    },
+    {
+      "pnu": "4113510500102080002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 12.37495277,
+      "bld_nm": "서현로얄파크빌",
+      "jibun_addr": "경기 성남시 분당구 서현동 208-2",
+      "road_addr": "경기 성남시 분당구 안골로11번길 17-4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38607958,
+      "lng": 127.13297101
     },
     {
       "pnu": "4113510500102020005",

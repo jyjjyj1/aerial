@@ -115,13 +115,105 @@
   },
   "buildings": [
     {
-      "pnu": "4146510200108790007",
+      "pnu": "4146510200105140003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 수지구 죽전동 879-7",
-      "road_addr": "경기 용인시 수지구 용구대로2772번길 3-6",
+      "bld_nm": "테마하우스",
+      "jibun_addr": "경기 용인시 수지구 죽전동 514-3",
+      "road_addr": "경기 용인시 수지구 용구대로2790번길 26",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 13,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 5
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 6
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.33340526,
+      "lng": 127.11118121
+    },
+    {
+      "pnu": "4146510200108790006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "스위트빌",
+      "jibun_addr": "경기 용인시 수지구 죽전동 879-6",
+      "road_addr": "경기 용인시 수지구 용구대로2790번길 16-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.33379703,
+      "lng": 127.1097117
+    },
+    {
+      "pnu": "4146510200105130006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성서교회",
+      "jibun_addr": "경기 용인시 수지구 죽전동 513-6",
+      "road_addr": "경기 용인시 수지구 용구대로2772번길 17",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -131,8 +223,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.33348107,
-      "lng": 127.10956658
+      "lat": 37.33325162,
+      "lng": 127.11105783
     },
     {
       "pnu": "4146510200108790001",
@@ -155,17 +247,17 @@
           "count": 4
         },
         {
-          "method": "광랜FTTH(GB)",
-          "count": 4
-        },
-        {
           "method": "CA_광랜W(100)_구",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         },
         {
@@ -173,11 +265,11 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air 3)",
+          "method": "Btv(판매 Apple tv 3세대 STB)",
           "count": 1
         },
         {
-          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -185,84 +277,38 @@
       "lng": 127.11040985
     },
     {
-      "pnu": "4146510200105140003",
+      "pnu": "4146510200108780002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "테마하우스",
-      "jibun_addr": "경기 용인시 수지구 죽전동 514-3",
-      "road_addr": "경기 용인시 수지구 용구대로2790번길 26",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 13,
-      "tv_scrbr_cnt": 3,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 수지구 죽전동 878-2",
+      "road_addr": "경기 용인시 수지구 용구대로2772번길 3",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 1,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 2,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
           "method": "광랜FTTH(GB)",
-          "count": 5
+          "count": 1
         },
         {
           "method": "CA_광랜W(100)_구",
           "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 6
-        },
-        {
-          "method": "CA_광랜W(50)_구",
-          "count": 1
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        },
         {
           "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.33340526,
-      "lng": 127.11118121
-    },
-    {
-      "pnu": "4146510200105150000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "현대세븐부동산",
-      "jibun_addr": "경기 용인시 수지구 죽전동 515",
-      "road_addr": "경기 용인시 수지구 용구대로2790번길 30",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        }
-      ],
-      "lat": 37.33318934,
-      "lng": 127.1113065
+      "lat": 37.33317453,
+      "lng": 127.10954559
     },
     {
       "pnu": "4146510200108780001",
@@ -295,13 +341,13 @@
       "lng": 127.10953337
     },
     {
-      "pnu": "4146510200105130006",
+      "pnu": "4146510200108790007",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "성서교회",
-      "jibun_addr": "경기 용인시 수지구 죽전동 513-6",
-      "road_addr": "경기 용인시 수지구 용구대로2772번길 17",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 수지구 죽전동 879-7",
+      "road_addr": "경기 용인시 수지구 용구대로2772번길 3-6",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -311,8 +357,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.33325162,
-      "lng": 127.11105783
+      "lat": 37.33348107,
+      "lng": 127.10956658
     },
     {
       "pnu": "4146510200108790003",
@@ -347,85 +393,6 @@
       ],
       "lat": 37.33404256,
       "lng": 127.11036516
-    },
-    {
-      "pnu": "4146510200109280009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 수지구 죽전동 928-9",
-      "road_addr": "경기 용인시 수지구 용구대로2790번길 8-7",
-      "avail_gen_cnt": 15,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.33409542,
-      "lng": 127.10999237
-    },
-    {
-      "pnu": "4146510200105130001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "죽전초등학교",
-      "jibun_addr": "경기 용인시 수지구 죽전동 513-1",
-      "road_addr": "경기 용인시 수지구 용구대로2772번길 15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_30",
-          "count": 1
-        }
-      ],
-      "lat": 37.33374518,
-      "lng": 127.11038927
-    },
-    {
-      "pnu": "4146510200108780002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 수지구 죽전동 878-2",
-      "road_addr": "경기 용인시 수지구 용구대로2772번길 3",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.33317453,
-      "lng": 127.10954559
     },
     {
       "pnu": "4146510200108790052",
@@ -470,6 +437,52 @@
       "lng": 127.10954312
     },
     {
+      "pnu": "4146510200108790010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 수지구 죽전동 879-10",
+      "road_addr": "경기 용인시 수지구 용구대로2790번길 16-5",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.33394136,
+      "lng": 127.10974482
+    },
+    {
       "pnu": "4146510200108790033",
       "match_type": "inside",
       "in_area": true,
@@ -495,46 +508,79 @@
       "lng": 127.11123872
     },
     {
-      "pnu": "4146510200108790006",
+      "pnu": "4146510200105150000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "스위트빌",
-      "jibun_addr": "경기 용인시 수지구 죽전동 879-6",
-      "road_addr": "경기 용인시 수지구 용구대로2790번길 16-7",
+      "bld_nm": "현대세븐부동산",
+      "jibun_addr": "경기 용인시 수지구 죽전동 515",
+      "road_addr": "경기 용인시 수지구 용구대로2790번길 30",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        },
-        {
           "method": "광랜FTTH",
-          "count": 2
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IP-CATV AI2 STB)",
+          "method": "Btv(IPTV)",
           "count": 1
         }
       ],
-      "lat": 37.33379703,
-      "lng": 127.1097117
+      "lat": 37.33318934,
+      "lng": 127.1113065
+    },
+    {
+      "pnu": "4146510200105130001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "죽전초등학교",
+      "jibun_addr": "경기 용인시 수지구 죽전동 513-1",
+      "road_addr": "경기 용인시 수지구 용구대로2772번길 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.33374518,
+      "lng": 127.11038927
+    },
+    {
+      "pnu": "4146510200109280009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 수지구 죽전동 928-9",
+      "road_addr": "경기 용인시 수지구 용구대로2790번길 8-7",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.33409542,
+      "lng": 127.10999237
     },
     {
       "pnu": "4146510200108790011",
@@ -555,52 +601,6 @@
       "tv_tech": [],
       "lat": 37.33319319,
       "lng": 127.1097374
-    },
-    {
-      "pnu": "4146510200108790010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 수지구 죽전동 879-10",
-      "road_addr": "경기 용인시 수지구 용구대로2790번길 16-5",
-      "avail_gen_cnt": 11,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 7,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.33394136,
-      "lng": 127.10974482
     },
     {
       "pnu": "4146510200105890005",
@@ -664,20 +664,20 @@
       "catv_8vsb_cnt": 20,
       "int_tech": [
         {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 3
+        },
+        {
           "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
           "count": 1
         },
         {
           "method": "CA_비즈_메트로_광랜_구",
           "count": 5
-        },
-        {
-          "method": "CA_비즈_메트로_광랜_IP추가_구",
-          "count": 3
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
         }
       ],
       "tv_tech": [
@@ -735,21 +735,21 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -793,12 +793,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
           "method": "광랜FTTH",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
         }
       ],
       "tv_tech": [],
@@ -822,12 +822,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
           "method": "광랜FTTH",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -864,21 +864,21 @@
           "count": 7
         },
         {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
           "method": "CA_비즈_메트로_광랜_구",
           "count": 3
         },
         {
           "method": "광랜FTTH(GB)",
           "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_UHD2)",
+          "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 1
         },
         {
@@ -886,7 +886,7 @@
           "count": 10
         },
         {
-          "method": "Btv(IP-CATV_smart 3 STB)",
+          "method": "Btv(CATV_QAM_UHD2)",
           "count": 1
         }
       ],
@@ -977,12 +977,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
           "method": "광랜FTTH(GB)",
           "count": 4
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -991,11 +991,11 @@
           "count": 2
         },
         {
-          "method": "Btv(CATV_QAM_UHD2)",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(CATV_QAM_UHD2)",
           "count": 1
         }
       ],
@@ -1019,17 +1019,17 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 4
-        },
-        {
           "method": "광랜FTTH",
           "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
@@ -1037,11 +1037,11 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
         }
       ],
@@ -1307,15 +1307,19 @@
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
           "method": "광랜FTTH(GB)",
           "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
         }
       ],
       "tv_tech": [
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 3
@@ -1325,15 +1329,11 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_8VSB)_90",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
           "count": 1
         }
       ],
@@ -1357,29 +1357,29 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
-          "count": 4
-        },
-        {
           "method": "CA_광랜W(100)_구",
           "count": 1
         },
         {
           "method": "광랜FTTH(GB)",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 4
         }
       ],
       "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 3
         },
         {
           "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         }
       ],
@@ -1461,7 +1461,7 @@
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "CA_광랜W(100)_구",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
@@ -1469,7 +1469,7 @@
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "CA_광랜W(100)_구",
           "count": 1
         }
       ],
@@ -1582,25 +1582,25 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        },
+        {
           "method": "광랜FTTH",
           "count": 1
         },
         {
           "method": "광랜W",
           "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 4
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(단독IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(단독IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -1652,12 +1652,12 @@
           "count": 38
         },
         {
-          "method": "CA_광랜W(100)_구",
-          "count": 2
-        },
-        {
           "method": "CA_광랜W(100)",
           "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -1670,6 +1670,10 @@
           "count": 2
         },
         {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 8
+        },
+        {
           "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 7
         },
@@ -1678,55 +1682,15 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV_UHD_STB)",
           "count": 16
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_8VSB)_90",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 8
-        },
-        {
-          "method": "Btv(CATV_8VSB)_30",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 2
         },
         {
           "method": "Btv(IPTV_AI 2 STB)",
           "count": 3
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 6
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_8VSB_공청)_20",
-          "count": 170
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
+          "method": "Btv(CATV_8VSB)_90",
           "count": 1
         },
         {
@@ -1738,16 +1702,72 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_Android)",
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 6
+        },
+        {
+          "method": "Btv(CATV_8VSB_공청)_20",
+          "count": 170
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 3
         },
         {
           "method": "Btv(CATV_실속형_Smart)_구",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 2
         }
       ],
       "lat": 37.33462204,
       "lng": 127.11115237
+    },
+    {
+      "pnu": "4146510200109260000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 71.22051707,
+      "bld_nm": "성지카센타",
+      "jibun_addr": "경기 용인시 수지구 죽전동 926",
+      "road_addr": "경기 용인시 수지구 용구대로2790번길 9",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.33487797,
+      "lng": 127.10949162
     },
     {
       "pnu": "4146510200109260000",
@@ -1773,26 +1793,6 @@
       "tv_tech": [],
       "lat": 37.33468902,
       "lng": 127.1095942
-    },
-    {
-      "pnu": "4146510200109260000",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 71.22051707,
-      "bld_nm": "성지카센타",
-      "jibun_addr": "경기 용인시 수지구 죽전동 926",
-      "road_addr": "경기 용인시 수지구 용구대로2790번길 9",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.33487797,
-      "lng": 127.10949162
     },
     {
       "pnu": "4146510200108830001",
@@ -1811,58 +1811,26 @@
       "catv_8vsb_cnt": 24,
       "int_tech": [
         {
+          "method": "CA_광랜W(100)_구",
+          "count": 12
+        },
+        {
           "method": "광랜V",
           "count": 118
         },
         {
           "method": "CA_광랜W(320)_구",
           "count": 2
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 12
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 35
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 12
-        },
-        {
-          "method": "Btv(판매 Apple tv 3세대 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 4
-        },
         {
           "method": "Btv(CATV_8VSB)_60",
           "count": 21
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 51
-        },
-        {
-          "method": "Btv(CATV_8VSB_공청)_20",
-          "count": 286
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 10
+          "method": "Btv(자급 Apple tv STB)",
+          "count": 1
         },
         {
           "method": "Btv(IP-CATV_smart 3 STB)",
@@ -1873,47 +1841,31 @@
           "count": 10
         },
         {
-          "method": "Btv(CATV_실속형_Smart)_구",
-          "count": 4
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 12
         },
         {
-          "method": "Btv(판매 Apple tv STB)",
+          "method": "Btv(판매 Apple tv 3세대 STB)",
           "count": 2
         },
         {
-          "method": "Btv(IPTV_B tv air)",
-          "count": 1
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 35
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 51
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 10
         },
         {
           "method": "Btv(CATV_QAM_UHD)",
           "count": 3
         },
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 2
-        },
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_90",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD2)",
           "count": 2
         },
         {
@@ -1921,12 +1873,80 @@
           "count": 1
         },
         {
-          "method": "Btv(자급 Apple tv STB)",
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB_공청)_20",
+          "count": 286
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 3
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 2
         }
       ],
       "lat": 37.33227509,
       "lng": 127.11013723
+    },
+    {
+      "pnu": "4146510200109260000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 88.32529316,
+      "bld_nm": "성지카센타",
+      "jibun_addr": "경기 용인시 수지구 죽전동 926",
+      "road_addr": "경기 용인시 수지구 용구대로2790번길 9",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.33487797,
+      "lng": 127.10949162
     },
     {
       "pnu": "4146510200109260000",
@@ -1952,26 +1972,6 @@
       "tv_tech": [],
       "lat": 37.33468902,
       "lng": 127.1095942
-    },
-    {
-      "pnu": "4146510200109260000",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 88.32529316,
-      "bld_nm": "성지카센타",
-      "jibun_addr": "경기 용인시 수지구 죽전동 926",
-      "road_addr": "경기 용인시 수지구 용구대로2790번길 9",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.33487797,
-      "lng": 127.10949162
     },
     {
       "pnu": "4146510200108760006",
@@ -2044,33 +2044,33 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E(500)",
-          "count": 7
-        },
-        {
           "method": "광랜E",
           "count": 2
+        },
+        {
+          "method": "광랜E(500)",
+          "count": 7
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IP-CATV AI2 STB)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 2
         },
         {
           "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 4
         },
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IP-CATV AI2 STB)",
           "count": 1
         },
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
           "count": 2
         }
       ],

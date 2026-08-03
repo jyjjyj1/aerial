@@ -83,14 +83,14 @@
   },
   "buildings": [
     {
-      "pnu": "4146125322103070054",
+      "pnu": "4146125322103070022",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-54",
-      "road_addr": "경기 용인시 처인구 독점로57번길 37",
-      "avail_gen_cnt": 0,
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-22",
+      "road_addr": "경기 용인시 처인구 독점로57번길 35",
+      "avail_gen_cnt": 4,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -99,360 +99,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.32653607,
-      "lng": 127.24272616
-    },
-    {
-      "pnu": "4146125322103070020",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-20",
-      "road_addr": "경기 용인시 처인구 독점로57번길 19-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32804034,
-      "lng": 127.24260787
-    },
-    {
-      "pnu": "4146125322103090004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 309-4",
-      "road_addr": "경기 용인시 처인구 독점로 31-12",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 4,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_30",
-          "count": 4
-        }
-      ],
-      "lat": 37.32925492,
-      "lng": 127.24155396
-    },
-    {
-      "pnu": "4146125322103200008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "산장맨숀",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 320-8",
-      "road_addr": "경기 용인시 처인구 독점로 31-20",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.32787954,
-      "lng": 127.24327439
-    },
-    {
-      "pnu": "4146125322103160006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "동산주택",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 316-6",
-      "road_addr": "경기 용인시 처인구 독점로 31-16",
-      "avail_gen_cnt": 19,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 15,
-      "skb_pop_cnt": 3,
-      "catv_digital_cnt": 10,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 3
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 5
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 2
-        },
-        {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_실속형_Smart)_구",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.32823054,
-      "lng": 127.24302486
-    },
-    {
-      "pnu": "4146125322103070018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-18",
-      "road_addr": "경기 용인시 처인구 독점로57번길 27",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32731865,
-      "lng": 127.24233943
-    },
-    {
-      "pnu": "4146125322103070025",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-25",
-      "road_addr": "경기 용인시 처인구 독점로57번길 39",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32609296,
-      "lng": 127.24243391
-    },
-    {
-      "pnu": "4146125322103070023",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-23",
-      "road_addr": "경기 용인시 처인구 독점로57번길 33",
-      "avail_gen_cnt": 2,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32698532,
-      "lng": 127.24292179
-    },
-    {
-      "pnu": "4146125322103070058",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-58",
-      "road_addr": "경기 용인시 처인구 독점로57번길 17-1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32812031,
-      "lng": 127.24207708
-    },
-    {
-      "pnu": "4146125322103070001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-1",
-      "road_addr": "경기 용인시 처인구 독점로 31-39",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.32861344,
-      "lng": 127.24234777
-    },
-    {
-      "pnu": "4146125322103200009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "산장그린맨션",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 320-9",
-      "road_addr": "경기 용인시 처인구 독점로 31-22",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.32762681,
-      "lng": 127.24311722
-    },
-    {
-      "pnu": "4146125322103070016",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-16",
-      "road_addr": "경기 용인시 처인구 독점로 31-35",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32883283,
-      "lng": 127.2412378
-    },
-    {
-      "pnu": "4146125322103070000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307",
-      "road_addr": "경기 용인시 처인구 독점로 31-34",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32866058,
-      "lng": 127.24181561
-    },
-    {
-      "pnu": "4146125322103070026",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-26",
-      "road_addr": "경기 용인시 처인구 백옥대로 2263-20",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32612974,
-      "lng": 127.24326563
+      "lat": 37.3267874,
+      "lng": 127.24260086
     },
     {
       "pnu": "4146125322103200016",
@@ -529,6 +177,667 @@
       "lng": 127.24183751
     },
     {
+      "pnu": "4146125322103070030",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-30",
+      "road_addr": "경기 용인시 처인구 백옥대로 2263-24",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32622849,
+      "lng": 127.24257629
+    },
+    {
+      "pnu": "4146125322103070029",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-29",
+      "road_addr": "경기 용인시 처인구 백옥대로 2263-26",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32600319,
+      "lng": 127.24260353
+    },
+    {
+      "pnu": "4146125322103070059",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-59",
+      "road_addr": "경기 용인시 처인구 독점로57번길 17",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32815563,
+      "lng": 127.24173833
+    },
+    {
+      "pnu": "4146125322103070051",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-51",
+      "road_addr": "경기 용인시 처인구 백옥대로 2263-10",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32660024,
+      "lng": 127.2441146
+    },
+    {
+      "pnu": "4146125322103070049",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-49",
+      "road_addr": "경기 용인시 처인구 백옥대로 2263-14",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.3265421,
+      "lng": 127.24340029
+    },
+    {
+      "pnu": "4146125322103070054",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-54",
+      "road_addr": "경기 용인시 처인구 독점로57번길 37",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32653607,
+      "lng": 127.24272616
+    },
+    {
+      "pnu": "4146125322103070031",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-31",
+      "road_addr": "경기 용인시 처인구 백옥대로 2263-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32676158,
+      "lng": 127.24398884
+    },
+    {
+      "pnu": "4146125322103080000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 308",
+      "road_addr": "경기 용인시 처인구 독점로 51",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.32951566,
+      "lng": 127.2412483
+    },
+    {
+      "pnu": "4146125322103070074",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-74",
+      "road_addr": "경기 용인시 처인구 독점로 31-37",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32844832,
+      "lng": 127.24216222
+    },
+    {
+      "pnu": "4146125322103070064",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-64",
+      "road_addr": "경기 용인시 처인구 독점로57번길 19",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32792142,
+      "lng": 127.24180685
+    },
+    {
+      "pnu": "4146125322103070097",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-97",
+      "road_addr": "경기 용인시 처인구 독점로 31-41",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32853004,
+      "lng": 127.24257598
+    },
+    {
+      "pnu": "4146125322103070035",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-35",
+      "road_addr": "경기 용인시 처인구 백옥대로 2263-16",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32625931,
+      "lng": 127.2435404
+    },
+    {
+      "pnu": "4146125322103070096",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-96",
+      "road_addr": "경기 용인시 처인구 독점로 31-40",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32860632,
+      "lng": 127.2424709
+    },
+    {
+      "pnu": "4146125322103070082",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-82",
+      "road_addr": "경기 용인시 처인구 독점로 31-33",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.328825,
+      "lng": 127.24197833
+    },
+    {
+      "pnu": "4146125322103210000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 321",
+      "road_addr": "경기 용인시 처인구 독점로 31-28",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32724948,
+      "lng": 127.24369417
+    },
+    {
+      "pnu": "4146125322103200014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "태성산장맨션",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 320-14",
+      "road_addr": "경기 용인시 처인구 독점로 31-26",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.32722185,
+      "lng": 127.24342336
+    },
+    {
+      "pnu": "4146125322103070065",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-65",
+      "road_addr": "경기 용인시 처인구 독점로57번길 19-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32773269,
+      "lng": 127.24206711
+    },
+    {
+      "pnu": "4146125322103070024",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-24",
+      "road_addr": "경기 용인시 처인구 백옥대로 2263-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.32697923,
+      "lng": 127.2437741
+    },
+    {
+      "pnu": "4146125322103070075",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-75",
+      "road_addr": "경기 용인시 처인구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32877719,
+      "lng": 127.24290238
+    },
+    {
+      "pnu": "4146125322103160006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동산주택",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 316-6",
+      "road_addr": "경기 용인시 처인구 독점로 31-16",
+      "avail_gen_cnt": 19,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 15,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 10,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 5
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.32823054,
+      "lng": 127.24302486
+    },
+    {
+      "pnu": "4146125322103070095",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-95",
+      "road_addr": "경기 용인시 처인구 독점로57번길 33-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32688841,
+      "lng": 127.24345836
+    },
+    {
+      "pnu": "4146125322103070018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-18",
+      "road_addr": "경기 용인시 처인구 독점로57번길 27",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32731865,
+      "lng": 127.24233943
+    },
+    {
+      "pnu": "4146125322103200008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "산장맨숀",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 320-8",
+      "road_addr": "경기 용인시 처인구 독점로 31-20",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        }
+      ],
+      "lat": 37.32787954,
+      "lng": 127.24327439
+    },
+    {
+      "pnu": "4146125322103090004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 309-4",
+      "road_addr": "경기 용인시 처인구 독점로 31-12",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 4,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 4
+        }
+      ],
+      "lat": 37.32925492,
+      "lng": 127.24155396
+    },
+    {
+      "pnu": "4146125322103200004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "산장맨숀",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 320-4",
+      "road_addr": "경기 용인시 처인구 독점로 31-18",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.32807765,
+      "lng": 127.24318341
+    },
+    {
+      "pnu": "4146125322103070020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-20",
+      "road_addr": "경기 용인시 처인구 독점로57번길 19-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32804034,
+      "lng": 127.24260787
+    },
+    {
       "pnu": "4146125322103090000",
       "match_type": "inside",
       "in_area": true,
@@ -546,12 +855,12 @@
       "int_tech": [],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 4
-        },
-        {
           "method": "Btv(CATV_8VSB_Biz)_S",
           "count": 9
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 4
         },
         {
           "method": "Btv(CATV_8VSB)_30",
@@ -580,6 +889,185 @@
       "tv_tech": [],
       "lat": 37.32855948,
       "lng": 127.2432446
+    },
+    {
+      "pnu": "4146125322103200009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "산장그린맨션",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 320-9",
+      "road_addr": "경기 용인시 처인구 독점로 31-22",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.32762681,
+      "lng": 127.24311722
+    },
+    {
+      "pnu": "4146125322103070026",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-26",
+      "road_addr": "경기 용인시 처인구 백옥대로 2263-20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32612974,
+      "lng": 127.24326563
+    },
+    {
+      "pnu": "4146125322103070016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-16",
+      "road_addr": "경기 용인시 처인구 독점로 31-35",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32883283,
+      "lng": 127.2412378
+    },
+    {
+      "pnu": "4146125322103070058",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-58",
+      "road_addr": "경기 용인시 처인구 독점로57번길 17-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32812031,
+      "lng": 127.24207708
+    },
+    {
+      "pnu": "4146125322103070000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307",
+      "road_addr": "경기 용인시 처인구 독점로 31-34",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32866058,
+      "lng": 127.24181561
+    },
+    {
+      "pnu": "4146125322103070001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-1",
+      "road_addr": "경기 용인시 처인구 독점로 31-39",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.32861344,
+      "lng": 127.24234777
+    },
+    {
+      "pnu": "4146125322103070025",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-25",
+      "road_addr": "경기 용인시 처인구 독점로57번길 39",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32609296,
+      "lng": 127.24243391
+    },
+    {
+      "pnu": "4146125322103070023",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-23",
+      "road_addr": "경기 용인시 처인구 독점로57번길 33",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.32698532,
+      "lng": 127.24292179
     },
     {
       "pnu": "4146125322103070076",
@@ -627,46 +1115,6 @@
       "lng": 127.24316103
     },
     {
-      "pnu": "4146125322103070087",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-87",
-      "road_addr": "경기 용인시 처인구 독점로 31-36",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.3285698,
-      "lng": 127.24152244
-    },
-    {
-      "pnu": "4146125322103070030",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-30",
-      "road_addr": "경기 용인시 처인구 백옥대로 2263-24",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32622849,
-      "lng": 127.24257629
-    },
-    {
       "pnu": "4146125322103070032",
       "match_type": "inside",
       "in_area": true,
@@ -687,14 +1135,14 @@
       "lng": 127.24426288
     },
     {
-      "pnu": "4146125322103070029",
+      "pnu": "4146125322103070098",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-29",
-      "road_addr": "경기 용인시 처인구 백옥대로 2263-26",
-      "avail_gen_cnt": 1,
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-98",
+      "road_addr": "경기 용인시 처인구 독점로 31-42",
+      "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -703,8 +1151,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.32600319,
-      "lng": 127.24260353
+      "lat": 37.3285857,
+      "lng": 127.24273876
     },
     {
       "pnu": "4146125322103200007",
@@ -733,15 +1181,15 @@
           "count": 1
         },
         {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
           "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 1
         },
         {
           "method": "Btv(단독IP-CATV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Android)",
           "count": 1
         }
       ],
@@ -749,13 +1197,13 @@
       "lng": 127.24339999
     },
     {
-      "pnu": "4146125322103070098",
+      "pnu": "4146125322103070087",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-98",
-      "road_addr": "경기 용인시 처인구 독점로 31-42",
+      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-87",
+      "road_addr": "경기 용인시 처인구 독점로 31-36",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -765,456 +1213,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.3285857,
-      "lng": 127.24273876
-    },
-    {
-      "pnu": "4146125322103070065",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-65",
-      "road_addr": "경기 용인시 처인구 독점로57번길 19-1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32773269,
-      "lng": 127.24206711
-    },
-    {
-      "pnu": "4146125322103070082",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-82",
-      "road_addr": "경기 용인시 처인구 독점로 31-33",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜E",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.328825,
-      "lng": 127.24197833
-    },
-    {
-      "pnu": "4146125322103070035",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-35",
-      "road_addr": "경기 용인시 처인구 백옥대로 2263-16",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32625931,
-      "lng": 127.2435404
-    },
-    {
-      "pnu": "4146125322103070096",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-96",
-      "road_addr": "경기 용인시 처인구 독점로 31-40",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32860632,
-      "lng": 127.2424709
-    },
-    {
-      "pnu": "4146125322103070022",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-22",
-      "road_addr": "경기 용인시 처인구 독점로57번길 35",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.3267874,
-      "lng": 127.24260086
-    },
-    {
-      "pnu": "4146125322103070024",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-24",
-      "road_addr": "경기 용인시 처인구 백옥대로 2263-6",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.32697923,
-      "lng": 127.2437741
-    },
-    {
-      "pnu": "4146125322103210000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 321",
-      "road_addr": "경기 용인시 처인구 독점로 31-28",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32724948,
-      "lng": 127.24369417
-    },
-    {
-      "pnu": "4146125322103200014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "태성산장맨션",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 320-14",
-      "road_addr": "경기 용인시 처인구 독점로 31-26",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_실속형_Smart)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        }
-      ],
-      "lat": 37.32722185,
-      "lng": 127.24342336
-    },
-    {
-      "pnu": "4146125322103070075",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-75",
-      "road_addr": "경기 용인시 처인구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32877719,
-      "lng": 127.24290238
-    },
-    {
-      "pnu": "4146125322103070074",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-74",
-      "road_addr": "경기 용인시 처인구 독점로 31-37",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32844832,
-      "lng": 127.24216222
-    },
-    {
-      "pnu": "4146125322103070049",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-49",
-      "road_addr": "경기 용인시 처인구 백옥대로 2263-14",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.3265421,
-      "lng": 127.24340029
-    },
-    {
-      "pnu": "4146125322103070059",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-59",
-      "road_addr": "경기 용인시 처인구 독점로57번길 17",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32815563,
-      "lng": 127.24173833
-    },
-    {
-      "pnu": "4146125322103070097",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-97",
-      "road_addr": "경기 용인시 처인구 독점로 31-41",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32853004,
-      "lng": 127.24257598
-    },
-    {
-      "pnu": "4146125322103080000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 308",
-      "road_addr": "경기 용인시 처인구 독점로 51",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_30",
-          "count": 1
-        }
-      ],
-      "lat": 37.32951566,
-      "lng": 127.2412483
-    },
-    {
-      "pnu": "4146125322103070051",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-51",
-      "road_addr": "경기 용인시 처인구 백옥대로 2263-10",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32660024,
-      "lng": 127.2441146
-    },
-    {
-      "pnu": "4146125322103070064",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-64",
-      "road_addr": "경기 용인시 처인구 독점로57번길 19",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32792142,
-      "lng": 127.24180685
-    },
-    {
-      "pnu": "4146125322103070031",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-31",
-      "road_addr": "경기 용인시 처인구 백옥대로 2263-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32676158,
-      "lng": 127.24398884
-    },
-    {
-      "pnu": "4146125322103070095",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 307-95",
-      "road_addr": "경기 용인시 처인구 독점로57번길 33-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.32688841,
-      "lng": 127.24345836
-    },
-    {
-      "pnu": "4146125322103200004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "산장맨숀",
-      "jibun_addr": "경기 용인시 처인구 모현읍 갈담리 320-4",
-      "road_addr": "경기 용인시 처인구 독점로 31-18",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 6,
-      "skb_pop_cnt": 2,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IP-CATV AI2 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
-      "lat": 37.32807765,
-      "lng": 127.24318341
+      "lat": 37.3285698,
+      "lng": 127.24152244
     },
     {
       "pnu": "4146125322103160001",

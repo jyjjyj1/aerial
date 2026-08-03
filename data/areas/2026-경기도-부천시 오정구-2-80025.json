@@ -59,16 +59,16 @@
   },
   "buildings": [
     {
-      "pnu": "4119610400102080000",
+      "pnu": "4119610400102060000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "선진그린빌",
-      "jibun_addr": "경기 부천시 오정구 원종동 208",
-      "road_addr": "경기 부천시 오정구 소사로775번길 68",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
+      "bld_nm": "성지아파트",
+      "jibun_addr": "경기 부천시 오정구 원종동 206",
+      "road_addr": "경기 부천시 오정구 원종로 5",
+      "avail_gen_cnt": 70,
+      "int_scrbr_cnt": 22,
+      "tv_scrbr_cnt": 26,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -76,171 +76,55 @@
       "int_tech": [
         {
           "method": "광랜W(800)",
-          "count": 1
+          "count": 17
         },
         {
           "method": "광랜W",
+          "count": 4
+        },
+        {
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.5254747,
-      "lng": 126.80107996
-    },
-    {
-      "pnu": "4119610400102090001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "중앙시장",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-1",
-      "road_addr": "경기 부천시 오정구 원종로9번길 22",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52495202,
-      "lng": 126.80109615
-    },
-    {
-      "pnu": "4119610400102290019",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-19",
-      "road_addr": "경기 부천시 오정구 원종로35번길 46-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52619635,
-      "lng": 126.80423073
-    },
-    {
-      "pnu": "4119610400102280004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "뚜레주르제과점",
-      "jibun_addr": "경기 부천시 오정구 원종동 228-4",
-      "road_addr": "경기 부천시 오정구 원종로 37",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52420382,
-      "lng": 126.80413606
-    },
-    {
-      "pnu": "4119610400102110000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "문화목화아파트",
-      "jibun_addr": "경기 부천시 오정구 원종동 211",
-      "road_addr": "경기 부천시 오정구 원종로9번길 10",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52462008,
-      "lng": 126.80135954
-    },
-    {
-      "pnu": "4119610400102180003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 218-3",
-      "road_addr": "경기 부천시 오정구 소사로775번길 33",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
+          "count": 17
+        },
         {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 3
+        },
         {
-          "method": "Btv(IPTV_UHD4 STB)",
+          "method": "Btv(IPTV_AI 5 STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 3
         }
       ],
-      "lat": 37.52526035,
-      "lng": 126.80293796
+      "lat": 37.52432476,
+      "lng": 126.80019665
     },
     {
-      "pnu": "4119610400102180001",
+      "pnu": "4119610400102090002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "마시모PC방상가",
-      "jibun_addr": "경기 부천시 오정구 원종동 218-1",
-      "road_addr": "경기 부천시 오정구 원종로23번길 22",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52505158,
-      "lng": 126.80269092
-    },
-    {
-      "pnu": "4119610400102090007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "중앙하이츠빌라",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-7",
-      "road_addr": "경기 부천시 오정구 성오로124번길 43",
-      "avail_gen_cnt": 10,
+      "bld_nm": "성지주택",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-2",
+      "road_addr": "경기 부천시 오정구 성오로124번길 33",
+      "avail_gen_cnt": 12,
       "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
@@ -249,56 +133,103 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
           "method": "광랜W",
-          "count": 1
+          "count": 2
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
+          "count": 2
         }
       ],
-      "lat": 37.52495643,
-      "lng": 126.80184303
+      "lat": 37.52490028,
+      "lng": 126.80149273
     },
     {
-      "pnu": "4119610400102090016",
+      "pnu": "4119610400102060005",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "스카이빌라",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-16",
-      "road_addr": "경기 부천시 오정구 원종로9번길 24",
-      "avail_gen_cnt": 12,
+      "bld_nm": "장미주택",
+      "jibun_addr": "경기 부천시 오정구 원종동 206-5",
+      "road_addr": "경기 부천시 오정구 성오로124번길 24",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52447299,
+      "lng": 126.80087428
+    },
+    {
+      "pnu": "4119610400102280012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 228-12",
+      "road_addr": "경기 부천시 오정구 원종로35번길 14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.5245819,
+      "lng": 126.80405333
+    },
+    {
+      "pnu": "4119610400102080009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성하이츠",
+      "jibun_addr": "경기 부천시 오정구 원종동 208-9",
+      "road_addr": "경기 부천시 오정구 소사로775번길 50",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52543539,
+      "lng": 126.80205359
+    },
+    {
+      "pnu": "4119610400102290017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-17",
+      "road_addr": "경기 부천시 오정구 원종로35번길 42",
+      "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52507853,
-      "lng": 126.80115155
+      "tv_tech": [],
+      "lat": 37.5259251,
+      "lng": 126.80408612
     },
     {
       "pnu": "4119610400102080006",
@@ -331,16 +262,16 @@
       "lng": 126.8024153
     },
     {
-      "pnu": "4119610400102290021",
+      "pnu": "4119610400102190010",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "성진그린타운",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-21",
-      "road_addr": "경기 부천시 오정구 소사로793번길 9",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 219-10",
+      "road_addr": "경기 부천시 오정구 원종로29번길 37-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -348,41 +279,143 @@
       "int_tech": [
         {
           "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52576527,
+      "lng": 126.80296721
+    },
+    {
+      "pnu": "4119610400102290011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "백조빌라",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-11",
+      "road_addr": "경기 부천시 오정구 원종로35번길 38",
+      "avail_gen_cnt": 18,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52570071,
+      "lng": 126.80424665
+    },
+    {
+      "pnu": "4119610400102180003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 218-3",
+      "road_addr": "경기 부천시 오정구 소사로775번길 33",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
           "count": 2
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_UHD4 STB)",
           "count": 1
         }
       ],
-      "lat": 37.52661996,
-      "lng": 126.80422679
+      "lat": 37.52526035,
+      "lng": 126.80293796
     },
     {
-      "pnu": "4119610400102080012",
+      "pnu": "4119610400102200003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 208-12",
-      "road_addr": "경기 부천시 오정구 소사로775번길 62",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
+      "bld_nm": "욱일7차아파트",
+      "jibun_addr": "경기 부천시 오정구 원종동 220-3",
+      "road_addr": "경기 부천시 오정구 소사로775번길 24",
+      "avail_gen_cnt": 95,
+      "int_scrbr_cnt": 30,
+      "tv_scrbr_cnt": 25,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52544934,
-      "lng": 126.80136312
+      "int_tech": [
+        {
+          "method": "광랜E(500)",
+          "count": 16
+        },
+        {
+          "method": "광랜E",
+          "count": 10
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 15
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52561519,
+      "lng": 126.80350051
     },
     {
       "pnu": "4119610400102280006",
@@ -411,11 +444,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTVon기업_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTVon기업_smart 3 STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -423,129 +456,14 @@
       "lng": 126.80455427
     },
     {
-      "pnu": "4119610400102080009",
+      "pnu": "4119610400102210003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "우성하이츠",
-      "jibun_addr": "경기 부천시 오정구 원종동 208-9",
-      "road_addr": "경기 부천시 오정구 소사로775번길 50",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52543539,
-      "lng": 126.80205359
-    },
-    {
-      "pnu": "4119610400102290003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-3",
-      "road_addr": "경기 부천시 오정구 소사로 787-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.5264865,
-      "lng": 126.80452228
-    },
-    {
-      "pnu": "4119610400102210006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-6",
-      "road_addr": "경기 부천시 오정구 원종로35번길 15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52474273,
-      "lng": 126.80381418
-    },
-    {
-      "pnu": "4119610400102210001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-1",
-      "road_addr": "경기 부천시 오정구 소사로775번길 21",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.52526462,
-      "lng": 126.80366221
-    },
-    {
-      "pnu": "4119610400102080005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "혜성다세대주택",
-      "jibun_addr": "경기 부천시 오정구 원종동 208-5",
-      "road_addr": "경기 부천시 오정구 소사로775번길 48",
+      "bld_nm": "대명주택",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-3",
+      "road_addr": "경기 부천시 오정구 원종로35번길 17-1",
       "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52558955,
-      "lng": 126.8022106
-    },
-    {
-      "pnu": "4119610400102080020",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "남양빌딩",
-      "jibun_addr": "경기 부천시 오정구 원종동 208-20",
-      "road_addr": "경기 부천시 오정구 원종로23번길 39",
-      "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
@@ -564,151 +482,17 @@
           "count": 1
         }
       ],
-      "lat": 37.52597831,
-      "lng": 126.80241069
+      "lat": 37.52486791,
+      "lng": 126.80364326
     },
     {
-      "pnu": "4119610400102090003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "명품캐슬",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-3",
-      "road_addr": "경기 부천시 오정구 소사로775번길 55",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.52523463,
-      "lng": 126.80163673
-    },
-    {
-      "pnu": "4119610400102090006",
+      "pnu": "4119610400102090019",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-6",
-      "road_addr": "경기 부천시 오정구 소사로775번길 49",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52509196,
-      "lng": 126.80189835
-    },
-    {
-      "pnu": "4119610400102290018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "썬트리하우스",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-18",
-      "road_addr": "경기 부천시 오정구 원종로35번길 50",
-      "avail_gen_cnt": 27,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 18,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "비즈원(다회선)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 16
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52630404,
-      "lng": 126.80415051
-    },
-    {
-      "pnu": "4119610400102280000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "한울아파트",
-      "jibun_addr": "경기 부천시 오정구 원종동 228",
-      "road_addr": "경기 부천시 오정구 원종로35번길 24",
-      "avail_gen_cnt": 19,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 2
-        },
-        {
-          "method": "광랜E",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.52512321,
-      "lng": 126.80413884
-    },
-    {
-      "pnu": "4119610400102180005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "동진상가",
-      "jibun_addr": "경기 부천시 오정구 원종동 218-5",
-      "road_addr": "경기 부천시 오정구 성오로124번길 57",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-19",
+      "road_addr": "경기 부천시 오정구 성오로124번길 27",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 0,
@@ -723,166 +507,18 @@
         }
       ],
       "tv_tech": [],
-      "lat": 37.52481924,
-      "lng": 126.8030326
+      "lat": 37.52482597,
+      "lng": 126.80111996
     },
     {
-      "pnu": "4119610400102080022",
+      "pnu": "4119610400102090007",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "선진그린빌",
-      "jibun_addr": "경기 부천시 오정구 원종동 208-22",
-      "road_addr": "경기 부천시 오정구 소사로775번길 66",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52550248,
-      "lng": 126.80120418
-    },
-    {
-      "pnu": "4119610400102200003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "욱일7차아파트",
-      "jibun_addr": "경기 부천시 오정구 원종동 220-3",
-      "road_addr": "경기 부천시 오정구 소사로775번길 24",
-      "avail_gen_cnt": 95,
-      "int_scrbr_cnt": 30,
-      "tv_scrbr_cnt": 25,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 10
-        },
-        {
-          "method": "광랜E(500)",
-          "count": 16
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 4
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 15
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_B tv air)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52561519,
-      "lng": 126.80350051
-    },
-    {
-      "pnu": "4119610400102080019",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "남영빌라",
-      "jibun_addr": "경기 부천시 오정구 원종동 208-19",
-      "road_addr": "경기 부천시 오정구 성오로128번길 50",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52576961,
-      "lng": 126.80217497
-    },
-    {
-      "pnu": "4119610400102210007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "신촌빌라",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-7",
-      "road_addr": "경기 부천시 오정구 원종로35번길 9",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
-      "lat": 37.52459806,
-      "lng": 126.80373631
-    },
-    {
-      "pnu": "4119610400102210011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-11",
-      "road_addr": "경기 부천시 오정구 원종로35번길 7",
-      "avail_gen_cnt": 1,
+      "bld_nm": "중앙하이츠빌라",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-7",
+      "road_addr": "경기 부천시 오정구 성오로124번길 43",
+      "avail_gen_cnt": 10,
       "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
@@ -891,30 +527,38 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
           "method": "광랜W(800)",
-          "count": 2
+          "count": 1
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
         }
       ],
-      "lat": 37.52442708,
-      "lng": 126.80378317
+      "lat": 37.52495643,
+      "lng": 126.80184303
     },
     {
-      "pnu": "4119610400102190012",
+      "pnu": "4119610400102180001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "우정하이츠빌라",
-      "jibun_addr": "경기 부천시 오정구 원종동 219-12",
-      "road_addr": "경기 부천시 오정구 원종로29번길 35",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 2,
+      "bld_nm": "마시모PC방상가",
+      "jibun_addr": "경기 부천시 오정구 원종동 218-1",
+      "road_addr": "경기 부천시 오정구 원종로23번길 22",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -923,63 +567,25 @@
         {
           "method": "광랜W(800)",
           "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 2
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.52561279,
-      "lng": 126.80309312
-    },
-    {
-      "pnu": "4119610400102190004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "서원빌라",
-      "jibun_addr": "경기 부천시 오정구 원종동 219-4",
-      "road_addr": "경기 부천시 오정구 원종로23번길 38",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 3
-        },
-        {
-          "method": "광랜W",
           "count": 1
         }
       ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        }
-      ],
-      "lat": 37.52575506,
-      "lng": 126.8027636
+      "lat": 37.52505158,
+      "lng": 126.80269092
     },
     {
-      "pnu": "4119610400102210018",
+      "pnu": "4119610400102080012",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-18",
-      "road_addr": "경기 부천시 오정구 원종로35번길 25",
+      "jibun_addr": "경기 부천시 오정구 원종동 208-12",
+      "road_addr": "경기 부천시 오정구 소사로775번길 62",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -989,156 +595,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.52520246,
-      "lng": 126.80382123
-    },
-    {
-      "pnu": "4119610400102210018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-18",
-      "road_addr": "경기 부천시 오정구 원종로35번길 25",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52520246,
-      "lng": 126.80382123
-    },
-    {
-      "pnu": "4119610400102090015",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-15",
-      "road_addr": "경기 부천시 오정구 소사로775번길 61-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52508855,
-      "lng": 126.80132122
-    },
-    {
-      "pnu": "4119610400102090000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 209",
-      "road_addr": "경기 부천시 오정구 소사로775번길 63",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52524971,
-      "lng": 126.80113864
-    },
-    {
-      "pnu": "4119610400102180004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 218-4",
-      "road_addr": "경기 부천시 오정구 원종로29번길 25",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52516227,
-      "lng": 126.80311994
-    },
-    {
-      "pnu": "4119610400102290020",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-20",
-      "road_addr": "경기 부천시 오정구 원종로35번길 46",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
-      "lat": 37.52619549,
-      "lng": 126.80408361
+      "lat": 37.52544934,
+      "lng": 126.80136312
     },
     {
       "pnu": "4119610400102200002",
@@ -1175,13 +633,574 @@
       "lng": 126.80379089
     },
     {
-      "pnu": "4119610400102190010",
+      "pnu": "4119610400102210018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "송원빌딩",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-18",
+      "road_addr": "경기 부천시 오정구 원종로35번길 25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52518033,
+      "lng": 126.80384224
+    },
+    {
+      "pnu": "4119610400102210001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 219-10",
-      "road_addr": "경기 부천시 오정구 원종로29번길 37-1",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-1",
+      "road_addr": "경기 부천시 오정구 소사로775번길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.52526462,
+      "lng": 126.80366221
+    },
+    {
+      "pnu": "4119610400102110000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "문화목화아파트",
+      "jibun_addr": "경기 부천시 오정구 원종동 211",
+      "road_addr": "경기 부천시 오정구 원종로9번길 10",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52462008,
+      "lng": 126.80135954
+    },
+    {
+      "pnu": "4119610400102210006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-6",
+      "road_addr": "경기 부천시 오정구 원종로35번길 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52474273,
+      "lng": 126.80381418
+    },
+    {
+      "pnu": "4119610400102210010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "행운빌라",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-10",
+      "road_addr": "경기 부천시 오정구 원종로35번길 21-1",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52501212,
+      "lng": 126.80364192
+    },
+    {
+      "pnu": "4119610400102290018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "썬트리하우스",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-18",
+      "road_addr": "경기 부천시 오정구 원종로35번길 50",
+      "avail_gen_cnt": 27,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 18,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "비즈원(다회선)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 16
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52630404,
+      "lng": 126.80415051
+    },
+    {
+      "pnu": "4119610400102190002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대풍빌딩",
+      "jibun_addr": "경기 부천시 오정구 원종동 219-2",
+      "road_addr": "경기 부천시 오정구 소사로775번길 34",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52544121,
+      "lng": 126.80303813
+    },
+    {
+      "pnu": "4119610400102210018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "송원빌딩",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-18",
+      "road_addr": "경기 부천시 오정구 원종로35번길 25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52518033,
+      "lng": 126.80384224
+    },
+    {
+      "pnu": "4119610400102090006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-6",
+      "road_addr": "경기 부천시 오정구 소사로775번길 49",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52509196,
+      "lng": 126.80189835
+    },
+    {
+      "pnu": "4119610400102090016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "스카이빌라",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-16",
+      "road_addr": "경기 부천시 오정구 원종로9번길 24",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52507853,
+      "lng": 126.80115155
+    },
+    {
+      "pnu": "4119610400102280000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한울아파트",
+      "jibun_addr": "경기 부천시 오정구 원종동 228",
+      "road_addr": "경기 부천시 오정구 원종로35번길 24",
+      "avail_gen_cnt": 19,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.52512321,
+      "lng": 126.80413884
+    },
+    {
+      "pnu": "4119610400102290019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-19",
+      "road_addr": "경기 부천시 오정구 원종로35번길 46-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52619635,
+      "lng": 126.80423073
+    },
+    {
+      "pnu": "4119610400102210007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "신촌빌라",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-7",
+      "road_addr": "경기 부천시 오정구 원종로35번길 9",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.52459806,
+      "lng": 126.80373631
+    },
+    {
+      "pnu": "4119610400102290021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성진그린타운",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-21",
+      "road_addr": "경기 부천시 오정구 소사로793번길 9",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52661996,
+      "lng": 126.80422679
+    },
+    {
+      "pnu": "4119610400102210005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대명주택",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-5",
+      "road_addr": "경기 부천시 오정구 원종로35번길 15-1",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52474173,
+      "lng": 126.80364444
+    },
+    {
+      "pnu": "4119610400102190000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우정빌라",
+      "jibun_addr": "경기 부천시 오정구 원종동 219",
+      "road_addr": "경기 부천시 오정구 소사로793번길 41",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52608874,
+      "lng": 126.80279444
+    },
+    {
+      "pnu": "4119610400102290020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-20",
+      "road_addr": "경기 부천시 오정구 원종로35번길 46",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52619549,
+      "lng": 126.80408361
+    },
+    {
+      "pnu": "4119610400102060004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "장미주택",
+      "jibun_addr": "경기 부천시 오정구 원종동 206-4",
+      "road_addr": "경기 부천시 오정구 성오로124번길 22",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52461633,
+      "lng": 126.80072582
+    },
+    {
+      "pnu": "4119610400102290010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "송암빌딩",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-10",
+      "road_addr": "경기 부천시 오정구 소사로775번길 14",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52545682,
+      "lng": 126.80415838
+    },
+    {
+      "pnu": "4119610400102290015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-15",
+      "road_addr": "경기 부천시 오정구 원종로35번길 44-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52604313,
+      "lng": 126.80423215
+    },
+    {
+      "pnu": "4119610400102110002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "현대아파트상가",
+      "jibun_addr": "경기 부천시 오정구 원종동 211-2",
+      "road_addr": "경기 부천시 오정구 원종로 21",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
@@ -1201,20 +1220,74 @@
           "count": 1
         }
       ],
-      "lat": 37.52576527,
-      "lng": 126.80296721
+      "lat": 37.52419321,
+      "lng": 126.80233677
     },
     {
-      "pnu": "4119610400102290017",
+      "pnu": "4119610400102210000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-17",
-      "road_addr": "경기 부천시 오정구 원종로35번길 42",
+      "jibun_addr": "경기 부천시 오정구 원종동 221",
+      "road_addr": "경기 부천시 오정구 소사로775번길 25",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        }
+      ],
+      "lat": 37.52521815,
+      "lng": 126.80342498
+    },
+    {
+      "pnu": "4119610400102290007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-7",
+      "road_addr": "경기 부천시 오정구 소사로 781",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52587289,
+      "lng": 126.80440349
+    },
+    {
+      "pnu": "4119610400102180004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 218-4",
+      "road_addr": "경기 부천시 오정구 원종로29번길 25",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -1225,18 +1298,121 @@
           "count": 1
         }
       ],
-      "tv_tech": [],
-      "lat": 37.5259251,
-      "lng": 126.80408612
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52516227,
+      "lng": 126.80311994
     },
     {
-      "pnu": "4119610400102070001",
+      "pnu": "4119610400102180006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "중앙아파트",
+      "jibun_addr": "경기 부천시 오정구 원종동 218-6",
+      "road_addr": "경기 부천시 오정구 원종로 29",
+      "avail_gen_cnt": 45,
+      "int_scrbr_cnt": 10,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 7
+        },
+        {
+          "method": "광랜W",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 7
+        }
+      ],
+      "lat": 37.52428681,
+      "lng": 126.80292438
+    },
+    {
+      "pnu": "4119610400102200001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 207-1",
-      "road_addr": "경기 부천시 오정구 원종로9번길 17",
+      "jibun_addr": "경기 부천시 오정구 원종동 220-1",
+      "road_addr": "경기 부천시 오정구 원종로35번길 51",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52647295,
+      "lng": 126.80375283
+    },
+    {
+      "pnu": "4119610400102280001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 228-1",
+      "road_addr": "경기 부천시 오정구 소사로775번길 11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52524111,
+      "lng": 126.80426223
+    },
+    {
+      "pnu": "4119610400102290006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-6",
+      "road_addr": "경기 부천시 오정구 소사로 783",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1246,20 +1422,40 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.52483317,
-      "lng": 126.80081433
+      "lat": 37.52607117,
+      "lng": 126.80440165
     },
     {
-      "pnu": "4119610400102090008",
+      "pnu": "4119610400102090014",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-8",
-      "road_addr": "경기 부천시 오정구 성오로124번길 37",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-14",
+      "road_addr": "경기 부천시 오정구 소사로775번길 59-1",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52508962,
+      "lng": 126.80150228
+    },
+    {
+      "pnu": "4119610400102090000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 209",
+      "road_addr": "경기 부천시 오정구 소사로775번길 63",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -1267,41 +1463,29 @@
       "int_tech": [
         {
           "method": "광랜W(800)",
-          "count": 3
-        },
-        {
-          "method": "광랜W",
           "count": 1
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.52483933,
-      "lng": 126.80185544
+      "lat": 37.52524971,
+      "lng": 126.80113864
     },
     {
-      "pnu": "4119610400102060003",
+      "pnu": "4119610400102080019",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 206-3",
-      "road_addr": "경기 부천시 오정구 원종로 7",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 7,
-      "tv_scrbr_cnt": 2,
+      "bld_nm": "남영빌라",
+      "jibun_addr": "경기 부천시 오정구 원종동 208-19",
+      "road_addr": "경기 부천시 오정구 성오로128번길 50",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -1314,16 +1498,62 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTVon기업 UHD2)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTVon기업_smart 3 STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.5241839,
-      "lng": 126.80076381
+      "lat": 37.52576961,
+      "lng": 126.80217497
+    },
+    {
+      "pnu": "4119610400102280003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 228-3",
+      "road_addr": "경기 부천시 오정구 원종로35번길 16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52478092,
+      "lng": 126.80417597
+    },
+    {
+      "pnu": "4119610400102280008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "현대빌딩",
+      "jibun_addr": "경기 부천시 오정구 원종동 228-8",
+      "road_addr": "경기 부천시 오정구 소사로 769",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52480101,
+      "lng": 126.80452661
     },
     {
       "pnu": "4119610400102290000",
@@ -1360,274 +1590,15 @@
       "lng": 126.80408043
     },
     {
-      "pnu": "4119610400102080001",
+      "pnu": "4119610400102060001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "남영빌라",
-      "jibun_addr": "경기 부천시 오정구 원종동 208-1",
-      "road_addr": "경기 부천시 오정구 성오로128번길 48",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.52575966,
-      "lng": 126.80201662
-    },
-    {
-      "pnu": "4119610400102210003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "대명주택",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-3",
-      "road_addr": "경기 부천시 오정구 원종로35번길 17-1",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52486791,
-      "lng": 126.80364326
-    },
-    {
-      "pnu": "4119610400102290016",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-16",
-      "road_addr": "경기 부천시 오정구 원종로35번길 42-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.52589893,
-      "lng": 126.80423349
-    },
-    {
-      "pnu": "4119610400102090014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-14",
-      "road_addr": "경기 부천시 오정구 소사로775번길 59-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52508962,
-      "lng": 126.80150228
-    },
-    {
-      "pnu": "4119610400102080014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 208-14",
-      "road_addr": "경기 부천시 오정구 성오로128번길 40",
-      "avail_gen_cnt": 5,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.52568488,
-      "lng": 126.80156463
-    },
-    {
-      "pnu": "4119610400102210012",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-12",
-      "road_addr": "경기 부천시 오정구 원종로35번길 7-1",
-      "avail_gen_cnt": 7,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52444424,
-      "lng": 126.80363589
-    },
-    {
-      "pnu": "4119610400102190006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 219-6",
-      "road_addr": "경기 부천시 오정구 원종로29번길 43",
-      "avail_gen_cnt": 14,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.5260631,
-      "lng": 126.80303234
-    },
-    {
-      "pnu": "4119610400102280012",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 228-12",
-      "road_addr": "경기 부천시 오정구 원종로35번길 14",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.5245819,
-      "lng": 126.80405333
-    },
-    {
-      "pnu": "4119610400102290002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "고려정형외과",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-2",
-      "road_addr": "경기 부천시 오정구 소사로 789",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.52661262,
-      "lng": 126.80450979
-    },
-    {
-      "pnu": "4119610400102080016",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 208-16",
-      "road_addr": "경기 부천시 오정구 성오로128번길 44-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.52579471,
-      "lng": 126.80184654
-    },
-    {
-      "pnu": "4119610400102210000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 221",
-      "road_addr": "경기 부천시 오정구 소사로775번길 25",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 5,
+      "bld_nm": "장미주택",
+      "jibun_addr": "경기 부천시 오정구 원종동 206-1",
+      "road_addr": "경기 부천시 오정구 성오로124번길 16",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 4,
       "tv_scrbr_cnt": 5,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -1635,120 +1606,72 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 2
         },
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 2
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 5
-        }
-      ],
-      "lat": 37.52521815,
-      "lng": 126.80342498
-    },
-    {
-      "pnu": "4119610400102210018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "송원빌딩",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-18",
-      "road_addr": "경기 부천시 오정구 원종로35번길 25",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52518033,
-      "lng": 126.80384224
-    },
-    {
-      "pnu": "4119610400102210018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "송원빌딩",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-18",
-      "road_addr": "경기 부천시 오정구 원종로35번길 25",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52518033,
-      "lng": 126.80384224
-    },
-    {
-      "pnu": "4119610400102290011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "백조빌라",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-11",
-      "road_addr": "경기 부천시 오정구 원종로35번길 38",
-      "avail_gen_cnt": 18,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
+          "method": "Btv(IPTV_B tv air 2)",
           "count": 1
         },
         {
-          "method": "광랜W",
+          "method": "Btv(IPTV)",
           "count": 1
-        }
-      ],
-      "tv_tech": [
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
         {
           "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
         }
       ],
-      "lat": 37.52570071,
-      "lng": 126.80424665
+      "lat": 37.52461458,
+      "lng": 126.8004316
+    },
+    {
+      "pnu": "4119610400102180000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "만호빌딩",
+      "jibun_addr": "경기 부천시 오정구 원종동 218",
+      "road_addr": "경기 부천시 오정구 소사로775번길 37",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52521394,
+      "lng": 126.80271205
     },
     {
       "pnu": "4119610400102290008",
@@ -1781,99 +1704,15 @@
       "lng": 126.80451833
     },
     {
-      "pnu": "4119610400102180006",
+      "pnu": "4119610400102110004",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "중앙아파트",
-      "jibun_addr": "경기 부천시 오정구 원종동 218-6",
-      "road_addr": "경기 부천시 오정구 원종로 29",
-      "avail_gen_cnt": 45,
-      "int_scrbr_cnt": 10,
-      "tv_scrbr_cnt": 7,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 3
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 7
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 7
-        }
-      ],
-      "lat": 37.52428681,
-      "lng": 126.80292438
-    },
-    {
-      "pnu": "4119610400102060001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "장미주택",
-      "jibun_addr": "경기 부천시 오정구 원종동 206-1",
-      "road_addr": "경기 부천시 오정구 성오로124번길 16",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 2
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_B tv air 2)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52461458,
-      "lng": 126.8004316
-    },
-    {
-      "pnu": "4119610400102280001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 228-1",
-      "road_addr": "경기 부천시 오정구 소사로775번길 11",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
+      "bld_nm": "월드쇼핑상가",
+      "jibun_addr": "경기 부천시 오정구 원종동 211-4",
+      "road_addr": "경기 부천시 오정구 원종로23번길 11",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -1883,10 +1722,6 @@
         {
           "method": "광랜W(800)",
           "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
         }
       ],
       "tv_tech": [
@@ -1895,109 +1730,19 @@
           "count": 1
         }
       ],
-      "lat": 37.52524111,
-      "lng": 126.80426223
+      "lat": 37.5246261,
+      "lng": 126.80237801
     },
     {
-      "pnu": "4119610400102290007",
+      "pnu": "4119610400102060003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-7",
-      "road_addr": "경기 부천시 오정구 소사로 781",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52587289,
-      "lng": 126.80440349
-    },
-    {
-      "pnu": "4119610400102290010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "송암빌딩",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-10",
-      "road_addr": "경기 부천시 오정구 소사로775번길 14",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52545682,
-      "lng": 126.80415838
-    },
-    {
-      "pnu": "4119610400102080007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 208-7",
-      "road_addr": "경기 부천시 오정구 소사로775번길 46",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52544541,
-      "lng": 126.80222326
-    },
-    {
-      "pnu": "4119610400102090002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성지주택",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-2",
-      "road_addr": "경기 부천시 오정구 성오로124번길 33",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.52490028,
-      "lng": 126.80149273
-    },
-    {
-      "pnu": "4119610400102210013",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "해풍상가",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-13",
-      "road_addr": "경기 부천시 오정구 원종로 33",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
+      "jibun_addr": "경기 부천시 오정구 원종동 206-3",
+      "road_addr": "경기 부천시 오정구 원종로 7",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 7,
       "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -2007,24 +1752,20 @@
         {
           "method": "광랜W(800)",
           "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 2
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTVon기업 UHD2)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTVon기업_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.52418333,
-      "lng": 126.80371753
+      "lat": 37.5241839,
+      "lng": 126.80076381
     },
     {
       "pnu": "4119610400102080017",
@@ -2057,14 +1798,14 @@
       "lng": 126.80184822
     },
     {
-      "pnu": "4119610400102290004",
+      "pnu": "4119610400102210018",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "해연빌딩",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-4",
-      "road_addr": "경기 부천시 오정구 소사로 787",
-      "avail_gen_cnt": 0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-18",
+      "road_addr": "경기 부천시 오정구 원종로35번길 25",
+      "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -2073,8 +1814,66 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.52637781,
-      "lng": 126.80443275
+      "lat": 37.52520246,
+      "lng": 126.80382123
+    },
+    {
+      "pnu": "4119610400102210018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-18",
+      "road_addr": "경기 부천시 오정구 원종로35번길 25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52520246,
+      "lng": 126.80382123
+    },
+    {
+      "pnu": "4119610400102210013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "해풍상가",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-13",
+      "road_addr": "경기 부천시 오정구 원종로 33",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52418333,
+      "lng": 126.80371753
     },
     {
       "pnu": "4119610400102280007",
@@ -2107,126 +1906,16 @@
       "lng": 126.80453391
     },
     {
-      "pnu": "4119610400102080013",
+      "pnu": "4119610400102210011",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 208-13",
-      "road_addr": "경기 부천시 오정구 성오로128번길 44-8",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-11",
+      "road_addr": "경기 부천시 오정구 원종로35번길 7",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52548653,
-      "lng": 126.80155516
-    },
-    {
-      "pnu": "4119610400102180002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "한마음장로교회",
-      "jibun_addr": "경기 부천시 오정구 원종동 218-2",
-      "road_addr": "경기 부천시 오정구 소사로775번길 35",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52508897,
-      "lng": 126.80291692
-    },
-    {
-      "pnu": "4119610400102060004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "장미주택",
-      "jibun_addr": "경기 부천시 오정구 원종동 206-4",
-      "road_addr": "경기 부천시 오정구 성오로124번길 22",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52461633,
-      "lng": 126.80072582
-    },
-    {
-      "pnu": "4119610400102110004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "월드쇼핑상가",
-      "jibun_addr": "경기 부천시 오정구 원종동 211-4",
-      "road_addr": "경기 부천시 오정구 원종로23번길 11",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.5246261,
-      "lng": 126.80237801
-    },
-    {
-      "pnu": "4119610400102090024",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성지주택",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-24",
-      "road_addr": "경기 부천시 오정구 성오로124번길 35",
-      "avail_gen_cnt": 12,
       "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -2237,254 +1926,14 @@
           "count": 2
         }
       ],
-      "tv_tech": [],
-      "lat": 37.52490122,
-      "lng": 126.80165116
-    },
-    {
-      "pnu": "4119610400102190001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 219-1",
-      "road_addr": "경기 부천시 오정구 소사로793번길 35",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.52621652,
-      "lng": 126.80306487
-    },
-    {
-      "pnu": "4119610400102190000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "우정빌라",
-      "jibun_addr": "경기 부천시 오정구 원종동 219",
-      "road_addr": "경기 부천시 오정구 소사로793번길 41",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52608874,
-      "lng": 126.80279444
-    },
-    {
-      "pnu": "4119610400102190002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "대풍빌딩",
-      "jibun_addr": "경기 부천시 오정구 원종동 219-2",
-      "road_addr": "경기 부천시 오정구 소사로775번길 34",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52544121,
-      "lng": 126.80303813
-    },
-    {
-      "pnu": "4119610400102280003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 228-3",
-      "road_addr": "경기 부천시 오정구 원종로35번길 16",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52478092,
-      "lng": 126.80417597
-    },
-    {
-      "pnu": "4119610400102200001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 220-1",
-      "road_addr": "경기 부천시 오정구 원종로35번길 51",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52647295,
-      "lng": 126.80375283
-    },
-    {
-      "pnu": "4119610400102110001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "현대아파트",
-      "jibun_addr": "경기 부천시 오정구 원종동 211-1",
-      "road_addr": "경기 부천시 오정구 원종로 9",
-      "avail_gen_cnt": 80,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(500)",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
           "count": 2
         }
       ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(AI Sound Max STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52444236,
-      "lng": 126.80179124
-    },
-    {
-      "pnu": "4119610400102060000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성지아파트",
-      "jibun_addr": "경기 부천시 오정구 원종동 206",
-      "road_addr": "경기 부천시 오정구 원종로 5",
-      "avail_gen_cnt": 70,
-      "int_scrbr_cnt": 22,
-      "tv_scrbr_cnt": 26,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 17
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 4
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 17
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52432476,
-      "lng": 126.80019665
-    },
-    {
-      "pnu": "4119610400102080002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "혜성다세대주택",
-      "jibun_addr": "경기 부천시 오정구 원종동 208-2",
-      "road_addr": "경기 부천시 오정구 소사로775번길 50-1",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52558841,
-      "lng": 126.80201822
+      "lat": 37.52442708,
+      "lng": 126.80378317
     },
     {
       "pnu": "4119610400102090004",
@@ -2503,12 +1952,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
-          "count": 2
-        },
-        {
           "method": "B인터넷_타사임차",
           "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -2521,13 +1970,13 @@
       "lng": 126.80187446
     },
     {
-      "pnu": "4119610400102290001",
+      "pnu": "4119610400102080007",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "서문상가",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-1",
-      "road_addr": "경기 부천시 오정구 소사로 791",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 208-7",
+      "road_addr": "경기 부천시 오정구 소사로775번길 46",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -2537,134 +1986,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.52674794,
-      "lng": 126.80453117
-    },
-    {
-      "pnu": "4119610400102210005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "대명주택",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-5",
-      "road_addr": "경기 부천시 오정구 원종로35번길 15-1",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52474173,
-      "lng": 126.80364444
-    },
-    {
-      "pnu": "4119610400102060002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "장미주택",
-      "jibun_addr": "경기 부천시 오정구 원종동 206-2",
-      "road_addr": "경기 부천시 오정구 성오로124번길 18",
-      "avail_gen_cnt": 15,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52458855,
-      "lng": 126.80060159
-    },
-    {
-      "pnu": "4119610400102280002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "한강빌딩",
-      "jibun_addr": "경기 부천시 오정구 원종동 228-2",
-      "road_addr": "경기 부천시 오정구 소사로 771",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52501732,
-      "lng": 126.8045246
-    },
-    {
-      "pnu": "4119610400102190003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "우정하이츠빌라",
-      "jibun_addr": "경기 부천시 오정구 원종동 219-3",
-      "road_addr": "경기 부천시 오정구 원종로23번길 36",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 7,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 4
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52561165,
-      "lng": 126.80290074
+      "lat": 37.52544541,
+      "lng": 126.80222326
     },
     {
       "pnu": "4119610400102180007",
@@ -2687,47 +2010,53 @@
       "lng": 126.80307988
     },
     {
-      "pnu": "4119610400102090005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "원종중앙시장",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-5",
-      "road_addr": "경기 부천시 오정구 성오로124번길 47",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 4
-        },
-        {
-          "method": "광랜W",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.52507628,
-      "lng": 126.8022946
-    },
-    {
-      "pnu": "4119610400102190005",
+      "pnu": "4119610400102090010",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 219-5",
-      "road_addr": "경기 부천시 오정구 원종로23번길 42",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-10",
+      "road_addr": "경기 부천시 오정구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52513515,
+      "lng": 126.80158107
+    },
+    {
+      "pnu": "4119610400102290004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "해연빌딩",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-4",
+      "road_addr": "경기 부천시 오정구 소사로 787",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52637781,
+      "lng": 126.80443275
+    },
+    {
+      "pnu": "4119610400102290001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "서문상가",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-1",
+      "road_addr": "경기 부천시 오정구 소사로 791",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -2737,8 +2066,33 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.52591722,
-      "lng": 126.80275077
+      "lat": 37.52674794,
+      "lng": 126.80453117
+    },
+    {
+      "pnu": "4119610400102080018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성산장식",
+      "jibun_addr": "경기 부천시 오정구 원종동 208-18",
+      "road_addr": "경기 부천시 오정구 소사로775번길 54",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.52547885,
+      "lng": 126.80178158
     },
     {
       "pnu": "4119610400102200005",
@@ -2771,386 +2125,6 @@
       "lng": 126.80373263
     },
     {
-      "pnu": "4119610400102190014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "은성빌딩",
-      "jibun_addr": "경기 부천시 오정구 원종동 219-14",
-      "road_addr": "경기 부천시 오정구 소사로775번길 36",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.5254396,
-      "lng": 126.80276653
-    },
-    {
-      "pnu": "4119610400102290009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-9",
-      "road_addr": "경기 부천시 오정구 소사로 775",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52544988,
-      "lng": 126.80450927
-    },
-    {
-      "pnu": "4119610400102060005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "장미주택",
-      "jibun_addr": "경기 부천시 오정구 원종동 206-5",
-      "road_addr": "경기 부천시 오정구 성오로124번길 24",
-      "avail_gen_cnt": 16,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52447299,
-      "lng": 126.80087428
-    },
-    {
-      "pnu": "4119610400102090011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-11",
-      "road_addr": "경기 부천시 오정구 소사로775번길 61",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.5252598,
-      "lng": 126.80131962
-    },
-    {
-      "pnu": "4119610400102210008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "욱일8차아파트",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-8",
-      "road_addr": "경기 부천시 오정구 원종로29번길 14",
-      "avail_gen_cnt": 20,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 6,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 3
-        },
-        {
-          "method": "광랜W",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.52442508,
-      "lng": 126.80344367
-    },
-    {
-      "pnu": "4119610400102290014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-14",
-      "road_addr": "경기 부천시 오정구 원종로35번길 44",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52606036,
-      "lng": 126.80409618
-    },
-    {
-      "pnu": "4119610400102090017",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "반도주택",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-17",
-      "road_addr": "경기 부천시 오정구 성오로124번길 29",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
-      "lat": 37.52489026,
-      "lng": 126.80132307
-    },
-    {
-      "pnu": "4119610400102290005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "대광빌딩",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-5",
-      "road_addr": "경기 부천시 오정구 소사로 785",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.52624315,
-      "lng": 126.80452454
-    },
-    {
-      "pnu": "4119610400102090010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-10",
-      "road_addr": "경기 부천시 오정구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52513515,
-      "lng": 126.80158107
-    },
-    {
-      "pnu": "4119610400102190011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 219-11",
-      "road_addr": "경기 부천시 오정구 #-#",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52592764,
-      "lng": 126.80298833
-    },
-    {
-      "pnu": "4119610400102090019",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 209-19",
-      "road_addr": "경기 부천시 오정구 성오로124번길 27",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.52482597,
-      "lng": 126.80111996
-    },
-    {
-      "pnu": "4119610400102210020",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "행운빌라",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-20",
-      "road_addr": "경기 부천시 오정구 원종로35번길 21",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52498602,
-      "lng": 126.8038006
-    },
-    {
-      "pnu": "4119610400102070000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "삼신12차아파트",
-      "jibun_addr": "경기 부천시 오정구 원종동 207",
-      "road_addr": "경기 부천시 오정구 원종로9번길 25",
-      "avail_gen_cnt": 165,
-      "int_scrbr_cnt": 44,
-      "tv_scrbr_cnt": 47,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(500)",
-          "count": 30
-        },
-        {
-          "method": "광랜E",
-          "count": 13
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 7
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 26
-        },
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 6
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.52506644,
-      "lng": 126.80063108
-    },
-    {
       "pnu": "4119610400102200000",
       "match_type": "inside",
       "in_area": true,
@@ -3179,6 +2153,81 @@
       ],
       "lat": 37.5263449,
       "lng": 126.80343714
+    },
+    {
+      "pnu": "4119610400102210002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대진주택",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-2",
+      "road_addr": "경기 부천시 오정구 원종로35번길 17",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52487786,
+      "lng": 126.80380161
+    },
+    {
+      "pnu": "4119610400102080016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 208-16",
+      "road_addr": "경기 부천시 오정구 성오로128번길 44-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.52579471,
+      "lng": 126.80184654
+    },
+    {
+      "pnu": "4119610400102080013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 208-13",
+      "road_addr": "경기 부천시 오정구 성오로128번길 44-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52548653,
+      "lng": 126.80155516
     },
     {
       "pnu": "4119610400102190009",
@@ -3219,82 +2268,14 @@
       "lng": 126.80311449
     },
     {
-      "pnu": "4119610400102190007",
+      "pnu": "4119610400102190001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 219-7",
-      "road_addr": "경기 부천시 오정구 원종로29번길 41",
+      "jibun_addr": "경기 부천시 오정구 원종동 219-1",
+      "road_addr": "경기 부천시 오정구 소사로793번길 35",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 2
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
-      "lat": 37.52590995,
-      "lng": 126.80304508
-    },
-    {
-      "pnu": "4119610400102290015",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-15",
-      "road_addr": "경기 부천시 오정구 원종로35번길 44-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52604313,
-      "lng": 126.80423215
-    },
-    {
-      "pnu": "4119610400102080018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성산장식",
-      "jibun_addr": "경기 부천시 오정구 원종동 208-18",
-      "road_addr": "경기 부천시 오정구 소사로775번길 54",
-      "avail_gen_cnt": 3,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -3308,79 +2289,109 @@
         }
       ],
       "tv_tech": [],
-      "lat": 37.52547885,
-      "lng": 126.80178158
+      "lat": 37.52621652,
+      "lng": 126.80306487
     },
     {
-      "pnu": "4119610400102280008",
+      "pnu": "4119610400102210020",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "현대빌딩",
-      "jibun_addr": "경기 부천시 오정구 원종동 228-8",
-      "road_addr": "경기 부천시 오정구 소사로 769",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
+      "bld_nm": "행운빌라",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-20",
+      "road_addr": "경기 부천시 오정구 원종로35번길 21",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52480101,
-      "lng": 126.80452661
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52498602,
+      "lng": 126.8038006
     },
     {
-      "pnu": "4119610400102110002",
+      "pnu": "4119610400102090024",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "현대아파트상가",
-      "jibun_addr": "경기 부천시 오정구 원종동 211-2",
-      "road_addr": "경기 부천시 오정구 원종로 21",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.52419321,
-      "lng": 126.80233677
-    },
-    {
-      "pnu": "4119610400102180000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "만호빌딩",
-      "jibun_addr": "경기 부천시 오정구 원종동 218",
-      "road_addr": "경기 부천시 오정구 소사로775번길 37",
-      "avail_gen_cnt": 2,
+      "bld_nm": "성지주택",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-24",
+      "road_addr": "경기 부천시 오정구 성오로124번길 35",
+      "avail_gen_cnt": 12,
       "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.52490122,
+      "lng": 126.80165116
+    },
+    {
+      "pnu": "4119610400102290003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-3",
+      "road_addr": "경기 부천시 오정구 소사로 787-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.5264865,
+      "lng": 126.80452228
+    },
+    {
+      "pnu": "4119610400102290002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "고려정형외과",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-2",
+      "road_addr": "경기 부천시 오정구 소사로 789",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.52661262,
+      "lng": 126.80450979
+    },
+    {
+      "pnu": "4119610400102080002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "혜성다세대주택",
+      "jibun_addr": "경기 부천시 오정구 원종동 208-2",
+      "road_addr": "경기 부천시 오정구 소사로775번길 50-1",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -3390,10 +2401,6 @@
         {
           "method": "광랜W(800)",
           "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
         }
       ],
       "tv_tech": [
@@ -3402,8 +2409,8 @@
           "count": 1
         }
       ],
-      "lat": 37.52521394,
-      "lng": 126.80271205
+      "lat": 37.52558841,
+      "lng": 126.80201822
     },
     {
       "pnu": "4119610400102090013",
@@ -3431,13 +2438,184 @@
       "lng": 126.80151208
     },
     {
-      "pnu": "4119610400102290006",
+      "pnu": "4119610400102190014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "은성빌딩",
+      "jibun_addr": "경기 부천시 오정구 원종동 219-14",
+      "road_addr": "경기 부천시 오정구 소사로775번길 36",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.5254396,
+      "lng": 126.80276653
+    },
+    {
+      "pnu": "4119610400102070000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼신12차아파트",
+      "jibun_addr": "경기 부천시 오정구 원종동 207",
+      "road_addr": "경기 부천시 오정구 원종로9번길 25",
+      "avail_gen_cnt": 165,
+      "int_scrbr_cnt": 44,
+      "tv_scrbr_cnt": 47,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(500)",
+          "count": 30
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 13
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 26
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 6
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 7
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52506644,
+      "lng": 126.80063108
+    },
+    {
+      "pnu": "4119610400102210008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "욱일8차아파트",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-8",
+      "road_addr": "경기 부천시 오정구 원종로29번길 14",
+      "avail_gen_cnt": 20,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 3
+        },
+        {
+          "method": "광랜W",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52442508,
+      "lng": 126.80344367
+    },
+    {
+      "pnu": "4119610400102090017",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "반도주택",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-17",
+      "road_addr": "경기 부천시 오정구 성오로124번길 29",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.52489026,
+      "lng": 126.80132307
+    },
+    {
+      "pnu": "4119610400102190011",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 229-6",
-      "road_addr": "경기 부천시 오정구 소사로 783",
+      "jibun_addr": "경기 부천시 오정구 원종동 219-11",
+      "road_addr": "경기 부천시 오정구 #-#",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -3447,17 +2625,839 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.52607117,
-      "lng": 126.80440165
+      "lat": 37.52592764,
+      "lng": 126.80298833
     },
     {
-      "pnu": "4119610400102210002",
+      "pnu": "4119610400102280002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "대진주택",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-2",
-      "road_addr": "경기 부천시 오정구 원종로35번길 17",
+      "bld_nm": "한강빌딩",
+      "jibun_addr": "경기 부천시 오정구 원종동 228-2",
+      "road_addr": "경기 부천시 오정구 소사로 771",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52501732,
+      "lng": 126.8045246
+    },
+    {
+      "pnu": "4119610400102190003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우정하이츠빌라",
+      "jibun_addr": "경기 부천시 오정구 원종동 219-3",
+      "road_addr": "경기 부천시 오정구 원종로23번길 36",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 4
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.52561165,
+      "lng": 126.80290074
+    },
+    {
+      "pnu": "4119610400102190007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 219-7",
+      "road_addr": "경기 부천시 오정구 원종로29번길 41",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52590995,
+      "lng": 126.80304508
+    },
+    {
+      "pnu": "4119610400102080000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "선진그린빌",
+      "jibun_addr": "경기 부천시 오정구 원종동 208",
+      "road_addr": "경기 부천시 오정구 소사로775번길 68",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.5254747,
+      "lng": 126.80107996
+    },
+    {
+      "pnu": "4119610400102080022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "선진그린빌",
+      "jibun_addr": "경기 부천시 오정구 원종동 208-22",
+      "road_addr": "경기 부천시 오정구 소사로775번길 66",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52550248,
+      "lng": 126.80120418
+    },
+    {
+      "pnu": "4119610400102290009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-9",
+      "road_addr": "경기 부천시 오정구 소사로 775",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52544988,
+      "lng": 126.80450927
+    },
+    {
+      "pnu": "4119610400102080020",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "남양빌딩",
+      "jibun_addr": "경기 부천시 오정구 원종동 208-20",
+      "road_addr": "경기 부천시 오정구 원종로23번길 39",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52597831,
+      "lng": 126.80241069
+    },
+    {
+      "pnu": "4119610400102290014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-14",
+      "road_addr": "경기 부천시 오정구 원종로35번길 44",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52606036,
+      "lng": 126.80409618
+    },
+    {
+      "pnu": "4119610400102190005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 219-5",
+      "road_addr": "경기 부천시 오정구 원종로23번길 42",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52591722,
+      "lng": 126.80275077
+    },
+    {
+      "pnu": "4119610400102290005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대광빌딩",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-5",
+      "road_addr": "경기 부천시 오정구 소사로 785",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.52624315,
+      "lng": 126.80452454
+    },
+    {
+      "pnu": "4119610400102090011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-11",
+      "road_addr": "경기 부천시 오정구 소사로775번길 61",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.5252598,
+      "lng": 126.80131962
+    },
+    {
+      "pnu": "4119610400102090008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-8",
+      "road_addr": "경기 부천시 오정구 성오로124번길 37",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52483933,
+      "lng": 126.80185544
+    },
+    {
+      "pnu": "4119610400102190004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "서원빌라",
+      "jibun_addr": "경기 부천시 오정구 원종동 219-4",
+      "road_addr": "경기 부천시 오정구 원종로23번길 38",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.52575506,
+      "lng": 126.8027636
+    },
+    {
+      "pnu": "4119610400102180002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한마음장로교회",
+      "jibun_addr": "경기 부천시 오정구 원종동 218-2",
+      "road_addr": "경기 부천시 오정구 소사로775번길 35",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52508897,
+      "lng": 126.80291692
+    },
+    {
+      "pnu": "4119610400102060002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "장미주택",
+      "jibun_addr": "경기 부천시 오정구 원종동 206-2",
+      "road_addr": "경기 부천시 오정구 성오로124번길 18",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52458855,
+      "lng": 126.80060159
+    },
+    {
+      "pnu": "4119610400102110001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "현대아파트",
+      "jibun_addr": "경기 부천시 오정구 원종동 211-1",
+      "road_addr": "경기 부천시 오정구 원종로 9",
+      "avail_gen_cnt": 80,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(500)",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(AI Sound Max STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52444236,
+      "lng": 126.80179124
+    },
+    {
+      "pnu": "4119610400102290016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 229-16",
+      "road_addr": "경기 부천시 오정구 원종로35번길 42-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.52589893,
+      "lng": 126.80423349
+    },
+    {
+      "pnu": "4119610400102180005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동진상가",
+      "jibun_addr": "경기 부천시 오정구 원종동 218-5",
+      "road_addr": "경기 부천시 오정구 성오로124번길 57",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.52481924,
+      "lng": 126.8030326
+    },
+    {
+      "pnu": "4119610400102090001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "중앙시장",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-1",
+      "road_addr": "경기 부천시 오정구 원종로9번길 22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52495202,
+      "lng": 126.80109615
+    },
+    {
+      "pnu": "4119610400102070001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 207-1",
+      "road_addr": "경기 부천시 오정구 원종로9번길 17",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52483317,
+      "lng": 126.80081433
+    },
+    {
+      "pnu": "4119610400102080001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "남영빌라",
+      "jibun_addr": "경기 부천시 오정구 원종동 208-1",
+      "road_addr": "경기 부천시 오정구 성오로128번길 48",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.52575966,
+      "lng": 126.80201662
+    },
+    {
+      "pnu": "4119610400102190012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우정하이츠빌라",
+      "jibun_addr": "경기 부천시 오정구 원종동 219-12",
+      "road_addr": "경기 부천시 오정구 원종로29번길 35",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.52561279,
+      "lng": 126.80309312
+    },
+    {
+      "pnu": "4119610400102190006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 219-6",
+      "road_addr": "경기 부천시 오정구 원종로29번길 43",
+      "avail_gen_cnt": 14,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.5260631,
+      "lng": 126.80303234
+    },
+    {
+      "pnu": "4119610400102090005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "원종중앙시장",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-5",
+      "road_addr": "경기 부천시 오정구 성오로124번길 47",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.52507628,
+      "lng": 126.8022946
+    },
+    {
+      "pnu": "4119610400102210012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 221-12",
+      "road_addr": "경기 부천시 오정구 원종로35번길 7-1",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52444424,
+      "lng": 126.80363589
+    },
+    {
+      "pnu": "4119610400102090003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "명품캐슬",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-3",
+      "road_addr": "경기 부천시 오정구 소사로775번길 55",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52523463,
+      "lng": 126.80163673
+    },
+    {
+      "pnu": "4119610400102090015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 209-15",
+      "road_addr": "경기 부천시 오정구 소사로775번길 61-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.52508855,
+      "lng": 126.80132122
+    },
+    {
+      "pnu": "4119610400102080014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 208-14",
+      "road_addr": "경기 부천시 오정구 성오로128번길 40",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.52568488,
+      "lng": 126.80156463
+    },
+    {
+      "pnu": "4119610400102080005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "혜성다세대주택",
+      "jibun_addr": "경기 부천시 오정구 원종동 208-5",
+      "road_addr": "경기 부천시 오정구 소사로775번길 48",
       "avail_gen_cnt": 6,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -3467,19 +3467,19 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.52487786,
-      "lng": 126.80380161
+      "lat": 37.52558955,
+      "lng": 126.8022106
     },
     {
-      "pnu": "4119610400102210010",
+      "pnu": "4119610400102280004",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "행운빌라",
-      "jibun_addr": "경기 부천시 오정구 원종동 221-10",
-      "road_addr": "경기 부천시 오정구 원종로35번길 21-1",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 0,
+      "bld_nm": "뚜레주르제과점",
+      "jibun_addr": "경기 부천시 오정구 원종동 228-4",
+      "road_addr": "경기 부천시 오정구 원종로 37",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -3487,8 +3487,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.52501212,
-      "lng": 126.80364192
+      "lat": 37.52420382,
+      "lng": 126.80413606
     },
     {
       "pnu": "4119610400104040000",
@@ -3517,7 +3517,7 @@
       "distance_meter": 1.34306256,
       "bld_nm": "N/A",
       "jibun_addr": "경기 부천시 오정구 원종동 404",
-      "road_addr": "경기 부천시 오정구 소사로 752-3",
+      "road_addr": "경기 부천시 오정구 소사로 783-2",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -3527,8 +3527,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.52319944,
-      "lng": 126.80500547
+      "lat": 37.52610001,
+      "lng": 126.80470695
     },
     {
       "pnu": "4119610400104040000",
@@ -3557,7 +3557,7 @@
       "distance_meter": 1.34306256,
       "bld_nm": "N/A",
       "jibun_addr": "경기 부천시 오정구 원종동 404",
-      "road_addr": "경기 부천시 오정구 소사로 783-2",
+      "road_addr": "경기 부천시 오정구 소사로 753-1",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -3567,8 +3567,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.52610001,
-      "lng": 126.80470695
+      "lat": 37.52328777,
+      "lng": 126.8046991
     },
     {
       "pnu": "4119610400104040000",
@@ -3577,7 +3577,7 @@
       "distance_meter": 1.34306256,
       "bld_nm": "N/A",
       "jibun_addr": "경기 부천시 오정구 원종동 404",
-      "road_addr": "경기 부천시 오정구 소사로 753-1",
+      "road_addr": "경기 부천시 오정구 소사로 752-3",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -3587,48 +3587,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.52328777,
-      "lng": 126.8046991
-    },
-    {
-      "pnu": "4119610400104040000",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 7.13572842,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 404",
-      "road_addr": "경기 부천시 오정구 소사로 753-1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52328777,
-      "lng": 126.8046991
-    },
-    {
-      "pnu": "4119610400104040000",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 7.13572842,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 404",
-      "road_addr": "경기 부천시 오정구 소사로 768-1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52482064,
-      "lng": 126.80479804
+      "lat": 37.52319944,
+      "lng": 126.80500547
     },
     {
       "pnu": "4119610400104040000",
@@ -3649,6 +3609,26 @@
       "tv_tech": [],
       "lat": 37.52610001,
       "lng": 126.80470695
+    },
+    {
+      "pnu": "4119610400104040000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 7.13572842,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 404",
+      "road_addr": "경기 부천시 오정구 소사로 753-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52328777,
+      "lng": 126.8046991
     },
     {
       "pnu": "4119610400104040000",
@@ -3669,6 +3649,26 @@
       "tv_tech": [],
       "lat": 37.52319944,
       "lng": 126.80500547
+    },
+    {
+      "pnu": "4119610400104040000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 7.13572842,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 404",
+      "road_addr": "경기 부천시 오정구 소사로 768-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52482064,
+      "lng": 126.80479804
     },
     {
       "pnu": "4119610400104040000",
@@ -3899,11 +3899,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         },
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         }
       ],
@@ -3938,11 +3938,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "method": "Btv(IPTV)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV)",
+          "method": "Btv(IPTV_B tv x NUGU STB)",
           "count": 1
         }
       ],
@@ -4077,11 +4077,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air 2)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_B tv air 2)",
           "count": 1
         }
       ],
@@ -4135,26 +4135,26 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
           "method": "광랜W(800)",
           "count": 3
+        },
+        {
+          "method": "광랜W",
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
         },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
         }
       ],
       "lat": 37.52559887,
@@ -4289,12 +4289,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
           "method": "광랜W(800)",
           "count": 3
+        },
+        {
+          "method": "광랜W",
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -4329,16 +4329,16 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 4
         },
         {
           "method": "Btv(IPTV_UHD_STB)",
           "count": 2
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
         }
       ],
       "lat": 37.52392273,
@@ -4361,16 +4361,16 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E",
-          "count": 4
-        },
-        {
           "method": "광랜E(GB)",
           "count": 8
         },
         {
           "method": "광랜W(800)",
           "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 4
         }
       ],
       "tv_tech": [
@@ -4387,11 +4387,11 @@
           "count": 2
         },
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(IPTV_B tv x NUGU STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         },
         {
@@ -4444,21 +4444,21 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
           "method": "광랜W",
           "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -4492,11 +4492,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         }
       ],
@@ -4695,11 +4695,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
@@ -4831,26 +4831,6 @@
       "distance_meter": 28.63190158,
       "bld_nm": "N/A",
       "jibun_addr": "경기 부천시 오정구 원종동 404",
-      "road_addr": "경기 부천시 오정구 소사로 753-1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52328777,
-      "lng": 126.8046991
-    },
-    {
-      "pnu": "4119610400104040000",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 28.63190158,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 404",
       "road_addr": "경기 부천시 오정구 소사로 768-1",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
@@ -4883,6 +4863,26 @@
       "tv_tech": [],
       "lat": 37.52610001,
       "lng": 126.80470695
+    },
+    {
+      "pnu": "4119610400104040000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.63190158,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 404",
+      "road_addr": "경기 부천시 오정구 소사로 753-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52328777,
+      "lng": 126.8046991
     },
     {
       "pnu": "4119610400104040000",
@@ -5055,12 +5055,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 2
         }
       ],
       "lat": 37.52651335,
@@ -5158,21 +5158,21 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         },
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 2
         }
       ],
@@ -5322,11 +5322,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air 3)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -5414,11 +5414,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         },
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         }
       ],
@@ -5492,25 +5492,25 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E",
-          "count": 2
-        },
-        {
           "method": "광랜E(500)",
           "count": 6
+        },
+        {
+          "method": "광랜E",
+          "count": 2
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
         },
         {
           "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         },
         {
@@ -5573,11 +5573,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air 3)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         }
       ],
@@ -5751,12 +5751,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
           "method": "광랜FTTH(GB)",
           "count": 5
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -5765,11 +5765,11 @@
           "count": 2
         },
         {
-          "method": "Btv(IPTV_B tv air)",
+          "method": "Btv(판매 Apple tv STB)",
           "count": 1
         },
         {
-          "method": "Btv(판매 Apple tv STB)",
+          "method": "Btv(IPTV_B tv air)",
           "count": 1
         }
       ],
@@ -5914,16 +5914,16 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 2
+          "method": "광랜W",
+          "count": 1
         },
         {
           "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜W",
-          "count": 1
+          "method": "광랜FTTH(GB)",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -6040,25 +6040,25 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
-          "count": 10
-        },
-        {
           "method": "광랜W",
           "count": 4
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 10
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 12
         },
         {
           "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
         },
         {
@@ -6146,12 +6146,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
         }
       ],
       "lat": 37.52626371,
@@ -6358,12 +6358,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(단독IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
+        },
+        {
+          "method": "Btv(단독IPTV_UHD_STB)",
+          "count": 1
         }
       ],
       "lat": 37.52682273,
@@ -6386,11 +6386,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         },
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
@@ -6480,12 +6480,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
           "method": "광랜W",
           "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -6696,11 +6696,11 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_smart STB)",
           "count": 1
         }
       ],
@@ -6919,11 +6919,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         },
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         }
       ],
@@ -7083,11 +7083,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air 4)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv air 4)",
           "count": 1
         }
       ],
@@ -7211,8 +7211,16 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(IPTV)",
+          "count": 2
+        },
+        {
           "method": "Btv(IPTV_UHD_STB)",
           "count": 4
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
         },
         {
           "method": "Btv(IPTV_스마트3미니STB)",
@@ -7221,14 +7229,6 @@
         {
           "method": "Btv(IPTV_B tv air 3)",
           "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 5
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 2
         }
       ],
       "lat": 37.52562862,
@@ -7257,11 +7257,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         }
       ],
@@ -7325,12 +7325,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E",
-          "count": 2
-        },
-        {
           "method": "광랜E(GB)",
           "count": 5
+        },
+        {
+          "method": "광랜E",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -7343,12 +7343,12 @@
           "count": 4
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
         }
       ],
       "lat": 37.52534149,
@@ -7401,15 +7401,15 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(IPTVon기업_smart 3 STB)",
+          "count": 1
+        },
+        {
           "method": "Btv(IPTV)",
           "count": 2
         },
         {
           "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTVon기업_smart 3 STB)",
           "count": 1
         }
       ],
@@ -7961,11 +7961,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air 4)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv air 4)",
           "count": 1
         }
       ],
@@ -8043,15 +8043,27 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E(500)",
-          "count": 6
-        },
-        {
           "method": "광랜E",
           "count": 5
+        },
+        {
+          "method": "광랜E(500)",
+          "count": 6
         }
       ],
       "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 7
@@ -8061,20 +8073,8 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_스마트3미니STB)",
           "count": 2
-        },
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 1
         }
       ],
       "lat": 37.5235082,
@@ -8162,11 +8162,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -8557,11 +8557,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         },
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
@@ -8671,11 +8671,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
@@ -8725,12 +8725,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 4
-        },
-        {
           "method": "광랜FTTH",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
         }
       ],
       "tv_tech": [
@@ -9172,11 +9172,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -9226,11 +9226,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         }
       ],
@@ -9374,22 +9374,22 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
           "method": "광랜FTTH",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
         }
       ],
       "lat": 37.52706018,
@@ -9412,21 +9412,21 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 2 STB)",
+          "method": "Btv(IPTV)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV)",
+          "method": "Btv(IPTV_smart 2 STB)",
           "count": 1
         }
       ],
@@ -9450,12 +9450,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
           "method": "광랜W(800)",
           "count": 2
+        },
+        {
+          "method": "광랜W",
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -9508,12 +9508,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E",
-          "count": 3
-        },
-        {
           "method": "광랜E(500)",
           "count": 9
+        },
+        {
+          "method": "광랜E",
+          "count": 3
         }
       ],
       "tv_tech": [
@@ -9522,7 +9522,7 @@
           "count": 7
         },
         {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "method": "Btv(IPTV_smart 2 STB)",
           "count": 1
         },
         {
@@ -9530,7 +9530,7 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 2 STB)",
+          "method": "Btv(IPTV_B tv x NUGU STB)",
           "count": 1
         }
       ],
@@ -9673,11 +9673,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTVon기업 UHD2)",
+          "method": "Btv(IPTV_smart STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart STB)",
+          "method": "Btv(IPTVon기업 UHD2)",
           "count": 1
         }
       ],
@@ -9756,7 +9756,7 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         },
         {
@@ -9764,11 +9764,11 @@
           "count": 5
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         },
         {
@@ -9776,7 +9776,7 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -9810,20 +9810,8 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 5
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
         },
         {
           "method": "Btv(IPTV_B tv air 4)",
@@ -9831,6 +9819,18 @@
         },
         {
           "method": "Btv(AI Sound Max STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
           "count": 1
         }
       ],
@@ -9942,11 +9942,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         },
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         }
       ],
@@ -10016,11 +10016,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         },
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
@@ -10200,40 +10200,20 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
         },
         {
           "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
         }
       ],
       "lat": 37.52708775,
       "lng": 126.80560317
-    },
-    {
-      "pnu": "4119610400104040000",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 87.68525756,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 부천시 오정구 원종동 404",
-      "road_addr": "경기 부천시 오정구 소사로 768-1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.52482064,
-      "lng": 126.80479804
     },
     {
       "pnu": "4119610400104040000",
@@ -10316,6 +10296,26 @@
       "lng": 126.8046991
     },
     {
+      "pnu": "4119610400104040000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 87.68525756,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 부천시 오정구 원종동 404",
+      "road_addr": "경기 부천시 오정구 소사로 768-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.52482064,
+      "lng": 126.80479804
+    },
+    {
       "pnu": "4119610400102310007",
       "match_type": "100m",
       "in_area": false,
@@ -10357,12 +10357,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
-          "count": 2
-        },
-        {
           "method": "광랜W",
           "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -10425,20 +10425,20 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 3
         },
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
         }
       ],
       "lat": 37.52464951,
@@ -10501,12 +10501,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
         }
       ],
       "lat": 37.52348132,
@@ -10624,25 +10624,25 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
           "method": "광랜W(800)",
           "count": 3
+        },
+        {
+          "method": "광랜W",
+          "count": 1
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
-        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 3
         },
         {
           "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         }
       ],
@@ -10716,25 +10716,21 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E",
-          "count": 7
-        },
-        {
           "method": "광랜E(500)",
           "count": 11
+        },
+        {
+          "method": "광랜E",
+          "count": 7
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 16
         },
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         },
         {
@@ -10742,11 +10738,15 @@
           "count": 2
         },
         {
-          "method": "Btv(AI Sound Max STB)",
+          "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
         },
         {
           "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(AI Sound Max STB)",
           "count": 1
         }
       ],
@@ -10942,15 +10942,15 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
           "method": "Btv(IPTV_B tv air 2)",
           "count": 1
         },
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         }
       ],
@@ -11199,12 +11199,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
         }
       ],
       "lat": 37.52482676,
@@ -11227,11 +11227,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],

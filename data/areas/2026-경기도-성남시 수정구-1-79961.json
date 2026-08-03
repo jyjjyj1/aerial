@@ -51,15 +51,35 @@
   },
   "buildings": [
     {
-      "pnu": "4113110300113040001",
+      "pnu": "4113110300113060000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1304-1",
-      "road_addr": "경기 성남시 수정구 제일로124번길 6-4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
+      "jibun_addr": "경기 성남시 수정구 수진동 1306",
+      "road_addr": "경기 성남시 수정구 제일로124번길 6-3",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43773132,
+      "lng": 127.13391714
+    },
+    {
+      "pnu": "4113110300113010000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "명문빌리지",
+      "jibun_addr": "경기 성남시 수정구 수진동 1301",
+      "road_addr": "경기 성남시 수정구 제일로124번길 6-10",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -67,18 +87,67 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
           "method": "광랜W",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.4376858,
-      "lng": 127.13377041
+      "lat": 37.4373256,
+      "lng": 127.13388521
+    },
+    {
+      "pnu": "4113110300113600000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1360",
+      "road_addr": "경기 성남시 수정구 산성대로149번길 27-1",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43756118,
+      "lng": 127.1342797
+    },
+    {
+      "pnu": "4113110300113070000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1307",
+      "road_addr": "경기 성남시 수정구 제일로124번길 6-5",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.4376503,
+      "lng": 127.13395145
     },
     {
       "pnu": "4113110300113080000",
@@ -101,13 +170,13 @@
       "lng": 127.13398571
     },
     {
-      "pnu": "4113110300113390000",
+      "pnu": "4113110300113410000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1339",
-      "road_addr": "경기 성남시 수정구 제일로124번길 8-9",
+      "jibun_addr": "경기 성남시 수정구 수진동 1341",
+      "road_addr": "경기 성남시 수정구 제일로124번길 8-13",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -117,53 +186,28 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43755192,
-      "lng": 127.13420062
+      "lat": 37.43738992,
+      "lng": 127.13428053
     },
     {
-      "pnu": "4113110300113460000",
+      "pnu": "4113110300113480000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1346",
-      "road_addr": "경기 성남시 수정구 제일로110번길 7-8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43697589,
-      "lng": 127.13447472
-    },
-    {
-      "pnu": "4113110300113260000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1326",
-      "road_addr": "경기 성남시 수정구 제일로110번길 7-13",
+      "jibun_addr": "경기 성남시 수정구 수진동 1348",
+      "road_addr": "경기 성남시 수정구 제일로110번길 7-4",
       "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 2,
+      "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
+      "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43718251,
-      "lng": 127.13424763
+      "lat": 37.43682287,
+      "lng": 127.13454328
     },
     {
       "pnu": "4113110300113150000",
@@ -196,287 +240,13 @@
       "lng": 127.13424851
     },
     {
-      "pnu": "4113110300112920000",
+      "pnu": "4113110300113450000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1292",
-      "road_addr": "경기 성남시 수정구 제일로 118-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.4372529,
-      "lng": 127.13369339
-    },
-    {
-      "pnu": "4113110300113100000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1310",
-      "road_addr": "경기 성남시 수정구 제일로124번길 6-11",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43740729,
-      "lng": 127.13406567
-    },
-    {
-      "pnu": "4113110300112910000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1291",
-      "road_addr": "경기 성남시 수정구 제일로 120-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.43739698,
-      "lng": 127.13364748
-    },
-    {
-      "pnu": "4113110300113400000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1340",
-      "road_addr": "경기 성남시 수정구 제일로124번길 8-11",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43747091,
-      "lng": 127.13423492
-    },
-    {
-      "pnu": "4113110300112890000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1289",
-      "road_addr": "경기 성남시 수정구 제일로 124",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43767591,
-      "lng": 127.13348786
-    },
-    {
-      "pnu": "4113110300113170000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1317",
-      "road_addr": "경기 성남시 수정구 제일로110번길 5-6",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43684024,
-      "lng": 127.13432842
-    },
-    {
-      "pnu": "4113110300113480000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1348",
-      "road_addr": "경기 성남시 수정구 제일로110번길 7-4",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43682287,
-      "lng": 127.13454328
-    },
-    {
-      "pnu": "4113110300113540000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1354",
-      "road_addr": "경기 성남시 수정구 산성대로149번길 21-1",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43707515,
-      "lng": 127.13450814
-    },
-    {
-      "pnu": "4113110300113310000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1331",
-      "road_addr": "경기 성남시 수정구 제일로124번길 8-8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43758756,
-      "lng": 127.1340648
-    },
-    {
-      "pnu": "4113110300113090000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1309",
-      "road_addr": "경기 성남시 수정구 제일로124번길 6-9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43749742,
-      "lng": 127.13406523
-    },
-    {
-      "pnu": "4113110300113240000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1324",
-      "road_addr": "경기 성남시 수정구 제일로110번길 7-9",
+      "jibun_addr": "경기 성남시 수정구 수진동 1345",
+      "road_addr": "경기 성남시 수정구 제일로110번길 7-10",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
@@ -492,131 +262,50 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_서라운드STB)",
           "count": 1
         }
       ],
-      "lat": 37.43702051,
-      "lng": 127.13432755
+      "lat": 37.43705688,
+      "lng": 127.13442911
     },
     {
-      "pnu": "4113110300113340000",
+      "pnu": "4113110300113350000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1334",
-      "road_addr": "경기 성남시 수정구 제일로124번길 8",
+      "jibun_addr": "경기 성남시 수정구 수진동 1335",
+      "road_addr": "경기 성남시 수정구 제일로124번길 8-1",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
+      "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43783058,
-      "lng": 127.13395057
-    },
-    {
-      "pnu": "4113110300112940001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1294-1",
-      "road_addr": "경기 성남시 수정구 제일로 114",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43684792,
-      "lng": 127.13389884
-    },
-    {
-      "pnu": "4113110300113120000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1312",
-      "road_addr": "경기 성남시 수정구 제일로124번길 6-15",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43726328,
-      "lng": 127.1341342
-    },
-    {
-      "pnu": "4113110300113040000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1304",
-      "road_addr": "경기 성남시 수정구 제일로124번길 4",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.4377577,
-      "lng": 127.13370224
-    },
-    {
-      "pnu": "4113110300113420000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1342",
-      "road_addr": "경기 성남시 수정구 제일로124번길 8-15",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
           "method": "광랜W",
           "count": 1
         }
       ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43731792,
-      "lng": 127.1343148
+      "tv_tech": [],
+      "lat": 37.43786708,
+      "lng": 127.13409735
     },
     {
-      "pnu": "4113110300113410000",
+      "pnu": "4113110300113380000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1341",
-      "road_addr": "경기 성남시 수정구 제일로124번길 8-13",
+      "jibun_addr": "경기 성남시 수정구 수진동 1338",
+      "road_addr": "경기 성남시 수정구 산성대로149번길 29",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -626,48 +315,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43738992,
-      "lng": 127.13428053
-    },
-    {
-      "pnu": "4113110300113370000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1337",
-      "road_addr": "경기 성남시 수정구 제일로124번길 8-5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43769593,
-      "lng": 127.13413209
-    },
-    {
-      "pnu": "4113110300113470000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1347",
-      "road_addr": "경기 성남시 수정구 제일로110번길 7-6",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43690386,
-      "lng": 127.13449767
+      "lat": 37.43763305,
+      "lng": 127.13420022
     },
     {
       "pnu": "4113110300113290000",
@@ -715,33 +364,13 @@
       "lng": 127.13409779
     },
     {
-      "pnu": "4113110300113070000",
+      "pnu": "4113110300113460000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1307",
-      "road_addr": "경기 성남시 수정구 제일로124번길 6-5",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.4376503,
-      "lng": 127.13395145
-    },
-    {
-      "pnu": "4113110300113580000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1358",
-      "road_addr": "경기 성남시 수정구 산성대로149번길 25",
+      "jibun_addr": "경기 성남시 수정구 수진동 1346",
+      "road_addr": "경기 성남시 수정구 제일로110번길 7-8",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -751,17 +380,17 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43736316,
-      "lng": 127.1343711
+      "lat": 37.43697589,
+      "lng": 127.13447472
     },
     {
-      "pnu": "4113110300113110000",
+      "pnu": "4113110300112920001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1311",
-      "road_addr": "경기 성남시 수정구 제일로124번길 6-13",
+      "jibun_addr": "경기 성남시 수정구 수진동 1292-1",
+      "road_addr": "경기 성남시 수정구 제일로 118",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -771,369 +400,42 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43733528,
-      "lng": 127.13409994
+      "lat": 37.43717185,
+      "lng": 127.1337164
     },
     {
-      "pnu": "4113110300113590000",
+      "pnu": "4113110300112980000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1359",
-      "road_addr": "경기 성남시 수정구 산성대로149번길 27",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43748918,
-      "lng": 127.13431396
-    },
-    {
-      "pnu": "4113110300112970000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "렉스빌",
-      "jibun_addr": "경기 성남시 수정구 수진동 1297",
-      "road_addr": "경기 성남시 수정구 제일로110번길 5",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 3,
+      "jibun_addr": "경기 성남시 수정구 수진동 1298",
+      "road_addr": "경기 성남시 수정구 제일로110번길 5-5",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
-          "count": 3
+          "method": "광랜W",
+          "count": 2
         },
         {
-          "method": "광랜W",
-          "count": 3
+          "method": "광랜W(800)",
+          "count": 1
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
         }
       ],
-      "lat": 37.43666856,
-      "lng": 127.13419361
-    },
-    {
-      "pnu": "4113110300113190000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1319",
-      "road_addr": "경기 성남시 수정구 제일로110번길 7",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43673242,
-      "lng": 127.13444199
-    },
-    {
-      "pnu": "4113110300113490000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1349",
-      "road_addr": "경기 성남시 수정구 제일로110번길 7-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43674196,
-      "lng": 127.1346115
-    },
-    {
-      "pnu": "4113110300113430000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1343",
-      "road_addr": "경기 성남시 수정구 제일로110번길 7-14",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43720088,
-      "lng": 127.13436058
-    },
-    {
-      "pnu": "4113110300113130000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1313",
-      "road_addr": "경기 성남시 수정구 제일로110번길 5-14",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43715526,
-      "lng": 127.13417994
-    },
-    {
-      "pnu": "4113110300112900000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "굿모닝빌리지",
-      "jibun_addr": "경기 성남시 수정구 수진동 1290",
-      "road_addr": "경기 성남시 수정구 제일로 122",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 3
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.437505,
-      "lng": 127.13360173
-    },
-    {
-      "pnu": "4113110300113530000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1353",
-      "road_addr": "경기 성남시 수정구 산성대로149번길 21",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43700314,
-      "lng": 127.13454241
-    },
-    {
-      "pnu": "4113110300113520000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1352",
-      "road_addr": "경기 성남시 수정구 산성대로149번길 19",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43686815,
-      "lng": 127.13461089
-    },
-    {
-      "pnu": "4113110300113280000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1328",
-      "road_addr": "경기 성남시 수정구 제일로124번길 8-14",
-      "avail_gen_cnt": 2,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43736253,
-      "lng": 127.13416763
-    },
-    {
-      "pnu": "4113110300113380000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1338",
-      "road_addr": "경기 성남시 수정구 산성대로149번길 29",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43763305,
-      "lng": 127.13420022
-    },
-    {
-      "pnu": "4113110300113560000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1356",
-      "road_addr": "경기 성남시 수정구 산성대로149번길 23-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43722817,
-      "lng": 127.13443958
-    },
-    {
-      "pnu": "4113110300113040002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1304-2",
-      "road_addr": "경기 성남시 수정구 제일로124번길 4-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43766746,
-      "lng": 127.13366877
-    },
-    {
-      "pnu": "4113110300113350000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1335",
-      "road_addr": "경기 성남시 수정구 제일로124번길 8-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43786708,
-      "lng": 127.13409735
-    },
-    {
-      "pnu": "4113110300113600000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1360",
-      "road_addr": "경기 성남시 수정구 산성대로149번길 27-1",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43756118,
-      "lng": 127.1342797
+      "lat": 37.43681257,
+      "lng": 127.13412509
     },
     {
       "pnu": "4113110300113050000",
@@ -1166,14 +468,14 @@
       "lng": 127.13387158
     },
     {
-      "pnu": "4113110300113140000",
+      "pnu": "4113110300113330000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1314",
-      "road_addr": "경기 성남시 수정구 제일로110번길 5-12",
-      "avail_gen_cnt": 1,
+      "jibun_addr": "경기 성남시 수정구 수진동 1333",
+      "road_addr": "경기 성남시 수정구 제일로124번길 8-4",
+      "avail_gen_cnt": 3,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -1182,17 +484,17 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43707424,
-      "lng": 127.13421425
+      "lat": 37.43774956,
+      "lng": 127.13398488
     },
     {
-      "pnu": "4113110300112920001",
+      "pnu": "4113110300113270000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1292-1",
-      "road_addr": "경기 성남시 수정구 제일로 118",
+      "jibun_addr": "경기 성남시 수정구 수진동 1327",
+      "road_addr": "경기 성남시 수정구 제일로124번길 8-16",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1202,8 +504,107 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43717185,
-      "lng": 127.1337164
+      "lat": 37.43729057,
+      "lng": 127.13421319
+    },
+    {
+      "pnu": "4113110300113620000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1362",
+      "road_addr": "경기 성남시 수정구 산성대로149번길 29-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43771417,
+      "lng": 127.13419983
+    },
+    {
+      "pnu": "4113110300113160000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1316",
+      "road_addr": "경기 성남시 수정구 제일로110번길 5-8",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43693023,
+      "lng": 127.13428277
+    },
+    {
+      "pnu": "4113110300113440000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1344",
+      "road_addr": "경기 성남시 수정구 제일로110번길 7-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43712888,
+      "lng": 127.13439484
+    },
+    {
+      "pnu": "4113110300113630000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1363",
+      "road_addr": "경기 성남시 수정구 산성대로149번길 31",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43779519,
+      "lng": 127.13416552
     },
     {
       "pnu": "4113110300113030000",
@@ -1236,15 +637,55 @@
       "lng": 127.13378242
     },
     {
-      "pnu": "4113110300113010000",
+      "pnu": "4113110300113560000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "명문빌리지",
-      "jibun_addr": "경기 성남시 수정구 수진동 1301",
-      "road_addr": "경기 성남시 수정구 제일로124번길 6-10",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1356",
+      "road_addr": "경기 성남시 수정구 산성대로149번길 23-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43722817,
+      "lng": 127.13443958
+    },
+    {
+      "pnu": "4113110300113090000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1309",
+      "road_addr": "경기 성남시 수정구 제일로124번길 6-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43749742,
+      "lng": 127.13406523
+    },
+    {
+      "pnu": "4113110300112900000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "굿모닝빌리지",
+      "jibun_addr": "경기 성남시 수정구 수진동 1290",
+      "road_addr": "경기 성남시 수정구 제일로 122",
       "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 2,
+      "int_scrbr_cnt": 4,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -1252,12 +693,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         },
         {
-          "method": "광랜W",
-          "count": 1
+          "method": "광랜W(800)",
+          "count": 3
         }
       ],
       "tv_tech": [
@@ -1266,8 +707,88 @@
           "count": 1
         }
       ],
-      "lat": 37.4373256,
-      "lng": 127.13388521
+      "lat": 37.437505,
+      "lng": 127.13360173
+    },
+    {
+      "pnu": "4113110300113530000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1353",
+      "road_addr": "경기 성남시 수정구 산성대로149번길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43700314,
+      "lng": 127.13454241
+    },
+    {
+      "pnu": "4113110300113110000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1311",
+      "road_addr": "경기 성남시 수정구 제일로124번길 6-13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43733528,
+      "lng": 127.13409994
+    },
+    {
+      "pnu": "4113110300113490000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1349",
+      "road_addr": "경기 성남시 수정구 제일로110번길 7-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43674196,
+      "lng": 127.1346115
+    },
+    {
+      "pnu": "4113110300113590000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1359",
+      "road_addr": "경기 성남시 수정구 산성대로149번길 27",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43748918,
+      "lng": 127.13431396
     },
     {
       "pnu": "4113110300113180000",
@@ -1290,13 +811,97 @@
       "lng": 127.13436269
     },
     {
-      "pnu": "4113110300113440000",
+      "pnu": "4113110300113420000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1344",
-      "road_addr": "경기 성남시 수정구 제일로110번길 7-12",
+      "jibun_addr": "경기 성남시 수정구 수진동 1342",
+      "road_addr": "경기 성남시 수정구 제일로124번길 8-15",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43731792,
+      "lng": 127.1343148
+    },
+    {
+      "pnu": "4113110300113140000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1314",
+      "road_addr": "경기 성남시 수정구 제일로110번길 5-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43707424,
+      "lng": 127.13421425
+    },
+    {
+      "pnu": "4113110300112910000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1291",
+      "road_addr": "경기 성남시 수정구 제일로 120-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.43739698,
+      "lng": 127.13364748
+    },
+    {
+      "pnu": "4113110300113190000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1319",
+      "road_addr": "경기 성남시 수정구 제일로110번길 7",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 0,
@@ -1311,8 +916,121 @@
         }
       ],
       "tv_tech": [],
-      "lat": 37.43712888,
-      "lng": 127.13439484
+      "lat": 37.43673242,
+      "lng": 127.13444199
+    },
+    {
+      "pnu": "4113110300113120000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1312",
+      "road_addr": "경기 성남시 수정구 제일로124번길 6-15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43726328,
+      "lng": 127.1341342
+    },
+    {
+      "pnu": "4113110300113240000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1324",
+      "road_addr": "경기 성남시 수정구 제일로110번길 7-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43702051,
+      "lng": 127.13432755
+    },
+    {
+      "pnu": "4113110300113250000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1325",
+      "road_addr": "경기 성남시 수정구 제일로110번길 7-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43710153,
+      "lng": 127.13429324
+    },
+    {
+      "pnu": "4113110300112890000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1289",
+      "road_addr": "경기 성남시 수정구 제일로 124",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43767591,
+      "lng": 127.13348786
     },
     {
       "pnu": "4113110300113220000",
@@ -1338,6 +1056,266 @@
       "tv_tech": [],
       "lat": 37.43686749,
       "lng": 127.13439612
+    },
+    {
+      "pnu": "4113110300112990000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1299",
+      "road_addr": "경기 성남시 수정구 제일로110번길 5-9",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43696559,
+      "lng": 127.13405652
+    },
+    {
+      "pnu": "4113110300113230000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1323",
+      "road_addr": "경기 성남시 수정구 제일로110번길 7-7",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.4369485,
+      "lng": 127.13436181
+    },
+    {
+      "pnu": "4113110300113550000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1355",
+      "road_addr": "경기 성남시 수정구 산성대로149번길 23",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43714715,
+      "lng": 127.13447388
+    },
+    {
+      "pnu": "4113110300113130000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1313",
+      "road_addr": "경기 성남시 수정구 제일로110번길 5-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43715526,
+      "lng": 127.13417994
+    },
+    {
+      "pnu": "4113110300113400000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1340",
+      "road_addr": "경기 성남시 수정구 제일로124번길 8-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43747091,
+      "lng": 127.13423492
+    },
+    {
+      "pnu": "4113110300113390000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1339",
+      "road_addr": "경기 성남시 수정구 제일로124번길 8-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43755192,
+      "lng": 127.13420062
+    },
+    {
+      "pnu": "4113110300113430000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1343",
+      "road_addr": "경기 성남시 수정구 제일로110번길 7-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43720088,
+      "lng": 127.13436058
+    },
+    {
+      "pnu": "4113110300113340000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1334",
+      "road_addr": "경기 성남시 수정구 제일로124번길 8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43783058,
+      "lng": 127.13395057
+    },
+    {
+      "pnu": "4113110300113020000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1302",
+      "road_addr": "경기 성남시 수정구 제일로124번길 6-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.43745165,
+      "lng": 127.13383938
+    },
+    {
+      "pnu": "4113110300112920000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1292",
+      "road_addr": "경기 성남시 수정구 제일로 118-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.4372529,
+      "lng": 127.13369339
     },
     {
       "pnu": "4113110300113000000",
@@ -1382,16 +1360,16 @@
       "lng": 127.13397656
     },
     {
-      "pnu": "4113110300112980000",
+      "pnu": "4113110300112970000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1298",
-      "road_addr": "경기 성남시 수정구 제일로110번길 5-5",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 2,
+      "bld_nm": "렉스빌",
+      "jibun_addr": "경기 성남시 수정구 수진동 1297",
+      "road_addr": "경기 성남시 수정구 제일로110번길 5",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 3,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -1399,21 +1377,105 @@
       "int_tech": [
         {
           "method": "광랜W(800)",
-          "count": 1
+          "count": 3
         },
         {
           "method": "광랜W",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.43666856,
+      "lng": 127.13419361
+    },
+    {
+      "pnu": "4113110300113040001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1304-1",
+      "road_addr": "경기 성남시 수정구 제일로124번길 6-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.4376858,
+      "lng": 127.13377041
+    },
+    {
+      "pnu": "4113110300113310000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1331",
+      "road_addr": "경기 성남시 수정구 제일로124번길 8-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
           "count": 2
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
+          "count": 1
         }
       ],
-      "lat": 37.43681257,
-      "lng": 127.13412509
+      "lat": 37.43758756,
+      "lng": 127.1340648
+    },
+    {
+      "pnu": "4113110300113540000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1354",
+      "road_addr": "경기 성남시 수정구 산성대로149번길 21-1",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43707515,
+      "lng": 127.13450814
     },
     {
       "pnu": "4113110300113320000",
@@ -1446,50 +1508,16 @@
       "lng": 127.13403049
     },
     {
-      "pnu": "4113110300113160000",
+      "pnu": "4113110300113520000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1316",
-      "road_addr": "경기 성남시 수정구 제일로110번길 5-8",
-      "avail_gen_cnt": 3,
+      "jibun_addr": "경기 성남시 수정구 수진동 1352",
+      "road_addr": "경기 성남시 수정구 산성대로149번길 19",
+      "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43693023,
-      "lng": 127.13428277
-    },
-    {
-      "pnu": "4113110300112990000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1299",
-      "road_addr": "경기 성남시 수정구 제일로110번길 5-9",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -1498,35 +1526,27 @@
         {
           "method": "광랜W(800)",
           "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 1
-        },
         {
           "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
-      "lat": 37.43696559,
-      "lng": 127.13405652
+      "lat": 37.43686815,
+      "lng": 127.13461089
     },
     {
-      "pnu": "4113110300113250000",
+      "pnu": "4113110300113260000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1325",
-      "road_addr": "경기 성남시 수정구 제일로110번길 7-11",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
+      "jibun_addr": "경기 성남시 수정구 수진동 1326",
+      "road_addr": "경기 성남시 수정구 제일로110번길 7-13",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -1534,104 +1554,24 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
-          "count": 1
+          "method": "광랜W(800)",
+          "count": 2
         }
       ],
       "tv_tech": [],
-      "lat": 37.43710153,
-      "lng": 127.13429324
+      "lat": 37.43718251,
+      "lng": 127.13424763
     },
     {
-      "pnu": "4113110300113620000",
+      "pnu": "4113110300113100000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1362",
-      "road_addr": "경기 성남시 수정구 산성대로149번길 29-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43771417,
-      "lng": 127.13419983
-    },
-    {
-      "pnu": "4113110300113060000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1306",
-      "road_addr": "경기 성남시 수정구 제일로124번길 6-3",
+      "jibun_addr": "경기 성남시 수정구 수진동 1310",
+      "road_addr": "경기 성남시 수정구 제일로124번길 6-11",
       "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43773132,
-      "lng": 127.13391714
-    },
-    {
-      "pnu": "4113110300113630000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1363",
-      "road_addr": "경기 성남시 수정구 산성대로149번길 31",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43779519,
-      "lng": 127.13416552
-    },
-    {
-      "pnu": "4113110300113550000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1355",
-      "road_addr": "경기 성남시 수정구 산성대로149번길 23",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43714715,
-      "lng": 127.13447388
-    },
-    {
-      "pnu": "4113110300113230000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1323",
-      "road_addr": "경기 성남시 수정구 제일로110번길 7-7",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 2,
+      "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -1640,21 +1580,61 @@
       "int_tech": [
         {
           "method": "광랜W",
-          "count": 2
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD4 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.4369485,
-      "lng": 127.13436181
+      "lat": 37.43740729,
+      "lng": 127.13406567
+    },
+    {
+      "pnu": "4113110300113470000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1347",
+      "road_addr": "경기 성남시 수정구 제일로110번길 7-6",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43690386,
+      "lng": 127.13449767
+    },
+    {
+      "pnu": "4113110300113170000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1317",
+      "road_addr": "경기 성남시 수정구 제일로110번길 5-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43684024,
+      "lng": 127.13432842
     },
     {
       "pnu": "4113110300112910001",
@@ -1677,93 +1657,13 @@
       "lng": 127.13368169
     },
     {
-      "pnu": "4113110300113330000",
+      "pnu": "4113110300113040002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1333",
-      "road_addr": "경기 성남시 수정구 제일로124번길 8-4",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43774956,
-      "lng": 127.13398488
-    },
-    {
-      "pnu": "4113110300113020000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1302",
-      "road_addr": "경기 성남시 수정구 제일로124번길 6-8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.43745165,
-      "lng": 127.13383938
-    },
-    {
-      "pnu": "4113110300113450000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1345",
-      "road_addr": "경기 성남시 수정구 제일로110번길 7-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_서라운드STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43705688,
-      "lng": 127.13442911
-    },
-    {
-      "pnu": "4113110300113270000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 수정구 수진동 1327",
-      "road_addr": "경기 성남시 수정구 제일로124번길 8-16",
+      "jibun_addr": "경기 성남시 수정구 수진동 1304-2",
+      "road_addr": "경기 성남시 수정구 제일로124번길 4-1",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1773,8 +1673,108 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43729057,
-      "lng": 127.13421319
+      "lat": 37.43766746,
+      "lng": 127.13366877
+    },
+    {
+      "pnu": "4113110300113370000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1337",
+      "road_addr": "경기 성남시 수정구 제일로124번길 8-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43769593,
+      "lng": 127.13413209
+    },
+    {
+      "pnu": "4113110300112940001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1294-1",
+      "road_addr": "경기 성남시 수정구 제일로 114",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43684792,
+      "lng": 127.13389884
+    },
+    {
+      "pnu": "4113110300113040000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1304",
+      "road_addr": "경기 성남시 수정구 제일로124번길 4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.4377577,
+      "lng": 127.13370224
+    },
+    {
+      "pnu": "4113110300113580000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1358",
+      "road_addr": "경기 성남시 수정구 산성대로149번길 25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43736316,
+      "lng": 127.1343711
+    },
+    {
+      "pnu": "4113110300113280000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 수정구 수진동 1328",
+      "road_addr": "경기 성남시 수정구 제일로124번길 8-14",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43736253,
+      "lng": 127.13416763
     },
     {
       "pnu": "4113110300113780000",
@@ -2093,12 +2093,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        },
-        {
           "method": "광랜FTTH",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
         }
       ],
       "tv_tech": [
@@ -3513,11 +3513,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         },
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         }
       ],
@@ -4524,21 +4524,21 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         },
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(AI Sound Max STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(AI Sound Max STB)",
           "count": 1
         }
       ],
@@ -5195,7 +5195,7 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
@@ -5203,7 +5203,7 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -5323,11 +5323,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 5 STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_AI 5 STB)",
           "count": 1
         }
       ],
@@ -5782,11 +5782,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air 3)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -5810,11 +5810,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         },
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         }
       ],
@@ -5959,11 +5959,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV)",
           "count": 1
         }
       ],
@@ -6082,12 +6082,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
           "method": "광랜W(800)",
           "count": 2
+        },
+        {
+          "method": "광랜W",
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -6647,11 +6647,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV)",
           "count": 1
         }
       ],
@@ -6675,12 +6675,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
-          "count": 2
-        },
-        {
           "method": "광랜W",
           "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -6839,11 +6839,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         },
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
@@ -6883,11 +6883,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -7212,11 +7212,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -7764,11 +7764,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 2
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 2
         }
       ],
@@ -8352,11 +8352,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
@@ -8566,11 +8566,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         },
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         }
       ],
@@ -9509,11 +9509,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         },
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         }
       ],
@@ -9967,12 +9967,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
           "method": "광랜W",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -10410,12 +10410,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_B tv air 2)",
           "count": 2
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
         }
       ],
       "lat": 37.43613015,
@@ -10663,11 +10663,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
@@ -11392,12 +11392,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
           "method": "광랜FTTH",
           "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -12492,15 +12492,15 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 3
         },
         {
           "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         }
       ],
@@ -12854,12 +12854,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
           "method": "광랜FTTH",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -13483,12 +13483,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air 4)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
         }
       ],
       "lat": 37.43593119,
@@ -15525,11 +15525,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -15613,12 +15613,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
           "method": "광랜FTTH(GB)",
           "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
         }
       ],
       "tv_tech": [

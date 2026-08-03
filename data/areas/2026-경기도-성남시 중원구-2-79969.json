@@ -47,6 +47,40 @@
   },
   "buildings": [
     {
+      "pnu": "4113310500123760000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2376",
+      "road_addr": "경기 성남시 중원구 박석로93번길 17-5",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43969362,
+      "lng": 127.1633328
+    },
+    {
       "pnu": "4113310500124530000",
       "match_type": "inside",
       "in_area": true,
@@ -77,36 +111,16 @@
       "lng": 127.16301988
     },
     {
-      "pnu": "4113310500124400000",
+      "pnu": "4113310500124660000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2440",
-      "road_addr": "경기 성남시 중원구 박석로93번길 27-1",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43921371,
-      "lng": 127.16256626
-    },
-    {
-      "pnu": "4113310500123960000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2396",
-      "road_addr": "경기 성남시 중원구 박석로93번길 17-10",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2466",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-11",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -117,412 +131,9 @@
           "count": 1
         }
       ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43952246,
-      "lng": 127.16336748
-    },
-    {
-      "pnu": "4113310500124580000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2458",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-3",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
       "tv_tech": [],
-      "lat": 37.4390241,
-      "lng": 127.16245407
-    },
-    {
-      "pnu": "4113310500124670000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2467",
-      "road_addr": "경기 성남시 중원구 박석로93번길 27-14",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43888993,
-      "lng": 127.1628164
-    },
-    {
-      "pnu": "4113310500124780000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2478",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-3",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43886134,
-      "lng": 127.16227393
-    },
-    {
-      "pnu": "4113310500124280000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2428",
-      "road_addr": "경기 성남시 중원구 박석로93번길 21-8",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43927799,
-      "lng": 127.16298423
-    },
-    {
-      "pnu": "4113310500123740000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2374",
-      "road_addr": "경기 성남시 중원구 박석로93번길 17-3",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43973849,
-      "lng": 127.16326477
-    },
-    {
-      "pnu": "4113310500123990000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2399",
-      "road_addr": "경기 성남시 중원구 박석로93번길 19-11",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43942328,
-      "lng": 127.16335662
-    },
-    {
-      "pnu": "4113310500124630000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2463",
-      "road_addr": "경기 성남시 중원구 박석로93번길 27-10",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43897073,
-      "lng": 127.162703
-    },
-    {
-      "pnu": "4113310500123770000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2377",
-      "road_addr": "경기 성남시 중원구 금상로58번길 12-1",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43970299,
-      "lng": 127.1634571
-    },
-    {
-      "pnu": "4113310500124150000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2415",
-      "road_addr": "경기 성남시 중원구 박석로93번길 19-12",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air 4)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43933288,
-      "lng": 127.16326659
-    },
-    {
-      "pnu": "4113310500123950000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2395",
-      "road_addr": "경기 성남시 중원구 박석로93번길 19-7",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43950404,
-      "lng": 127.16323191
-    },
-    {
-      "pnu": "4113310500124600000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2460",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-5",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43897919,
-      "lng": 127.16251079
-    },
-    {
-      "pnu": "4113310500124510000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2451",
-      "road_addr": "경기 성남시 중원구 박석로93번길 27-13",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43893538,
-      "lng": 127.16295185
-    },
-    {
-      "pnu": "4113310500124360000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2436",
-      "road_addr": "경기 성남시 중원구 박석로85번길 20",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43909846,
-      "lng": 127.16324503
-    },
-    {
-      "pnu": "4113310500124990000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2499",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-8",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43869912,
-      "lng": 127.16228596
-    },
-    {
-      "pnu": "4113310500124030000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2403",
-      "road_addr": "경기 성남시 중원구 박석로85번길 16-1",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43933353,
-      "lng": 127.16349267
-    },
-    {
-      "pnu": "4113310500124460000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2446",
-      "road_addr": "경기 성남시 중원구 박석로93번길 25-10",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43908842,
-      "lng": 127.16288334
+      "lat": 37.43885348,
+      "lng": 127.16268092
     },
     {
       "pnu": "4113310500124480000",
@@ -555,13 +166,73 @@
       "lng": 127.16295132
     },
     {
-      "pnu": "4113310500124860000",
+      "pnu": "4113310500123830000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2486",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-11",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2383",
+      "road_addr": "경기 성남시 중원구 금상로58번길 14-2",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43956836,
+      "lng": 127.16366118
+    },
+    {
+      "pnu": "4113310500123770000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2377",
+      "road_addr": "경기 성남시 중원구 금상로58번길 12-1",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43970299,
+      "lng": 127.1634571
+    },
+    {
+      "pnu": "4113310500124390000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2439",
+      "road_addr": "경기 성남시 중원구 박석로93번길 25-2",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.439277,
+      "lng": 127.1626338
+    },
+    {
+      "pnu": "4113310500124240000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2424",
+      "road_addr": "경기 성남시 중원구 박석로93번길 21-4",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
@@ -581,68 +252,18 @@
           "count": 1
         }
       ],
-      "lat": 37.43869977,
-      "lng": 127.16251204
+      "lat": 37.43936778,
+      "lng": 127.16285948
     },
     {
-      "pnu": "4113310500124660000",
+      "pnu": "4113310500123950000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2466",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-11",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43885348,
-      "lng": 127.16268092
-    },
-    {
-      "pnu": "4113310500124790000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2479",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-6",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43888876,
-      "lng": 127.16240946
-    },
-    {
-      "pnu": "4113310500124910000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2491",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-18",
-      "avail_gen_cnt": 1,
+      "jibun_addr": "경기 성남시 중원구 상대원동 2395",
+      "road_addr": "경기 성남시 중원구 박석로93번길 19-7",
+      "avail_gen_cnt": 4,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
@@ -657,79 +278,21 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.4386464,
-      "lng": 127.16276098
-    },
-    {
-      "pnu": "4113310500123810000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "대일초등학교",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2381",
-      "road_addr": "경기 성남시 중원구 금상로58번길 14-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43961324,
-      "lng": 127.16359316
-    },
-    {
-      "pnu": "4113310500124130000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2413",
-      "road_addr": "경기 성남시 중원구 박석로93번길 19-10",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
-        },
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 1
         }
       ],
-      "lat": 37.43937779,
-      "lng": 127.16320987
+      "lat": 37.43950404,
+      "lng": 127.16323191
     },
     {
-      "pnu": "4113310500124610000",
+      "pnu": "4113310500124350000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2461",
-      "road_addr": "경기 성남시 중원구 박석로93번길 27-8",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2435",
+      "road_addr": "경기 성남시 중원구 박석로93번길 25-13",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -739,18 +302,18 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43900662,
-      "lng": 127.16264632
+      "lat": 37.43908906,
+      "lng": 127.16310942
     },
     {
-      "pnu": "4113310500123980000",
+      "pnu": "4113310500125060000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2398",
-      "road_addr": "경기 성남시 중원구 박석로93번길 17-12",
-      "avail_gen_cnt": 4,
+      "jibun_addr": "경기 성남시 중원구 상대원동 2506",
+      "road_addr": "경기 성남시 중원구 금상로40번길 13-1",
+      "avail_gen_cnt": 3,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -759,17 +322,122 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43947755,
-      "lng": 127.1634242
+      "lat": 37.43851016,
+      "lng": 127.16239985
     },
     {
-      "pnu": "4113310500124960000",
+      "pnu": "4113310500125100000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2496",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-4",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2510",
+      "road_addr": "경기 성남시 중원구 박석로85번길 30-1",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43842939,
+      "lng": 127.16252456
+    },
+    {
+      "pnu": "4113310500124010000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2401",
+      "road_addr": "경기 성남시 중원구 박석로93번길 19-13",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.4393784,
+      "lng": 127.16342464
+    },
+    {
+      "pnu": "4113310500124520000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2452",
+      "road_addr": "경기 성남시 중원구 박석로85번길 22",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.4389538,
+      "lng": 127.16308742
+    },
+    {
+      "pnu": "4113310500124000000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2400",
+      "road_addr": "경기 성남시 중원구 박석로93번길 17-14",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43943268,
+      "lng": 127.16349223
+    },
+    {
+      "pnu": "4113310500124360000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2436",
+      "road_addr": "경기 성남시 중원구 박석로85번길 20",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43909846,
+      "lng": 127.16324503
+    },
+    {
+      "pnu": "4113310500123910000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2391",
+      "road_addr": "경기 성남시 중원구 박석로93번길 19-3",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 0,
@@ -784,8 +452,28 @@
         }
       ],
       "tv_tech": [],
-      "lat": 37.43877094,
-      "lng": 127.1621839
+      "lat": 37.43959383,
+      "lng": 127.16310716
+    },
+    {
+      "pnu": "4113310500124510000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2451",
+      "road_addr": "경기 성남시 중원구 박석로93번길 27-13",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43893538,
+      "lng": 127.16295185
     },
     {
       "pnu": "4113310500124500000",
@@ -818,38 +506,13 @@
       "lng": 127.16301939
     },
     {
-      "pnu": "4113310500123910000",
+      "pnu": "4113310500124270000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2391",
-      "road_addr": "경기 성남시 중원구 박석로93번길 19-3",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43959383,
-      "lng": 127.16310716
-    },
-    {
-      "pnu": "4113310500124000000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2400",
-      "road_addr": "경기 성남시 중원구 박석로93번길 17-14",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2427",
+      "road_addr": "경기 성남시 중원구 박석로93번길 25-5",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -859,553 +522,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43943268,
-      "lng": 127.16349223
-    },
-    {
-      "pnu": "4113310500124320000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2432",
-      "road_addr": "경기 성남시 중원구 박석로93번길 21-12",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43918821,
-      "lng": 127.16310898
-    },
-    {
-      "pnu": "4113310500124620000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2462",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-7",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.4389433,
-      "lng": 127.16256747
-    },
-    {
-      "pnu": "4113310500124050000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2405",
-      "road_addr": "경기 성남시 중원구 박석로93번길 19-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43955732,
-      "lng": 127.16294906
-    },
-    {
-      "pnu": "4113310500123940000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2394",
-      "road_addr": "경기 성남시 중원구 박석로93번길 17-8",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43956733,
-      "lng": 127.16329945
-    },
-    {
-      "pnu": "4113310500124690000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2469",
-      "road_addr": "경기 성남시 중원구 박석로93번길 27-16",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43884499,
-      "lng": 127.16286182
-    },
-    {
-      "pnu": "4113310500124740000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2474",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43896956,
-      "lng": 127.16229605
-    },
-    {
-      "pnu": "4113310500124230000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2423",
-      "road_addr": "경기 성남시 중원구 박석로93번길 25-1",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43935838,
-      "lng": 127.16272387
-    },
-    {
-      "pnu": "4113310500123850000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2385",
-      "road_addr": "경기 성남시 중원구 박석로85번길 14",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43952349,
-      "lng": 127.16372921
-    },
-    {
-      "pnu": "4113310500124140000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2414",
-      "road_addr": "경기 성남시 중원구 박석로93번길 21-9",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.4393145,
-      "lng": 127.16314232
-    },
-    {
-      "pnu": "4113310500124520000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2452",
-      "road_addr": "경기 성남시 중원구 박석로85번길 22",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.4389538,
-      "lng": 127.16308742
-    },
-    {
-      "pnu": "4113310500124490000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2449",
-      "road_addr": "경기 성남시 중원구 박석로93번길 27-11",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43898026,
-      "lng": 127.16288382
-    },
-    {
-      "pnu": "4113310500125090000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2509",
-      "road_addr": "경기 성남시 중원구 박석로85번길 30",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43849268,
-      "lng": 127.1625921
-    },
-    {
-      "pnu": "4113310500124410000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2441",
-      "road_addr": "경기 성남시 중원구 박석로93번길 25-4",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43923212,
-      "lng": 127.16270183
-    },
-    {
-      "pnu": "4113310500124890000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2489",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-16",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43868229,
-      "lng": 127.16270429
-    },
-    {
-      "pnu": "4113310500124370000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2437",
-      "road_addr": "경기 성남시 중원구 박석로85번길 20-1",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43903518,
-      "lng": 127.16317749
-    },
-    {
-      "pnu": "4113310500124560000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2456",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43905999,
-      "lng": 127.16239738
-    },
-    {
-      "pnu": "4113310500124950000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2495",
-      "road_addr": "경기 성남시 중원구 금상로40번길 9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43872555,
-      "lng": 127.16207106
-    },
-    {
-      "pnu": "4113310500124640000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2464",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-9",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43889839,
-      "lng": 127.16262419
-    },
-    {
-      "pnu": "4113310500124120000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2412",
-      "road_addr": "경기 성남시 중원구 박석로93번길 21-7",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43935938,
-      "lng": 127.1630743
-    },
-    {
-      "pnu": "4113310500123920000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2392",
-      "road_addr": "경기 성남시 중원구 박석로93번길 17-6",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43961221,
-      "lng": 127.16323142
-    },
-    {
-      "pnu": "4113310500125100000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2510",
-      "road_addr": "경기 성남시 중원구 박석로85번길 30-1",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43842939,
-      "lng": 127.16252456
-    },
-    {
-      "pnu": "4113310500124350000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2435",
-      "road_addr": "경기 성남시 중원구 박석로93번길 25-13",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43908906,
-      "lng": 127.16310942
-    },
-    {
-      "pnu": "4113310500123730000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2373",
-      "road_addr": "경기 성남시 중원구 금상로58번길 10-1",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43980175,
-      "lng": 127.16332101
-    },
-    {
-      "pnu": "4113310500124810000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2481",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-8",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43885287,
-      "lng": 127.16246614
-    },
-    {
-      "pnu": "4113310500124420000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2442",
-      "road_addr": "경기 성남시 중원구 박석로93번길 27-3",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43915982,
-      "lng": 127.16263432
+      "lat": 37.43926863,
+      "lng": 127.16285992
     },
     {
       "pnu": "4113310500124200000",
@@ -1442,13 +560,13 @@
       "lng": 127.1633351
     },
     {
-      "pnu": "4113310500124980000",
+      "pnu": "4113310500124600000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2498",
-      "road_addr": "경기 성남시 중원구 금상로40번길 11",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2460",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-5",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1458,43 +576,178 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43867173,
-      "lng": 127.16216174
+      "lat": 37.43897919,
+      "lng": 127.16251079
     },
     {
-      "pnu": "4113310500124010000",
+      "pnu": "4113310500124640000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2401",
-      "road_addr": "경기 성남시 중원구 박석로93번길 19-13",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
+      "jibun_addr": "경기 성남시 중원구 상대원동 2464",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-9",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
+      "int_tech": [],
       "tv_tech": [],
-      "lat": 37.4393784,
-      "lng": 127.16342464
+      "lat": 37.43889839,
+      "lng": 127.16262419
     },
     {
-      "pnu": "4113310500124880000",
+      "pnu": "4113310500124320000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2488",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-13",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2432",
+      "road_addr": "경기 성남시 중원구 박석로93번길 21-12",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43918821,
+      "lng": 127.16310898
+    },
+    {
+      "pnu": "4113310500123980000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2398",
+      "road_addr": "경기 성남시 중원구 박석로93번길 17-12",
       "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43947755,
+      "lng": 127.1634242
+    },
+    {
+      "pnu": "4113310500124890000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2489",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-16",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43868229,
+      "lng": 127.16270429
+    },
+    {
+      "pnu": "4113310500124050000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2405",
+      "road_addr": "경기 성남시 중원구 박석로93번길 19-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43955732,
+      "lng": 127.16294906
+    },
+    {
+      "pnu": "4113310500124030000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2403",
+      "road_addr": "경기 성남시 중원구 박석로85번길 16-1",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43933353,
+      "lng": 127.16349267
+    },
+    {
+      "pnu": "4113310500124570000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2457",
+      "road_addr": "경기 성남시 중원구 박석로93번길 27-4",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43908742,
+      "lng": 127.16253291
+    },
+    {
+      "pnu": "4113310500124610000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2461",
+      "road_addr": "경기 성남시 중원구 박석로93번길 27-8",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43900662,
+      "lng": 127.16264632
+    },
+    {
+      "pnu": "4113310500124460000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2446",
+      "road_addr": "경기 성남시 중원구 박석로93번길 25-10",
+      "avail_gen_cnt": 3,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
@@ -1513,18 +766,18 @@
           "count": 1
         }
       ],
-      "lat": 37.43866388,
-      "lng": 127.16256873
+      "lat": 37.43908842,
+      "lng": 127.16288334
     },
     {
-      "pnu": "4113310500124430000",
+      "pnu": "4113310500124620000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2443",
-      "road_addr": "경기 성남시 중원구 박석로93번길 25-6",
-      "avail_gen_cnt": 4,
+      "jibun_addr": "경기 성남시 중원구 상대원동 2462",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-7",
+      "avail_gen_cnt": 3,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -1538,43 +791,18 @@
         }
       ],
       "tv_tech": [],
-      "lat": 37.43915106,
-      "lng": 127.1627248
+      "lat": 37.4389433,
+      "lng": 127.16256747
     },
     {
-      "pnu": "4113310500123880000",
+      "pnu": "4113310500124170000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2388",
-      "road_addr": "경기 성남시 중원구 박석로93번길 17-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43970199,
-      "lng": 127.16310667
-    },
-    {
-      "pnu": "4113310500123710000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2371",
-      "road_addr": "경기 성남시 중원구 금상로58번길 10",
-      "avail_gen_cnt": 1,
+      "jibun_addr": "경기 성남시 중원구 상대원동 2417",
+      "road_addr": "경기 성남시 중원구 박석로93번길 19-14",
+      "avail_gen_cnt": 4,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -1583,50 +811,20 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43981047,
-      "lng": 127.16321923
+      "lat": 37.43928801,
+      "lng": 127.16333461
     },
     {
-      "pnu": "4113310500124060000",
+      "pnu": "4113310500123990000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2406",
-      "road_addr": "경기 성남시 중원구 박석로93번길 21",
-      "avail_gen_cnt": 1,
+      "jibun_addr": "경기 성남시 중원구 상대원동 2399",
+      "road_addr": "경기 성남시 중원구 박석로93번길 19-11",
+      "avail_gen_cnt": 3,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43949403,
-      "lng": 127.16288152
-    },
-    {
-      "pnu": "4113310500123820000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2382",
-      "road_addr": "경기 성남시 중원구 박석로93번길 17-11",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 4,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -1634,26 +832,226 @@
       "int_tech": [
         {
           "method": "광랜FTTH(GB)",
-          "count": 2
+          "count": 1
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
+          "count": 1
         }
       ],
-      "lat": 37.43955896,
-      "lng": 127.16352557
+      "lat": 37.43942328,
+      "lng": 127.16335662
     },
     {
-      "pnu": "4113310500124260000",
+      "pnu": "4113310500124860000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2426",
-      "road_addr": "경기 성남시 중원구 박석로93번길 21-6",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2486",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-11",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43869977,
+      "lng": 127.16251204
+    },
+    {
+      "pnu": "4113310500124740000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2474",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43896956,
+      "lng": 127.16229605
+    },
+    {
+      "pnu": "4113310500124990000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2499",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-8",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43869912,
+      "lng": 127.16228596
+    },
+    {
+      "pnu": "4113310500124110000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2411",
+      "road_addr": "경기 성남시 중원구 박석로93번길 19-8",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43942266,
+      "lng": 127.16314184
+    },
+    {
+      "pnu": "4113310500124630000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2463",
+      "road_addr": "경기 성남시 중원구 박석로93번길 27-10",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43897073,
+      "lng": 127.162703
+    },
+    {
+      "pnu": "4113310500124780000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2478",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-3",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43886134,
+      "lng": 127.16227393
+    },
+    {
+      "pnu": "4113310500124310000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2431",
+      "road_addr": "경기 성남시 중원구 박석로93번길 25-9",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43916983,
+      "lng": 127.16298471
+    },
+    {
+      "pnu": "4113310500123940000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2394",
+      "road_addr": "경기 성남시 중원구 박석로93번길 17-8",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43956733,
+      "lng": 127.16329945
+    },
+    {
+      "pnu": "4113310500124230000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2423",
+      "road_addr": "경기 성남시 중원구 박석로93번길 25-1",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 0,
@@ -1668,17 +1066,17 @@
         }
       ],
       "tv_tech": [],
-      "lat": 37.4393229,
-      "lng": 127.1629275
+      "lat": 37.43935838,
+      "lng": 127.16272387
     },
     {
-      "pnu": "4113310500123970000",
+      "pnu": "4113310500125030000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2397",
-      "road_addr": "경기 성남시 중원구 박석로93번길 19-9",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2503",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-12",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1688,20 +1086,145 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43946818,
-      "lng": 127.16329989
+      "lat": 37.43861836,
+      "lng": 127.16241067
     },
     {
-      "pnu": "4113310500124550000",
+      "pnu": "4113310500125000000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2455",
-      "road_addr": "경기 성남시 중원구 박석로93번길 27-2",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2500",
+      "road_addr": "경기 성남시 중원구 금상로40번길 11-1",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43863583,
+      "lng": 127.16221842
+    },
+    {
+      "pnu": "4113310500124070000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2407",
+      "road_addr": "경기 성남시 중원구 박석로93번길 19-4",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43951245,
+      "lng": 127.16301709
+    },
+    {
+      "pnu": "4113310500124280000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2428",
+      "road_addr": "경기 성남시 중원구 박석로93번길 21-8",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43927799,
+      "lng": 127.16298423
+    },
+    {
+      "pnu": "4113310500124760000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2476",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-1",
       "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43889723,
+      "lng": 127.16221725
+    },
+    {
+      "pnu": "4113310500124970000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2497",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-6",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43873505,
+      "lng": 127.16224058
+    },
+    {
+      "pnu": "4113310500124580000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2458",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-3",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.4390241,
+      "lng": 127.16245407
+    },
+    {
+      "pnu": "4113310500124150000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2415",
+      "road_addr": "경기 성남시 중원구 박석로93번길 19-12",
+      "avail_gen_cnt": 3,
       "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -1712,6 +1235,174 @@
           "count": 1
         },
         {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43933288,
+      "lng": 127.16326659
+    },
+    {
+      "pnu": "4113310500123930000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2393",
+      "road_addr": "경기 성남시 중원구 박석로93번길 19-5",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43954895,
+      "lng": 127.16317518
+    },
+    {
+      "pnu": "4113310500124870000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2487",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-14",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.4387272,
+      "lng": 127.16264757
+    },
+    {
+      "pnu": "4113310500125070000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2507",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-16",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43853759,
+      "lng": 127.16253538
+    },
+    {
+      "pnu": "4113310500124020000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2402",
+      "road_addr": "경기 성남시 중원구 박석로85번길 16",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.4393878,
+      "lng": 127.16356025
+    },
+    {
+      "pnu": "4113310500124940000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2494",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43881585,
+      "lng": 127.16212718
+    },
+    {
+      "pnu": "4113310500124670000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2467",
+      "road_addr": "경기 성남시 중원구 박석로93번길 27-14",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
           "method": "광랜W(800)",
           "count": 1
         }
@@ -1722,17 +1413,17 @@
           "count": 1
         }
       ],
-      "lat": 37.43913229,
-      "lng": 127.16246488
+      "lat": 37.43888993,
+      "lng": 127.1628164
     },
     {
-      "pnu": "4113310500123900000",
+      "pnu": "4113310500124770000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2390",
-      "road_addr": "경기 성남시 중원구 박석로93번길 17-4",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2477",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-4",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1742,40 +1433,50 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43965708,
-      "lng": 127.1631634
+      "lat": 37.43893367,
+      "lng": 127.16235273
     },
     {
-      "pnu": "4113310500124800000",
+      "pnu": "4113310500125040000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2480",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-5",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43882548,
-      "lng": 127.16234192
-    },
-    {
-      "pnu": "4113310500124590000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2459",
-      "road_addr": "경기 성남시 중원구 박석로93번길 27-6",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2504",
+      "road_addr": "경기 성남시 중원구 금상로40번길 13",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43854605,
+      "lng": 127.16234317
+    },
+    {
+      "pnu": "4113310500123740000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2374",
+      "road_addr": "경기 성남시 중원구 박석로93번길 17-3",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -1786,18 +1487,113 @@
           "count": 1
         }
       ],
-      "tv_tech": [],
-      "lat": 37.43905153,
-      "lng": 127.16258959
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43973849,
+      "lng": 127.16326477
     },
     {
-      "pnu": "4113310500124090000",
+      "pnu": "4113310500124080000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2409",
-      "road_addr": "경기 성남시 중원구 박석로93번길 19-6",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2408",
+      "road_addr": "경기 성남시 중원구 박석로93번길 21-3",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43945817,
+      "lng": 127.16294951
+    },
+    {
+      "pnu": "4113310500123790000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2379",
+      "road_addr": "경기 성남시 중원구 금상로58번길 14",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43966744,
+      "lng": 127.16354443
+    },
+    {
+      "pnu": "4113310500124120000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2412",
+      "road_addr": "경기 성남시 중원구 박석로93번길 21-7",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43935938,
+      "lng": 127.1630743
+    },
+    {
+      "pnu": "4113310500124440000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2444",
+      "road_addr": "경기 성남시 중원구 박석로93번길 25-8",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43913333,
+      "lng": 127.16282662
+    },
+    {
+      "pnu": "4113310500125010000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2501",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-10",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 2,
@@ -1813,26 +1609,116 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air 3)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_smart 2 STB)",
           "count": 1
         }
       ],
-      "lat": 37.43946754,
-      "lng": 127.16307381
+      "lat": 37.43865425,
+      "lng": 127.16235399
     },
     {
-      "pnu": "4113310500124720000",
+      "pnu": "4113310500123860000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2472",
-      "road_addr": "경기 성남시 중원구 박석로85번길 26",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2386",
+      "road_addr": "경기 성남시 중원구 박석로85번길 14-1",
       "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.43946918,
+      "lng": 127.16365032
+    },
+    {
+      "pnu": "4113310500124140000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2414",
+      "road_addr": "경기 성남시 중원구 박석로93번길 21-9",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.4393145,
+      "lng": 127.16314232
+    },
+    {
+      "pnu": "4113310500124830000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2483",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-10",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43880797,
+      "lng": 127.16252286
+    },
+    {
+      "pnu": "4113310500124470000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2447",
+      "road_addr": "경기 성남시 중원구 박석로93번길 27-9",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43903418,
+      "lng": 127.16282706
+    },
+    {
+      "pnu": "4113310500124340000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2434",
+      "road_addr": "경기 성남시 중원구 박석로93번길 21-14",
+      "avail_gen_cnt": 3,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
@@ -1847,21 +1733,41 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
-      "lat": 37.43873679,
-      "lng": 127.162851
+      "lat": 37.43914334,
+      "lng": 127.163177
     },
     {
-      "pnu": "4113310500124240000",
+      "pnu": "4113310500124850000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2424",
-      "road_addr": "경기 성남시 중원구 박석로93번길 21-4",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2485",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-12",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43876309,
+      "lng": 127.16259089
+    },
+    {
+      "pnu": "4113310500124180000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2418",
+      "road_addr": "경기 성남시 중원구 박석로93번길 21-13",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
@@ -1881,47 +1787,17 @@
           "count": 1
         }
       ],
-      "lat": 37.43936778,
-      "lng": 127.16285948
+      "lat": 37.43923373,
+      "lng": 127.16326703
     },
     {
-      "pnu": "4113310500123780000",
+      "pnu": "4113310500124370000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2378",
-      "road_addr": "경기 성남시 중원구 박석로93번길 17-7",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43964874,
-      "lng": 127.16340082
-    },
-    {
-      "pnu": "4113310500125020000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2502",
-      "road_addr": "경기 성남시 중원구 금상로40번길 11-2",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2437",
+      "road_addr": "경기 성남시 중원구 박석로85번길 20-1",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1931,8 +1807,148 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43859093,
-      "lng": 127.16227514
+      "lat": 37.43903518,
+      "lng": 127.16317749
+    },
+    {
+      "pnu": "4113310500124790000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2479",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-6",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43888876,
+      "lng": 127.16240946
+    },
+    {
+      "pnu": "4113310500124960000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2496",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-4",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43877094,
+      "lng": 127.1621839
+    },
+    {
+      "pnu": "4113310500124820000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2482",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-7",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43878958,
+      "lng": 127.1623986
+    },
+    {
+      "pnu": "4113310500124250000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2425",
+      "road_addr": "경기 성남시 중원구 박석로93번길 25-3",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.4393135,
+      "lng": 127.16279189
+    },
+    {
+      "pnu": "4113310500124100000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2410",
+      "road_addr": "경기 성남시 중원구 박석로93번길 21-5",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.4394133,
+      "lng": 127.16301753
+    },
+    {
+      "pnu": "4113310500123800000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2380",
+      "road_addr": "경기 성남시 중원구 박석로93번길 17-9",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43960384,
+      "lng": 127.16345755
     },
     {
       "pnu": "4113310500124650000",
@@ -1955,13 +1971,13 @@
       "lng": 127.16274842
     },
     {
-      "pnu": "4113310500124840000",
+      "pnu": "4113310500125020000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2484",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-9",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2502",
+      "road_addr": "경기 성남시 중원구 금상로40번길 11-2",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -1971,18 +1987,18 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43874468,
-      "lng": 127.16245532
+      "lat": 37.43859093,
+      "lng": 127.16227514
     },
     {
-      "pnu": "4113310500124300000",
+      "pnu": "4113310500123890000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2430",
-      "road_addr": "경기 성남시 중원구 박석로93번길 21-10",
-      "avail_gen_cnt": 4,
+      "jibun_addr": "경기 성남시 중원구 상대원동 2389",
+      "road_addr": "경기 성남시 중원구 박석로93번길 19-1",
+      "avail_gen_cnt": 3,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -1991,8 +2007,58 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43923312,
-      "lng": 127.16305225
+      "lat": 37.4396387,
+      "lng": 127.16303913
+    },
+    {
+      "pnu": "4113310500124910000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2491",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-18",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.4386464,
+      "lng": 127.16276098
+    },
+    {
+      "pnu": "4113310500124900000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2490",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-15",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43861897,
+      "lng": 127.16262545
     },
     {
       "pnu": "4113310500124700000",
@@ -2029,6 +2095,682 @@
       "lng": 127.16279432
     },
     {
+      "pnu": "4113310500124810000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2481",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-8",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43885287,
+      "lng": 127.16246614
+    },
+    {
+      "pnu": "4113310500123840000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2384",
+      "road_addr": "경기 성남시 중원구 박석로93번길 17-13",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43951409,
+      "lng": 127.1635936
+    },
+    {
+      "pnu": "4113310500124920000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2492",
+      "road_addr": "경기 성남시 중원구 박석로85번길 28",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43858311,
+      "lng": 127.16269343
+    },
+    {
+      "pnu": "4113310500125050000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2505",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-14",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43857345,
+      "lng": 127.16246739
+    },
+    {
+      "pnu": "4113310500124300000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2430",
+      "road_addr": "경기 성남시 중원구 박석로93번길 21-10",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43923312,
+      "lng": 127.16305225
+    },
+    {
+      "pnu": "4113310500123750000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대일초등학교",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2375",
+      "road_addr": "경기 성남시 중원구 금상로58번길 12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43974786,
+      "lng": 127.16338908
+    },
+    {
+      "pnu": "4113310500123810000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대일초등학교",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2381",
+      "road_addr": "경기 성남시 중원구 금상로58번길 14-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43961324,
+      "lng": 127.16359316
+    },
+    {
+      "pnu": "4113310500124220000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2422",
+      "road_addr": "경기 성남시 중원구 박석로93번길 21-2",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.43942166,
+      "lng": 127.16279141
+    },
+    {
+      "pnu": "4113310500124590000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2459",
+      "road_addr": "경기 성남시 중원구 박석로93번길 27-6",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43905153,
+      "lng": 127.16258959
+    },
+    {
+      "pnu": "4113310500124330000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2433",
+      "road_addr": "경기 성남시 중원구 박석로93번길 25-11",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43913394,
+      "lng": 127.16304139
+    },
+    {
+      "pnu": "4113310500124130000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2413",
+      "road_addr": "경기 성남시 중원구 박석로93번길 19-10",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43937779,
+      "lng": 127.16320987
+    },
+    {
+      "pnu": "4113310500123970000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2397",
+      "road_addr": "경기 성남시 중원구 박석로93번길 19-9",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43946818,
+      "lng": 127.16329989
+    },
+    {
+      "pnu": "4113310500124450000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2445",
+      "road_addr": "경기 성남시 중원구 박석로93번길 27-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43907905,
+      "lng": 127.16275903
+    },
+    {
+      "pnu": "4113310500124710000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2471",
+      "road_addr": "경기 성남시 중원구 박석로85번길 24",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43880011,
+      "lng": 127.16292985
+    },
+    {
+      "pnu": "4113310500124430000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2443",
+      "road_addr": "경기 성남시 중원구 박석로93번길 25-6",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43915106,
+      "lng": 127.1627248
+    },
+    {
+      "pnu": "4113310500124840000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2484",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-9",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43874468,
+      "lng": 127.16245532
+    },
+    {
+      "pnu": "4113310500124090000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2409",
+      "road_addr": "경기 성남시 중원구 박석로93번길 19-6",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43946754,
+      "lng": 127.16307381
+    },
+    {
+      "pnu": "4113310500123920000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2392",
+      "road_addr": "경기 성남시 중원구 박석로93번길 17-6",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43961221,
+      "lng": 127.16323142
+    },
+    {
+      "pnu": "4113310500123780000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2378",
+      "road_addr": "경기 성남시 중원구 박석로93번길 17-7",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43964874,
+      "lng": 127.16340082
+    },
+    {
+      "pnu": "4113310500124260000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2426",
+      "road_addr": "경기 성남시 중원구 박석로93번길 21-6",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.4393229,
+      "lng": 127.1629275
+    },
+    {
+      "pnu": "4113310500124420000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2442",
+      "road_addr": "경기 성남시 중원구 박석로93번길 27-3",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43915982,
+      "lng": 127.16263432
+    },
+    {
+      "pnu": "4113310500124980000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2498",
+      "road_addr": "경기 성남시 중원구 금상로40번길 11",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43867173,
+      "lng": 127.16216174
+    },
+    {
+      "pnu": "4113310500124720000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2472",
+      "road_addr": "경기 성남시 중원구 박석로85번길 26",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43873679,
+      "lng": 127.162851
+    },
+    {
+      "pnu": "4113310500124950000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2495",
+      "road_addr": "경기 성남시 중원구 금상로40번길 9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43872555,
+      "lng": 127.16207106
+    },
+    {
+      "pnu": "4113310500124800000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2480",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-5",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43882548,
+      "lng": 127.16234192
+    },
+    {
+      "pnu": "4113310500123960000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2396",
+      "road_addr": "경기 성남시 중원구 박석로93번길 17-10",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43952246,
+      "lng": 127.16336748
+    },
+    {
+      "pnu": "4113310500124400000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2440",
+      "road_addr": "경기 성남시 중원구 박석로93번길 27-1",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43921371,
+      "lng": 127.16256626
+    },
+    {
+      "pnu": "4113310500123900000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2390",
+      "road_addr": "경기 성남시 중원구 박석로93번길 17-4",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43965708,
+      "lng": 127.1631634
+    },
+    {
       "pnu": "4113310500125080000",
       "match_type": "inside",
       "in_area": true,
@@ -2049,13 +2791,13 @@
       "lng": 127.16245658
     },
     {
-      "pnu": "4113310500123830000",
+      "pnu": "4113310500124490000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2383",
-      "road_addr": "경기 성남시 중원구 금상로58번길 14-2",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2449",
+      "road_addr": "경기 성남시 중원구 박석로93번길 27-11",
       "avail_gen_cnt": 3,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -2065,8 +2807,297 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43956836,
-      "lng": 127.16366118
+      "lat": 37.43898026,
+      "lng": 127.16288382
+    },
+    {
+      "pnu": "4113310500123850000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2385",
+      "road_addr": "경기 성남시 중원구 박석로85번길 14",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43952349,
+      "lng": 127.16372921
+    },
+    {
+      "pnu": "4113310500124560000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2456",
+      "road_addr": "경기 성남시 중원구 박석로93번길 29-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43905999,
+      "lng": 127.16239738
+    },
+    {
+      "pnu": "4113310500123880000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2388",
+      "road_addr": "경기 성남시 중원구 박석로93번길 17-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43970199,
+      "lng": 127.16310667
+    },
+    {
+      "pnu": "4113310500124690000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2469",
+      "road_addr": "경기 성남시 중원구 박석로93번길 27-16",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43884499,
+      "lng": 127.16286182
+    },
+    {
+      "pnu": "4113310500125090000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2509",
+      "road_addr": "경기 성남시 중원구 박석로85번길 30",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43849268,
+      "lng": 127.1625921
+    },
+    {
+      "pnu": "4113310500123820000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2382",
+      "road_addr": "경기 성남시 중원구 박석로93번길 17-11",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.43955896,
+      "lng": 127.16352557
+    },
+    {
+      "pnu": "4113310500124060000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2406",
+      "road_addr": "경기 성남시 중원구 박석로93번길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43949403,
+      "lng": 127.16288152
+    },
+    {
+      "pnu": "4113310500124880000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2488",
+      "road_addr": "경기 성남시 중원구 박석로93번길 31-13",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43866388,
+      "lng": 127.16256873
+    },
+    {
+      "pnu": "4113310500123730000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2373",
+      "road_addr": "경기 성남시 중원구 금상로58번길 10-1",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.43980175,
+      "lng": 127.16332101
+    },
+    {
+      "pnu": "4113310500124550000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2455",
+      "road_addr": "경기 성남시 중원구 박석로93번길 27-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.43913229,
+      "lng": 127.16246488
+    },
+    {
+      "pnu": "4113310500124410000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 중원구 상대원동 2441",
+      "road_addr": "경기 성남시 중원구 박석로93번길 25-4",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.43923212,
+      "lng": 127.16270183
     },
     {
       "pnu": "4113310500124290000",
@@ -2119,14 +3150,14 @@
       "lng": 127.1627376
     },
     {
-      "pnu": "4113310500124900000",
+      "pnu": "4113310500123710000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2490",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-15",
-      "avail_gen_cnt": 3,
+      "jibun_addr": "경기 성남시 중원구 상대원동 2371",
+      "road_addr": "경기 성남시 중원구 금상로58번길 10",
+      "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -2135,53 +3166,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.43861897,
-      "lng": 127.16262545
-    },
-    {
-      "pnu": "4113310500123840000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2384",
-      "road_addr": "경기 성남시 중원구 박석로93번길 17-13",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43951409,
-      "lng": 127.1635936
-    },
-    {
-      "pnu": "4113310500124920000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2492",
-      "road_addr": "경기 성남시 중원구 박석로85번길 28",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43858311,
-      "lng": 127.16269343
+      "lat": 37.43981047,
+      "lng": 127.16321923
     },
     {
       "pnu": "4113310500124160000",
@@ -2202,992 +3188,6 @@
       "tv_tech": [],
       "lat": 37.43927864,
       "lng": 127.16321031
-    },
-    {
-      "pnu": "4113310500125050000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2505",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-14",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43857345,
-      "lng": 127.16246739
-    },
-    {
-      "pnu": "4113310500123800000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2380",
-      "road_addr": "경기 성남시 중원구 박석로93번길 17-9",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43960384,
-      "lng": 127.16345755
-    },
-    {
-      "pnu": "4113310500125060000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2506",
-      "road_addr": "경기 성남시 중원구 금상로40번길 13-1",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43851016,
-      "lng": 127.16239985
-    },
-    {
-      "pnu": "4113310500124100000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2410",
-      "road_addr": "경기 성남시 중원구 박석로93번길 21-5",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.4394133,
-      "lng": 127.16301753
-    },
-    {
-      "pnu": "4113310500124820000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2482",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-7",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43878958,
-      "lng": 127.1623986
-    },
-    {
-      "pnu": "4113310500123750000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "대일초등학교",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2375",
-      "road_addr": "경기 성남시 중원구 금상로58번길 12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43974786,
-      "lng": 127.16338908
-    },
-    {
-      "pnu": "4113310500124450000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2445",
-      "road_addr": "경기 성남시 중원구 박석로93번길 27-7",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43907905,
-      "lng": 127.16275903
-    },
-    {
-      "pnu": "4113310500123890000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2389",
-      "road_addr": "경기 성남시 중원구 박석로93번길 19-1",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.4396387,
-      "lng": 127.16303913
-    },
-    {
-      "pnu": "4113310500124220000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2422",
-      "road_addr": "경기 성남시 중원구 박석로93번길 21-2",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.43942166,
-      "lng": 127.16279141
-    },
-    {
-      "pnu": "4113310500124710000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2471",
-      "road_addr": "경기 성남시 중원구 박석로85번길 24",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43880011,
-      "lng": 127.16292985
-    },
-    {
-      "pnu": "4113310500124330000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2433",
-      "road_addr": "경기 성남시 중원구 박석로93번길 25-11",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43913394,
-      "lng": 127.16304139
-    },
-    {
-      "pnu": "4113310500124080000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2408",
-      "road_addr": "경기 성남시 중원구 박석로93번길 21-3",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43945817,
-      "lng": 127.16294951
-    },
-    {
-      "pnu": "4113310500125070000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2507",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-16",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43853759,
-      "lng": 127.16253538
-    },
-    {
-      "pnu": "4113310500124760000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2476",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.43889723,
-      "lng": 127.16221725
-    },
-    {
-      "pnu": "4113310500124180000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2418",
-      "road_addr": "경기 성남시 중원구 박석로93번길 21-13",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43923373,
-      "lng": 127.16326703
-    },
-    {
-      "pnu": "4113310500124070000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2407",
-      "road_addr": "경기 성남시 중원구 박석로93번길 19-4",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43951245,
-      "lng": 127.16301709
-    },
-    {
-      "pnu": "4113310500123760000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2376",
-      "road_addr": "경기 성남시 중원구 박석로93번길 17-5",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43969362,
-      "lng": 127.1633328
-    },
-    {
-      "pnu": "4113310500124470000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2447",
-      "road_addr": "경기 성남시 중원구 박석로93번길 27-9",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43903418,
-      "lng": 127.16282706
-    },
-    {
-      "pnu": "4113310500124830000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2483",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-10",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43880797,
-      "lng": 127.16252286
-    },
-    {
-      "pnu": "4113310500124770000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2477",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-4",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43893367,
-      "lng": 127.16235273
-    },
-    {
-      "pnu": "4113310500125010000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2501",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-10",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43865425,
-      "lng": 127.16235399
-    },
-    {
-      "pnu": "4113310500124250000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2425",
-      "road_addr": "경기 성남시 중원구 박석로93번길 25-3",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.4393135,
-      "lng": 127.16279189
-    },
-    {
-      "pnu": "4113310500123790000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2379",
-      "road_addr": "경기 성남시 중원구 금상로58번길 14",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43966744,
-      "lng": 127.16354443
-    },
-    {
-      "pnu": "4113310500123930000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2393",
-      "road_addr": "경기 성남시 중원구 박석로93번길 19-5",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43954895,
-      "lng": 127.16317518
-    },
-    {
-      "pnu": "4113310500124310000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2431",
-      "road_addr": "경기 성남시 중원구 박석로93번길 25-9",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43916983,
-      "lng": 127.16298471
-    },
-    {
-      "pnu": "4113310500125000000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2500",
-      "road_addr": "경기 성남시 중원구 금상로40번길 11-1",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43863583,
-      "lng": 127.16221842
-    },
-    {
-      "pnu": "4113310500124110000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2411",
-      "road_addr": "경기 성남시 중원구 박석로93번길 19-8",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43942266,
-      "lng": 127.16314184
-    },
-    {
-      "pnu": "4113310500124340000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2434",
-      "road_addr": "경기 성남시 중원구 박석로93번길 21-14",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43914334,
-      "lng": 127.163177
-    },
-    {
-      "pnu": "4113310500124170000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2417",
-      "road_addr": "경기 성남시 중원구 박석로93번길 19-14",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43928801,
-      "lng": 127.16333461
-    },
-    {
-      "pnu": "4113310500124440000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2444",
-      "road_addr": "경기 성남시 중원구 박석로93번길 25-8",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43913333,
-      "lng": 127.16282662
-    },
-    {
-      "pnu": "4113310500124870000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2487",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-14",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.4387272,
-      "lng": 127.16264757
-    },
-    {
-      "pnu": "4113310500124850000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2485",
-      "road_addr": "경기 성남시 중원구 박석로93번길 29-12",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43876309,
-      "lng": 127.16259089
-    },
-    {
-      "pnu": "4113310500124940000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2494",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43881585,
-      "lng": 127.16212718
-    },
-    {
-      "pnu": "4113310500124020000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2402",
-      "road_addr": "경기 성남시 중원구 박석로85번길 16",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.4393878,
-      "lng": 127.16356025
-    },
-    {
-      "pnu": "4113310500125040000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2504",
-      "road_addr": "경기 성남시 중원구 금상로40번길 13",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.43854605,
-      "lng": 127.16234317
-    },
-    {
-      "pnu": "4113310500123860000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2386",
-      "road_addr": "경기 성남시 중원구 박석로85번길 14-1",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.43946918,
-      "lng": 127.16365032
-    },
-    {
-      "pnu": "4113310500124390000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2439",
-      "road_addr": "경기 성남시 중원구 박석로93번길 25-2",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.439277,
-      "lng": 127.1626338
-    },
-    {
-      "pnu": "4113310500124270000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2427",
-      "road_addr": "경기 성남시 중원구 박석로93번길 25-5",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43926863,
-      "lng": 127.16285992
-    },
-    {
-      "pnu": "4113310500124970000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2497",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-6",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43873505,
-      "lng": 127.16224058
-    },
-    {
-      "pnu": "4113310500124570000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2457",
-      "road_addr": "경기 성남시 중원구 박석로93번길 27-4",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43908742,
-      "lng": 127.16253291
-    },
-    {
-      "pnu": "4113310500125030000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 중원구 상대원동 2503",
-      "road_addr": "경기 성남시 중원구 박석로93번길 31-12",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.43861836,
-      "lng": 127.16241067
     },
     {
       "pnu": "4113310500126620000",
@@ -3774,11 +3774,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         },
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
@@ -3869,12 +3869,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        },
-        {
           "method": "Btv(IPTV_B tv air 2)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
         }
       ],
       "lat": 37.43911339,
@@ -4200,11 +4200,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         },
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
@@ -4976,11 +4976,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air 3)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         }
       ],
@@ -5380,12 +5380,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
         }
       ],
       "lat": 37.4388415,
@@ -5806,11 +5806,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜W",
           "count": 1
         },
         {
-          "method": "광랜W",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
@@ -6044,11 +6044,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         },
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
@@ -6511,11 +6511,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -6808,11 +6808,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         },
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
@@ -7052,11 +7052,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜W",
           "count": 1
         },
         {
-          "method": "광랜W",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
@@ -7295,15 +7295,15 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
           "method": "Btv(IPTV_AI 5 STB)",
           "count": 1
         },
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
           "count": 1
         }
       ],
@@ -7413,11 +7413,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_B tv air)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         }
       ],
@@ -7441,12 +7441,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
           "method": "광랜W(800)",
           "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
         },
         {
           "method": "광랜W",
@@ -7455,12 +7455,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 4
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 2
         }
       ],
       "lat": 37.43864258,
@@ -7711,22 +7711,22 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
-          "count": 2
-        },
-        {
           "method": "광랜W",
           "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
         }
       ],
       "lat": 37.43957306,
@@ -7749,15 +7749,15 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
+          "method": "광랜W(800)",
+          "count": 2
+        },
+        {
           "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
           "method": "광랜W",
-          "count": 2
-        },
-        {
-          "method": "광랜W(800)",
           "count": 2
         }
       ],
@@ -7807,12 +7807,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
           "method": "광랜W",
           "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
         }
       ],
       "tv_tech": [
@@ -7841,12 +7841,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
-          "count": 2
-        },
-        {
           "method": "광랜W",
           "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -7969,11 +7969,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 2
         },
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 2
         }
       ],
@@ -8011,12 +8011,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
-          "count": 2
-        },
-        {
           "method": "광랜W(800)",
           "count": 3
+        },
+        {
+          "method": "광랜W",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -8265,12 +8265,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
         },
         {
           "method": "Btv(IPTV_B tv air 4)",
@@ -8876,16 +8876,16 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
           "method": "광랜W",
           "count": 1
         },
         {
           "method": "광랜FTTH(GB)",
           "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 2
         }
       ],
       "tv_tech": [
@@ -8894,11 +8894,11 @@
           "count": 3
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -9477,11 +9477,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -9589,22 +9589,22 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
         }
       ],
       "lat": 37.43991294,
@@ -9935,12 +9935,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
           "method": "광랜W",
           "count": 3
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
         },
         {
           "method": "광랜FTTH(GB)",
@@ -9949,11 +9949,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -10420,15 +10420,19 @@
           "count": 3
         },
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 2
         },
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 2
         }
       ],
       "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 2
+        },
         {
           "method": "Btv(IPTV_UHD_STB)",
           "count": 1
@@ -10439,10 +10443,6 @@
         },
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
           "count": 2
         }
       ],
@@ -11031,11 +11031,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 1
         }
       ],
@@ -11294,11 +11294,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
@@ -11402,11 +11402,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
@@ -11416,11 +11416,11 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air 3)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -12387,11 +12387,7 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
+          "method": "광랜FTTH(GB)",
           "count": 2
         },
         {
@@ -12399,15 +12395,15 @@
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜W",
           "count": 2
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
         {
           "method": "Btv(IPTV_smart STB)",
           "count": 1
@@ -12415,6 +12411,10 @@
         {
           "method": "Btv(IPTV)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
         },
         {
           "method": "Btv(IPTV_UHD_STB)",
@@ -12802,12 +12802,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
         }
       ],
       "lat": 37.44017449,
@@ -13341,11 +13341,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
@@ -13420,11 +13420,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜W(800)",
           "count": 1
         },
         {
-          "method": "광랜W(800)",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
@@ -13449,11 +13449,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
+          "method": "광랜W(800)",
           "count": 1
         },
         {
-          "method": "광랜W(800)",
+          "method": "광랜W",
           "count": 1
         }
       ],
@@ -13574,11 +13574,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -13642,21 +13642,21 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
           "method": "광랜W(800)",
           "count": 2
+        },
+        {
+          "method": "광랜W",
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -13884,12 +13884,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 5
-        },
-        {
           "method": "Btv(IPTV_B tv air 4)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
         }
       ],
       "lat": 37.43760172,
@@ -14417,11 +14417,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv air 2)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air 2)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],

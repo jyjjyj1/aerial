@@ -91,44 +91,34 @@
   },
   "buildings": [
     {
-      "pnu": "4113510600100870008",
+      "pnu": "4113510600100900008",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 87-8",
-      "road_addr": "경기 성남시 분당구 성남대로772번길 3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
+      "bld_nm": "대지아트빌",
+      "jibun_addr": "경기 성남시 분당구 이매동 90-8",
+      "road_addr": "경기 성남시 분당구 성남대로772번길 8",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.39860615,
-      "lng": 127.12924933
-    },
-    {
-      "pnu": "4113510600100910005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 91-5",
-      "road_addr": "경기 성남시 분당구 방아로 7",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.39812083,
-      "lng": 127.12970364
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.39840004,
+      "lng": 127.12963448
     },
     {
       "pnu": "4113510600100860011",
@@ -161,13 +151,51 @@
       "lng": 127.13018879
     },
     {
-      "pnu": "4113510600100870009",
+      "pnu": "4113510600100910002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 87-9",
-      "road_addr": "경기 성남시 분당구 성남대로772번길 5",
+      "jibun_addr": "경기 성남시 분당구 이매동 91-2",
+      "road_addr": "경기 성남시 분당구 성남대로772번길 10",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 5
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.39822955,
+      "lng": 127.12988388
+    },
+    {
+      "pnu": "4113510600100840000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 84",
+      "road_addr": "경기 성남시 분당구 방아로 21",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -177,8 +205,226 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.39871488,
-      "lng": 127.12942956
+      "lat": 37.39862944,
+      "lng": 127.13093264
+    },
+    {
+      "pnu": "4113510600100860003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 86-3",
+      "road_addr": "경기 성남시 분당구 성남대로772번길 11-3",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.39856437,
+      "lng": 127.13030026
+    },
+    {
+      "pnu": "4113510600100900002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "SK이매동주유소",
+      "jibun_addr": "경기 성남시 분당구 이매동 90-2",
+      "road_addr": "경기 성남시 분당구 성남대로772번길 2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTVon기업_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.39828165,
+      "lng": 127.12925093
+    },
+    {
+      "pnu": "4113510600100820007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 82-7",
+      "road_addr": "경기 성남시 분당구 방아로23번길 5",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.39890066,
+      "lng": 127.13119117
+    },
+    {
+      "pnu": "4113510600100860005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 86-5",
+      "road_addr": "경기 성남시 분당구 성남대로772번길 11-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.39845553,
+      "lng": 127.13008613
+    },
+    {
+      "pnu": "4113510600100860001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 86-1",
+      "road_addr": "경기 성남시 분당구 성남대로772번길 11-5",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.39862789,
+      "lng": 127.13043553
+    },
+    {
+      "pnu": "4113510600100900001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 90-1",
+      "road_addr": "경기 성남시 분당구 성남대로772번길 4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.3984263,
+      "lng": 127.12938579
+    },
+    {
+      "pnu": "4113510600100870008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 87-8",
+      "road_addr": "경기 성남시 분당구 성남대로772번길 3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.39860615,
+      "lng": 127.12924933
+    },
+    {
+      "pnu": "4113510600100860009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 86-9",
+      "road_addr": "경기 성남시 분당구 방아로 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.39838448,
+      "lng": 127.13042543
+    },
+    {
+      "pnu": "4113510600100860006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 86-6",
+      "road_addr": "경기 성남시 분당구 성남대로772번길 9",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.39839215,
+      "lng": 127.12999606
     },
     {
       "pnu": "4113510600100860010",
@@ -211,13 +457,51 @@
       "lng": 127.13027891
     },
     {
-      "pnu": "4113510600100840000",
+      "pnu": "4113510600100860008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "벧엘빌라",
+      "jibun_addr": "경기 성남시 분당구 이매동 86-8",
+      "road_addr": "경기 성남시 분당구 방아로 17",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.39843885,
+      "lng": 127.13051554
+    },
+    {
+      "pnu": "4113510600100910005",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 84",
-      "road_addr": "경기 성남시 분당구 방아로 21",
+      "jibun_addr": "경기 성남시 분당구 이매동 91-5",
+      "road_addr": "경기 성남시 분당구 방아로 7",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -227,72 +511,28 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.39862944,
-      "lng": 127.13093264
+      "lat": 37.39812083,
+      "lng": 127.12970364
     },
     {
-      "pnu": "4113510600100900008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "대지아트빌",
-      "jibun_addr": "경기 성남시 분당구 이매동 90-8",
-      "road_addr": "경기 성남시 분당구 성남대로772번길 8",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.39840004,
-      "lng": 127.12963448
-    },
-    {
-      "pnu": "4113510600100860004",
+      "pnu": "4113510600200030000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 86-4",
-      "road_addr": "경기 성남시 분당구 성남대로772번길 9-4",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 5,
+      "jibun_addr": "경기 성남시 분당구 이매동 3",
+      "road_addr": "경기 성남시 분당구 성남대로772번길 9-3",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 5
-        }
-      ],
-      "lat": 37.39851895,
-      "lng": 127.1301875
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.39865394,
+      "lng": 127.13011905
     },
     {
       "pnu": "4113510600100870027",
@@ -344,13 +584,13 @@
       "lng": 127.13190405
     },
     {
-      "pnu": "4113510600100870010",
+      "pnu": "4113510600100870009",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 87-10",
-      "road_addr": "경기 성남시 분당구 성남대로772번길 5-1",
+      "jibun_addr": "경기 성남시 분당구 이매동 87-9",
+      "road_addr": "경기 성남시 분당구 성남대로772번길 5",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -360,8 +600,46 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.39861629,
-      "lng": 127.12961082
+      "lat": 37.39871488,
+      "lng": 127.12942956
+    },
+    {
+      "pnu": "4113510600100870001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 87-1",
+      "road_addr": "경기 성남시 분당구 성남대로772번길 9-1",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.39854514,
+      "lng": 127.12991622
     },
     {
       "pnu": "4113510600100850001",
@@ -406,120 +684,6 @@
       "lng": 127.13065028
     },
     {
-      "pnu": "4113510600100870001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 87-1",
-      "road_addr": "경기 성남시 분당구 성남대로772번길 9-1",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.39854514,
-      "lng": 127.12991622
-    },
-    {
-      "pnu": "4113510600100910002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 91-2",
-      "road_addr": "경기 성남시 분당구 성남대로772번길 10",
-      "avail_gen_cnt": 11,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 5
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        }
-      ],
-      "lat": 37.39822955,
-      "lng": 127.12988388
-    },
-    {
-      "pnu": "4113510600100860008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "벧엘빌라",
-      "jibun_addr": "경기 성남시 분당구 이매동 86-8",
-      "road_addr": "경기 성남시 분당구 방아로 17",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 3
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.39843885,
-      "lng": 127.13051554
-    },
-    {
       "pnu": "4113510600100820008",
       "match_type": "inside",
       "in_area": true,
@@ -540,16 +704,16 @@
       "lng": 127.13142913
     },
     {
-      "pnu": "4113510600100860006",
+      "pnu": "4113510600100910001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 86-6",
-      "road_addr": "경기 성남시 분당구 성남대로772번길 9",
-      "avail_gen_cnt": 11,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 2,
+      "bld_nm": "미래빌딩",
+      "jibun_addr": "경기 성남시 분당구 이매동 91-1",
+      "road_addr": "경기 성남시 분당구 방아로 9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -557,79 +721,26 @@
       "int_tech": [
         {
           "method": "광랜FTTH(GB)",
-          "count": 4
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
+          "count": 2
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
         }
       ],
-      "lat": 37.39839215,
-      "lng": 127.12999606
+      "lat": 37.39813079,
+      "lng": 127.13000864
     },
     {
-      "pnu": "4113510600100860001",
+      "pnu": "4113510600100870010",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 86-1",
-      "road_addr": "경기 성남시 분당구 성남대로772번길 11-5",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.39862789,
-      "lng": 127.13043553
-    },
-    {
-      "pnu": "4113510600100860005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 86-5",
-      "road_addr": "경기 성남시 분당구 성남대로772번길 11-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.39845553,
-      "lng": 127.13008613
-    },
-    {
-      "pnu": "4113510600100860009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 86-9",
-      "road_addr": "경기 성남시 분당구 방아로 15",
+      "jibun_addr": "경기 성남시 분당구 이매동 87-10",
+      "road_addr": "경기 성남시 분당구 성남대로772번길 5-1",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -639,8 +750,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.39838448,
-      "lng": 127.13042543
+      "lat": 37.39861629,
+      "lng": 127.12961082
     },
     {
       "pnu": "4113510600100900004",
@@ -659,12 +770,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
           "method": "광랜FTTH",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -677,40 +788,45 @@
       "lng": 127.12970276
     },
     {
-      "pnu": "4113510600100820007",
+      "pnu": "4113510600100760000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 82-7",
-      "road_addr": "경기 성남시 분당구 방아로23번길 5",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
+      "jibun_addr": "경기 성남시 분당구 이매동 76",
+      "road_addr": "경기 성남시 분당구 방아로 20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
-          "count": 1
+          "method": "광랜FTTH(GB)",
+          "count": 2
         }
       ],
-      "tv_tech": [],
-      "lat": 37.39890066,
-      "lng": 127.13119117
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.39835023,
+      "lng": 127.1310018
     },
     {
-      "pnu": "4113510600100900002",
+      "pnu": "4113510600100770000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "SK이매동주유소",
-      "jibun_addr": "경기 성남시 분당구 이매동 90-2",
-      "road_addr": "경기 성남시 분당구 성남대로772번길 2",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 2,
+      "bld_nm": "강향란빌딩",
+      "jibun_addr": "경기 성남시 분당구 이매동 77",
+      "road_addr": "경기 성남시 분당구 방아로16번길 11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 6,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -719,12 +835,12 @@
       "int_tech": [],
       "tv_tech": [
         {
-          "method": "Btv(IPTVon기업_smart 3 STB)",
+          "method": "Btv(IPTVon기업 UHD2)",
           "count": 1
         }
       ],
-      "lat": 37.39828165,
-      "lng": 127.12925093
+      "lat": 37.39799141,
+      "lng": 127.13155716
     },
     {
       "pnu": "4113510600100870006",
@@ -777,16 +893,16 @@
       "lng": 127.13149758
     },
     {
-      "pnu": "4113510600100760000",
+      "pnu": "4113510600100860004",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 76",
-      "road_addr": "경기 성남시 분당구 방아로 20",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
+      "jibun_addr": "경기 성남시 분당구 이매동 86-4",
+      "road_addr": "경기 성남시 분당구 성남대로772번길 9-4",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 5,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
@@ -794,137 +910,21 @@
       "int_tech": [
         {
           "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
           "count": 2
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
+          "count": 5
         }
       ],
-      "lat": 37.39835023,
-      "lng": 127.1310018
-    },
-    {
-      "pnu": "4113510600100910001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "미래빌딩",
-      "jibun_addr": "경기 성남시 분당구 이매동 91-1",
-      "road_addr": "경기 성남시 분당구 방아로 9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.39813079,
-      "lng": 127.13000864
-    },
-    {
-      "pnu": "4113510600200030000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 3",
-      "road_addr": "경기 성남시 분당구 성남대로772번길 9-3",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.39865394,
-      "lng": 127.13011905
-    },
-    {
-      "pnu": "4113510600100770000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "강향란빌딩",
-      "jibun_addr": "경기 성남시 분당구 이매동 77",
-      "road_addr": "경기 성남시 분당구 방아로16번길 11",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTVon기업 UHD2)",
-          "count": 1
-        }
-      ],
-      "lat": 37.39799141,
-      "lng": 127.13155716
-    },
-    {
-      "pnu": "4113510600100900001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 90-1",
-      "road_addr": "경기 성남시 분당구 성남대로772번길 4",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.3984263,
-      "lng": 127.12938579
-    },
-    {
-      "pnu": "4113510600100860003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 86-3",
-      "road_addr": "경기 성남시 분당구 성남대로772번길 11-3",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.39856437,
-      "lng": 127.13030026
+      "lat": 37.39851895,
+      "lng": 127.1301875
     },
     {
       "pnu": "4113510600100650018",
@@ -1214,11 +1214,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
@@ -1428,6 +1428,26 @@
       "distance_meter": 20.10825178,
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 이매동 94-1",
+      "road_addr": "경기 성남시 분당구 성남대로762번길 1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.39768373,
+      "lng": 127.1290781
+    },
+    {
+      "pnu": "4113510600100940001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 20.10825178,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 94-1",
       "road_addr": "경기 성남시 분당구 성남대로762번길 5",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 1,
@@ -1444,36 +1464,16 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air 3)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
       "lat": 37.3976331,
       "lng": 127.1293897
-    },
-    {
-      "pnu": "4113510600100940001",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 20.10825178,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 이매동 94-1",
-      "road_addr": "경기 성남시 분당구 성남대로762번길 1",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.39768373,
-      "lng": 127.1290781
     },
     {
       "pnu": "4113510600100820025",
@@ -1528,20 +1528,20 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
         },
         {
           "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air 2)",
+          "method": "Btv(IPTV_B tv x NUGU STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
         }
       ],
       "lat": 37.39828115,
@@ -1630,11 +1630,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air 3)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],

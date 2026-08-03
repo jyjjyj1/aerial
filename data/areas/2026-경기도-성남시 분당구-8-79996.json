@@ -51,46 +51,6 @@
   },
   "buildings": [
     {
-      "pnu": "4113510400102980000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 율동 298",
-      "road_addr": "경기 성남시 분당구 새마을로177번길 7",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38428292,
-      "lng": 127.14984473
-    },
-    {
-      "pnu": "4113510400102990000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 율동 299",
-      "road_addr": "경기 성남시 분당구 새마을로175번길 8-1",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38425508,
-      "lng": 127.14957375
-    },
-    {
       "pnu": "4113510400103000002",
       "match_type": "inside",
       "in_area": true,
@@ -111,6 +71,71 @@
       "lng": 127.14978959
     },
     {
+      "pnu": "4113510400102840000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 율동 284",
+      "road_addr": "경기 성남시 분당구 새마을로177번길 7-4",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38467051,
+      "lng": 127.14984293
+    },
+    {
+      "pnu": "4113510400102900000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "율동파티오",
+      "jibun_addr": "경기 성남시 분당구 율동 290",
+      "road_addr": "경기 성남시 분당구 새마을로165번길 11",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38442196,
+      "lng": 127.1489028
+    },
+    {
+      "pnu": "4113510400102740002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 율동 274-2",
+      "road_addr": "경기 성남시 분당구 새마을로165번길 22",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.38522876,
+      "lng": 127.149637
+    },
+    {
       "pnu": "4113510400102930000",
       "match_type": "inside",
       "in_area": true,
@@ -129,60 +154,6 @@
       "tv_tech": [],
       "lat": 37.38408271,
       "lng": 127.14920179
-    },
-    {
-      "pnu": "4113510400102720000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "프라임힐즈",
-      "jibun_addr": "경기 성남시 분당구 율동 272",
-      "road_addr": "경기 성남시 분당구 새마을로165번길 19",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 11,
-      "tv_scrbr_cnt": 10,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜PBOX(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 6
-        },
-        {
-          "method": "광랜E",
-          "count": 4
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 5
-        },
-        {
-          "method": "Btv(판매 Apple tv 3세대 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(자급 Apple tv STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.38511935,
-      "lng": 127.14921955
     },
     {
       "pnu": "4113510400103010001",
@@ -225,171 +196,78 @@
       "lng": 127.1493879
     },
     {
-      "pnu": "4113510400102910000",
+      "pnu": "4113510400102720000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 율동 291",
-      "road_addr": "경기 성남시 분당구 새마을로165번길 9",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38422596,
-      "lng": 127.14887354
-    },
-    {
-      "pnu": "4113510400102930001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 율동 293-1",
-      "road_addr": "경기 성남시 분당구 새마을로175번길 7",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38394808,
-      "lng": 127.14939445
-    },
-    {
-      "pnu": "4113510400102940000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 율동 294",
-      "road_addr": "경기 성남시 분당구 새마을로177번길 7-7",
+      "bld_nm": "프라임힐즈",
+      "jibun_addr": "경기 성남시 분당구 율동 272",
+      "road_addr": "경기 성남시 분당구 새마을로165번길 19",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38443435,
-      "lng": 127.14923404
-    },
-    {
-      "pnu": "4113510400102960000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 율동 296",
-      "road_addr": "경기 성남시 분당구 새마을로175번길 8-5",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38443535,
-      "lng": 127.14957292
-    },
-    {
-      "pnu": "4113510400102740002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 율동 274-2",
-      "road_addr": "경기 성남시 분당구 새마을로165번길 22",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
+      "int_scrbr_cnt": 11,
+      "tv_scrbr_cnt": 10,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.38522876,
-      "lng": 127.149637
-    },
-    {
-      "pnu": "4113510400102900000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "율동파티오",
-      "jibun_addr": "경기 성남시 분당구 율동 290",
-      "road_addr": "경기 성남시 분당구 새마을로165번길 11",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38442196,
-      "lng": 127.1489028
-    },
-    {
-      "pnu": "4113510400102700003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "천지오피스텔",
-      "jibun_addr": "경기 성남시 분당구 율동 270-3",
-      "road_addr": "경기 성남시 분당구 새마을로165번길 25",
-      "avail_gen_cnt": 5,
-      "int_scrbr_cnt": 8,
-      "tv_scrbr_cnt": 7,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜PBOX(GB)",
-          "count": 5
+          "method": "광랜E(GB)",
+          "count": 6
         },
         {
-          "method": "광랜PBOX",
-          "count": 3
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 4
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 5
         },
         {
           "method": "Btv(IPTV_AI 2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(자급 Apple tv STB)",
           "count": 1
         }
       ],
-      "lat": 37.3854358,
-      "lng": 127.14954567
+      "lat": 37.38511935,
+      "lng": 127.14921955
+    },
+    {
+      "pnu": "4113510400103000003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 율동 300-3",
+      "road_addr": "경기 성남시 분당구 새마을로177번길 5",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38408492,
+      "lng": 127.14994731
     },
     {
       "pnu": "4113510400102890003",
@@ -432,128 +310,56 @@
       "lng": 127.14918025
     },
     {
-      "pnu": "4113510400103000003",
+      "pnu": "4113510400102700003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 율동 300-3",
-      "road_addr": "경기 성남시 분당구 새마을로177번길 5",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38408492,
-      "lng": 127.14994731
-    },
-    {
-      "pnu": "4113510400102840000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 율동 284",
-      "road_addr": "경기 성남시 분당구 새마을로177번길 7-4",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38467051,
-      "lng": 127.14984293
-    },
-    {
-      "pnu": "4113510400102750000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "명비주물럭",
-      "jibun_addr": "경기 성남시 분당구 율동 275",
-      "road_addr": "경기 성남시 분당구 새마을로177번길 19",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38515758,
-      "lng": 127.14995362
-    },
-    {
-      "pnu": "4113510400103100001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "청암빌딩",
-      "jibun_addr": "경기 성남시 분당구 율동 310-1",
-      "road_addr": "경기 성남시 분당구 새마을로 173",
-      "avail_gen_cnt": 3,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38369657,
-      "lng": 127.14968931
-    },
-    {
-      "pnu": "4113510400102860000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "오렌지빌딩",
-      "jibun_addr": "경기 성남시 분당구 율동 286",
-      "road_addr": "경기 성남시 분당구 새마을로177번길 7-6",
-      "avail_gen_cnt": 15,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 2,
+      "bld_nm": "천지오피스텔",
+      "jibun_addr": "경기 성남시 분당구 율동 270-3",
+      "road_addr": "경기 성남시 분당구 새마을로165번길 25",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 8,
+      "tv_scrbr_cnt": 7,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E",
-          "count": 2
+          "method": "광랜PBOX(GB)",
+          "count": 5
         },
         {
-          "method": "광랜E(GB)",
-          "count": 1
+          "method": "광랜PBOX",
+          "count": 3
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
         }
       ],
-      "lat": 37.38476872,
-      "lng": 127.14952618
+      "lat": 37.3854358,
+      "lng": 127.14954567
     },
     {
-      "pnu": "4113510400103010004",
+      "pnu": "4113510400102990000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 율동 301-4",
-      "road_addr": "경기 성남시 분당구 새마을로165번길 8",
-      "avail_gen_cnt": 1,
+      "jibun_addr": "경기 성남시 분당구 율동 299",
+      "road_addr": "경기 성남시 분당구 새마을로175번길 8-1",
+      "avail_gen_cnt": 3,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -562,8 +368,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.38399221,
-      "lng": 127.14907795
+      "lat": 37.38425508,
+      "lng": 127.14957375
     },
     {
       "pnu": "4113510400102870000",
@@ -586,6 +392,26 @@
       "lng": 127.14951409
     },
     {
+      "pnu": "4113510400102980000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 율동 298",
+      "road_addr": "경기 성남시 분당구 새마을로177번길 7",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38428292,
+      "lng": 127.14984473
+    },
+    {
       "pnu": "4113510400102880000",
       "match_type": "inside",
       "in_area": true,
@@ -604,26 +430,6 @@
       "tv_tech": [],
       "lat": 37.38466914,
       "lng": 127.14937979
-    },
-    {
-      "pnu": "4113510400102860001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 율동 286-1",
-      "road_addr": "경기 성남시 분당구 새마을로177번길 13",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.38488644,
-      "lng": 127.14970637
     },
     {
       "pnu": "4113510400103000000",
@@ -651,6 +457,200 @@
       "lng": 127.14999346
     },
     {
+      "pnu": "4113510400103010004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 율동 301-4",
+      "road_addr": "경기 성남시 분당구 새마을로165번길 8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38399221,
+      "lng": 127.14907795
+    },
+    {
+      "pnu": "4113510400103100001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "청암빌딩",
+      "jibun_addr": "경기 성남시 분당구 율동 310-1",
+      "road_addr": "경기 성남시 분당구 새마을로 173",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38369657,
+      "lng": 127.14968931
+    },
+    {
+      "pnu": "4113510400102860001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 율동 286-1",
+      "road_addr": "경기 성남시 분당구 새마을로177번길 13",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38488644,
+      "lng": 127.14970637
+    },
+    {
+      "pnu": "4113510400102860000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "오렌지빌딩",
+      "jibun_addr": "경기 성남시 분당구 율동 286",
+      "road_addr": "경기 성남시 분당구 새마을로177번길 7-6",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.38476872,
+      "lng": 127.14952618
+    },
+    {
+      "pnu": "4113510400102750000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "명비주물럭",
+      "jibun_addr": "경기 성남시 분당구 율동 275",
+      "road_addr": "경기 성남시 분당구 새마을로177번길 19",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38515758,
+      "lng": 127.14995362
+    },
+    {
+      "pnu": "4113510400102910000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 율동 291",
+      "road_addr": "경기 성남시 분당구 새마을로165번길 9",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38422596,
+      "lng": 127.14887354
+    },
+    {
+      "pnu": "4113510400102960000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 율동 296",
+      "road_addr": "경기 성남시 분당구 새마을로175번길 8-5",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38443535,
+      "lng": 127.14957292
+    },
+    {
+      "pnu": "4113510400102930001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 율동 293-1",
+      "road_addr": "경기 성남시 분당구 새마을로175번길 7",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38394808,
+      "lng": 127.14939445
+    },
+    {
+      "pnu": "4113510400102940000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 율동 294",
+      "road_addr": "경기 성남시 분당구 새마을로177번길 7-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.38443435,
+      "lng": 127.14923404
+    },
+    {
       "pnu": "4113510400102890000",
       "match_type": "100m",
       "in_area": false,
@@ -667,26 +667,26 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E(GB)",
-          "count": 3
+          "method": "광랜E",
+          "count": 2
         },
         {
           "method": "광랜PBOX(GB)",
           "count": 2
         },
         {
-          "method": "광랜E",
-          "count": 2
+          "method": "광랜E(GB)",
+          "count": 3
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 5
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
         }
       ],
       "lat": 37.38460316,

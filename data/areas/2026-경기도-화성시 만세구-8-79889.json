@@ -1,0 +1,4343 @@
+{
+  "area": {
+    "area_id": "2026-경기도-화성시 만세구-8-79889",
+    "area_name": "2026-경기도-화성시 만세구-8",
+    "sido": "경기도",
+    "sigungu": "화성시 만세구",
+    "geojson": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              126.8163115,
+              37.0821809
+            ],
+            [
+              126.8157751,
+              37.0818043
+            ],
+            [
+              126.8159253,
+              37.0815646
+            ],
+            [
+              126.8140048,
+              37.0808927
+            ],
+            [
+              126.8134362,
+              37.0809313
+            ],
+            [
+              126.8130553,
+              37.0811281
+            ],
+            [
+              126.812889,
+              37.0819584
+            ],
+            [
+              126.8129695,
+              37.0832679
+            ],
+            [
+              126.8150616,
+              37.0834391
+            ],
+            [
+              126.8151904,
+              37.0834947
+            ],
+            [
+              126.8158609,
+              37.0834819
+            ],
+            [
+              126.8158073,
+              37.0831695
+            ],
+            [
+              126.8163115,
+              37.0821809
+            ]
+          ]
+        ]
+      ]
+    },
+    "center": [
+      37.082258455899016,
+      126.81443110586316
+    ],
+    "building_count": 133,
+    "inside_count": 51,
+    "near_count": 82
+  },
+  "buildings": [
+    {
+      "pnu": "4159125032103380003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 338-3",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 11-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08297484,
+      "lng": 126.81427672
+    },
+    {
+      "pnu": "4159125032103390000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼우빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 339",
+      "road_addr": "경기 화성시 만세구 조암서로13번길 7",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 7,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.08308574,
+      "lng": 126.81474826
+    },
+    {
+      "pnu": "4159125032104710028",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-28",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 11-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08227054,
+      "lng": 126.81406929
+    },
+    {
+      "pnu": "4159125032103650006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "증산주택",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 365-6",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 10",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08337209,
+      "lng": 126.81438565
+    },
+    {
+      "pnu": "4159125032103400012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "구인한의원",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-12",
+      "road_addr": "경기 화성시 만세구 조암남로 3-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08221985,
+      "lng": 126.81621867
+    },
+    {
+      "pnu": "4159125032104710003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "조암아파트",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-3",
+      "road_addr": "경기 화성시 만세구 쌍봉로 12-14",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        }
+      ],
+      "lat": 37.08267414,
+      "lng": 126.81371688
+    },
+    {
+      "pnu": "4159125032104710019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-19",
+      "road_addr": "경기 화성시 만세구 쌍봉로 12-10",
+      "avail_gen_cnt": 21,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 21,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "비즈원(다회선)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 21
+        }
+      ],
+      "lat": 37.08246611,
+      "lng": 126.81359499
+    },
+    {
+      "pnu": "4159125032104710022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-22",
+      "road_addr": "경기 화성시 만세구 쌍봉로 12-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08251267,
+      "lng": 126.81385335
+    },
+    {
+      "pnu": "4159125032103270005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 327-5",
+      "road_addr": "경기 화성시 만세구 3.1만세로 7",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08138365,
+      "lng": 126.81502235
+    },
+    {
+      "pnu": "4159125032103280003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 328-3",
+      "road_addr": "경기 화성시 만세구 버들로 4-12",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08192958,
+      "lng": 126.81434239
+    },
+    {
+      "pnu": "4159125032103270001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "조암우현빌딩",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 327-1",
+      "road_addr": "경기 화성시 만세구 조암서로 1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08168506,
+      "lng": 126.81570594
+    },
+    {
+      "pnu": "4159125032104700001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 470-1",
+      "road_addr": "경기 화성시 만세구 쌍봉로 26-4",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08279746,
+      "lng": 126.81322072
+    },
+    {
+      "pnu": "4159125032104700000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 470",
+      "road_addr": "경기 화성시 만세구 쌍봉로 26-3",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08308583,
+      "lng": 126.81320687
+    },
+    {
+      "pnu": "4159125032103380001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼우빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 338-1",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 7",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 3,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 3
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08308574,
+      "lng": 126.81474826
+    },
+    {
+      "pnu": "4159125032103270010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼괴인력",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 327-10",
+      "road_addr": "경기 화성시 만세구 3.1만세로 1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.08119137,
+      "lng": 126.81450655
+    },
+    {
+      "pnu": "4159125032103630003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "새싹공판장",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 363-3",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08342982,
+      "lng": 126.81501519
+    },
+    {
+      "pnu": "4159125032104710029",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼우주택",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-29",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 12-3",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.0834866,
+      "lng": 126.81392332
+    },
+    {
+      "pnu": "4159125032104710004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-4",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 11-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08263925,
+      "lng": 126.81391971
+    },
+    {
+      "pnu": "4159125032103270015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 327-15",
+      "road_addr": "경기 화성시 만세구 버들로 4-6",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08133371,
+      "lng": 126.81417899
+    },
+    {
+      "pnu": "4159125032103280001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 328-1",
+      "road_addr": "경기 화성시 만세구 3.1만세로 5-8",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.08183284,
+      "lng": 126.81475954
+    },
+    {
+      "pnu": "4159125032103400016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "뉴월드마트",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-16",
+      "road_addr": "경기 화성시 만세구 조암서로 12",
+      "avail_gen_cnt": 20,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08299146,
+      "lng": 126.81559293
+    },
+    {
+      "pnu": "4159125032104730000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 473",
+      "road_addr": "경기 화성시 만세구 버들로 4-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.08135853,
+      "lng": 126.81379624
+    },
+    {
+      "pnu": "4159125032103380004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 338-4",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 11-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08287595,
+      "lng": 126.81432261
+    },
+    {
+      "pnu": "4159125032104710013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한국농촌공사화성지소",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-13",
+      "road_addr": "경기 화성시 만세구 버들로 14-4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08182444,
+      "lng": 126.81330826
+    },
+    {
+      "pnu": "4159125032103400024",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "무지개세탁",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-24",
+      "road_addr": "경기 화성시 만세구 조암서로13번길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08312342,
+      "lng": 126.8150292
+    },
+    {
+      "pnu": "4159125032104710005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-5",
+      "road_addr": "경기 화성시 만세구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08255891,
+      "lng": 126.81405545
+    },
+    {
+      "pnu": "4159125032103400012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-12",
+      "road_addr": "경기 화성시 만세구 조암남로 3-4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08219915,
+      "lng": 126.81647817
+    },
+    {
+      "pnu": "4159125032103270003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 327-3",
+      "road_addr": "경기 화성시 만세구 3.1만세로 9",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08157339,
+      "lng": 126.8150994
+    },
+    {
+      "pnu": "4159125032103270009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 327-9",
+      "road_addr": "경기 화성시 만세구 3.1만세로 5-5",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08146341,
+      "lng": 126.81478537
+    },
+    {
+      "pnu": "4159125032103400009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-9",
+      "road_addr": "경기 화성시 만세구 조암서로 6-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08223606,
+      "lng": 126.8159035
+    },
+    {
+      "pnu": "4159125032103320002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 332-2",
+      "road_addr": "경기 화성시 만세구 조암서로 3-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08179167,
+      "lng": 126.81543496
+    },
+    {
+      "pnu": "4159125032103270008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 327-8",
+      "road_addr": "경기 화성시 만세구 3.1만세로 5-7",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08163402,
+      "lng": 126.81467132
+    },
+    {
+      "pnu": "4159125032104700005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 470-5",
+      "road_addr": "경기 화성시 만세구 쌍봉로 26-5",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08278884,
+      "lng": 126.81328831
+    },
+    {
+      "pnu": "4159125032103390002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 339-2",
+      "road_addr": "경기 화성시 만세구 조암서로13번길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08281481,
+      "lng": 126.81466069
+    },
+    {
+      "pnu": "4159125032103400004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대동종합설비",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-4",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 2",
+      "avail_gen_cnt": 17,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08330635,
+      "lng": 126.81548884
+    },
+    {
+      "pnu": "4159125032103340008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "정원빌딩",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 334-8",
+      "road_addr": "경기 화성시 만세구 조암서로 3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08191014,
+      "lng": 126.81565891
+    },
+    {
+      "pnu": "4159125032103270014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 327-14",
+      "road_addr": "경기 화성시 만세구 3.1만세로 5-3",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 6,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)_S",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08141762,
+      "lng": 126.81466202
+    },
+    {
+      "pnu": "4159125032103400003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-3",
+      "road_addr": "경기 화성시 만세구 조암서로 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08318697,
+      "lng": 126.81510738
+    },
+    {
+      "pnu": "4159125032104700006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 470-6",
+      "road_addr": "경기 화성시 만세구 쌍봉로 26-6",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08266239,
+      "lng": 126.81324445
+    },
+    {
+      "pnu": "4159125032103330000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 333",
+      "road_addr": "경기 화성시 만세구 3.1만세로 11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08162028,
+      "lng": 126.815414
+    },
+    {
+      "pnu": "4159125032104740001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 474-1",
+      "road_addr": "경기 화성시 만세구 버들로 4-5",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08141379,
+      "lng": 126.81399826
+    },
+    {
+      "pnu": "4159125032103320001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "스카이노래연습장",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 332-1",
+      "road_addr": "경기 화성시 만세구 조암서로 7-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08187214,
+      "lng": 126.81532173
+    },
+    {
+      "pnu": "4159125032103310011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "덕성빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 331-11",
+      "road_addr": "경기 화성시 만세구 조암서로 7-6",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.08204191,
+      "lng": 126.81506143
+    },
+    {
+      "pnu": "4159125032103280004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 328-4",
+      "road_addr": "경기 화성시 만세구 3.1만세로 5-10",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.08171332,
+      "lng": 126.81435559
+    },
+    {
+      "pnu": "4159125032103350000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 335",
+      "road_addr": "경기 화성시 만세구 조암서로 7",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 4,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08219689,
+      "lng": 126.81536381
+    },
+    {
+      "pnu": "4159125032103400058",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-58",
+      "road_addr": "경기 화성시 만세구 조암서로 20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08308983,
+      "lng": 126.81545704
+    },
+    {
+      "pnu": "4159125032103630005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 363-5",
+      "road_addr": "경기 화성시 만세구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08335712,
+      "lng": 126.81491458
+    },
+    {
+      "pnu": "4159125032103310001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 331-1",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08310058,
+      "lng": 126.81419683
+    },
+    {
+      "pnu": "4159125032104750010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "태림빌딩",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 475-10",
+      "road_addr": "경기 화성시 만세구 버들로 12",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.08104104,
+      "lng": 126.81345033
+    },
+    {
+      "pnu": "4159125032104710029",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼우주택",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-29",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 12-1",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08334219,
+      "lng": 126.81389087
+    },
+    {
+      "pnu": "4159125032103410006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 341-6",
+      "road_addr": "경기 화성시 만세구 조암서로 18-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08320824,
+      "lng": 126.81566974
+    },
+    {
+      "pnu": "4159125032104750002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "수원회관",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 475-2",
+      "road_addr": "경기 화성시 만세구 버들로 8",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "B인터넷_타사임차",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.08106128,
+      "lng": 126.81383267
+    },
+    {
+      "pnu": "4159125032103380002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 338-2",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 7-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08311958,
+      "lng": 126.81436542
+    },
+    {
+      "pnu": "4159125032103650034",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 1.21628992,
+      "bld_nm": "증산주택",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 365-34",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 12-2",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08338007,
+      "lng": 126.81420556
+    },
+    {
+      "pnu": "4159125032103650016",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 1.70476177,
+      "bld_nm": "동명주택",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 365-16",
+      "road_addr": "경기 화성시 만세구 조암서로13번길 9",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 3,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.08341853,
+      "lng": 126.8146215
+    },
+    {
+      "pnu": "4159125032103410005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 4.77324117,
+      "bld_nm": "터미널떡방앗간",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 341-5",
+      "road_addr": "경기 화성시 만세구 조암서로 6-6",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.08243631,
+      "lng": 126.81623923
+    },
+    {
+      "pnu": "4159125032103620001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 5.44622857,
+      "bld_nm": "우정아파트",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 362-1",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 7-3",
+      "avail_gen_cnt": 38,
+      "int_scrbr_cnt": 11,
+      "tv_scrbr_cnt": 23,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 13,
+      "catv_internet_cnt": 3,
+      "catv_8vsb_cnt": 3,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 5
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.08353319,
+      "lng": 126.81574558
+    },
+    {
+      "pnu": "4159125032104710001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 7.55274329,
+      "bld_nm": "원일주택",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-1",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 16-1",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 12,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 5,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        }
+      ],
+      "lat": 37.0833951,
+      "lng": 126.81368788
+    },
+    {
+      "pnu": "4159125032104710001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 7.55274329,
+      "bld_nm": "원일주택",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-1",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 16-3",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.08353964,
+      "lng": 126.81374283
+    },
+    {
+      "pnu": "4159125032103400012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 14.9573537,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-12",
+      "road_addr": "경기 화성시 만세구 조암남로 3-4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08219915,
+      "lng": 126.81647817
+    },
+    {
+      "pnu": "4159125032103400012",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 14.9573537,
+      "bld_nm": "구인한의원",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-12",
+      "road_addr": "경기 화성시 만세구 조암남로 3-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08221985,
+      "lng": 126.81621867
+    },
+    {
+      "pnu": "4159125032104710029",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 15.52763274,
+      "bld_nm": "삼우주택",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-29",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 12-1",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08334219,
+      "lng": 126.81389087
+    },
+    {
+      "pnu": "4159125032104710029",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 15.52763274,
+      "bld_nm": "삼우주택",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-29",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 12-3",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.0834866,
+      "lng": 126.81392332
+    },
+    {
+      "pnu": "4159125032103110001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 16.94627544,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 311-1",
+      "road_addr": "경기 화성시 만세구 3.1만세로 19",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08192247,
+      "lng": 126.81623259
+    },
+    {
+      "pnu": "4159125032103660002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 17.25228344,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 366-2",
+      "road_addr": "경기 화성시 만세구 조암서로13번길 15-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08354361,
+      "lng": 126.81442911
+    },
+    {
+      "pnu": "4159125032103120003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 19.34605937,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 312-3",
+      "road_addr": "경기 화성시 만세구 3.1만세로 16",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.0813891,
+      "lng": 126.81596736
+    },
+    {
+      "pnu": "4159125032103410008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 22.06406533,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 341-8",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 8-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08310261,
+      "lng": 126.81610948
+    },
+    {
+      "pnu": "4159125032103650019",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 22.42865131,
+      "bld_nm": "동명주택",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 365-19",
+      "road_addr": "경기 화성시 만세구 조암서로13번길 11",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 3,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08360794,
+      "lng": 126.8146423
+    },
+    {
+      "pnu": "4159125032104710001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 23.01418918,
+      "bld_nm": "원일주택",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-1",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 16-3",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.08353964,
+      "lng": 126.81374283
+    },
+    {
+      "pnu": "4159125032104710001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 23.01418918,
+      "bld_nm": "원일주택",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-1",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 16-1",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 12,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 5,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        }
+      ],
+      "lat": 37.0833951,
+      "lng": 126.81368788
+    },
+    {
+      "pnu": "4159125032103400032",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 25.79634119,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-32",
+      "road_addr": "경기 화성시 만세구 조암남로 5-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08217699,
+      "lng": 126.81660158
+    },
+    {
+      "pnu": "4159125032103180001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.05012531,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 318-1",
+      "road_addr": "경기 화성시 만세구 3.1만세로 14",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08128023,
+      "lng": 126.81584458
+    },
+    {
+      "pnu": "4159125032103740005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 27.25106764,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 374-5",
+      "road_addr": "경기 화성시 만세구 쌍봉로 27",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08327811,
+      "lng": 126.81266327
+    },
+    {
+      "pnu": "4159125032103410010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.44881366,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 341-10",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.08323801,
+      "lng": 126.81614202
+    },
+    {
+      "pnu": "4159125032103400029",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.73130331,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-29",
+      "road_addr": "경기 화성시 만세구 조암남로 5",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.0822762,
+      "lng": 126.81661194
+    },
+    {
+      "pnu": "4159125032103410004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 29.6747769,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 341-4",
+      "road_addr": "경기 화성시 만세구 조암남로 9-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08290541,
+      "lng": 126.81630252
+    },
+    {
+      "pnu": "4159125032103410009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 29.67929492,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 341-9",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 14-6",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08308516,
+      "lng": 126.8162109
+    },
+    {
+      "pnu": "4159125032104710030",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 32.08059483,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 471-30",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 12-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        }
+      ],
+      "lat": 37.0836401,
+      "lng": 126.81396695
+    },
+    {
+      "pnu": "4159125032200430009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 32.18229595,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 43-9",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 12-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 37.08365942,
+      "lng": 126.81419179
+    },
+    {
+      "pnu": "4159125032104610007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 34.81970538,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 461-7",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 19-9",
+      "avail_gen_cnt": 20,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.08363821,
+      "lng": 126.81364068
+    },
+    {
+      "pnu": "4159125032103400018",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 38.39489207,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-18",
+      "road_addr": "경기 화성시 만세구 조암남로 9-3",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08251056,
+      "lng": 126.81660984
+    },
+    {
+      "pnu": "4159125032103400014",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 38.5753294,
+      "bld_nm": "우정공판장",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-14",
+      "road_addr": "경기 화성시 만세구 조암남로 7",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08231284,
+      "lng": 126.81671287
+    },
+    {
+      "pnu": "4159125032103100002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 39.00325552,
+      "bld_nm": "매향공인중개소사무소",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 310-2",
+      "road_addr": "경기 화성시 만세구 3.1만세로 20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08161672,
+      "lng": 126.8163591
+    },
+    {
+      "pnu": "4159125032104610001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 42.34953233,
+      "bld_nm": "삼일아파트",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 461-1",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 19-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08368152,
+      "lng": 126.81333651
+    },
+    {
+      "pnu": "4159125032103560009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 42.8427844,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 356-9",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08350057,
+      "lng": 126.81634218
+    },
+    {
+      "pnu": "4159125032103630000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 43.29674665,
+      "bld_nm": "기산아파트",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 363",
+      "road_addr": "경기 화성시 만세구 조암서로13번길 14",
+      "avail_gen_cnt": 99,
+      "int_scrbr_cnt": 35,
+      "tv_scrbr_cnt": 62,
+      "skb_pop_cnt": 5,
+      "catv_digital_cnt": 31,
+      "catv_internet_cnt": 8,
+      "catv_8vsb_cnt": 5,
+      "int_tech": [
+        {
+          "method": "광랜E(500)",
+          "count": 20
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 5
+        },
+        {
+          "method": "광랜E",
+          "count": 7
+        },
+        {
+          "method": "CA_광랜W(320)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 23
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 13
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08388115,
+      "lng": 126.81512364
+    },
+    {
+      "pnu": "4159125032103560006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 43.33739919,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 356-6",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 7-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 12,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "비즈원(다회선)",
+          "count": 2
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 12
+        }
+      ],
+      "lat": 37.08354564,
+      "lng": 126.81634177
+    },
+    {
+      "pnu": "4159125032103660007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 44.84619628,
+      "bld_nm": "창조빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 366-7",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 12-8",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.0837768,
+      "lng": 126.81422449
+    },
+    {
+      "pnu": "4159125032103600032",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 46.2500757,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 360-32",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 7-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 2
+        }
+      ],
+      "lat": 37.08368071,
+      "lng": 126.81631806
+    },
+    {
+      "pnu": "4159125032103620013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 46.81476964,
+      "bld_nm": "조암3 7리마을회관",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 362-13",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 7-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08390353,
+      "lng": 126.81587726
+    },
+    {
+      "pnu": "4159125032102970001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 49.30323735,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 297-1",
+      "road_addr": "경기 화성시 만세구 3.1만세로 12-5",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08106409,
+      "lng": 126.81588028
+    },
+    {
+      "pnu": "4159135029100640001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 49.48975739,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 장안면 사곡리 64-1",
+      "road_addr": "경기 화성시 만세구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08046477,
+      "lng": 126.81371601
+    },
+    {
+      "pnu": "4159125032103660005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 49.91204799,
+      "bld_nm": "창조빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 366-5",
+      "road_addr": "경기 화성시 만세구 조암서로21번길 12-7",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08380241,
+      "lng": 126.81397673
+    },
+    {
+      "pnu": "4159125032103600027",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 51.10451697,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 360-27",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 7-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08385133,
+      "lng": 126.81620402
+    },
+    {
+      "pnu": "4159125032103400010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 51.20847034,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 340-10",
+      "road_addr": "경기 화성시 만세구 조암남로 9",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08239461,
+      "lng": 126.81682465
+    },
+    {
+      "pnu": "4159125032103660004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 52.23001005,
+      "bld_nm": "창조빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 366-4",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 19-7",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08381051,
+      "lng": 126.81381915
+    },
+    {
+      "pnu": "4159125032103650013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 60.60077467,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 365-13",
+      "road_addr": "경기 화성시 만세구 조암서로13번길 16",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08397887,
+      "lng": 126.81487524
+    },
+    {
+      "pnu": "4159125032103620011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 62.96846918,
+      "bld_nm": "화홍빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 362-11",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 7-7",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08404794,
+      "lng": 126.81590972
+    },
+    {
+      "pnu": "4159135029100650000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 64.46757116,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 장안면 사곡리 65",
+      "road_addr": "경기 화성시 만세구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08039752,
+      "lng": 126.81440119
+    },
+    {
+      "pnu": "4159125032103560002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 64.81445941,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 356-2",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08348397,
+      "lng": 126.81658985
+    },
+    {
+      "pnu": "4159125032103110009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 64.82366282,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 311-9",
+      "road_addr": "경기 화성시 만세구 조암남로 8",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 37.0821705,
+      "lng": 126.81704043
+    },
+    {
+      "pnu": "4159125032103650033",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 66.47172481,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 365-33",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 11-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.08397529,
+      "lng": 126.81425645
+    },
+    {
+      "pnu": "4159125032103450000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 66.62871644,
+      "bld_nm": "삼우4차빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 345",
+      "road_addr": "경기 화성시 만세구 조암남로 9-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08252152,
+      "lng": 126.81694727
+    },
+    {
+      "pnu": "4159125032103550001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 67.20397544,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 355-1",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08323159,
+      "lng": 126.81659212
+    },
+    {
+      "pnu": "4159125032103620004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 67.49970128,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 362-4",
+      "road_addr": "경기 화성시 만세구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08409216,
+      "lng": 126.81576306
+    },
+    {
+      "pnu": "4159125032103620009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 69.3134812,
+      "bld_nm": "화홍하이츠빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 362-9",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 7-9",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 9,
+      "tv_scrbr_cnt": 13,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 9,
+      "catv_internet_cnt": 4,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 7
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.0841098,
+      "lng": 126.81569539
+    },
+    {
+      "pnu": "4159125032103610000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 69.5287858,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 361",
+      "road_addr": "경기 화성시 만세구 조암북로24번길 25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08387091,
+      "lng": 126.81647387
+    },
+    {
+      "pnu": "4159125032102960003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 72.31786348,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 296-3",
+      "road_addr": "경기 화성시 만세구 기아자동차로 848-19",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08112961,
+      "lng": 126.81653088
+    },
+    {
+      "pnu": "4159125032104600004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 73.9074587,
+      "bld_nm": "그린빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 460-4",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 19-5",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        }
+      ],
+      "lat": 37.08402651,
+      "lng": 126.81376094
+    },
+    {
+      "pnu": "4159125032104600004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 73.9074587,
+      "bld_nm": "그린빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 460-4",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 11-4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        }
+      ],
+      "lat": 37.08401867,
+      "lng": 126.81396353
+    },
+    {
+      "pnu": "4159125032103650017",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 73.92403948,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 365-17",
+      "road_addr": "경기 화성시 만세구 조암서로13번길 15-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08405746,
+      "lng": 126.81443573
+    },
+    {
+      "pnu": "4159125032102960000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 75.41772167,
+      "bld_nm": "조암농업협동조합",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 296",
+      "road_addr": "경기 화성시 만세구 3.1만세로 24",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08167378,
+      "lng": 126.81687612
+    },
+    {
+      "pnu": "4159125032103600003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 75.77055054,
+      "bld_nm": "장춘빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 360-3",
+      "road_addr": "경기 화성시 만세구 조암북로24번길 24-4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08416791,
+      "lng": 126.81639244
+    },
+    {
+      "pnu": "4159125032103600003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 75.77055054,
+      "bld_nm": "장춘빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 360-3",
+      "road_addr": "경기 화성시 만세구 조암북로24번길 24-3",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.08401467,
+      "lng": 126.81639382
+    },
+    {
+      "pnu": "4159125032103600029",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 75.90533705,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 360-29",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 7-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08414793,
+      "lng": 126.81605509
+    },
+    {
+      "pnu": "4159125032104600004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 76.60336739,
+      "bld_nm": "그린빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 460-4",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 19-5",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        }
+      ],
+      "lat": 37.08402651,
+      "lng": 126.81376094
+    },
+    {
+      "pnu": "4159125032104600004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 76.60336739,
+      "bld_nm": "그린빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 460-4",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 11-4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        }
+      ],
+      "lat": 37.08401867,
+      "lng": 126.81396353
+    },
+    {
+      "pnu": "4159125032104600007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 78.62981825,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 460-7",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 19-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08401541,
+      "lng": 126.81340101
+    },
+    {
+      "pnu": "4159125032103650008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 79.00532453,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 365-8",
+      "road_addr": "경기 화성시 만세구 조암서로13번길 17",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08412185,
+      "lng": 126.81466018
+    },
+    {
+      "pnu": "4159125032103560004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.66678207,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 356-4",
+      "road_addr": "경기 화성시 만세구 조암북로24번길 28",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08371015,
+      "lng": 126.81673409
+    },
+    {
+      "pnu": "4159125032103450002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.86058281,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 345-2",
+      "road_addr": "경기 화성시 만세구 조암남로 9-2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08253157,
+      "lng": 126.8171272
+    },
+    {
+      "pnu": "4159125032103480000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 82.92563842,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 348",
+      "road_addr": "경기 화성시 만세구 3.1만세로 29",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08222575,
+      "lng": 126.81724245
+    },
+    {
+      "pnu": "4159125032103560003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 83.92300101,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 356-3",
+      "road_addr": "경기 화성시 만세구 조암북로24번길 26",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.0839438,
+      "lng": 126.81660823
+    },
+    {
+      "pnu": "4159125032103650030",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 84.12306995,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 365-30",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08415713,
+      "lng": 126.81452484
+    },
+    {
+      "pnu": "4159125032103430004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 85.95609783,
+      "bld_nm": "조암성당성심회",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 343-4",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 14-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08290035,
+      "lng": 126.81698888
+    },
+    {
+      "pnu": "4159125032103620005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 86.16263069,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 362-5",
+      "road_addr": "경기 화성시 만세구 조암서로 31",
+      "avail_gen_cnt": 25,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08426964,
+      "lng": 126.81527766
+    },
+    {
+      "pnu": "4159125032103440004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 88.39136419,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 344-4",
+      "road_addr": "경기 화성시 만세구 조암남로 11-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08257048,
+      "lng": 126.8171867
+    },
+    {
+      "pnu": "4159125032103250002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 88.76250664,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 325-2",
+      "road_addr": "경기 화성시 만세구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08024572,
+      "lng": 126.81465007
+    },
+    {
+      "pnu": "4159125032103650024",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 88.99983408,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 365-24",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 11-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08418287,
+      "lng": 126.81429959
+    },
+    {
+      "pnu": "4159125032103600003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 89.60936933,
+      "bld_nm": "장춘빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 360-3",
+      "road_addr": "경기 화성시 만세구 조암북로24번길 24-3",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.08401467,
+      "lng": 126.81639382
+    },
+    {
+      "pnu": "4159125032103600003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 89.60936933,
+      "bld_nm": "장춘빌라",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 360-3",
+      "road_addr": "경기 화성시 만세구 조암북로24번길 24-4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08416791,
+      "lng": 126.81639244
+    },
+    {
+      "pnu": "4159125032103650028",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 91.17196036,
+      "bld_nm": "우정타운",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 365-28",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 11-2",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.08418137,
+      "lng": 126.81404083
+    },
+    {
+      "pnu": "4159125032103480007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 91.4037328,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 348-7",
+      "road_addr": "경기 화성시 만세구 3.1만세로 29-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08228035,
+      "lng": 126.81733196
+    },
+    {
+      "pnu": "4159125032103490005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 92.09937683,
+      "bld_nm": "금옥당",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 349-5",
+      "road_addr": "경기 화성시 만세구 조암남로 12",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08240641,
+      "lng": 126.81730833
+    },
+    {
+      "pnu": "4159125032103430003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 92.26495845,
+      "bld_nm": "수협조암지점",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 343-3",
+      "road_addr": "경기 화성시 만세구 조암남로 11",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08264913,
+      "lng": 126.81719365
+    },
+    {
+      "pnu": "4159125032103650029",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 93.58501188,
+      "bld_nm": "우정타운",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 365-29",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 15",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 8,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 2
+        }
+      ],
+      "lat": 37.08418941,
+      "lng": 126.81387199
+    },
+    {
+      "pnu": "4159125032103540003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 94.68709347,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 354-3",
+      "road_addr": "경기 화성시 만세구 조암서로22번길 14-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08295489,
+      "lng": 126.81706714
+    },
+    {
+      "pnu": "4159125032102950001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.2978796,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 295-1",
+      "road_addr": "경기 화성시 만세구 3.1만세로 26",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.08163935,
+      "lng": 126.8171577
+    },
+    {
+      "pnu": "4159125032103480002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.61084069,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 348-2",
+      "road_addr": "경기 화성시 만세구 3.1만세로 31",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.0822987,
+      "lng": 126.81738805
+    },
+    {
+      "pnu": "4159125032103650023",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.89854265,
+      "bld_nm": "우정타운",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 365-23",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 16",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.08420652,
+      "lng": 126.81371432
+    },
+    {
+      "pnu": "4159125032103600069",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 97.34103421,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 360-69",
+      "road_addr": "경기 화성시 만세구 조암북로24번길 24",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08412407,
+      "lng": 126.81660661
+    },
+    {
+      "pnu": "4159125032103640010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 98.17232749,
+      "bld_nm": "행복타운",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 364-10",
+      "road_addr": "경기 화성시 만세구 조암서로13번길 22-4",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 16,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 16,
+      "catv_internet_cnt": 6,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 1
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 5
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)_S",
+          "count": 16
+        }
+      ],
+      "lat": 37.08437683,
+      "lng": 126.81510793
+    },
+    {
+      "pnu": "4159125032104600000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.35485491,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 만세구 우정읍 조암리 460",
+      "road_addr": "경기 화성시 만세구 조암서로29번길 19-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.08420483,
+      "lng": 126.8134218
+    }
+  ]
+}

@@ -55,38 +55,314 @@
   },
   "buildings": [
     {
-      "pnu": "4146311300103430012",
+      "pnu": "4146311200103680001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "어반빌리지",
-      "jibun_addr": "경기 용인시 기흥구 마북동 343-12",
-      "road_addr": "경기 용인시 기흥구 구성로53번길 16",
+      "bld_nm": "진주빌라",
+      "jibun_addr": "경기 용인시 기흥구 언남동 368-1",
+      "road_addr": "경기 용인시 기흥구 구성로77번길 7",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.29549747,
+      "lng": 127.11814604
+    },
+    {
+      "pnu": "4146311200103710013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 언남동 371-13",
+      "road_addr": "경기 용인시 기흥구 구성로 75-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜E",
+          "method": "B인터넷_타사임차",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.29490168,
+      "lng": 127.11787827
+    },
+    {
+      "pnu": "4146311300103390001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 339-1",
+      "road_addr": "경기 용인시 기흥구 구성로 57",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29501225,
+      "lng": 127.11583555
+    },
+    {
+      "pnu": "4146311200103710019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 언남동 371-19",
+      "road_addr": "경기 용인시 기흥구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29537493,
+      "lng": 127.11739524
+    },
+    {
+      "pnu": "4146311300102950002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 295-2",
+      "road_addr": "경기 용인시 기흥구 마북로 55-2",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜PBOX(GB)",
           "count": 1
         },
         {
-          "method": "광랜E(GB)",
+          "method": "광랜PBOX",
           "count": 1
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.29637852,
+      "lng": 127.11743077
+    },
+    {
+      "pnu": "4146311300103020005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 302-5",
+      "road_addr": "경기 용인시 기흥구 마북로47번길 6-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         }
       ],
-      "lat": 37.29632848,
-      "lng": 127.11589655
+      "lat": 37.29621485,
+      "lng": 127.11699157
+    },
+    {
+      "pnu": "4146311300103010026",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 301-26",
+      "road_addr": "경기 용인시 기흥구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29604445,
+      "lng": 127.1175152
+    },
+    {
+      "pnu": "4146311200103710003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 언남동 371-3",
+      "road_addr": "경기 용인시 기흥구 구성로77번길 5-3",
+      "avail_gen_cnt": 28,
+      "int_scrbr_cnt": 8,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 7
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.29536179,
+      "lng": 127.11800005
+    },
+    {
+      "pnu": "4146311200103670001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 언남동 367-1",
+      "road_addr": "경기 용인시 기흥구 구성로77번길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.29537127,
+      "lng": 127.11814668
+    },
+    {
+      "pnu": "4146311200103720003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 언남동 372-3",
+      "road_addr": "경기 용인시 기흥구 구성로 71",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2950173,
+      "lng": 127.11739253
+    },
+    {
+      "pnu": "4146311200103680000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 언남동 368",
+      "road_addr": "경기 용인시 기흥구 구성로77번길 9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.29570482,
+      "lng": 127.11815628
     },
     {
       "pnu": "4146311300103170009",
@@ -105,11 +381,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
@@ -121,6 +397,769 @@
       ],
       "lat": 37.29570096,
       "lng": 127.11696032
+    },
+    {
+      "pnu": "4146311300103170015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 317-15",
+      "road_addr": "경기 용인시 기흥구 마북로 43",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.29545758,
+      "lng": 127.11696156
+    },
+    {
+      "pnu": "4146311200103690002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼산빌딩",
+      "jibun_addr": "경기 용인시 기흥구 언남동 369-2",
+      "road_addr": "경기 용인시 기흥구 구성로63번길 12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29566778,
+      "lng": 127.11785183
+    },
+    {
+      "pnu": "4146311200103710010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "자비사포교당",
+      "jibun_addr": "경기 용인시 기흥구 언남동 371-10",
+      "road_addr": "경기 용인시 기흥구 구성로77번길 5-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.29539697,
+      "lng": 127.11772909
+    },
+    {
+      "pnu": "4146311300106530000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "지음재아파트",
+      "jibun_addr": "경기 용인시 기흥구 마북동 653",
+      "road_addr": "경기 용인시 기흥구 구성로53번길 8",
+      "avail_gen_cnt": 80,
+      "int_scrbr_cnt": 39,
+      "tv_scrbr_cnt": 117,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 5,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 11
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 26
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(AI Sound Max STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 19
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB_공청)_20",
+          "count": 80
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.29564344,
+      "lng": 127.11590004
+    },
+    {
+      "pnu": "4146311200103440004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성지빌라",
+      "jibun_addr": "경기 용인시 기흥구 언남동 344-4",
+      "road_addr": "경기 용인시 기흥구 구성로77번길 13",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.29592126,
+      "lng": 127.11818903
+    },
+    {
+      "pnu": "4146311200103440002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 언남동 344-2",
+      "road_addr": "경기 용인시 기흥구 구성로63번길 16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2959509,
+      "lng": 127.1179277
+    },
+    {
+      "pnu": "4146311200103440002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 언남동 344-2",
+      "road_addr": "경기 용인시 기흥구 구성로63번길 16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2959509,
+      "lng": 127.1179277
+    },
+    {
+      "pnu": "4146311200103710002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 언남동 371-2",
+      "road_addr": "경기 용인시 기흥구 구성로63번길 8",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29516148,
+      "lng": 127.11738052
+    },
+    {
+      "pnu": "4146311300103010005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "백암공인중개사",
+      "jibun_addr": "경기 용인시 기흥구 마북동 301-5",
+      "road_addr": "경기 용인시 기흥구 마북로 47",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29585536,
+      "lng": 127.11732059
+    },
+    {
+      "pnu": "4146311300103010004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "춘옥",
+      "jibun_addr": "경기 용인시 기흥구 마북동 301-4",
+      "road_addr": "경기 용인시 기흥구 마북로47번길 2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.29591805,
+      "lng": 127.11719616
+    },
+    {
+      "pnu": "4146311200103730003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 언남동 373-3",
+      "road_addr": "경기 용인시 기흥구 구성로 65",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29502492,
+      "lng": 127.11696375
+    },
+    {
+      "pnu": "4146311300103010006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 301-6",
+      "road_addr": "경기 용인시 기흥구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29616234,
+      "lng": 127.11747699
+    },
+    {
+      "pnu": "4146311300103120000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 312",
+      "road_addr": "경기 용인시 기흥구 마북로 37-13",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.29599541,
+      "lng": 127.11603364
+    },
+    {
+      "pnu": "4146311300103170012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 317-12",
+      "road_addr": "경기 용인시 기흥구 마북로 37-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29558199,
+      "lng": 127.11640807
+    },
+    {
+      "pnu": "4146311300103030000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 303",
+      "road_addr": "경기 용인시 기흥구 마북로 55-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.29602611,
+      "lng": 127.11716177
+    },
+    {
+      "pnu": "4146311300103130002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 313-2",
+      "road_addr": "경기 용인시 기흥구 마북로 37-10",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2957889,
+      "lng": 127.11628291
+    },
+    {
+      "pnu": "4146311300103160000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "강산빌딩",
+      "jibun_addr": "경기 용인시 기흥구 마북동 316",
+      "road_addr": "경기 용인시 기흥구 구성로 59",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.29507637,
+      "lng": 127.11615114
+    },
+    {
+      "pnu": "4146311300103170021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한양떡집",
+      "jibun_addr": "경기 용인시 기흥구 마북동 317-21",
+      "road_addr": "경기 용인시 기흥구 마북로47번길 1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.29571066,
+      "lng": 127.11717465
+    },
+    {
+      "pnu": "4146311200103660000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 언남동 366",
+      "road_addr": "경기 용인시 기흥구 구성로77번길 3",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.29518173,
+      "lng": 127.11806866
+    },
+    {
+      "pnu": "4146311300103170051",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 317-51",
+      "road_addr": "경기 용인시 기흥구 구성로53번길 4-2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29541985,
+      "lng": 127.11644274
+    },
+    {
+      "pnu": "4146311200103710003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 언남동 371-3",
+      "road_addr": "경기 용인시 기흥구 구성로77번길 5-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29528044,
+      "lng": 127.11793277
+    },
+    {
+      "pnu": "4146311200103710003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 언남동 371-3",
+      "road_addr": "경기 용인시 기흥구 구성로77번길 5-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29528044,
+      "lng": 127.11793277
+    },
+    {
+      "pnu": "4146311300103430012",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "어반빌리지",
+      "jibun_addr": "경기 용인시 기흥구 마북동 343-12",
+      "road_addr": "경기 용인시 기흥구 구성로53번길 16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.29632848,
+      "lng": 127.11589655
+    },
+    {
+      "pnu": "4146311200103710006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "산도교회",
+      "jibun_addr": "경기 용인시 기흥구 언남동 371-6",
+      "road_addr": "경기 용인시 기흥구 구성로63번길 10-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.29547765,
+      "lng": 127.11759329
+    },
+    {
+      "pnu": "4146311300103390000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 339",
+      "road_addr": "경기 용인시 기흥구 구성로53번길 2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.29513852,
+      "lng": 127.11585747
     },
     {
       "pnu": "4146311200103710005",
@@ -153,6 +1192,10 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 13
         },
@@ -161,19 +1204,27 @@
           "count": 2
         },
         {
-          "method": "Btv(IPTV_UHD4 STB)",
+          "method": "Btv(판매 Apple tv STB)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 3
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
         },
         {
           "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 2 STB)",
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
           "count": 1
         },
         {
@@ -183,149 +1234,226 @@
         {
           "method": "Btv(IPTV_UHD_STB)",
           "count": 2
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 1
         }
       ],
       "lat": 37.29528811,
       "lng": 127.11751527
     },
     {
-      "pnu": "4146311300103110000",
+      "pnu": "4146311200103670000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 311",
-      "road_addr": "경기 용인시 기흥구 마북로 37-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
+      "jibun_addr": "경기 용인시 기흥구 언남동 367",
+      "road_addr": "경기 용인시 기흥구 구성로77번길 5-4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 3,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [
+      "int_tech": [],
+      "tv_tech": [
         {
-          "method": "CA_광랜W(100)",
+          "method": "Btv(단독IPTV)",
           "count": 1
         },
         {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(320)_구",
+          "method": "Btv(IPTV)",
           "count": 1
         }
       ],
+      "lat": 37.29542499,
+      "lng": 127.11803358
+    },
+    {
+      "pnu": "4146311300103160001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "강산빌딩",
+      "jibun_addr": "경기 용인시 기흥구 마북동 316-1",
+      "road_addr": "경기 용인시 기흥구 구성로 57-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
       "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
         {
           "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_UHD2)",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
-      "lat": 37.29596333,
-      "lng": 127.11634337
+      "lat": 37.29503072,
+      "lng": 127.11597085
     },
     {
-      "pnu": "4146311200103670001",
+      "pnu": "4146311200103440001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 367-1",
-      "road_addr": "경기 용인시 기흥구 구성로77번길 5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29537127,
-      "lng": 127.11814668
-    },
-    {
-      "pnu": "4146311200103710003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 371-3",
-      "road_addr": "경기 용인시 기흥구 구성로77번길 5-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29528044,
-      "lng": 127.11793277
-    },
-    {
-      "pnu": "4146311200103710003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 371-3",
-      "road_addr": "경기 용인시 기흥구 구성로77번길 5-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29528044,
-      "lng": 127.11793277
-    },
-    {
-      "pnu": "4146311200103680001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "진주빌라",
-      "jibun_addr": "경기 용인시 기흥구 언남동 368-1",
-      "road_addr": "경기 용인시 기흥구 구성로77번길 7",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 5,
+      "bld_nm": "성지빌라",
+      "jibun_addr": "경기 용인시 기흥구 언남동 344-1",
+      "road_addr": "경기 용인시 기흥구 구성로63번길 22-2",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 9,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 3,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.29619153,
+      "lng": 127.11814253
+    },
+    {
+      "pnu": "4146311300103170004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "구성우체국",
+      "jibun_addr": "경기 용인시 기흥구 마북동 317-4",
+      "road_addr": "경기 용인시 기흥구 마북로 39",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2953573,
+      "lng": 127.1166123
+    },
+    {
+      "pnu": "4146311300103410004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 341-4",
+      "road_addr": "경기 용인시 기흥구 구성로53번길 4",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.29524661,
+      "lng": 127.11583436
+    },
+    {
+      "pnu": "4146311300103170018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "기성식한의원",
+      "jibun_addr": "경기 용인시 기흥구 마북동 317-18",
+      "road_addr": "경기 용인시 기흥구 마북로 37",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.29516761,
+      "lng": 127.11648916
+    },
+    {
+      "pnu": "4146311200103440002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성지빌라",
+      "jibun_addr": "경기 용인시 기흥구 언남동 344-2",
+      "road_addr": "경기 용인시 기흥구 구성로63번길 18",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
       "int_tech": [
         {
           "method": "광랜W",
@@ -338,11 +1466,65 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 3
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.29606479,
+      "lng": 127.11797393
+    },
+    {
+      "pnu": "4146311300103140003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 314-3",
+      "road_addr": "경기 용인시 기흥구 마북로 37-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29571767,
+      "lng": 127.11655406
+    },
+    {
+      "pnu": "4146311200103730001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "인경빌딩",
+      "jibun_addr": "경기 용인시 기흥구 언남동 373-1",
+      "road_addr": "경기 용인시 기흥구 구성로 69",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
           "count": 1
         },
         {
@@ -350,115 +1532,50 @@
           "count": 1
         }
       ],
-      "lat": 37.29549747,
-      "lng": 127.11814604
+      "lat": 37.29498967,
+      "lng": 127.11721215
     },
     {
-      "pnu": "4146311300103160000",
+      "pnu": "4146311200103440002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "강산빌딩",
-      "jibun_addr": "경기 용인시 기흥구 마북동 316",
-      "road_addr": "경기 용인시 기흥구 구성로 59",
+      "bld_nm": "성지빌라",
+      "jibun_addr": "경기 용인시 기흥구 언남동 344-2",
+      "road_addr": "경기 용인시 기흥구 구성로63번길 18",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.29507637,
-      "lng": 127.11615114
-    },
-    {
-      "pnu": "4146311200103710007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 371-7",
-      "road_addr": "경기 용인시 기흥구 구성로 75-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29501047,
-      "lng": 127.11806952
-    },
-    {
-      "pnu": "4146311300103060002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "예원빌라",
-      "jibun_addr": "경기 용인시 기흥구 마북동 306-2",
-      "road_addr": "경기 용인시 기흥구 마북로47번길 10",
-      "avail_gen_cnt": 12,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 2,
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "CA_광랜W(100)_구",
+          "method": "광랜W",
           "count": 1
         },
         {
-          "method": "CA_광랜W(50)_구",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_UHD2)",
+          "method": "Btv(IPTV_smart STB)",
           "count": 1
         }
       ],
-      "lat": 37.2962944,
-      "lng": 127.116506
-    },
-    {
-      "pnu": "4146311300103390001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 339-1",
-      "road_addr": "경기 용인시 기흥구 구성로 57",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29501225,
-      "lng": 127.11583555
+      "lat": 37.29606479,
+      "lng": 127.11797393
     },
     {
       "pnu": "4146311300103140001",
@@ -481,6 +1598,345 @@
       "lng": 127.116542
     },
     {
+      "pnu": "4146311200103720002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "반석빌라",
+      "jibun_addr": "경기 용인시 기흥구 언남동 372-2",
+      "road_addr": "경기 용인시 기흥구 구성로63번길 6",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29513389,
+      "lng": 127.11721142
+    },
+    {
+      "pnu": "4146311300103020001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "반석빌라2차",
+      "jibun_addr": "경기 용인시 기흥구 마북동 302-1",
+      "road_addr": "경기 용인시 기흥구 마북로 55-6",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.29626054,
+      "lng": 127.11718314
+    },
+    {
+      "pnu": "4146311300103010007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 301-7",
+      "road_addr": "경기 용인시 기흥구 마북로 55",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29628126,
+      "lng": 127.11761947
+    },
+    {
+      "pnu": "4146311300103010007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 301-7",
+      "road_addr": "경기 용인시 기흥구 마북로 55",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29628126,
+      "lng": 127.11761947
+    },
+    {
+      "pnu": "4146311200103710003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 언남동 371-3",
+      "road_addr": "경기 용인시 기흥구 구성로77번길 5-3",
+      "avail_gen_cnt": 28,
+      "int_scrbr_cnt": 8,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 7
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        }
+      ],
+      "lat": 37.29536179,
+      "lng": 127.11800005
+    },
+    {
+      "pnu": "4146311300103090000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 309",
+      "road_addr": "경기 용인시 기흥구 구성로53번길 12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.29604854,
+      "lng": 127.11574002
+    },
+    {
+      "pnu": "4146311300103170005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "길상빌딩",
+      "jibun_addr": "경기 용인시 기흥구 마북동 317-5",
+      "road_addr": "경기 용인시 기흥구 마북로 35",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        }
+      ],
+      "lat": 37.295059,
+      "lng": 127.11635432
+    },
+    {
+      "pnu": "4146311300103170001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 317-1",
+      "road_addr": "경기 용인시 기흥구 마북로47번길 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29585386,
+      "lng": 127.116858
+    },
+    {
+      "pnu": "4146311300103020002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 302-2",
+      "road_addr": "경기 용인시 기흥구 마북로47번길 6-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29629601,
+      "lng": 127.11700244
+    },
+    {
+      "pnu": "4146311200103440003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성지빌라",
+      "jibun_addr": "경기 용인시 기흥구 언남동 344-3",
+      "road_addr": "경기 용인시 기흥구 구성로63번길 20-4",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.29608395,
+      "lng": 127.1183236
+    },
+    {
+      "pnu": "4146311200103730002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "알파",
+      "jibun_addr": "경기 용인시 기흥구 언남동 373-2",
+      "road_addr": "경기 용인시 기흥구 구성로 67",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.29505233,
+      "lng": 127.11707644
+    },
+    {
       "pnu": "4146311300103040000",
       "match_type": "inside",
       "in_area": true,
@@ -501,64 +1957,58 @@
       "lng": 127.11694708
     },
     {
-      "pnu": "4146311200103710019",
+      "pnu": "4146311300103010003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 371-19",
-      "road_addr": "경기 용인시 기흥구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29537493,
-      "lng": 127.11739524
-    },
-    {
-      "pnu": "4146311300103010005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "백암공인중개사",
-      "jibun_addr": "경기 용인시 기흥구 마북동 301-5",
-      "road_addr": "경기 용인시 기흥구 마북로 47",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29585536,
-      "lng": 127.11732059
-    },
-    {
-      "pnu": "4146311300103170003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 317-3",
-      "road_addr": "경기 용인시 기흥구 구성로53번길 4-6",
-      "avail_gen_cnt": 5,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29547738,
-      "lng": 127.11668205
+      "bld_nm": "한도로즈빌",
+      "jibun_addr": "경기 용인시 기흥구 마북동 301-3",
+      "road_addr": "경기 용인시 기흥구 마북로 51",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.29604483,
+      "lng": 127.11737604
     },
     {
       "pnu": "4146311300103170002",
@@ -579,26 +2029,6 @@
       "tv_tech": [],
       "lat": 37.29540299,
       "lng": 127.11680388
-    },
-    {
-      "pnu": "4146311300103010006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 301-6",
-      "road_addr": "경기 용인시 기흥구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29616234,
-      "lng": 127.11747699
     },
     {
       "pnu": "4146311300103140002",
@@ -651,29 +2081,24 @@
       "lng": 127.116709
     },
     {
-      "pnu": "4146311200103730002",
+      "pnu": "4146311300103170003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "알파",
-      "jibun_addr": "경기 용인시 기흥구 언남동 373-2",
-      "road_addr": "경기 용인시 기흥구 구성로 67",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 317-3",
+      "road_addr": "경기 용인시 기흥구 구성로53번길 4-6",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
-      "catv_internet_cnt": 1,
+      "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
+      "int_tech": [],
       "tv_tech": [],
-      "lat": 37.29505233,
-      "lng": 127.11707644
+      "lat": 37.29547738,
+      "lng": 127.11668205
     },
     {
       "pnu": "4146311200103440005",
@@ -698,15 +2123,15 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
           "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 1
         },
         {
           "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         }
       ],
@@ -736,15 +2161,15 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
           "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 1
         },
         {
           "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         }
       ],
@@ -752,181 +2177,13 @@
       "lng": 127.11805245
     },
     {
-      "pnu": "4146311300103030000",
+      "pnu": "4146311300103090003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 303",
-      "road_addr": "경기 용인시 기흥구 마북로 55-8",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29602611,
-      "lng": 127.11716177
-    },
-    {
-      "pnu": "4146311200103440003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성지빌라",
-      "jibun_addr": "경기 용인시 기흥구 언남동 344-3",
-      "road_addr": "경기 용인시 기흥구 구성로63번길 20-4",
-      "avail_gen_cnt": 11,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 6,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.29608395,
-      "lng": 127.1183236
-    },
-    {
-      "pnu": "4146311200103440004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성지빌라",
-      "jibun_addr": "경기 용인시 기흥구 언남동 344-4",
-      "road_addr": "경기 용인시 기흥구 구성로77번길 13",
-      "avail_gen_cnt": 11,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 6,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.29592126,
-      "lng": 127.11818903
-    },
-    {
-      "pnu": "4146311200103660000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 366",
-      "road_addr": "경기 용인시 기흥구 구성로77번길 3",
-      "avail_gen_cnt": 7,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜E",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        }
-      ],
-      "lat": 37.29518173,
-      "lng": 127.11806866
-    },
-    {
-      "pnu": "4146311200103710002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 371-2",
-      "road_addr": "경기 용인시 기흥구 구성로63번길 8",
+      "jibun_addr": "경기 용인시 기흥구 마북동 309-3",
+      "road_addr": "경기 용인시 기흥구 마북로 37-15",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -936,33 +2193,28 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.29516148,
-      "lng": 127.11738052
+      "lat": 37.29612161,
+      "lng": 127.116033
     },
     {
-      "pnu": "4146311200103710013",
+      "pnu": "4146311300103180002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 371-13",
-      "road_addr": "경기 용인시 기흥구 구성로 75-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
+      "jibun_addr": "경기 용인시 기흥구 마북동 318-2",
+      "road_addr": "경기 용인시 기흥구 마북로47번길 3",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "B인터넷_타사임차",
-          "count": 1
-        }
-      ],
+      "int_tech": [],
       "tv_tech": [],
-      "lat": 37.29490168,
-      "lng": 127.11787827
+      "lat": 37.29579142,
+      "lng": 127.11706141
     },
     {
       "pnu": "4146311300103410001",
@@ -1005,815 +2257,59 @@
       "lng": 127.11777659
     },
     {
-      "pnu": "4146311300103120000",
+      "pnu": "4146311300103060002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 312",
-      "road_addr": "경기 용인시 기흥구 마북로 37-13",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29599541,
-      "lng": 127.11603364
-    },
-    {
-      "pnu": "4146311300103390000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 339",
-      "road_addr": "경기 용인시 기흥구 구성로53번길 2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29513852,
-      "lng": 127.11585747
-    },
-    {
-      "pnu": "4146311300103020005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 302-5",
-      "road_addr": "경기 용인시 기흥구 마북로47번길 6-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29621485,
-      "lng": 127.11699157
-    },
-    {
-      "pnu": "4146311300103100000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 310",
-      "road_addr": "경기 용인시 기흥구 마북로 37-16",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29615537,
-      "lng": 127.11631688
-    },
-    {
-      "pnu": "4146311200103710003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 371-3",
-      "road_addr": "경기 용인시 기흥구 구성로77번길 5-3",
-      "avail_gen_cnt": 28,
-      "int_scrbr_cnt": 8,
-      "tv_scrbr_cnt": 9,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 7
-        },
-        {
-          "method": "광랜E",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(단독IP-CATV AI2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        }
-      ],
-      "lat": 37.29536179,
-      "lng": 127.11800005
-    },
-    {
-      "pnu": "4146311200103710003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 371-3",
-      "road_addr": "경기 용인시 기흥구 구성로77번길 5-3",
-      "avail_gen_cnt": 28,
-      "int_scrbr_cnt": 8,
-      "tv_scrbr_cnt": 9,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 7
-        },
-        {
-          "method": "광랜E",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(단독IP-CATV AI2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        }
-      ],
-      "lat": 37.29536179,
-      "lng": 127.11800005
-    },
-    {
-      "pnu": "4146311300103170018",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "기성식한의원",
-      "jibun_addr": "경기 용인시 기흥구 마북동 317-18",
-      "road_addr": "경기 용인시 기흥구 마북로 37",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.29516761,
-      "lng": 127.11648916
-    },
-    {
-      "pnu": "4146311300103170015",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 317-15",
-      "road_addr": "경기 용인시 기흥구 마북로 43",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.29545758,
-      "lng": 127.11696156
-    },
-    {
-      "pnu": "4146311200103720002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "반석빌라",
-      "jibun_addr": "경기 용인시 기흥구 언남동 372-2",
-      "road_addr": "경기 용인시 기흥구 구성로63번길 6",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29513389,
-      "lng": 127.11721142
-    },
-    {
-      "pnu": "4146311300103140003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 314-3",
-      "road_addr": "경기 용인시 기흥구 마북로 37-6",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29571767,
-      "lng": 127.11655406
-    },
-    {
-      "pnu": "4146311300103010007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 301-7",
-      "road_addr": "경기 용인시 기흥구 마북로 55",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29628126,
-      "lng": 127.11761947
-    },
-    {
-      "pnu": "4146311300103010007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 301-7",
-      "road_addr": "경기 용인시 기흥구 마북로 55",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29628126,
-      "lng": 127.11761947
-    },
-    {
-      "pnu": "4146311200103730001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "인경빌딩",
-      "jibun_addr": "경기 용인시 기흥구 언남동 373-1",
-      "road_addr": "경기 용인시 기흥구 구성로 69",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29498967,
-      "lng": 127.11721215
-    },
-    {
-      "pnu": "4146311300103010007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 301-7",
-      "road_addr": "경기 용인시 기흥구 마북로 53",
-      "avail_gen_cnt": 1,
+      "bld_nm": "예원빌라",
+      "jibun_addr": "경기 용인시 기흥구 마북동 306-2",
+      "road_addr": "경기 용인시 기흥구 마북로47번길 10",
+      "avail_gen_cnt": 12,
       "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "CA_비즈_광랜W(50)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.29620744,
-      "lng": 127.11748805
-    },
-    {
-      "pnu": "4146311300103010007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 301-7",
-      "road_addr": "경기 용인시 기흥구 마북로 53",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "CA_비즈_광랜W(50)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.29620744,
-      "lng": 127.11748805
-    },
-    {
-      "pnu": "4146311300103170051",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 317-51",
-      "road_addr": "경기 용인시 기흥구 구성로53번길 4-2",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29541985,
-      "lng": 127.11644274
-    },
-    {
-      "pnu": "4146311200103730003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 373-3",
-      "road_addr": "경기 용인시 기흥구 구성로 65",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29502492,
-      "lng": 127.11696375
-    },
-    {
-      "pnu": "4146311200103440005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성지빌라",
-      "jibun_addr": "경기 용인시 기흥구 언남동 344-5",
-      "road_addr": "경기 용인시 기흥구 구성로63번길 20-2",
-      "avail_gen_cnt": 11,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29606548,
-      "lng": 127.1181883
-    },
-    {
-      "pnu": "4146311200103680000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 368",
-      "road_addr": "경기 용인시 기흥구 구성로77번길 9",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29570482,
-      "lng": 127.11815628
-    },
-    {
-      "pnu": "4146311300103160001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "강산빌딩",
-      "jibun_addr": "경기 용인시 기흥구 마북동 316-1",
-      "road_addr": "경기 용인시 기흥구 구성로 57-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.29503072,
-      "lng": 127.11597085
-    },
-    {
-      "pnu": "4146311200103440005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성지빌라",
-      "jibun_addr": "경기 용인시 기흥구 언남동 344-5",
-      "road_addr": "경기 용인시 기흥구 구성로63번길 20-2",
-      "avail_gen_cnt": 11,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29606548,
-      "lng": 127.1181883
-    },
-    {
-      "pnu": "4146311300106530000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "지음재아파트",
-      "jibun_addr": "경기 용인시 기흥구 마북동 653",
-      "road_addr": "경기 용인시 기흥구 구성로53번길 8",
-      "avail_gen_cnt": 80,
-      "int_scrbr_cnt": 39,
-      "tv_scrbr_cnt": 117,
-      "skb_pop_cnt": 3,
-      "catv_digital_cnt": 5,
+      "catv_digital_cnt": 3,
       "catv_internet_cnt": 2,
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 26
-        },
-        {
           "method": "CA_광랜W(100)_구",
           "count": 1
         },
         {
-          "method": "광랜E",
-          "count": 11
+          "method": "CA_광랜W(50)_구",
+          "count": 1
         }
       ],
       "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
         {
           "method": "Btv(CATV_8VSB)_60",
           "count": 1
         },
         {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 19
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(CATV_QAM_HD)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB_공청)_20",
-          "count": 80
-        },
-        {
-          "method": "Btv(AI Sound Max STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
+          "count": 2
         }
       ],
-      "lat": 37.29564344,
-      "lng": 127.11590004
+      "lat": 37.2962944,
+      "lng": 127.116506
     },
     {
-      "pnu": "4146311200103440001",
+      "pnu": "4146311200103440005",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "성지빌라",
-      "jibun_addr": "경기 용인시 기흥구 언남동 344-1",
-      "road_addr": "경기 용인시 기흥구 구성로63번길 22-2",
-      "avail_gen_cnt": 5,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 9,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 3
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(판매 Apple tv 3세대 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29619153,
-      "lng": 127.11814253
-    },
-    {
-      "pnu": "4146311200103710010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "자비사포교당",
-      "jibun_addr": "경기 용인시 기흥구 언남동 371-10",
-      "road_addr": "경기 용인시 기흥구 구성로77번길 5-5",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IP-CATV AI2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29539697,
-      "lng": 127.11772909
-    },
-    {
-      "pnu": "4146311300103170021",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "한양떡집",
-      "jibun_addr": "경기 용인시 기흥구 마북동 317-21",
-      "road_addr": "경기 용인시 기흥구 마북로47번길 1",
-      "avail_gen_cnt": 1,
+      "jibun_addr": "경기 용인시 기흥구 언남동 344-5",
+      "road_addr": "경기 용인시 기흥구 구성로63번길 20-2",
+      "avail_gen_cnt": 11,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 1,
+      "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
@@ -1825,446 +2321,97 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         }
       ],
-      "lat": 37.29571066,
-      "lng": 127.11717465
+      "lat": 37.29606548,
+      "lng": 127.1181883
     },
     {
-      "pnu": "4146311300103130002",
+      "pnu": "4146311200103440005",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 313-2",
-      "road_addr": "경기 용인시 기흥구 마북로 37-10",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
+      "bld_nm": "성지빌라",
+      "jibun_addr": "경기 용인시 기흥구 언남동 344-5",
+      "road_addr": "경기 용인시 기흥구 구성로63번길 20-2",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.2957889,
-      "lng": 127.11628291
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.29606548,
+      "lng": 127.1181883
     },
     {
-      "pnu": "4146311300103010004",
+      "pnu": "4146311300103110000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "춘옥",
-      "jibun_addr": "경기 용인시 기흥구 마북동 301-4",
-      "road_addr": "경기 용인시 기흥구 마북로47번길 2",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 311",
+      "road_addr": "경기 용인시 기흥구 마북로 37-12",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 2,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        }
-      ],
-      "lat": 37.29591805,
-      "lng": 127.11719616
-    },
-    {
-      "pnu": "4146311300103010026",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 301-26",
-      "road_addr": "경기 용인시 기흥구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29604445,
-      "lng": 127.1175152
-    },
-    {
-      "pnu": "4146311300102950002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 295-2",
-      "road_addr": "경기 용인시 기흥구 마북로 55-2",
-      "avail_gen_cnt": 2,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜PBOX(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜PBOX",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
-      "lat": 37.29637852,
-      "lng": 127.11743077
-    },
-    {
-      "pnu": "4146311300103410004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 341-4",
-      "road_addr": "경기 용인시 기흥구 구성로53번길 4",
-      "avail_gen_cnt": 7,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜E",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29524661,
-      "lng": 127.11583436
-    },
-    {
-      "pnu": "4146311300103020001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "반석빌라2차",
-      "jibun_addr": "경기 용인시 기흥구 마북동 302-1",
-      "road_addr": "경기 용인시 기흥구 마북로 55-6",
-      "avail_gen_cnt": 8,
       "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29626054,
-      "lng": 127.11718314
-    },
-    {
-      "pnu": "4146311300103090000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 309",
-      "road_addr": "경기 용인시 기흥구 구성로53번길 12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29604854,
-      "lng": 127.11574002
-    },
-    {
-      "pnu": "4146311300103170012",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 317-12",
-      "road_addr": "경기 용인시 기흥구 마북로 37-3",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29558199,
-      "lng": 127.11640807
-    },
-    {
-      "pnu": "4146311300103020002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 302-2",
-      "road_addr": "경기 용인시 기흥구 마북로47번길 6-2",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29629601,
-      "lng": 127.11700244
-    },
-    {
-      "pnu": "4146311200103440002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성지빌라",
-      "jibun_addr": "경기 용인시 기흥구 언남동 344-2",
-      "road_addr": "경기 용인시 기흥구 구성로63번길 18",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_30",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29606479,
-      "lng": 127.11797393
-    },
-    {
-      "pnu": "4146311200103440002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성지빌라",
-      "jibun_addr": "경기 용인시 기흥구 언남동 344-2",
-      "road_addr": "경기 용인시 기흥구 구성로63번길 18",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_30",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29606479,
-      "lng": 127.11797393
-    },
-    {
-      "pnu": "4146311300103090003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 309-3",
-      "road_addr": "경기 용인시 기흥구 마북로 37-15",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29612161,
-      "lng": 127.116033
-    },
-    {
-      "pnu": "4146311200103440002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 344-2",
-      "road_addr": "경기 용인시 기흥구 구성로63번길 16",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(단독IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.2959509,
-      "lng": 127.1179277
-    },
-    {
-      "pnu": "4146311300103170005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "길상빌딩",
-      "jibun_addr": "경기 용인시 기흥구 마북동 317-5",
-      "road_addr": "경기 용인시 기흥구 마북로 35",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
       "tv_scrbr_cnt": 3,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 3,
-      "catv_internet_cnt": 0,
+      "catv_internet_cnt": 3,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 2
+          "method": "CA_광랜W(100)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 2
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_Android)",
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
           "count": 1
         }
       ],
-      "lat": 37.295059,
-      "lng": 127.11635432
+      "lat": 37.29596333,
+      "lng": 127.11634337
     },
     {
-      "pnu": "4146311300103170001",
+      "pnu": "4146311200103710007",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 317-1",
-      "road_addr": "경기 용인시 기흥구 마북로47번길 7",
+      "jibun_addr": "경기 용인시 기흥구 언남동 371-7",
+      "road_addr": "경기 용인시 기흥구 구성로 75-2",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -2274,42 +2421,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.29585386,
-      "lng": 127.116858
-    },
-    {
-      "pnu": "4146311200103440002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 344-2",
-      "road_addr": "경기 용인시 기흥구 구성로63번길 16",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(단독IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.2959509,
-      "lng": 127.1179277
+      "lat": 37.29501047,
+      "lng": 127.11806952
     },
     {
       "pnu": "4146311200103440006",
@@ -2350,67 +2463,13 @@
       "lng": 127.11816701
     },
     {
-      "pnu": "4146311300103010003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "한도로즈빌",
-      "jibun_addr": "경기 용인시 기흥구 마북동 301-3",
-      "road_addr": "경기 용인시 기흥구 마북로 51",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 8,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 4,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜E",
-          "count": 1
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 3
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IP-CATV AI2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29604483,
-      "lng": 127.11737604
-    },
-    {
-      "pnu": "4146311300103180002",
+      "pnu": "4146311300103100000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 마북동 318-2",
-      "road_addr": "경기 용인시 기흥구 마북로47번길 3",
+      "jibun_addr": "경기 용인시 기흥구 마북동 310",
+      "road_addr": "경기 용인시 기흥구 마북로 37-16",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -2420,135 +2479,76 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.29579142,
-      "lng": 127.11706141
+      "lat": 37.29615537,
+      "lng": 127.11631688
     },
     {
-      "pnu": "4146311200103690002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "삼산빌딩",
-      "jibun_addr": "경기 용인시 기흥구 언남동 369-2",
-      "road_addr": "경기 용인시 기흥구 구성로63번길 12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29566778,
-      "lng": 127.11785183
-    },
-    {
-      "pnu": "4146311200103720003",
+      "pnu": "4146311300103010007",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 372-3",
-      "road_addr": "경기 용인시 기흥구 구성로 71",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.2950173,
-      "lng": 127.11739253
-    },
-    {
-      "pnu": "4146311300103170004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "구성우체국",
-      "jibun_addr": "경기 용인시 기흥구 마북동 317-4",
-      "road_addr": "경기 용인시 기흥구 마북로 39",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.2953573,
-      "lng": 127.1166123
-    },
-    {
-      "pnu": "4146311200103670000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 기흥구 언남동 367",
-      "road_addr": "경기 용인시 기흥구 구성로77번길 5-4",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(단독IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        }
-      ],
-      "lat": 37.29542499,
-      "lng": 127.11803358
-    },
-    {
-      "pnu": "4146311200103710006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "산도교회",
-      "jibun_addr": "경기 용인시 기흥구 언남동 371-6",
-      "road_addr": "경기 용인시 기흥구 구성로63번길 10-1",
+      "jibun_addr": "경기 용인시 기흥구 마북동 301-7",
+      "road_addr": "경기 용인시 기흥구 마북로 53",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "CA_광랜W(50)_구",
+          "method": "CA_비즈_광랜W(50)_구",
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.29620744,
+      "lng": 127.11748805
+    },
+    {
+      "pnu": "4146311300103010007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 기흥구 마북동 301-7",
+      "road_addr": "경기 용인시 기흥구 마북로 53",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_비즈_광랜W(50)_구",
           "count": 1
         },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
         {
           "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
-      "lat": 37.29547765,
-      "lng": 127.11759329
+      "lat": 37.29620744,
+      "lng": 127.11748805
     },
     {
       "pnu": "4146311300102940003",
@@ -2851,26 +2851,6 @@
       "match_type": "100m",
       "in_area": false,
       "distance_meter": 16.75039177,
-      "bld_nm": "도영미용실",
-      "jibun_addr": "경기 용인시 기흥구 마북동 298-1",
-      "road_addr": "경기 용인시 기흥구 마북로 57-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29665922,
-      "lng": 127.11782425
-    },
-    {
-      "pnu": "4146311300102980001",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 16.75039177,
       "bld_nm": "N/A",
       "jibun_addr": "경기 용인시 기흥구 마북동 298-1",
       "road_addr": "경기 용인시 기흥구 마북로 57",
@@ -2885,6 +2865,26 @@
       "tv_tech": [],
       "lat": 37.29654278,
       "lng": 127.11773039
+    },
+    {
+      "pnu": "4146311300102980001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 16.75039177,
+      "bld_nm": "도영미용실",
+      "jibun_addr": "경기 용인시 기흥구 마북동 298-1",
+      "road_addr": "경기 용인시 기흥구 마북로 57-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29665922,
+      "lng": 127.11782425
     },
     {
       "pnu": "4146311200103750015",
@@ -3084,11 +3084,11 @@
       "int_tech": [],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(CATV_8VSB)_30",
           "count": 1
         },
         {
-          "method": "Btv(CATV_8VSB)_30",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         }
       ],
@@ -3192,11 +3192,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
@@ -3363,26 +3363,6 @@
       "match_type": "100m",
       "in_area": false,
       "distance_meter": 40.799596,
-      "bld_nm": "경호빌라",
-      "jibun_addr": "경기 용인시 기흥구 마북동 295-8",
-      "road_addr": "경기 용인시 기흥구 마북로59번길 5",
-      "avail_gen_cnt": 11,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.29675736,
-      "lng": 127.11750783
-    },
-    {
-      "pnu": "4146311300102950008",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 40.799596,
       "bld_nm": "경호빌라[F]",
       "jibun_addr": "경기 용인시 기흥구 마북동 295-8",
       "road_addr": "경기 용인시 기흥구 마북로59번길 5-1",
@@ -3397,6 +3377,26 @@
       "tv_tech": [],
       "lat": 37.2965293,
       "lng": 127.1175082
+    },
+    {
+      "pnu": "4146311300102950008",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 40.799596,
+      "bld_nm": "경호빌라",
+      "jibun_addr": "경기 용인시 기흥구 마북동 295-8",
+      "road_addr": "경기 용인시 기흥구 마북로59번길 5",
+      "avail_gen_cnt": 11,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.29675736,
+      "lng": 127.11750783
     },
     {
       "pnu": "4146311200103600000",
@@ -3435,19 +3435,31 @@
       "catv_8vsb_cnt": 2,
       "int_tech": [
         {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
+          "method": "광랜E(GB)",
+          "count": 4
         },
         {
           "method": "CA_광랜W(100)_구",
           "count": 1
         },
         {
-          "method": "광랜E(GB)",
-          "count": 4
+          "method": "CA_광랜W(320)_구",
+          "count": 1
         }
       ],
       "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
@@ -3455,18 +3467,6 @@
         {
           "method": "Btv(CATV_QAM_HD)",
           "count": 3
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
         }
       ],
       "lat": 37.29456533,
@@ -3604,11 +3604,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 3
         },
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 3
         }
       ],
@@ -3672,12 +3672,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
           "method": "광랜FTTH",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -3686,11 +3686,11 @@
           "count": 1
         },
         {
-          "method": "Btv(IP-CATV_smart 3 STB)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -3793,11 +3793,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "CA_광랜W(100)_구",
           "count": 1
         },
         {
-          "method": "CA_광랜W(100)_구",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
@@ -3887,11 +3887,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air 3)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_B tv air 3)",
           "count": 1
         },
         {
@@ -4125,7 +4125,7 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(AI Sound Max STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
@@ -4133,7 +4133,7 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(AI Sound Max STB)",
           "count": 1
         }
       ],
@@ -4178,12 +4178,12 @@
       "int_tech": [],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
           "method": "Btv(CATV_8VSB)_60",
           "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
         }
       ],
       "lat": 37.2957617,
@@ -4246,61 +4246,49 @@
       "catv_8vsb_cnt": 5,
       "int_tech": [
         {
-          "method": "광랜E",
-          "count": 29
-        },
-        {
           "method": "광랜E(GB)",
           "count": 82
         },
         {
-          "method": "CA_광랜W(100)_구",
+          "method": "CA_광랜W(320)_구",
           "count": 3
         },
         {
-          "method": "CA_광랜W(320)_구",
+          "method": "광랜E",
+          "count": 29
+        },
+        {
+          "method": "CA_광랜W(100)_구",
           "count": 3
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 4
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 3
         },
         {
-          "method": "Btv(자급 Apple tv STB)",
+          "method": "Btv(IPTV_B tv air 2)",
           "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 70
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 9
-        },
-        {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 5
         },
         {
           "method": "Btv(IPTV_UHD_STB)",
           "count": 13
         },
         {
-          "method": "Btv(IP-CATV AI2 STB)",
+          "method": "Btv(판매 Apple tv 3세대 STB)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 2
         },
         {
-          "method": "Btv(CATV_실속형_HD)_구",
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 70
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
           "count": 2
         },
         {
@@ -4308,35 +4296,39 @@
           "count": 2
         },
         {
-          "method": "Btv(IPTV_B tv air 3)",
-          "count": 2
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 2 STB)",
-          "count": 2
+          "method": "Btv(자급 Apple tv STB)",
+          "count": 1
         },
         {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 3
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 9
         },
         {
           "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 8
         },
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 5
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 2
         },
         {
           "method": "Btv(IPTV_B tv x NUGU STB)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_UHD)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         },
         {
@@ -4344,11 +4336,19 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air 2)",
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(판매 Apple tv 3세대 STB)",
+          "method": "Btv(CATV_QAM_Android)",
           "count": 1
         }
       ],
@@ -4412,12 +4412,12 @@
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "광랜E(GB)",
-          "count": 3
-        },
-        {
           "method": "광랜E",
           "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 3
         }
       ],
       "tv_tech": [
@@ -4426,11 +4426,11 @@
           "count": 3
         },
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         },
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         }
       ],
@@ -4539,11 +4539,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         }
       ],
@@ -4721,23 +4721,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 8
-        },
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(CATV_실속형_HD)_구",
           "count": 1
         },
         {
-          "method": "Btv(CATV_8VSB_공청)_20",
-          "count": 85
-        },
-        {
-          "method": "Btv(단독IP-CATV AI2 STB)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         },
         {
@@ -4745,8 +4733,28 @@
           "count": 31
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
           "count": 8
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB_공청)_20",
+          "count": 85
         },
         {
           "method": "Btv(CATV_8VSB)_60",
@@ -4757,19 +4765,19 @@
           "count": 1
         },
         {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 8
+        },
+        {
           "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IP-CATV AI2 STB)",
           "count": 1
         },
         {
@@ -4777,19 +4785,11 @@
           "count": 1
         },
         {
-          "method": "Btv(IP-CATV_smart 3 STB)",
+          "method": "Btv(IPTV)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 2 STB)",
+          "method": "Btv(단독IP-CATV AI2 STB)",
           "count": 1
         }
       ],
@@ -4962,27 +4962,19 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
+          "method": "광랜FTTH",
+          "count": 2
         },
         {
           "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
-          "count": 2
+          "method": "CA_광랜W(320)_구",
+          "count": 1
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        },
         {
           "method": "Btv(CATV_QAM_HD)",
           "count": 4
@@ -4990,6 +4982,14 @@
         {
           "method": "Btv(IPTV_UHD_STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
         }
       ],
       "lat": 37.29409044,
@@ -5016,17 +5016,17 @@
           "count": 3
         },
         {
-          "method": "광랜FTTH",
-          "count": 3
-        },
-        {
           "method": "CA_광랜W(100)_구",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 3
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_UHD)",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         },
         {
@@ -5038,11 +5038,11 @@
           "count": 4
         },
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(IPTV)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV)",
+          "method": "Btv(CATV_QAM_UHD)",
           "count": 1
         }
       ],
@@ -5161,16 +5161,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 2
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
-          "count": 1
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 2
         },
         {
           "method": "Btv(CATV_QAM_UHD2)",
@@ -5178,6 +5174,10 @@
         },
         {
           "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -5421,6 +5421,10 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
           "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 2
         },
@@ -5430,10 +5434,6 @@
         },
         {
           "method": "Btv(IP-CATV AI2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         },
         {

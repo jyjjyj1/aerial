@@ -1,0 +1,5534 @@
+{
+  "area": {
+    "area_id": "2026-경기도-화성시 효행구-10-79898",
+    "area_name": "2026-경기도-화성시 효행구-10",
+    "sido": "경기도",
+    "sigungu": "화성시 효행구",
+    "geojson": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              126.9453863,
+              37.2455619
+            ],
+            [
+              126.9441418,
+              37.2448274
+            ],
+            [
+              126.9440881,
+              37.2444687
+            ],
+            [
+              126.9444851,
+              37.2438196
+            ],
+            [
+              126.9490985,
+              37.2438708
+            ],
+            [
+              126.9493882,
+              37.2445114
+            ],
+            [
+              126.9492165,
+              37.2450153
+            ],
+            [
+              126.9489912,
+              37.2453057
+            ],
+            [
+              126.948444,
+              37.2450836
+            ],
+            [
+              126.9475321,
+              37.2455534
+            ],
+            [
+              126.9453863,
+              37.2455619
+            ]
+          ]
+        ]
+      ]
+    },
+    "center": [
+      37.24462880023467,
+      126.94671327135718
+    ],
+    "building_count": 165,
+    "inside_count": 115,
+    "near_count": 50
+  },
+  "buildings": [
+    {
+      "pnu": "4159331021101050004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 105-4",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.24456094,
+      "lng": 126.94913027
+    },
+    {
+      "pnu": "4159331021102050018",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-18",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 13-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24453876,
+      "lng": 126.94438364
+    },
+    {
+      "pnu": "4159331021101990002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 199-2",
+      "road_addr": "경기 화성시 효행구 매송고색로 383-18",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24444279,
+      "lng": 126.94698888
+    },
+    {
+      "pnu": "4159331021101970003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-3",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 8-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24470424,
+      "lng": 126.94699824
+    },
+    {
+      "pnu": "4159331021101880007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "경인빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 188-7",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 19-5",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24515454,
+      "lng": 126.94498798
+    },
+    {
+      "pnu": "4159331021101970007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-7",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.24469307,
+      "lng": 126.94653604
+    },
+    {
+      "pnu": "4159331021101970007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-7",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.24469307,
+      "lng": 126.94653604
+    },
+    {
+      "pnu": "4159331021102060007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 206-7",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.24401867,
+      "lng": 126.94496248
+    },
+    {
+      "pnu": "4159331021102060007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 206-7",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.24401867,
+      "lng": 126.94496248
+    },
+    {
+      "pnu": "4159331021101970009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼미타운",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-9",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-11",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 11,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 7
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.245209,
+      "lng": 126.94699455
+    },
+    {
+      "pnu": "4159331021102000002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "단비보습피아노학원",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 200-2",
+      "road_addr": "경기 화성시 효행구 매송고색로 383-30",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24421671,
+      "lng": 126.94683268
+    },
+    {
+      "pnu": "4159331021102050015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한중빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-15",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 13-3",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24469384,
+      "lng": 126.94477713
+    },
+    {
+      "pnu": "4159331021101900000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 190",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 19",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2452129,
+      "lng": 126.94590084
+    },
+    {
+      "pnu": "4159331021102030007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대우빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 203-7",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 9-3",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24446609,
+      "lng": 126.94618818
+    },
+    {
+      "pnu": "4159331021102200001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 220-1",
+      "road_addr": "경기 화성시 효행구 매송고색로 383-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2439657,
+      "lng": 126.94712766
+    },
+    {
+      "pnu": "4159331021102130001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "본가식당",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 213-1",
+      "road_addr": "경기 화성시 효행구 매송고색로 369",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2439054,
+      "lng": 126.94579766
+    },
+    {
+      "pnu": "4159331021101140004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "소망빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 114-4",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 15-7",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 8,
+      "catv_internet_cnt": 3,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 7
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.24485477,
+      "lng": 126.94835015
+    },
+    {
+      "pnu": "4159331021102030000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대우빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 203",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 9-6",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24452824,
+      "lng": 126.94598477
+    },
+    {
+      "pnu": "4159331021102030000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대우빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 203",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 9-6",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24452824,
+      "lng": 126.94598477
+    },
+    {
+      "pnu": "4159331021101880006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "경인빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 188-6",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 19-3",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.24520019,
+      "lng": 126.94511167
+    },
+    {
+      "pnu": "4159331021101630006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 163-6",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 20-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24551141,
+      "lng": 126.94612415
+    },
+    {
+      "pnu": "4159331021101130003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 113-3",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 15-17",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24494328,
+      "lng": 126.94799998
+    },
+    {
+      "pnu": "4159331021101970005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-5",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(320)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24487307,
+      "lng": 126.94647835
+    },
+    {
+      "pnu": "4159331021101880014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 188-14",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 14",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24496674,
+      "lng": 126.94530506
+    },
+    {
+      "pnu": "4159331021101880001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "경인빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 188-1",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 19-1",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 10,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 5,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24529081,
+      "lng": 126.94521248
+    },
+    {
+      "pnu": "4159331021101980007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 198-7",
+      "road_addr": "경기 화성시 효행구 매송고색로 383-24",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24438702,
+      "lng": 126.94662848
+    },
+    {
+      "pnu": "4159331021101120001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 112-1",
+      "road_addr": "경기 화성시 효행구 매송고색로 389-19",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.24490661,
+      "lng": 126.9475095
+    },
+    {
+      "pnu": "4159331021101920002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 192-2",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 20-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24549507,
+      "lng": 126.94648508
+    },
+    {
+      "pnu": "4159331021101050004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 105-4",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.24456094,
+      "lng": 126.94913027
+    },
+    {
+      "pnu": "4159331021101050006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성도자원",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 105-6",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24415506,
+      "lng": 126.94907685
+    },
+    {
+      "pnu": "4159331021102100007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 210-7",
+      "road_addr": "경기 화성시 효행구 매송고색로 363",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24389306,
+      "lng": 126.94508743
+    },
+    {
+      "pnu": "4159331021101870000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "천천5리사무소",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 187",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24548062,
+      "lng": 126.94532384
+    },
+    {
+      "pnu": "4159331021101080002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 108-2",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24426207,
+      "lng": 126.94882802
+    },
+    {
+      "pnu": "4159331021102050005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "청구빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-5",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 19-13",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24481028,
+      "lng": 126.94461842
+    },
+    {
+      "pnu": "4159331021102050005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "청구빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-5",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 19-13",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24481028,
+      "lng": 126.94461842
+    },
+    {
+      "pnu": "4159331021102060003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 206-3",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24424422,
+      "lng": 126.94500593
+    },
+    {
+      "pnu": "4159331021101910001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 191-1",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 15",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24502409,
+      "lng": 126.94600369
+    },
+    {
+      "pnu": "4159331021101130001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 113-1",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 15-19",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.24503394,
+      "lng": 126.94811207
+    },
+    {
+      "pnu": "4159331021101970014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼미타운",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-14",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-16",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 13,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 3,
+      "catv_8vsb_cnt": 3,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 3
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24507469,
+      "lng": 126.94718721
+    },
+    {
+      "pnu": "4159331021101970014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼미타운",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-14",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-16",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 7,
+      "tv_scrbr_cnt": 13,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 3,
+      "catv_8vsb_cnt": 3,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 3
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24507469,
+      "lng": 126.94718721
+    },
+    {
+      "pnu": "4159331021101970016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-16",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24491182,
+      "lng": 126.9470531
+    },
+    {
+      "pnu": "4159331021102030002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 203-2",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24434939,
+      "lng": 126.94629051
+    },
+    {
+      "pnu": "4159331021102020001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 202-1",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 5",
+      "avail_gen_cnt": 120,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24415109,
+      "lng": 126.94629196
+    },
+    {
+      "pnu": "4159331021101080011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 108-11",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24396394,
+      "lng": 126.94868362
+    },
+    {
+      "pnu": "4159331021102010004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 201-4",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.24414339,
+      "lng": 126.94657389
+    },
+    {
+      "pnu": "4159331021101970015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼미타운",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-15",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-3",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24488298,
+      "lng": 126.94666996
+    },
+    {
+      "pnu": "4159331021101880008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "경인빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 188-8",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 19-7",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.24510879,
+      "lng": 126.94484174
+    },
+    {
+      "pnu": "4159331021101970021",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼미타운",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-21",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-7",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24491967,
+      "lng": 126.94680499
+    },
+    {
+      "pnu": "4159331021102050022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한중빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-22",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 13-7",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24471914,
+      "lng": 126.94440487
+    },
+    {
+      "pnu": "4159331021102050022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한중빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-22",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 13-7",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24471914,
+      "lng": 126.94440487
+    },
+    {
+      "pnu": "4159331021102030010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대우빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 203-10",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 9-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 3,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.24449361,
+      "lng": 126.94628945
+    },
+    {
+      "pnu": "4159331021102030001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대우빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 203-1",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 9-7",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24438339,
+      "lng": 126.94585053
+    },
+    {
+      "pnu": "4159331021102030001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대우빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 203-1",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 9-7",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24438339,
+      "lng": 126.94585053
+    },
+    {
+      "pnu": "4159331021101890001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 189-1",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.24521111,
+      "lng": 126.94551749
+    },
+    {
+      "pnu": "4159331021102010003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "매송농협천천지점",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 201-3",
+      "road_addr": "경기 화성시 효행구 매송고색로 377",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24387372,
+      "lng": 126.94673371
+    },
+    {
+      "pnu": "4159331021101990001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 199-1",
+      "road_addr": "경기 화성시 효행구 매송고색로 383-16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.2445246,
+      "lng": 126.94713485
+    },
+    {
+      "pnu": "4159331021101090001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 109-1",
+      "road_addr": "경기 화성시 효행구 매송고색로 389-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24424279,
+      "lng": 126.94855756
+    },
+    {
+      "pnu": "4159331021101150000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 115",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 15-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24480237,
+      "lng": 126.94871134
+    },
+    {
+      "pnu": "4159331021101080039",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 108-39",
+      "road_addr": "경기 화성시 효행구 매송고색로 387",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "B인터넷_타사임차",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24396933,
+      "lng": 126.94790561
+    },
+    {
+      "pnu": "4159331021102190003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "무진장숯불갈비집",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 219-3",
+      "road_addr": "경기 화성시 효행구 매송고색로 375",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24391784,
+      "lng": 126.94653044
+    },
+    {
+      "pnu": "4159331021102050024",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-24",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 13-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24485445,
+      "lng": 126.94442642
+    },
+    {
+      "pnu": "4159331021101970001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-1",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24543629,
+      "lng": 126.94741007
+    },
+    {
+      "pnu": "4159331021102020004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 202-4",
+      "road_addr": "경기 화성시 효행구 매송고색로 373",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        }
+      ],
+      "lat": 37.24399728,
+      "lng": 126.94616906
+    },
+    {
+      "pnu": "4159331021101970004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-4",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 8-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.24480418,
+      "lng": 126.94716664
+    },
+    {
+      "pnu": "4159331021101940002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 194-2",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24497154,
+      "lng": 126.94633106
+    },
+    {
+      "pnu": "4159331021101880003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 188-3",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 13-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24491905,
+      "lng": 126.94495967
+    },
+    {
+      "pnu": "4159331021101160001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 116-1",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 15-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24495665,
+      "lng": 126.94893572
+    },
+    {
+      "pnu": "4159331021101050005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 105-5",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24437155,
+      "lng": 126.9491091
+    },
+    {
+      "pnu": "4159331021102060007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 206-7",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24398267,
+      "lng": 126.94497402
+    },
+    {
+      "pnu": "4159331021102060007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 206-7",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24398267,
+      "lng": 126.94497402
+    },
+    {
+      "pnu": "4159331021102060001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 206-1",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24435934,
+      "lng": 126.94456536
+    },
+    {
+      "pnu": "4159331021101130002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 113-2",
+      "road_addr": "경기 화성시 효행구 매송고색로 383-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24458147,
+      "lng": 126.94773202
+    },
+    {
+      "pnu": "4159331021102050022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한중빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-22",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 13-5",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24466569,
+      "lng": 126.94454056
+    },
+    {
+      "pnu": "4159331021102050022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한중빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-22",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 13-5",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24466569,
+      "lng": 126.94454056
+    },
+    {
+      "pnu": "4159331021101080006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 108-6",
+      "road_addr": "경기 화성시 효행구 매송고색로 391",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24393538,
+      "lng": 126.94835685
+    },
+    {
+      "pnu": "4159331021101090002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "매송영락교회",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 109-2",
+      "road_addr": "경기 화성시 효행구 매송고색로 389-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2441157,
+      "lng": 126.94836681
+    },
+    {
+      "pnu": "4159331021102100008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 210-8",
+      "road_addr": "경기 화성시 효행구 매송고색로 365",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24389401,
+      "lng": 126.94529037
+    },
+    {
+      "pnu": "4159331021101080025",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 108-25",
+      "road_addr": "경기 화성시 효행구 매송고색로 389",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24392552,
+      "lng": 126.94817653
+    },
+    {
+      "pnu": "4159331021101100002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 110-2",
+      "road_addr": "경기 화성시 효행구 매송고색로 385",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24409046,
+      "lng": 126.94755727
+    },
+    {
+      "pnu": "4159331021101970014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-14",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.24504686,
+      "lng": 126.94701829
+    },
+    {
+      "pnu": "4159331021102030001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대우빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 203-1",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 9-5",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24440226,
+      "lng": 126.9460308
+    },
+    {
+      "pnu": "4159331021102030001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대우빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 203-1",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 9-5",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24440226,
+      "lng": 126.9460308
+    },
+    {
+      "pnu": "4159331021101100001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 110-1",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 11",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24436871,
+      "lng": 126.94850027
+    },
+    {
+      "pnu": "4159331021102050025",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-25",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 13-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24456538,
+      "lng": 126.94429324
+    },
+    {
+      "pnu": "4159331021101180000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 118",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 15-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2451278,
+      "lng": 126.94891192
+    },
+    {
+      "pnu": "4159331021101050004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 105-4",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24480436,
+      "lng": 126.94913978
+    },
+    {
+      "pnu": "4159331021101050004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 105-4",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24480436,
+      "lng": 126.94913978
+    },
+    {
+      "pnu": "4159331021102040002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 204-2",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 13",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24489785,
+      "lng": 126.94599334
+    },
+    {
+      "pnu": "4159331021102130002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 213-2",
+      "road_addr": "경기 화성시 효행구 매송고색로 371",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24395142,
+      "lng": 126.94600027
+    },
+    {
+      "pnu": "4159331021101090000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 109",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 7-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.24437888,
+      "lng": 126.94874825
+    },
+    {
+      "pnu": "4159331021101120002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 112-2",
+      "road_addr": "경기 화성시 효행구 매송고색로 383-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24432667,
+      "lng": 126.94721523
+    },
+    {
+      "pnu": "4159331021101980001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 198-1",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 8-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24474156,
+      "lng": 126.94726857
+    },
+    {
+      "pnu": "4159331021101950000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 195",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 15-20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24527273,
+      "lng": 126.94712939
+    },
+    {
+      "pnu": "4159331021102040001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "다목적회관",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 204-1",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        }
+      ],
+      "lat": 37.24463735,
+      "lng": 126.94618693
+    },
+    {
+      "pnu": "4159331021101970002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-2",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 8-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24459471,
+      "lng": 126.94670589
+    },
+    {
+      "pnu": "4159331021102190001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 219-1",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24388294,
+      "lng": 126.94677874
+    },
+    {
+      "pnu": "4159331021101970014",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-14",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-14",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.24504686,
+      "lng": 126.94701829
+    },
+    {
+      "pnu": "4159331021101630003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 163-3",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24543761,
+      "lng": 126.94576389
+    },
+    {
+      "pnu": "4159331021102100005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "와보라교회",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 210-5",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.24390086,
+      "lng": 126.94482805
+    },
+    {
+      "pnu": "4159331021101050008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 105-8",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24406006,
+      "lng": 126.94904805
+    },
+    {
+      "pnu": "4159331021101930001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 193-1",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 18",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24517896,
+      "lng": 126.94635209
+    },
+    {
+      "pnu": "4159331021101910004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 191-4",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 17",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24499568,
+      "lng": 126.94571075
+    },
+    {
+      "pnu": "4159331021101980005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 198-5",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 8-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24440584,
+      "lng": 126.94679747
+    },
+    {
+      "pnu": "4159331021102110001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 211-1",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24389927,
+      "lng": 126.94448981
+    },
+    {
+      "pnu": "4159331021102000001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 200-1",
+      "road_addr": "경기 화성시 효행구 매송고색로 383-20",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24425366,
+      "lng": 126.94702408
+    },
+    {
+      "pnu": "4159331021101870002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 187-2",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2454908,
+      "lng": 126.94557182
+    },
+    {
+      "pnu": "4159331021101160002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 116-2",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24487552,
+      "lng": 126.94893631
+    },
+    {
+      "pnu": "4159331021102050015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한중빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-15",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 13-1",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 37.24472157,
+      "lng": 126.9449235
+    },
+    {
+      "pnu": "4159331021102050015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한중빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-15",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 13-1",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 37.24472157,
+      "lng": 126.9449235
+    },
+    {
+      "pnu": "4159331021101140002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 114-2",
+      "road_addr": "경기 화성시 효행구 매송고색로 389-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24463697,
+      "lng": 126.94803604
+    },
+    {
+      "pnu": "4159331021101920004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 192-4",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 20-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 4,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24523199,
+      "lng": 126.9461262
+    },
+    {
+      "pnu": "4159331021101140001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "소망빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 114-1",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 15-5",
+      "avail_gen_cnt": 12,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 5,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2449546,
+      "lng": 126.948496
+    },
+    {
+      "pnu": "4159331021101880002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 188-2",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.24500189,
+      "lng": 126.94511312
+    },
+    {
+      "pnu": "4159331021102100001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "금호트럭서비스(용도확인)",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 210-1",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24396221,
+      "lng": 126.94445552
+    },
+    {
+      "pnu": "4159331021102210001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 221-1",
+      "road_addr": "경기 화성시 효행구 매송고색로 383-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24392121,
+      "lng": 126.94725201
+    },
+    {
+      "pnu": "4159331021102060002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "리브앳디매송",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 206-2",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 5-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 15,
+      "tv_scrbr_cnt": 120,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 2
+        },
+        {
+          "method": "비즈원(다회선)",
+          "count": 15
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 120
+        }
+      ],
+      "lat": 37.24418417,
+      "lng": 126.94574319
+    },
+    {
+      "pnu": "4159331021102200003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 220-3",
+      "road_addr": "경기 화성시 효행구 매송고색로 383-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24391104,
+      "lng": 126.94700404
+    },
+    {
+      "pnu": "4159331021102090000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 209",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.2440709,
+      "lng": 126.94456747
+    },
+    {
+      "pnu": "4159331021102050005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "청구빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-5",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 19-15",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 37.24484713,
+      "lng": 126.94478728
+    },
+    {
+      "pnu": "4159331021102050005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "청구빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-5",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 19-15",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 37.24484713,
+      "lng": 126.94478728
+    },
+    {
+      "pnu": "4159331021101910002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 191-2",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24504823,
+      "lng": 126.94538339
+    },
+    {
+      "pnu": "4159331021102050007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-7",
+      "road_addr": "경기 화성시 효행구 화성로 2559-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24451952,
+      "lng": 126.94412445
+    },
+    {
+      "pnu": "4159331021101970016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼미타운",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-16",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-12",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 10,
+      "skb_pop_cnt": 5,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.24493965,
+      "lng": 126.94722202
+    },
+    {
+      "pnu": "4159331021101970016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼미타운",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-16",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-12",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 10,
+      "skb_pop_cnt": 5,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.24493965,
+      "lng": 126.94722202
+    },
+    {
+      "pnu": "4159331021101970007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-7",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        }
+      ],
+      "lat": 37.24471199,
+      "lng": 126.94672758
+    },
+    {
+      "pnu": "4159331021101970007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-7",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        }
+      ],
+      "lat": 37.24471199,
+      "lng": 126.94672758
+    },
+    {
+      "pnu": "4159331021101110000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 111",
+      "road_addr": "경기 화성시 효행구 매송고색로 383-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24440109,
+      "lng": 126.94771078
+    },
+    {
+      "pnu": "4159331021102060009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 206-9",
+      "road_addr": "경기 화성시 효행구 매송고색로 367-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24414734,
+      "lng": 126.94549146
+    },
+    {
+      "pnu": "4159331021102030000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대우빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 203",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 9-8",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24450942,
+      "lng": 126.94581579
+    },
+    {
+      "pnu": "4159331021102030000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "대우빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 203",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 9-8",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24450942,
+      "lng": 126.94581579
+    },
+    {
+      "pnu": "4159331021101970016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-16",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 12-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24491182,
+      "lng": 126.9470531
+    },
+    {
+      "pnu": "4159331021101970025",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 197-25",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 8-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24457736,
+      "lng": 126.94685259
+    },
+    {
+      "pnu": "4159331021101920001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 192-1",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 20-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24534147,
+      "lng": 126.94640728
+    },
+    {
+      "pnu": "4159331021101080008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 108-8",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2440894,
+      "lng": 126.94852486
+    },
+    {
+      "pnu": "4159331021102050015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한중빌라",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 205-15",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 13-3",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24469384,
+      "lng": 126.94477713
+    },
+    {
+      "pnu": "4159331021101630013",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 1.51697844,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 163-13",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 22",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2455735,
+      "lng": 126.94590947
+    },
+    {
+      "pnu": "4159331021102210005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 2.42036414,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 221-5",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24382955,
+      "lng": 126.94734501
+    },
+    {
+      "pnu": "4159331021100860007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 12.61609065,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 86-7",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24505119,
+      "lng": 126.94935142
+    },
+    {
+      "pnu": "4159331021102170000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 13.47410504,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 217",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24371854,
+      "lng": 126.94631767
+    },
+    {
+      "pnu": "4159331021101190002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 14.60754608,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 119-2",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 15-10",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24533453,
+      "lng": 126.94826087
+    },
+    {
+      "pnu": "4159331021102190005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 14.61973799,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 219-5",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24371047,
+      "lng": 126.94652068
+    },
+    {
+      "pnu": "4159331021101620002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 16.7007198,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 162-2",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 20-11",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2457067,
+      "lng": 126.946822
+    },
+    {
+      "pnu": "4159331021102070001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 17.09584815,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 207-1",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24423957,
+      "lng": 126.94401376
+    },
+    {
+      "pnu": "4159331021101620011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 17.12709676,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 162-11",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 20-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24571166,
+      "lng": 126.94653987
+    },
+    {
+      "pnu": "4159331021102190002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 17.78909757,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 219-2",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24368454,
+      "lng": 126.94675764
+    },
+    {
+      "pnu": "4159331021101080004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 17.93912389,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 108-4",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24370107,
+      "lng": 126.94836984
+    },
+    {
+      "pnu": "4159331021101630002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 19.33907681,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 163-2",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 24",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24573485,
+      "lng": 126.94571661
+    },
+    {
+      "pnu": "4159331021101620000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 23.97826878,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 162",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 20-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24577402,
+      "lng": 126.94638156
+    },
+    {
+      "pnu": "4159331021101290002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 25.02052125,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 129-2",
+      "road_addr": "경기 화성시 효행구 매송고색로395번길 16-5",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24537285,
+      "lng": 126.94927094
+    },
+    {
+      "pnu": "4159331021101860000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.15435663,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 186",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 27",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24579626,
+      "lng": 126.94535535
+    },
+    {
+      "pnu": "4159331021102160001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 26.31749512,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 216-1",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24360031,
+      "lng": 126.94609304
+    },
+    {
+      "pnu": "4159331021101630005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 27.50359593,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 163-5",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 26-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.24580775,
+      "lng": 126.9458852
+    },
+    {
+      "pnu": "4159331021101080005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 27.5556052,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 108-5",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24360842,
+      "lng": 126.94782932
+    },
+    {
+      "pnu": "4159331021101630001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 39.57355339,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 163-1",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 28",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2459171,
+      "lng": 126.94573531
+    },
+    {
+      "pnu": "4159331021101620010",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 41.1348985,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 162-10",
+      "road_addr": "경기 화성시 효행구 매송고색로375번길 20-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24592799,
+      "lng": 126.94653829
+    },
+    {
+      "pnu": "4159331021103290001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 43.08265338,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 329-1",
+      "road_addr": "경기 화성시 효행구 매송고색로 368",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24344549,
+      "lng": 126.94575593
+    },
+    {
+      "pnu": "4159331021103290011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 43.83372936,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 329-11",
+      "road_addr": "경기 화성시 효행구 매송고색로 366",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        }
+      ],
+      "lat": 37.24343484,
+      "lng": 126.94540648
+    },
+    {
+      "pnu": "4159331021101070002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 43.85919582,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 107-2",
+      "road_addr": "경기 화성시 효행구 매송고색로394번길 2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24346614,
+      "lng": 126.94824752
+    },
+    {
+      "pnu": "4159331021102230002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 44.0791251,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 223-2",
+      "road_addr": "경기 화성시 효행구 매송고색로 380",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24345203,
+      "lng": 126.94715396
+    },
+    {
+      "pnu": "4159331021102230003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 47.39384913,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 223-3",
+      "road_addr": "경기 화성시 효행구 매송고색로 384",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.24342704,
+      "lng": 126.94759387
+    },
+    {
+      "pnu": "4159331021102240002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 52.5400852,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 224-2",
+      "road_addr": "경기 화성시 효행구 매송고색로 388",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.24338292,
+      "lng": 126.94779714
+    },
+    {
+      "pnu": "4159331021102240001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 54.68536651,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 224-1",
+      "road_addr": "경기 화성시 효행구 매송고색로394번길 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24336584,
+      "lng": 126.94800021
+    },
+    {
+      "pnu": "4159331021101650002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 59.53499945,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 165-2",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 26-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24609629,
+      "lng": 126.94590564
+    },
+    {
+      "pnu": "4159331021102360005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 62.65937385,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 236-5",
+      "road_addr": "경기 화성시 효행구 매송고색로 376",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24327798,
+      "lng": 126.94655767
+    },
+    {
+      "pnu": "4159331021102330007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 63.47939897,
+      "bld_nm": "새빛어린이집",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 233-7",
+      "road_addr": "경기 화성시 효행구 매송고색로394번길 14-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24328335,
+      "lng": 126.94770766
+    },
+    {
+      "pnu": "4159331021102260000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 63.88950969,
+      "bld_nm": "창고시설",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 226",
+      "road_addr": "경기 화성시 효행구 매송고색로394번길 3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24328603,
+      "lng": 126.94828266
+    },
+    {
+      "pnu": "4159331021101030006",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 64.44452555,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 103-6",
+      "road_addr": "경기 화성시 효행구 매송고색로 400-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24328965,
+      "lng": 126.9490606
+    },
+    {
+      "pnu": "4159331021102370002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 64.45960008,
+      "bld_nm": "화성종합",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 237-2",
+      "road_addr": "경기 화성시 효행구 매송고색로 374",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.24325863,
+      "lng": 126.94627594
+    },
+    {
+      "pnu": "4159331021101660004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 66.4293699,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 166-4",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 30",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_비즈_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.24615886,
+      "lng": 126.94579243
+    },
+    {
+      "pnu": "4159331021103260002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 66.61023976,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 326-2",
+      "road_addr": "경기 화성시 효행구 매송고색로 364-7",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2432758,
+      "lng": 126.94416741
+    },
+    {
+      "pnu": "4159331021102340001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 69.08747969,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 234-1",
+      "road_addr": "경기 화성시 효행구 매송고색로 380-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24322669,
+      "lng": 126.94715561
+    },
+    {
+      "pnu": "4159331021101030003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 74.79412807,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 103-3",
+      "road_addr": "경기 화성시 효행구 매송고색로394번길 3-11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24327361,
+      "lng": 126.94948916
+    },
+    {
+      "pnu": "4159331021103790004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 75.52009614,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 379-4",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24390952,
+      "lng": 126.94348265
+    },
+    {
+      "pnu": "4159331021101460004",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 77.43753379,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 146-4",
+      "road_addr": "경기 화성시 효행구 매송고색로 389-47",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2462539,
+      "lng": 126.94684034
+    },
+    {
+      "pnu": "4159331021101590001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 77.62162971,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 159-1",
+      "road_addr": "경기 화성시 효행구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24625699,
+      "lng": 126.94647919
+    },
+    {
+      "pnu": "4159331021101670001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 78.28130834,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 167-1",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 29",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24626628,
+      "lng": 126.94563379
+    },
+    {
+      "pnu": "4159331021102360009",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.67422832,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 236-9",
+      "road_addr": "경기 화성시 효행구 매송고색로 376-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24310677,
+      "lng": 126.94657019
+    },
+    {
+      "pnu": "4159331021101590011",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.77956072,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 159-11",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 38-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24629575,
+      "lng": 126.94615224
+    },
+    {
+      "pnu": "4159331021103430000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 84.38085107,
+      "bld_nm": "용도확인",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 343",
+      "road_addr": "경기 화성시 효행구 화성로2545번길 15",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24544543,
+      "lng": 126.94358772
+    },
+    {
+      "pnu": "4159331021103320001",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 90.25271281,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 332-1",
+      "road_addr": "경기 화성시 효행구 화성로 2553",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24456915,
+      "lng": 126.94307867
+    },
+    {
+      "pnu": "4159331021103440003",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 91.60365423,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 344-3",
+      "road_addr": "경기 화성시 효행구 화성로2545번길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24574463,
+      "lng": 126.9439576
+    },
+    {
+      "pnu": "4159331021101660000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 92.60003473,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 166",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 32",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.24639401,
+      "lng": 126.94595984
+    },
+    {
+      "pnu": "4159331021101830007",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 93.90910962,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 183-7",
+      "road_addr": "경기 화성시 효행구 화성로2545번길 25",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24596249,
+      "lng": 126.94428298
+    },
+    {
+      "pnu": "4159331021101670005",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 97.41932799,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 167-5",
+      "road_addr": "경기 화성시 효행구 화성로2567번길 31",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.24643844,
+      "lng": 126.94570567
+    },
+    {
+      "pnu": "4159331021103440015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 97.83906027,
+      "bld_nm": "경인빌라3차",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 344-15",
+      "road_addr": "경기 화성시 효행구 화성로2545번길 9-4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 37.24547104,
+      "lng": 126.9432831
+    },
+    {
+      "pnu": "4159331021103440015",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 97.83906027,
+      "bld_nm": "경인빌라3차",
+      "jibun_addr": "경기 화성시 효행구 매송면 천천리 344-15",
+      "road_addr": "경기 화성시 효행구 화성로2545번길 9-6",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.24550784,
+      "lng": 126.94344068
+    }
+  ]
+}

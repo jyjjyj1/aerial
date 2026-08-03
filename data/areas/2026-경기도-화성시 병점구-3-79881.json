@@ -1,0 +1,3720 @@
+{
+  "area": {
+    "area_id": "2026-경기도-화성시 병점구-3-79881",
+    "area_name": "2026-경기도-화성시 병점구-3",
+    "sido": "경기도",
+    "sigungu": "화성시 병점구",
+    "geojson": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              126.9809877,
+              37.2095269
+            ],
+            [
+              126.9848286,
+              37.2080743
+            ],
+            [
+              126.9816958,
+              37.2062029
+            ],
+            [
+              126.9801937,
+              37.2070745
+            ],
+            [
+              126.9809877,
+              37.2095269
+            ]
+          ]
+        ]
+      ]
+    },
+    "center": [
+      37.20784420258742,
+      126.98208450296967
+    ],
+    "building_count": 123,
+    "inside_count": 59,
+    "near_count": 64
+  },
+  "buildings": [
+    {
+      "pnu": "4159510900101880453",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-453",
+      "road_addr": "경기 화성시 병점구 안녕북길 29-6",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2071599,
+      "lng": 126.98265852
+    },
+    {
+      "pnu": "4159510900101800083",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "유창ENG",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-83",
+      "road_addr": "경기 화성시 병점구 안녕북길 29-16",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20681265,
+      "lng": 126.98157903
+    },
+    {
+      "pnu": "4159510900101800464",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-464",
+      "road_addr": "경기 화성시 병점구 안녕북길 29-11",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20669001,
+      "lng": 126.98239126
+    },
+    {
+      "pnu": "4159510900101800751",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-751",
+      "road_addr": "경기 화성시 병점구 세자로441번길 60",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20838391,
+      "lng": 126.98129767
+    },
+    {
+      "pnu": "4159510900101800721",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-721",
+      "road_addr": "경기 화성시 병점구 안녕북길 49-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2085161,
+      "lng": 126.98153356
+    },
+    {
+      "pnu": "4159510900101880282",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-282",
+      "road_addr": "경기 화성시 병점구 세자로475번길 42",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20772087,
+      "lng": 126.98313929
+    },
+    {
+      "pnu": "4159510900101880396",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-396",
+      "road_addr": "경기 화성시 병점구 안녕북길 40",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.208201,
+      "lng": 126.982788
+    },
+    {
+      "pnu": "4159510900101800693",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-693",
+      "road_addr": "경기 화성시 병점구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20705312,
+      "lng": 126.9829748
+    },
+    {
+      "pnu": "4159510900101800057",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-57",
+      "road_addr": "경기 화성시 병점구 안녕북길 39-14",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20758621,
+      "lng": 126.98120184
+    },
+    {
+      "pnu": "4159510900101880284",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-284",
+      "road_addr": "경기 화성시 병점구 안녕북길 40-10",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20837976,
+      "lng": 126.98333765
+    },
+    {
+      "pnu": "4159510900101800058",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-58",
+      "road_addr": "경기 화성시 병점구 안녕북길 39-18",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20739558,
+      "lng": 126.98089887
+    },
+    {
+      "pnu": "4159510900101880270",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-270",
+      "road_addr": "경기 화성시 병점구 안녕북길 56-3",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.20900516,
+      "lng": 126.9820599
+    },
+    {
+      "pnu": "4159510900101880270",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-270",
+      "road_addr": "경기 화성시 병점구 안녕북길 56-3",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.20900516,
+      "lng": 126.9820599
+    },
+    {
+      "pnu": "4159510900101800027",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동진빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-27",
+      "road_addr": "경기 화성시 병점구 안녕북길 57-4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2093097,
+      "lng": 126.98161829
+    },
+    {
+      "pnu": "4159510900101880696",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "정원빌",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-696",
+      "road_addr": "경기 화성시 병점구 안녕북길 55",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20905697,
+      "lng": 126.98154113
+    },
+    {
+      "pnu": "4159510900101800036",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-36",
+      "road_addr": "경기 화성시 병점구 #-#",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20852546,
+      "lng": 126.98161239
+    },
+    {
+      "pnu": "4159510900101800036",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-36",
+      "road_addr": "경기 화성시 병점구 #-#",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20852546,
+      "lng": 126.98161239
+    },
+    {
+      "pnu": "4159510900101880697",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-697",
+      "road_addr": "경기 화성시 병점구 안녕북길 51",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20882207,
+      "lng": 126.98141877
+    },
+    {
+      "pnu": "4159510900101880272",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "창수정밀",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-272",
+      "road_addr": "경기 화성시 병점구 안녕북길 37",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20769201,
+      "lng": 126.98272251
+    },
+    {
+      "pnu": "4159510900101880283",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "빙그레권선대리점",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-283",
+      "road_addr": "경기 화성시 병점구 안녕북길 36",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2079541,
+      "lng": 126.98287849
+    },
+    {
+      "pnu": "4159510900101880469",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-469",
+      "road_addr": "경기 화성시 병점구 안녕북길 54-2",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20885074,
+      "lng": 126.98179048
+    },
+    {
+      "pnu": "4159510900101880469",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-469",
+      "road_addr": "경기 화성시 병점구 안녕북길 54-2",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20885074,
+      "lng": 126.98179048
+    },
+    {
+      "pnu": "4159510900101800045",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-45",
+      "road_addr": "경기 화성시 병점구 세자로441번길 50",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20762033,
+      "lng": 126.98076209
+    },
+    {
+      "pnu": "4159510900101800417",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동진빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-417",
+      "road_addr": "경기 화성시 병점구 안녕북길 57-5",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.20917381,
+      "lng": 126.98146145
+    },
+    {
+      "pnu": "4159510900101800417",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동진빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-417",
+      "road_addr": "경기 화성시 병점구 안녕북길 57-5",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.20917381,
+      "lng": 126.98146145
+    },
+    {
+      "pnu": "4159510900101800046",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-46",
+      "road_addr": "경기 화성시 병점구 세자로441번길 56",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2078744,
+      "lng": 126.98114352
+    },
+    {
+      "pnu": "4159510900101880268",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-268",
+      "road_addr": "경기 화성시 병점구 안녕북길 46-4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20878326,
+      "lng": 126.9828503
+    },
+    {
+      "pnu": "4159510900101880268",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-268",
+      "road_addr": "경기 화성시 병점구 안녕북길 46-4",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20878326,
+      "lng": 126.9828503
+    },
+    {
+      "pnu": "4159510900101800096",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-96",
+      "road_addr": "경기 화성시 병점구 안녕북길 30",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.20757911,
+      "lng": 126.98370373
+    },
+    {
+      "pnu": "4159510900101880471",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-471",
+      "road_addr": "경기 화성시 병점구 안녕북길 50",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        }
+      ],
+      "lat": 37.20867988,
+      "lng": 126.9818818
+    },
+    {
+      "pnu": "4159510900101880276",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-276",
+      "road_addr": "경기 화성시 병점구 안녕북길 29-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20725807,
+      "lng": 126.98243246
+    },
+    {
+      "pnu": "4159510900101880469",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-469",
+      "road_addr": "경기 화성시 병점구 안녕북길 54-4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20880656,
+      "lng": 126.98199364
+    },
+    {
+      "pnu": "4159510900101880469",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-469",
+      "road_addr": "경기 화성시 병점구 안녕북길 54-4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20880656,
+      "lng": 126.98199364
+    },
+    {
+      "pnu": "4159510900101880438",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-438",
+      "road_addr": "경기 화성시 병점구 안녕북길 29-8",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20708735,
+      "lng": 126.98255759
+    },
+    {
+      "pnu": "4159510900101800027",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동진빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-27",
+      "road_addr": "경기 화성시 병점구 안녕북길 57-6",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20928187,
+      "lng": 126.98143817
+    },
+    {
+      "pnu": "4159510900101800417",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동진빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-417",
+      "road_addr": "경기 화성시 병점구 안녕북길 57-3",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.20920164,
+      "lng": 126.98164157
+    },
+    {
+      "pnu": "4159510900101800417",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동진빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-417",
+      "road_addr": "경기 화성시 병점구 안녕북길 57-3",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 2,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.20920164,
+      "lng": 126.98164157
+    },
+    {
+      "pnu": "4159510900101800038",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "연세원룸",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-38",
+      "road_addr": "경기 화성시 병점구 세자로441번길 61",
+      "avail_gen_cnt": 28,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 31,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 28,
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 28
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 3
+        }
+      ],
+      "lat": 37.20863061,
+      "lng": 126.98092422
+    },
+    {
+      "pnu": "4159510900101800049",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-49",
+      "road_addr": "경기 화성시 병점구 안녕북길 45",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2082118,
+      "lng": 126.98203151
+    },
+    {
+      "pnu": "4159510900101880056",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-56",
+      "road_addr": "경기 화성시 병점구 세자로441번길 66",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20900131,
+      "lng": 126.98118088
+    },
+    {
+      "pnu": "4159510900101800387",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "보현사",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-387",
+      "road_addr": "경기 화성시 병점구 세자로441번길 70-2",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20934349,
+      "lng": 126.98109965
+    },
+    {
+      "pnu": "4159510900101880389",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-389",
+      "road_addr": "경기 화성시 병점구 안녕북길 29-9",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.20689826,
+      "lng": 126.98260396
+    },
+    {
+      "pnu": "4159510900101800052",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "페리카나수원지사",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-52",
+      "road_addr": "경기 화성시 병점구 안녕북길 39-2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.20815038,
+      "lng": 126.9824151
+    },
+    {
+      "pnu": "4159510900101880268",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-268",
+      "road_addr": "경기 화성시 병점구 안녕북길 46-2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20858412,
+      "lng": 126.98266007
+    },
+    {
+      "pnu": "4159510900101880268",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-268",
+      "road_addr": "경기 화성시 병점구 안녕북길 46-2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20858412,
+      "lng": 126.98266007
+    },
+    {
+      "pnu": "4159510900101880468",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-468",
+      "road_addr": "경기 화성시 병점구 안녕북길 54-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20895009,
+      "lng": 126.98183488
+    },
+    {
+      "pnu": "4159510900101880468",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-468",
+      "road_addr": "경기 화성시 병점구 안녕북길 54-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20895009,
+      "lng": 126.98183488
+    },
+    {
+      "pnu": "4159510900101800405",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-405",
+      "road_addr": "경기 화성시 병점구 세자로441번길 68",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20915509,
+      "lng": 126.9813038
+    },
+    {
+      "pnu": "4159510900101800036",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-36",
+      "road_addr": "경기 화성시 병점구 안녕북길 49",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.208657,
+      "lng": 126.98151926
+    },
+    {
+      "pnu": "4159510900101800036",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-36",
+      "road_addr": "경기 화성시 병점구 안녕북길 49",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.208657,
+      "lng": 126.98151926
+    },
+    {
+      "pnu": "4159510900101880277",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "한일그린텍",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-277",
+      "road_addr": "경기 화성시 병점구 안녕북길 31",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20757562,
+      "lng": 126.98290361
+    },
+    {
+      "pnu": "4159510900101800044",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-44",
+      "road_addr": "경기 화성시 병점구 세자로441번길 51",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 5,
+      "catv_internet_cnt": 5,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 5
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 5
+        }
+      ],
+      "lat": 37.20784439,
+      "lng": 126.98046755
+    },
+    {
+      "pnu": "4159510900101880398",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-398",
+      "road_addr": "경기 화성시 병점구 안녕북길 29-10",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20719409,
+      "lng": 126.98223005
+    },
+    {
+      "pnu": "4159510900101800348",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-348",
+      "road_addr": "경기 화성시 병점구 세자로441번길 62",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20848778,
+      "lng": 126.98124075
+    },
+    {
+      "pnu": "4159510900101880470",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-470",
+      "road_addr": "경기 화성시 병점구 안녕북길 52",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20872455,
+      "lng": 126.98179134
+    },
+    {
+      "pnu": "4159510900101800085",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-85",
+      "road_addr": "경기 화성시 병점구 안녕북길 29-12",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20707587,
+      "lng": 126.9819942
+    },
+    {
+      "pnu": "4159510900101800059",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-59",
+      "road_addr": "경기 화성시 병점구 세자로441번길 43",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.20709606,
+      "lng": 126.9804276
+    },
+    {
+      "pnu": "4159510900101880397",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-397",
+      "road_addr": "경기 화성시 병점구 안녕북길 39-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20764546,
+      "lng": 126.98238474
+    },
+    {
+      "pnu": "4159510900101880698",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-698",
+      "road_addr": "경기 화성시 병점구 세자로441번길 64",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20880311,
+      "lng": 126.98120478
+    },
+    {
+      "pnu": "4159510900101800357",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-357",
+      "road_addr": "경기 화성시 병점구 안녕북길 39-11",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20710124,
+      "lng": 126.98161086
+    },
+    {
+      "pnu": "4159510900101800086",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "효신",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-86",
+      "road_addr": "경기 화성시 병점구 안녕북길 39-17",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 23,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 23,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)_S",
+          "count": 23
+        }
+      ],
+      "lat": 37.20690116,
+      "lng": 126.98120653
+    },
+    {
+      "pnu": "4159510900101800093",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "관인썬차일드",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-93",
+      "road_addr": "경기 화성시 병점구 안녕북길 27",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20718019,
+      "lng": 126.98317678
+    },
+    {
+      "pnu": "4159510900101800084",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-84",
+      "road_addr": "경기 화성시 병점구 안녕북길 29-14",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20694889,
+      "lng": 126.98181475
+    },
+    {
+      "pnu": "4159510900101880287",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동안관광",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-287",
+      "road_addr": "경기 화성시 병점구 세자로475번길 34",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.20813111,
+      "lng": 126.98419583
+    },
+    {
+      "pnu": "4159510900101880468",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-468",
+      "road_addr": "경기 화성시 병점구 안녕북길 54-3",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20890586,
+      "lng": 126.98202677
+    },
+    {
+      "pnu": "4159510900101880468",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-468",
+      "road_addr": "경기 화성시 병점구 안녕북길 54-3",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_20",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20890586,
+      "lng": 126.98202677
+    },
+    {
+      "pnu": "4159510900101880293",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-293",
+      "road_addr": "경기 화성시 병점구 세자로475번길 29",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20788847,
+      "lng": 126.98436653
+    },
+    {
+      "pnu": "4159510900101880270",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-270",
+      "road_addr": "경기 화성시 병점구 안녕북길 56-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20904939,
+      "lng": 126.98186801
+    },
+    {
+      "pnu": "4159510900101880270",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-270",
+      "road_addr": "경기 화성시 병점구 안녕북길 56-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20904939,
+      "lng": 126.98186801
+    },
+    {
+      "pnu": "4159510900101800349",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-349",
+      "road_addr": "경기 화성시 병점구 세자로441번길 52",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2077384,
+      "lng": 126.98096414
+    },
+    {
+      "pnu": "4159510900101800099",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-99",
+      "road_addr": "경기 화성시 병점구 세자로475번길 36",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20779588,
+      "lng": 126.98380368
+    },
+    {
+      "pnu": "4159510900101880472",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "우성빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-472",
+      "road_addr": "경기 화성시 병점구 안녕북길 48",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.20864436,
+      "lng": 126.98200601
+    },
+    {
+      "pnu": "4159510900101800652",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 1.90243765,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-652",
+      "road_addr": "경기 화성시 병점구 안녕북길 58",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20914928,
+      "lng": 126.98203637
+    },
+    {
+      "pnu": "4159510900101880264",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 2.10345432,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-264",
+      "road_addr": "경기 화성시 병점구 안녕북길 62-4",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20898891,
+      "lng": 126.98246572
+    },
+    {
+      "pnu": "4159510900101800027",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 2.1342842,
+      "bld_nm": "동진빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-27",
+      "road_addr": "경기 화성시 병점구 안녕북길 57-4",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.2093097,
+      "lng": 126.98161829
+    },
+    {
+      "pnu": "4159510900101800027",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 2.1342842,
+      "bld_nm": "동진빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-27",
+      "road_addr": "경기 화성시 병점구 안녕북길 57-6",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20928187,
+      "lng": 126.98143817
+    },
+    {
+      "pnu": "4159510900101800064",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 3.07507836,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-64",
+      "road_addr": "경기 화성시 병점구 세자로441번길 37",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20687096,
+      "lng": 126.98048549
+    },
+    {
+      "pnu": "4159510900101800026",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 3.99697888,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-26",
+      "road_addr": "경기 화성시 병점구 세자로441번길 72",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20955051,
+      "lng": 126.98103061
+    },
+    {
+      "pnu": "4159510900101800661",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 4.2339098,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-661",
+      "road_addr": "경기 화성시 병점구 안녕북길 65-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 9,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 8,
+      "catv_8vsb_cnt": 8,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 8
+        },
+        {
+          "method": "광랜PBOX(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 8
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20939905,
+      "lng": 126.98143736
+    },
+    {
+      "pnu": "4159510900101800394",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 4.82045409,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-394",
+      "road_addr": "경기 화성시 병점구 세자로441번길 45",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20733854,
+      "lng": 126.98022309
+    },
+    {
+      "pnu": "4159510900101800409",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 4.99960459,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-409",
+      "road_addr": "경기 화성시 병점구 세자로441번길 70-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20947934,
+      "lng": 126.98124523
+    },
+    {
+      "pnu": "4159510900101800080",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 8.05372442,
+      "bld_nm": "한우리식품",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-80",
+      "road_addr": "경기 화성시 병점구 안녕북길 29-13",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20642787,
+      "lng": 126.98222401
+    },
+    {
+      "pnu": "4159510900101800653",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 8.71246296,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-653",
+      "road_addr": "경기 화성시 병점구 안녕북길 62-8",
+      "avail_gen_cnt": 3,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20912332,
+      "lng": 126.98228449
+    },
+    {
+      "pnu": "4159510900101800418",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 9.56165031,
+      "bld_nm": "동진빌라",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-418",
+      "road_addr": "경기 화성시 병점구 안녕북길 57",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20932837,
+      "lng": 126.98176467
+    },
+    {
+      "pnu": "4159510900101800024",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 9.56394511,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-24",
+      "road_addr": "경기 화성시 병점구 세자로441번길 67",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20910755,
+      "lng": 126.98074063
+    },
+    {
+      "pnu": "4159510900101800399",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 11.70734212,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-399",
+      "road_addr": "경기 화성시 병점구 안녕북길 28",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20737253,
+      "lng": 126.98387418
+    },
+    {
+      "pnu": "4159510900101800092",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 11.96065414,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-92",
+      "road_addr": "경기 화성시 병점구 안녕북길 29-3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20690037,
+      "lng": 126.98308853
+    },
+    {
+      "pnu": "4159510900101800081",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 12.58791121,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-81",
+      "road_addr": "경기 화성시 병점구 세자로441번길 28",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20615583,
+      "lng": 126.98185398
+    },
+    {
+      "pnu": "4159510900101800089",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 13.50927285,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-89",
+      "road_addr": "경기 화성시 병점구 안녕북길 29-7",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20678246,
+      "lng": 126.9829203
+    },
+    {
+      "pnu": "4159510900101800404",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 14.09397025,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-404",
+      "road_addr": "경기 화성시 병점구 안녕북길 67",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20958731,
+      "lng": 126.98119941
+    },
+    {
+      "pnu": "4159510900101800662",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 15.13269783,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-662",
+      "road_addr": "경기 화성시 병점구 안녕북길 65",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20952505,
+      "lng": 126.98139142
+    },
+    {
+      "pnu": "4159510900101880289",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 16.6028877,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-289",
+      "road_addr": "경기 화성시 병점구 세자로475번길 28",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20816134,
+      "lng": 126.98498072
+    },
+    {
+      "pnu": "4159510900101800351",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 16.72163337,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-351",
+      "road_addr": "경기 화성시 병점구 세자로441번길 33",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20654775,
+      "lng": 126.98078071
+    },
+    {
+      "pnu": "4159510900101800358",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 17.23708435,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-358",
+      "road_addr": "경기 화성시 병점구 세자로441번길 29",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2061809,
+      "lng": 126.98140304
+    },
+    {
+      "pnu": "4159510900101800097",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 18.15472796,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-97",
+      "road_addr": "경기 화성시 병점구 세자로475번길 35",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20758191,
+      "lng": 126.98434608
+    },
+    {
+      "pnu": "4159510900101800050",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 20.06420576,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-50",
+      "road_addr": "경기 화성시 병점구 안녕북길 63",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20946323,
+      "lng": 126.98168486
+    },
+    {
+      "pnu": "4159510900101800030",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 24.34256348,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-30",
+      "road_addr": "경기 화성시 병점구 안녕북길 60",
+      "avail_gen_cnt": 30,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20934788,
+      "lng": 126.98210263
+    },
+    {
+      "pnu": "4159510900101800445",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 25.54341586,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-445",
+      "road_addr": "경기 화성시 병점구 안녕북길 21-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.20667449,
+      "lng": 126.98296611
+    },
+    {
+      "pnu": "4159510900101800079",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 28.44476046,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-79",
+      "road_addr": "경기 화성시 병점구 안녕북길 21-12",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20629335,
+      "lng": 126.9823827
+    },
+    {
+      "pnu": "4159510900101880288",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 29.88081458,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-288",
+      "road_addr": "경기 화성시 병점구 세자로475번길 30",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20849303,
+      "lng": 126.98450892
+    },
+    {
+      "pnu": "4159510900101800090",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 30.1387671,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-90",
+      "road_addr": "경기 화성시 병점구 안녕북길 21-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.20650234,
+      "lng": 126.98276444
+    },
+    {
+      "pnu": "4159510900101800091",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 30.53093119,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-91",
+      "road_addr": "경기 화성시 병점구 안녕북길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20679295,
+      "lng": 126.98325831
+    },
+    {
+      "pnu": "4159510900101880257",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 30.79990899,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-257",
+      "road_addr": "경기 화성시 병점구 효행로414번길 38",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 18,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        },
+        {
+          "method": "비즈원(다회선)",
+          "count": 2
+        },
+        {
+          "method": "광랜E(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV)",
+          "count": 18
+        }
+      ],
+      "lat": 37.20975852,
+      "lng": 126.98118697
+    },
+    {
+      "pnu": "4159510900101880263",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 32.65026613,
+      "bld_nm": "부강공조",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-263",
+      "road_addr": "경기 화성시 병점구 안녕북길 46-6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20916169,
+      "lng": 126.9828139
+    },
+    {
+      "pnu": "4159510900101800065",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 38.47919202,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-65",
+      "road_addr": "경기 화성시 병점구 고시길 30-7",
+      "avail_gen_cnt": 191,
+      "int_scrbr_cnt": 10,
+      "tv_scrbr_cnt": 8,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 5,
+      "catv_internet_cnt": 10,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "CA_비즈_메트로_광랜_IP추가_구",
+          "count": 2
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 5
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.20600915,
+      "lng": 126.98129152
+    },
+    {
+      "pnu": "4159510900101880290",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 42.31564644,
+      "bld_nm": "주신기업",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-290",
+      "road_addr": "경기 화성시 병점구 세자로475번길 22",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20787422,
+      "lng": 126.98523439
+    },
+    {
+      "pnu": "4159510900101800028",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 42.83735874,
+      "bld_nm": "동산교회",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-28",
+      "road_addr": "경기 화성시 병점구 효행로414번길 35",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20974207,
+      "lng": 126.98154772
+    },
+    {
+      "pnu": "4159510900101800029",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 45.70636565,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-29",
+      "road_addr": "경기 화성시 병점구 안녕북길 60-1",
+      "avail_gen_cnt": 18,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20959982,
+      "lng": 126.98199948
+    },
+    {
+      "pnu": "4159510900101800029",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 45.70636565,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-29",
+      "road_addr": "경기 화성시 병점구 안녕북길 60-1",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    {
+      "pnu": "4159510900101880615",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 45.83438553,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-615",
+      "road_addr": "경기 화성시 병점구 안녕북길 78",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20981008,
+      "lng": 126.98061185
+    },
+    {
+      "pnu": "4159510900101880295",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 51.84326197,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-295",
+      "road_addr": "경기 화성시 병점구 안녕북길 22-9",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20728504,
+      "lng": 126.98448333
+    },
+    {
+      "pnu": "4159510900101800778",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 54.6720777,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-778",
+      "road_addr": "경기 화성시 병점구 안녕북길 21-2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20658818,
+      "lng": 126.98337
+    },
+    {
+      "pnu": "4159510900101800353",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 57.44323259,
+      "bld_nm": "벧웰원룸",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-353",
+      "road_addr": "경기 화성시 병점구 안녕북길 64",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.20982393,
+      "lng": 126.9817162
+    },
+    {
+      "pnu": "4159510900101880292",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 58.44297496,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-292",
+      "road_addr": "경기 화성시 병점구 세자로475번길 21",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20756071,
+      "lng": 126.98506908
+    },
+    {
+      "pnu": "4159510900101880002",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 58.46071183,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-2",
+      "road_addr": "경기 화성시 병점구 효행로 480",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 236,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 4,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 232,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB_Biz)_S",
+          "count": 232
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)_S",
+          "count": 4
+        }
+      ],
+      "lat": 37.20881708,
+      "lng": 126.98440529
+    },
+    {
+      "pnu": "4159510900101880393",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 58.6882682,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-393",
+      "road_addr": "경기 화성시 병점구 안녕북길 70",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.21005523,
+      "lng": 126.98101589
+    },
+    {
+      "pnu": "4159510900101800066",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 58.73797874,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-66",
+      "road_addr": "경기 화성시 병점구 고시길 26-10",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20567707,
+      "lng": 126.9816206
+    },
+    {
+      "pnu": "4159510900101880262",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 58.86739647,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-262",
+      "road_addr": "경기 화성시 병점구 안녕북길 62-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20964587,
+      "lng": 126.98222457
+    },
+    {
+      "pnu": "4159510900101800469",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 64.83350734,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-469",
+      "road_addr": "경기 화성시 병점구 안녕북길 62",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20983368,
+      "lng": 126.98188519
+    },
+    {
+      "pnu": "4159510900101800685",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 65.98366012,
+      "bld_nm": "드림하우스2차",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-685",
+      "road_addr": "경기 화성시 병점구 안녕북길 60-2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20979817,
+      "lng": 126.9820094
+    },
+    {
+      "pnu": "4159510900101880254",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 68.00689611,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-254",
+      "road_addr": "경기 화성시 병점구 안녕북길 80",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.21010813,
+      "lng": 126.98074505
+    },
+    {
+      "pnu": "4159510900101880574",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 68.53703389,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-574",
+      "road_addr": "경기 화성시 병점구 효행로414번길 36",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2101103,
+      "lng": 126.98124091
+    },
+    {
+      "pnu": "4159510900101800603",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 69.97158788,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-603",
+      "road_addr": "경기 화성시 병점구 효행로414번길 33",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.21003031,
+      "lng": 126.98150066
+    },
+    {
+      "pnu": "4159510900101880315",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 77.63386582,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-315",
+      "road_addr": "경기 화성시 병점구 안녕북길 22-8",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20696936,
+      "lng": 126.9844404
+    },
+    {
+      "pnu": "4159510900101880310",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 77.78878667,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-310",
+      "road_addr": "경기 화성시 병점구 안녕북길 21-3",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20642456,
+      "lng": 126.98353129
+    },
+    {
+      "pnu": "4159510900101800609",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 78.2423588,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-609",
+      "road_addr": "경기 화성시 병점구 안녕북길 21-19",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20566185,
+      "lng": 126.98226305
+    },
+    {
+      "pnu": "4159510900101880309",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 78.29802153,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-309",
+      "road_addr": "경기 화성시 병점구 안녕북길 21-7",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.2061976,
+      "lng": 126.98316094
+    },
+    {
+      "pnu": "4159510900101880291",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 79.83765151,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-291",
+      "road_addr": "경기 화성시 병점구 세자로475번길 20",
+      "avail_gen_cnt": 2,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20762311,
+      "lng": 126.9855291
+    },
+    {
+      "pnu": "4159510900101880466",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.07237438,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-466",
+      "road_addr": "경기 화성시 병점구 안녕북길 22-12",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20720573,
+      "lng": 126.98490084
+    },
+    {
+      "pnu": "4159510900101800076",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.12446723,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-76",
+      "road_addr": "경기 화성시 병점구 안녕북길 21-13",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20587094,
+      "lng": 126.98266732
+    },
+    {
+      "pnu": "4159510900101880664",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 81.18607881,
+      "bld_nm": "장미빌",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-664",
+      "road_addr": "경기 화성시 병점구 효행로414번길 34",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.21024516,
+      "lng": 126.9811611
+    },
+    {
+      "pnu": "4159510900101800067",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 83.62450673,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-67",
+      "road_addr": "경기 화성시 병점구 세자로441번길 21",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.20545241,
+      "lng": 126.98177991
+    },
+    {
+      "pnu": "4159510900101800517",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 87.87809164,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-517",
+      "road_addr": "경기 화성시 병점구 안녕북길 77",
+      "avail_gen_cnt": 16,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜E",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.20996134,
+      "lng": 126.98016002
+    },
+    {
+      "pnu": "4159510900101800709",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 92.19037378,
+      "bld_nm": "유진전기",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-709",
+      "road_addr": "경기 화성시 병점구 효행로414번길 31",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.21022083,
+      "lng": 126.98178111
+    },
+    {
+      "pnu": "4159510900101800709",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 92.19037378,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-709",
+      "road_addr": "경기 화성시 병점구 효행로414번길 31",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.21017542,
+      "lng": 126.98170253
+    },
+    {
+      "pnu": "4159510900101800761",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 95.75107678,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-761",
+      "road_addr": "경기 화성시 병점구 효행로414번길 31-6",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.21009563,
+      "lng": 126.98200736
+    },
+    {
+      "pnu": "4159510900101880539",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 96.29804682,
+      "bld_nm": "유진빌",
+      "jibun_addr": "경기 화성시 병점구 안녕동 188-539",
+      "road_addr": "경기 화성시 병점구 효행로414번길 32",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.21038046,
+      "lng": 126.98118271
+    },
+    {
+      "pnu": "4159510900101800345",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 98.18178038,
+      "bld_nm": "포유존345",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-345",
+      "road_addr": "경기 화성시 병점구 안녕북길 79",
+      "avail_gen_cnt": 15,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.21015989,
+      "lng": 126.980215
+    },
+    {
+      "pnu": "4159510900101800709",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.72803041,
+      "bld_nm": "유진전기",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-709",
+      "road_addr": "경기 화성시 병점구 효행로414번길 31",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.21022083,
+      "lng": 126.98178111
+    },
+    {
+      "pnu": "4159510900101800709",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 99.72803041,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 화성시 병점구 안녕동 180-709",
+      "road_addr": "경기 화성시 병점구 효행로414번길 31",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.21017542,
+      "lng": 126.98170253
+    }
+  ]
+}

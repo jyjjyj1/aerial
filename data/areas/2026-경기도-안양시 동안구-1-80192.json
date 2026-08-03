@@ -51,33 +51,38 @@
   },
   "buildings": [
     {
-      "pnu": "4117310200114410010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "동안정",
-      "jibun_addr": "경기 안양시 동안구 관양동 1441-10",
-      "road_addr": "경기 안양시 동안구 관양로 75",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40211701,
-      "lng": 126.95570723
-    },
-    {
-      "pnu": "4117310200114390006",
+      "pnu": "4117310100110570001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 관양동 1439-6",
-      "road_addr": "경기 안양시 동안구 관악대로 286",
+      "jibun_addr": "경기 안양시 동안구 비산동 1057-1",
+      "road_addr": "경기 안양시 동안구 관악대로264번길 12",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40141597,
+      "lng": 126.95224366
+    },
+    {
+      "pnu": "4117310200114420005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 관양동 1442-5",
+      "road_addr": "경기 안양시 동안구 관평로 291",
       "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -87,19 +92,112 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40236155,
-      "lng": 126.95487315
+      "lat": 37.40259012,
+      "lng": 126.9566642
     },
     {
-      "pnu": "4117310200114390004",
+      "pnu": "4117310100110590000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "삼성씨앤씨빌딩",
-      "jibun_addr": "경기 안양시 동안구 관양동 1439-4",
-      "road_addr": "경기 안양시 동안구 관악대로 280",
+      "bld_nm": "안양키즈맘센터",
+      "jibun_addr": "경기 안양시 동안구 비산동 1059",
+      "road_addr": "경기 안양시 동안구 관악대로 272",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 4,
+      "int_scrbr_cnt": 6,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.40194225,
+      "lng": 126.95299683
+    },
+    {
+      "pnu": "4117310200114400002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 관양동 1440-2",
+      "road_addr": "경기 안양시 동안구 관악대로276번길 15",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40152286,
+      "lng": 126.95391506
+    },
+    {
+      "pnu": "4117310100110570002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 비산동 1057-2",
+      "road_addr": "경기 안양시 동안구 관악대로264번길 14",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.4013348,
+      "lng": 126.95223295
+    },
+    {
+      "pnu": "4117310200114400001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 관양동 1440-1",
+      "road_addr": "경기 안양시 동안구 관악대로276번길 13",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
@@ -107,130 +205,121 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
           "method": "광랜FTTH",
-          "count": 2
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
+          "count": 2
         }
       ],
-      "lat": 37.40216411,
-      "lng": 126.95419287
+      "lat": 37.4016219,
+      "lng": 126.95389175
     },
     {
-      "pnu": "4117310200114410007",
+      "pnu": "4117310100110540000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 관양동 1441-7",
-      "road_addr": "경기 안양시 동안구 관양로 75-1",
+      "bld_nm": "GS큰마당주유소",
+      "jibun_addr": "경기 안양시 동안구 비산동 1054",
+      "road_addr": "경기 안양시 동안구 관악대로 234",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40213545,
-      "lng": 126.95579749
-    },
-    {
-      "pnu": "4117310200114410015",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성림주택",
-      "jibun_addr": "경기 안양시 동안구 관양동 1441-15",
-      "road_addr": "경기 안양시 동안구 관악대로288번길 5-4",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 7,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IPTV_smart STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD4 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40217807,
-      "lng": 126.95526614
-    },
-    {
-      "pnu": "4117310100110570003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 비산동 1057-3",
-      "road_addr": "경기 안양시 동안구 관양로 43",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [],
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
       "tv_tech": [],
-      "lat": 37.40125378,
-      "lng": 126.95225614
+      "lat": 37.40110446,
+      "lng": 126.94921794
+    },
+    {
+      "pnu": "4117310200114400009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "수정아파트",
+      "jibun_addr": "경기 안양시 동안구 관양동 1440-9",
+      "road_addr": "경기 안양시 동안구 관악대로276번길 9-18",
+      "avail_gen_cnt": 50,
+      "int_scrbr_cnt": 24,
+      "tv_scrbr_cnt": 33,
+      "skb_pop_cnt": 3,
+      "catv_digital_cnt": 8,
+      "catv_internet_cnt": 4,
+      "catv_8vsb_cnt": 3,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 11
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 9
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 3
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 15
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.40176096,
+      "lng": 126.95472683
     },
     {
       "pnu": "4117310200114410001",
@@ -258,463 +347,87 @@
       "lng": 126.95555807
     },
     {
-      "pnu": "4117310200114410000",
+      "pnu": "4117310200114390001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "한국타이어빌딩",
-      "jibun_addr": "경기 안양시 동안구 관양동 1441",
-      "road_addr": "경기 안양시 동안구 관악대로 292",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
+      "bld_nm": "승진빌라",
+      "jibun_addr": "경기 안양시 동안구 관양동 1439-1",
+      "road_addr": "경기 안양시 동안구 관악대로276번길 9",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 8,
+      "tv_scrbr_cnt": 16,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
+      "catv_digital_cnt": 6,
+      "catv_internet_cnt": 2,
       "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40236767,
-      "lng": 126.95533256
-    },
-    {
-      "pnu": "4117310200114400000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "현대슈퍼",
-      "jibun_addr": "경기 안양시 동안구 관양동 1440",
-      "road_addr": "경기 안양시 동안구 관악대로276번길 11",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
       "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
         {
           "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_30",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40170291,
-      "lng": 126.95386856
-    },
-    {
-      "pnu": "4117310100110530000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "협진빌딩",
-      "jibun_addr": "경기 안양시 동안구 비산동 1053",
-      "road_addr": "경기 안양시 동안구 관악대로 222",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
+          "count": 2
         },
         {
           "method": "광랜FTTH(GB)",
+          "count": 4
+        },
+        {
+          "method": "CA_광랜W(100)_구",
           "count": 1
         }
       ],
       "tv_tech": [
         {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 5
+        },
+        {
           "method": "Btv(IPTV_smart 3 STB)",
+          "count": 8
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
           "count": 1
         },
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(IPTV_B tv air 3)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         }
       ],
-      "lat": 37.40057637,
-      "lng": 126.94808066
+      "lat": 37.40190111,
+      "lng": 126.95384453
     },
     {
-      "pnu": "4117310200114410003",
+      "pnu": "4117310200114410009",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "다산빌딩",
-      "jibun_addr": "경기 안양시 동안구 관양동 1441-3",
-      "road_addr": "경기 안양시 동안구 관악대로 296",
-      "avail_gen_cnt": 7,
-      "int_scrbr_cnt": 1,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 관양동 1441-9",
+      "road_addr": "경기 안양시 동안구 관악대로288번길 5-10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_30",
-          "count": 1
-        }
-      ],
-      "lat": 37.40245983,
-      "lng": 126.95577254
-    },
-    {
-      "pnu": "4117310100110580000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "현암아파트",
-      "jibun_addr": "경기 안양시 동안구 비산동 1058",
-      "road_addr": "경기 안양시 동안구 관악대로264번길 11",
-      "avail_gen_cnt": 40,
-      "int_scrbr_cnt": 23,
-      "tv_scrbr_cnt": 37,
-      "skb_pop_cnt": 5,
-      "catv_digital_cnt": 12,
-      "catv_internet_cnt": 4,
-      "catv_8vsb_cnt": 3,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 10
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 9
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 2
-        },
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 11
-        },
-        {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 3
-        },
-        {
-          "method": "Btv(IP-CATV AI2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 5
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 4
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40129177,
-      "lng": 126.9526739
-    },
-    {
-      "pnu": "4117310100110580008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "백조빌라",
-      "jibun_addr": "경기 안양시 동안구 비산동 1058-8",
-      "road_addr": "경기 안양시 동안구 관양로 51-1",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        },
-        {
-          "method": "Btv(판매 Apple tv STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40137582,
-      "lng": 126.95330601
-    },
-    {
-      "pnu": "4117310200114420000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "도명빌딩",
-      "jibun_addr": "경기 안양시 동안구 관양동 1442",
-      "road_addr": "경기 안양시 동안구 관악대로 298",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.40253381,
-      "lng": 126.95617876
-    },
-    {
-      "pnu": "4117310200114400003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 관양동 1440-3",
-      "road_addr": "경기 안양시 동안구 관양로 59-1",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
       "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.4015414,
-      "lng": 126.95402791
-    },
-    {
-      "pnu": "4117310100110580006",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "석화빌라",
-      "jibun_addr": "경기 안양시 동안구 비산동 1058-6",
-      "road_addr": "경기 안양시 동안구 관양로 57",
-      "avail_gen_cnt": 10,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
       "tv_tech": [
         {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(CATV_8VSB)_20",
           "count": 1
         }
       ],
-      "lat": 37.40137749,
-      "lng": 126.95366755
-    },
-    {
-      "pnu": "4117310100110580007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "부강빌라",
-      "jibun_addr": "경기 안양시 동안구 비산동 1058-7",
-      "road_addr": "경기 안양시 동안구 관양로 53-1",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        }
-      ],
-      "lat": 37.40145757,
-      "lng": 126.953441
-    },
-    {
-      "pnu": "4117310200114400007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "문화화이트빌라",
-      "jibun_addr": "경기 안양시 동안구 관양동 1440-7",
-      "road_addr": "경기 안양시 동안구 관양로 61",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40156923,
-      "lng": 126.95419719
-    },
-    {
-      "pnu": "4117310100110580014",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 비산동 1058-14",
-      "road_addr": "경기 안양시 동안구 관악대로276번길 14",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.40158464,
-      "lng": 126.95363215
+      "lat": 37.40223377,
+      "lng": 126.955616
     },
     {
       "pnu": "4117310200114410014",
@@ -743,54 +456,20 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
           "method": "Btv(단독IP-CATV_smart 3 STB)",
           "count": 1
         },
         {
           "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
-        }
-      ],
-      "lat": 37.40221512,
-      "lng": 126.95548055
-    },
-    {
-      "pnu": "4117310200114420002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "신화빌딩",
-      "jibun_addr": "경기 안양시 동안구 관양동 1442-2",
-      "road_addr": "경기 안양시 동안구 관양로 79",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
         },
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
         {
           "method": "Btv(CATV_QAM_HD)",
           "count": 1
         }
       ],
-      "lat": 37.40222735,
-      "lng": 126.95618098
+      "lat": 37.40221512,
+      "lng": 126.95548055
     },
     {
       "pnu": "4117310200114400010",
@@ -813,63 +492,79 @@
       "lng": 126.95392682
     },
     {
-      "pnu": "4117310200114390000",
+      "pnu": "4117310100110540009",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "관양동오리집",
-      "jibun_addr": "경기 안양시 동안구 관양동 1439",
-      "road_addr": "경기 안양시 동안구 관악대로 276",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
+      "bld_nm": "푸른빌라",
+      "jibun_addr": "경기 안양시 동안구 비산동 1054-9",
+      "road_addr": "경기 안양시 동안구 관양로 17",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 5,
+      "tv_scrbr_cnt": 4,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTVon기업_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40209049,
-      "lng": 126.95386575
-    },
-    {
-      "pnu": "4117310200114410011",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 관양동 1441-11",
-      "road_addr": "경기 안양시 동안구 관양로 73",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        },
+        {
           "method": "광랜FTTH(GB)",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_UHD2)",
-          "count": 2
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
         },
         {
           "method": "Btv(CATV_QAM_HD)",
           "count": 1
         }
       ],
-      "lat": 37.40197097,
-      "lng": 126.95531284
+      "lat": 37.40100605,
+      "lng": 126.94937683
+    },
+    {
+      "pnu": "4117310200114420009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "유니데코빌딩",
+      "jibun_addr": "경기 안양시 동안구 관양동 1442-9",
+      "road_addr": "경기 안양시 동안구 관악대로 302",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 5,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)_S",
+          "count": 5
+        },
+        {
+          "method": "Btv(IPTVon기업_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.40257127,
+      "lng": 126.95648355
     },
     {
       "pnu": "4117310200114400011",
@@ -902,21 +597,25 @@
       "lng": 126.95435497
     },
     {
-      "pnu": "4117310100110540003",
+      "pnu": "4117310100110580007",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "전원빌라",
-      "jibun_addr": "경기 안양시 동안구 비산동 1054-3",
-      "road_addr": "경기 안양시 동안구 관양로 15-1",
-      "avail_gen_cnt": 9,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
+      "bld_nm": "부강빌라",
+      "jibun_addr": "경기 안양시 동안구 비산동 1058-7",
+      "road_addr": "경기 안양시 동안구 관양로 53-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 5,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
+      "catv_8vsb_cnt": 0,
       "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
         {
           "method": "광랜FTTH",
           "count": 1
@@ -924,16 +623,112 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
         },
         {
           "method": "Btv(CATV_QAM_HD)",
           "count": 1
         }
       ],
-      "lat": 37.40096942,
-      "lng": 126.94925282
+      "lat": 37.40145757,
+      "lng": 126.953441
+    },
+    {
+      "pnu": "4117310100110560000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 비산동 1056",
+      "road_addr": "경기 안양시 동안구 관악대로 254",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40152869,
+      "lng": 126.95128246
+    },
+    {
+      "pnu": "4117310100110580011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "현대빌라",
+      "jibun_addr": "경기 안양시 동안구 비산동 1058-11",
+      "road_addr": "경기 안양시 동안구 관양로 49",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        },
+        {
+          "method": "Btv(단독IP-CATV AI2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40132012,
+      "lng": 126.95295616
+    },
+    {
+      "pnu": "4117310100110530002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "연세정형외과",
+      "jibun_addr": "경기 안양시 동안구 비산동 1053-2",
+      "road_addr": "경기 안양시 동안구 관악대로 226",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
+        }
+      ],
+      "lat": 37.40076755,
+      "lng": 126.948486
     },
     {
       "pnu": "4117310200114410005",
@@ -974,39 +769,51 @@
       "lng": 126.95587553
     },
     {
-      "pnu": "4117310200114390008",
+      "pnu": "4117310200114400003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "성실빌라",
-      "jibun_addr": "경기 안양시 동안구 관양동 1439-8",
-      "road_addr": "경기 안양시 동안구 관악대로276번길 9-9",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 6,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 관양동 1440-3",
+      "road_addr": "경기 안양시 동안구 관양로 59-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.4015414,
+      "lng": 126.95402791
+    },
+    {
+      "pnu": "4117310100110530000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "협진빌딩",
+      "jibun_addr": "경기 안양시 동안구 비산동 1053",
+      "road_addr": "경기 안양시 동안구 관악대로 222",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
       "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 3,
+      "catv_8vsb_cnt": 1,
       "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        },
         {
           "method": "광랜FTTH(GB)",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "CA_광랜W(100)_구",
           "count": 1
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_20",
-          "count": 2
-        },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
@@ -1014,18 +821,56 @@
         {
           "method": "Btv(CATV_8VSB)_60",
           "count": 1
-        },
+        }
+      ],
+      "lat": 37.40057637,
+      "lng": 126.94808066
+    },
+    {
+      "pnu": "4117310200114400000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "현대슈퍼",
+      "jibun_addr": "경기 안양시 동안구 관양동 1440",
+      "road_addr": "경기 안양시 동안구 관악대로276번길 11",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_UHD2)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
-      "lat": 37.40196571,
-      "lng": 126.95417172
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40170291,
+      "lng": 126.95386856
     },
     {
       "pnu": "4117310100110580003",
@@ -1054,15 +899,15 @@
           "count": 1
         },
         {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
           "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         }
       ],
@@ -1086,7 +931,7 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "CA_광랜W(100)",
           "count": 1
         },
         {
@@ -1094,63 +939,67 @@
           "count": 2
         },
         {
-          "method": "CA_광랜W(100)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        },
-        {
           "method": "Btv(CATV_QAM_HD)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
         }
       ],
       "lat": 37.4009418,
       "lng": 126.94912874
     },
     {
-      "pnu": "4117310100110580013",
+      "pnu": "4117310200114390008",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "환영빌라",
-      "jibun_addr": "경기 안양시 동안구 비산동 1058-13",
-      "road_addr": "경기 안양시 동안구 관악대로264번길 11-16",
+      "bld_nm": "성실빌라",
+      "jibun_addr": "경기 안양시 동안구 관양동 1439-8",
+      "road_addr": "경기 안양시 동안구 관악대로276번길 9-9",
       "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 9,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 6,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 3,
       "int_tech": [
         {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
           "method": "광랜FTTH",
-          "count": 2
+          "count": 1
         },
         {
           "method": "광랜FTTH(GB)",
-          "count": 2
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_B tv air 4)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(CATV_8VSB)_20",
           "count": 2
         },
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
+          "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv air 2)",
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
           "count": 1
         },
         {
@@ -1158,85 +1007,56 @@
           "count": 1
         }
       ],
-      "lat": 37.40157427,
-      "lng": 126.95333846
+      "lat": 37.40196571,
+      "lng": 126.95417172
     },
     {
-      "pnu": "4117310200114420009",
+      "pnu": "4117310200114420002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "유니데코빌딩",
-      "jibun_addr": "경기 안양시 동안구 관양동 1442-9",
-      "road_addr": "경기 안양시 동안구 관악대로 302",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 7,
+      "bld_nm": "신화빌딩",
+      "jibun_addr": "경기 안양시 동안구 관양동 1442-2",
+      "road_addr": "경기 안양시 동안구 관양로 79",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 5,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)_S",
-          "count": 5
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTVon기업_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40257127,
-      "lng": 126.95648355
-    },
-    {
-      "pnu": "4117310100110530002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "연세정형외과",
-      "jibun_addr": "경기 안양시 동안구 비산동 1053-2",
-      "road_addr": "경기 안양시 동안구 관악대로 226",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
+      "catv_digital_cnt": 1,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "CA_광랜W(100)_구",
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
       "tv_tech": [
         {
           "method": "Btv(CATV_QAM_HD)",
-          "count": 3
+          "count": 1
         }
       ],
-      "lat": 37.40076755,
-      "lng": 126.948486
+      "lat": 37.40222735,
+      "lng": 126.95618098
     },
     {
-      "pnu": "4117310100110580011",
+      "pnu": "4117310100110580008",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "현대빌라",
-      "jibun_addr": "경기 안양시 동안구 비산동 1058-11",
-      "road_addr": "경기 안양시 동안구 관양로 49",
-      "avail_gen_cnt": 7,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 3,
+      "bld_nm": "백조빌라",
+      "jibun_addr": "경기 안양시 동안구 비산동 1058-8",
+      "road_addr": "경기 안양시 동안구 관양로 51-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
       "int_tech": [
@@ -1245,9 +1065,39 @@
           "count": 1
         },
         {
-          "method": "광랜FTTH(GB)",
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
           "count": 2
         },
+        {
+          "method": "Btv(판매 Apple tv STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40137582,
+      "lng": 126.95330601
+    },
+    {
+      "pnu": "4117310200114400007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "문화화이트빌라",
+      "jibun_addr": "경기 안양시 동안구 관양동 1440-7",
+      "road_addr": "경기 안양시 동안구 관양로 61",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
         {
           "method": "CA_광랜W(100)_구",
           "count": 1
@@ -1256,133 +1106,49 @@
       "tv_tech": [
         {
           "method": "Btv(CATV_QAM_HD)",
-          "count": 3
+          "count": 1
         },
         {
-          "method": "Btv(단독IP-CATV AI2 STB)",
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
-      "lat": 37.40132012,
-      "lng": 126.95295616
+      "lat": 37.40156923,
+      "lng": 126.95419719
     },
     {
-      "pnu": "4117310200114390005",
+      "pnu": "4117310200114410003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "고려빌딩",
-      "jibun_addr": "경기 안양시 동안구 관양동 1439-5",
-      "road_addr": "경기 안양시 동안구 관악대로 282",
+      "bld_nm": "다산빌딩",
+      "jibun_addr": "경기 안양시 동안구 관양동 1441-3",
+      "road_addr": "경기 안양시 동안구 관악대로 296",
       "avail_gen_cnt": 7,
-      "int_scrbr_cnt": 2,
+      "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40221001,
-      "lng": 126.95437332
-    },
-    {
-      "pnu": "4117310200114400002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 관양동 1440-2",
-      "road_addr": "경기 안양시 동안구 관악대로276번길 15",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
+      "catv_8vsb_cnt": 1,
       "int_tech": [
         {
           "method": "광랜FTTH(GB)",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40152286,
-      "lng": 126.95391506
-    },
-    {
-      "pnu": "4117310200114400001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 관양동 1440-1",
-      "road_addr": "경기 안양시 동안구 관악대로276번길 13",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 1
         }
       ],
-      "lat": 37.4016219,
-      "lng": 126.95389175
-    },
-    {
-      "pnu": "4117310100110560000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 비산동 1056",
-      "road_addr": "경기 안양시 동안구 관악대로 254",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40152869,
-      "lng": 126.95128246
+      "lat": 37.40245983,
+      "lng": 126.95577254
     },
     {
       "pnu": "4117310100110540006",
@@ -1415,209 +1181,111 @@
       "lng": 126.94953336
     },
     {
-      "pnu": "4117310200114400009",
+      "pnu": "4117310200114420000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "수정아파트",
-      "jibun_addr": "경기 안양시 동안구 관양동 1440-9",
-      "road_addr": "경기 안양시 동안구 관악대로276번길 9-18",
-      "avail_gen_cnt": 50,
-      "int_scrbr_cnt": 24,
-      "tv_scrbr_cnt": 33,
-      "skb_pop_cnt": 3,
-      "catv_digital_cnt": 8,
-      "catv_internet_cnt": 4,
-      "catv_8vsb_cnt": 3,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 4
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 11
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 9
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 3
-        },
-        {
-          "method": "Btv(단독IP-CATV AI2 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 15
-        },
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 5
-        },
-        {
-          "method": "Btv(IP-CATV AI2 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.40176096,
-      "lng": 126.95472683
-    },
-    {
-      "pnu": "4117310100110590000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "안양키즈맘센터",
-      "jibun_addr": "경기 안양시 동안구 비산동 1059",
-      "road_addr": "경기 안양시 동안구 관악대로 272",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 6,
-      "tv_scrbr_cnt": 1,
+      "bld_nm": "도명빌딩",
+      "jibun_addr": "경기 안양시 동안구 관양동 1442",
+      "road_addr": "경기 안양시 동안구 관악대로 298",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.40194225,
-      "lng": 126.95299683
-    },
-    {
-      "pnu": "4117310200114390001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "승진빌라",
-      "jibun_addr": "경기 안양시 동안구 관양동 1439-1",
-      "road_addr": "경기 안양시 동안구 관악대로276번길 9",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 8,
-      "tv_scrbr_cnt": 16,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 6,
-      "catv_internet_cnt": 2,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
           "method": "광랜FTTH(GB)",
-          "count": 4
-        },
-        {
-          "method": "CA_광랜W(100)_구",
           "count": 1
-        },
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        },
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.40253381,
+      "lng": 126.95617876
+    },
+    {
+      "pnu": "4117310100110580006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "석화빌라",
+      "jibun_addr": "경기 안양시 동안구 비산동 1058-6",
+      "road_addr": "경기 안양시 동안구 관양로 57",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
         {
           "method": "광랜FTTH",
           "count": 2
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 5
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 8
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air 3)",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
-      "lat": 37.40190111,
-      "lng": 126.95384453
+      "lat": 37.40137749,
+      "lng": 126.95366755
     },
     {
-      "pnu": "4117310100110570002",
+      "pnu": "4117310100110540003",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 비산동 1057-2",
-      "road_addr": "경기 안양시 동안구 관악대로264번길 14",
-      "avail_gen_cnt": 4,
+      "bld_nm": "전원빌라",
+      "jibun_addr": "경기 안양시 동안구 비산동 1054-3",
+      "road_addr": "경기 안양시 동안구 관양로 15-1",
+      "avail_gen_cnt": 9,
       "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 1,
       "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
+      "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
-      "lat": 37.4013348,
-      "lng": 126.95223295
+      "lat": 37.40096942,
+      "lng": 126.94925282
     },
     {
-      "pnu": "4117310200114420005",
+      "pnu": "4117310200114410000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 관양동 1442-5",
-      "road_addr": "경기 안양시 동안구 관평로 291",
-      "avail_gen_cnt": 0,
+      "bld_nm": "한국타이어빌딩",
+      "jibun_addr": "경기 안양시 동안구 관양동 1441",
+      "road_addr": "경기 안양시 동안구 관악대로 292",
+      "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -1626,33 +1294,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40259012,
-      "lng": 126.9566642
-    },
-    {
-      "pnu": "4117310100110540000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "GS큰마당주유소",
-      "jibun_addr": "경기 안양시 동안구 비산동 1054",
-      "road_addr": "경기 안양시 동안구 관악대로 234",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.40110446,
-      "lng": 126.94921794
+      "lat": 37.40236767,
+      "lng": 126.95533256
     },
     {
       "pnu": "4117310100110530001",
@@ -1685,32 +1328,506 @@
       "lng": 126.94830583
     },
     {
-      "pnu": "4117310100110580009",
+      "pnu": "4117310200114410010",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "백조빌라",
-      "jibun_addr": "경기 안양시 동안구 비산동 1058-9",
-      "road_addr": "경기 안양시 동안구 관양로 51",
-      "avail_gen_cnt": 7,
-      "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 5,
+      "bld_nm": "동안정",
+      "jibun_addr": "경기 안양시 동안구 관양동 1441-10",
+      "road_addr": "경기 안양시 동안구 관양로 75",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40211701,
+      "lng": 126.95570723
+    },
+    {
+      "pnu": "4117310200114400008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "문화하이츠빌라",
+      "jibun_addr": "경기 안양시 동안구 관양동 1440-8",
+      "road_addr": "경기 안양시 동안구 관악대로276번길 9-10",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 5 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.40174991,
+      "lng": 126.95428627
+    },
+    {
+      "pnu": "4117310100110580004",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "카리스마정비센터",
+      "jibun_addr": "경기 안양시 동안구 비산동 1058-4",
+      "road_addr": "경기 안양시 동안구 관악대로276번길 10",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40166571,
+      "lng": 126.95362026
+    },
+    {
+      "pnu": "4117310200114390009",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성실빌라",
+      "jibun_addr": "경기 안양시 동안구 관양동 1439-9",
+      "road_addr": "경기 안양시 동안구 관악대로276번길 9-13",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 2,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "CA_광랜W(100)_구",
           "count": 2
         },
         {
           "method": "광랜FTTH(GB)",
           "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.40201198,
+      "lng": 126.95443125
+    },
+    {
+      "pnu": "4117310200114410011",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 관양동 1441-11",
+      "road_addr": "경기 안양시 동안구 관양로 73",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40197097,
+      "lng": 126.95531284
+    },
+    {
+      "pnu": "4117310200114390003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 관양동 1439-3",
+      "road_addr": "경기 안양시 동안구 관악대로 278",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(50)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.40218151,
+      "lng": 126.95405716
+    },
+    {
+      "pnu": "4117310100110580010",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "현대빌라",
+      "jibun_addr": "경기 안양시 동안구 비산동 1058-10",
+      "road_addr": "경기 안양시 동안구 관양로 49-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        }
+      ],
+      "lat": 37.4013296,
+      "lng": 126.95305778
+    },
+    {
+      "pnu": "4117310200114390007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성실빌라",
+      "jibun_addr": "경기 안양시 동안구 관양동 1439-7",
+      "road_addr": "경기 안양시 동안구 관악대로276번길 9-11",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 5,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 2,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_스마트3미니STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
+        }
+      ],
+      "lat": 37.40199343,
+      "lng": 126.9543184
+    },
+    {
+      "pnu": "4117310200114410006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 관양동 1441-6",
+      "road_addr": "경기 안양시 동안구 관양로 77",
+      "avail_gen_cnt": 5,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40213597,
+      "lng": 126.95591047
+    },
+    {
+      "pnu": "4117310100110570003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 비산동 1057-3",
+      "road_addr": "경기 안양시 동안구 관양로 43",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40125378,
+      "lng": 126.95225614
+    },
+    {
+      "pnu": "4117310100110580013",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "환영빌라",
+      "jibun_addr": "경기 안양시 동안구 비산동 1058-13",
+      "road_addr": "경기 안양시 동안구 관악대로264번길 11-16",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 9,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 2)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.40157427,
+      "lng": 126.95333846
+    },
+    {
+      "pnu": "4117310200114400005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "동아주택",
+      "jibun_addr": "경기 안양시 동안구 관양동 1440-5",
+      "road_addr": "경기 안양시 동안구 관악대로276번길 9-8",
+      "avail_gen_cnt": 9,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
         },
         {
           "method": "CA_광랜W(100)_구",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40172219,
+      "lng": 126.95413959
+    },
+    {
+      "pnu": "4117310100110580002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "환영빌라",
+      "jibun_addr": "경기 안양시 동안구 비산동 1058-2",
+      "road_addr": "경기 안양시 동안구 관악대로264번길 11-14",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 6,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 3
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40155578,
+      "lng": 126.95323691
+    },
+    {
+      "pnu": "4117310200114390000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "관양동오리집",
+      "jibun_addr": "경기 안양시 동안구 관양동 1439",
+      "road_addr": "경기 안양시 동안구 관악대로 276",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTVon기업_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40209049,
+      "lng": 126.95386575
+    },
+    {
+      "pnu": "4117310200114410015",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "성림주택",
+      "jibun_addr": "경기 안양시 동안구 관양동 1441-15",
+      "road_addr": "경기 안양시 동안구 관악대로288번길 5-4",
+      "avail_gen_cnt": 10,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 7,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
         }
       ],
       "tv_tech": [
@@ -1719,20 +1836,28 @@
           "count": 2
         },
         {
-          "method": "Btv(CATV_QAM_UHD2)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_UHD4 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD)",
           "count": 1
         }
       ],
-      "lat": 37.40135722,
-      "lng": 126.95318186
+      "lat": 37.40217807,
+      "lng": 126.95526614
     },
     {
       "pnu": "4117310100110580012",
@@ -1751,12 +1876,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
           "method": "CA_광랜W(100)_구",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
         },
         {
           "method": "광랜FTTH",
@@ -1765,15 +1890,53 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 5
         },
         {
-          "method": "Btv(CATV_QAM_UHD2)",
+          "method": "Btv(IPTV_B tv x NUGU STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40153697,
+      "lng": 126.95306757
+    },
+    {
+      "pnu": "4117310100110580005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 비산동 1058-5",
+      "road_addr": "경기 안양시 동안구 관악대로276번길 16",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
           "count": 1
         },
         {
@@ -1781,8 +1944,214 @@
           "count": 1
         }
       ],
-      "lat": 37.40153697,
-      "lng": 126.95306757
+      "lat": 37.40149451,
+      "lng": 126.9536328
+    },
+    {
+      "pnu": "4117310200114410008",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 관양동 1441-8",
+      "road_addr": "경기 안양시 동안구 관악대로288번길 5-12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv air 4)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40226133,
+      "lng": 126.95572878
+    },
+    {
+      "pnu": "4117310100110580000",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "현암아파트",
+      "jibun_addr": "경기 안양시 동안구 비산동 1058",
+      "road_addr": "경기 안양시 동안구 관악대로264번길 11",
+      "avail_gen_cnt": 40,
+      "int_scrbr_cnt": 23,
+      "tv_scrbr_cnt": 37,
+      "skb_pop_cnt": 5,
+      "catv_digital_cnt": 12,
+      "catv_internet_cnt": 4,
+      "catv_8vsb_cnt": 3,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 9
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 10
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 11
+        },
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 5
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
+        },
+        {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_B tv x NUGU STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV AI2 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40129177,
+      "lng": 126.9526739
+    },
+    {
+      "pnu": "4117310200114410016",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 관양동 1441-16",
+      "road_addr": "경기 안양시 동안구 관양로 73-1",
+      "avail_gen_cnt": 8,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40208059,
+      "lng": 126.9556284
+    },
+    {
+      "pnu": "4117310100110550001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "열린주유소",
+      "jibun_addr": "경기 안양시 동안구 비산동 1055-1",
+      "road_addr": "경기 안양시 동안구 관악대로 248",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40140874,
+      "lng": 126.95068452
+    },
+    {
+      "pnu": "4117310100110530006",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "삼호빌라",
+      "jibun_addr": "경기 안양시 동안구 비산동 1053-6",
+      "road_addr": "경기 안양시 동안구 관양로 13",
+      "avail_gen_cnt": 6,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.40083269,
+      "lng": 126.94892617
     },
     {
       "pnu": "4117310100110530007",
@@ -1823,122 +2192,156 @@
       "lng": 126.94880215
     },
     {
-      "pnu": "4117310200114410008",
+      "pnu": "4117310100110580009",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 관양동 1441-8",
-      "road_addr": "경기 안양시 동안구 관악대로288번길 5-12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_B tv air 4)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40226133,
-      "lng": 126.95572878
-    },
-    {
-      "pnu": "4117310100110540009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "푸른빌라",
-      "jibun_addr": "경기 안양시 동안구 비산동 1054-9",
-      "road_addr": "경기 안양시 동안구 관양로 17",
-      "avail_gen_cnt": 9,
+      "bld_nm": "백조빌라",
+      "jibun_addr": "경기 안양시 동안구 비산동 1058-9",
+      "road_addr": "경기 안양시 동안구 관양로 51",
+      "avail_gen_cnt": 7,
       "int_scrbr_cnt": 5,
-      "tv_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 5,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
+      "catv_digital_cnt": 2,
       "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
           "method": "광랜FTTH(GB)",
-          "count": 3
+          "count": 2
         },
         {
           "method": "광랜FTTH",
-          "count": 1
+          "count": 2
         },
         {
-          "method": "CA_광랜W(50)_구",
+          "method": "CA_광랜W(100)_구",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_UHD2)",
+          "count": 1
         },
         {
           "method": "Btv(CATV_QAM_HD)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
         }
       ],
-      "lat": 37.40100605,
-      "lng": 126.94937683
+      "lat": 37.40135722,
+      "lng": 126.95318186
     },
     {
-      "pnu": "4117310100110530006",
+      "pnu": "4117310200114390004",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "삼호빌라",
-      "jibun_addr": "경기 안양시 동안구 비산동 1053-6",
-      "road_addr": "경기 안양시 동안구 관양로 13",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 4,
+      "bld_nm": "삼성씨앤씨빌딩",
+      "jibun_addr": "경기 안양시 동안구 관양동 1439-4",
+      "road_addr": "경기 안양시 동안구 관악대로 280",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 4,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 2
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 2
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_AI 2 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40216411,
+      "lng": 126.95419287
+    },
+    {
+      "pnu": "4117310200114410007",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 관양동 1441-7",
+      "road_addr": "경기 안양시 동안구 관양로 75-1",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
           "method": "광랜FTTH",
-          "count": 2
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(IPTV_smart STB)",
           "count": 1
         }
       ],
-      "lat": 37.40083269,
-      "lng": 126.94892617
+      "lat": 37.40213545,
+      "lng": 126.95579749
+    },
+    {
+      "pnu": "4117310200114390005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "고려빌딩",
+      "jibun_addr": "경기 안양시 동안구 관양동 1439-5",
+      "road_addr": "경기 안양시 동안구 관악대로 282",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40221001,
+      "lng": 126.95437332
     },
     {
       "pnu": "4117310100110580015",
@@ -1971,6 +2374,10 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
           "method": "Btv(CATV_8VSB)_60",
           "count": 3
         },
@@ -1983,7 +2390,7 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_실속형_Smart)_구",
+          "method": "Btv(CATV_QAM_UHD)",
           "count": 1
         },
         {
@@ -1991,19 +2398,15 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        },
-        {
           "method": "Btv(IPTV_B tv x NUGU STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 2 STB)",
+          "method": "Btv(CATV_실속형_Smart)_구",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_UHD)",
+          "method": "Btv(IPTV_AI 2 STB)",
           "count": 1
         }
       ],
@@ -2011,52 +2414,14 @@
       "lng": 126.95347568
     },
     {
-      "pnu": "4117310100110580005",
+      "pnu": "4117310200114390006",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 비산동 1058-5",
-      "road_addr": "경기 안양시 동안구 관악대로276번길 16",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40149451,
-      "lng": 126.9536328
-    },
-    {
-      "pnu": "4117310200114410016",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 관양동 1441-16",
-      "road_addr": "경기 안양시 동안구 관양로 73-1",
-      "avail_gen_cnt": 8,
+      "jibun_addr": "경기 안양시 동안구 관양동 1439-6",
+      "road_addr": "경기 안양시 동안구 관악대로 286",
+      "avail_gen_cnt": 0,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
@@ -2065,96 +2430,8 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.40208059,
-      "lng": 126.9556284
-    },
-    {
-      "pnu": "4117310100110570001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 비산동 1057-1",
-      "road_addr": "경기 안양시 동안구 관악대로264번길 12",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40141597,
-      "lng": 126.95224366
-    },
-    {
-      "pnu": "4117310200114410009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 관양동 1441-9",
-      "road_addr": "경기 안양시 동안구 관악대로288번길 5-10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_20",
-          "count": 1
-        }
-      ],
-      "lat": 37.40223377,
-      "lng": 126.955616
-    },
-    {
-      "pnu": "4117310100110580010",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "현대빌라",
-      "jibun_addr": "경기 안양시 동안구 비산동 1058-10",
-      "road_addr": "경기 안양시 동안구 관양로 49-1",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 4
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_UHD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.4013296,
-      "lng": 126.95305778
+      "lat": 37.40236155,
+      "lng": 126.95487315
     },
     {
       "pnu": "4117310200114400004",
@@ -2183,205 +2460,20 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
           "method": "Btv(IP-CATV AI2 STB)",
           "count": 1
         },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
         }
       ],
       "lat": 37.40168546,
       "lng": 126.95399297
-    },
-    {
-      "pnu": "4117310200114390009",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성실빌라",
-      "jibun_addr": "경기 안양시 동안구 관양동 1439-9",
-      "road_addr": "경기 안양시 동안구 관악대로276번길 9-13",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 3,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 2
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 2
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        },
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        }
-      ],
-      "lat": 37.40201198,
-      "lng": 126.95443125
-    },
-    {
-      "pnu": "4117310100110580002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "환영빌라",
-      "jibun_addr": "경기 안양시 동안구 비산동 1058-2",
-      "road_addr": "경기 안양시 동안구 관악대로264번길 11-14",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 6,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 3
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40155578,
-      "lng": 126.95323691
-    },
-    {
-      "pnu": "4117310200114390007",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "성실빌라",
-      "jibun_addr": "경기 안양시 동안구 관양동 1439-7",
-      "road_addr": "경기 안양시 동안구 관악대로276번길 9-11",
-      "avail_gen_cnt": 8,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 5,
-      "skb_pop_cnt": 1,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 2,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 2
-        },
-        {
-          "method": "Btv(IPTV_스마트3미니STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40199343,
-      "lng": 126.9543184
-    },
-    {
-      "pnu": "4117310200114390003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 관양동 1439-3",
-      "road_addr": "경기 안양시 동안구 관악대로 278",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(50)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.40218151,
-      "lng": 126.95405716
-    },
-    {
-      "pnu": "4117310100110530005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "대흥빌딩",
-      "jibun_addr": "경기 안양시 동안구 비산동 1053-5",
-      "road_addr": "경기 안양시 동안구 관악대로 232",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 1,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        }
-      ],
-      "lat": 37.40100369,
-      "lng": 126.94886842
     },
     {
       "pnu": "4117310100110530003",
@@ -2414,44 +2506,46 @@
       "lng": 126.94863235
     },
     {
-      "pnu": "4117310200114410006",
+      "pnu": "4117310100110580001",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 관양동 1441-6",
-      "road_addr": "경기 안양시 동안구 관양로 77",
-      "avail_gen_cnt": 5,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
+      "bld_nm": "관악빌라",
+      "jibun_addr": "경기 안양시 동안구 비산동 1058-1",
+      "road_addr": "경기 안양시 동안구 관악대로264번길 11-8",
+      "avail_gen_cnt": 7,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
+      "catv_digital_cnt": 2,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40213597,
-      "lng": 126.95591047
-    },
-    {
-      "pnu": "4117310100110580004",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "카리스마정비센터",
-      "jibun_addr": "경기 안양시 동안구 비산동 1058-4",
-      "road_addr": "경기 안양시 동안구 관악대로276번길 10",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40166571,
-      "lng": 126.95362026
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 3
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40150018,
+      "lng": 126.95290966
     },
     {
       "pnu": "4117310200114420001",
@@ -2484,166 +2578,72 @@
       "lng": 126.95647401
     },
     {
-      "pnu": "4117310100110580001",
+      "pnu": "4117310100110530005",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "관악빌라",
-      "jibun_addr": "경기 안양시 동안구 비산동 1058-1",
-      "road_addr": "경기 안양시 동안구 관악대로264번길 11-8",
-      "avail_gen_cnt": 7,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
+      "bld_nm": "대흥빌딩",
+      "jibun_addr": "경기 안양시 동안구 비산동 1053-5",
+      "road_addr": "경기 안양시 동안구 관악대로 232",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 3
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40150018,
-      "lng": 126.95290966
-    },
-    {
-      "pnu": "4117310200114400005",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "동아주택",
-      "jibun_addr": "경기 안양시 동안구 관양동 1440-5",
-      "road_addr": "경기 안양시 동안구 관악대로276번길 9-8",
-      "avail_gen_cnt": 9,
-      "int_scrbr_cnt": 4,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
+      "catv_digital_cnt": 0,
       "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 2
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 2 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.40172219,
-      "lng": 126.95413959
-    },
-    {
-      "pnu": "4117310200114400008",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "문화하이츠빌라",
-      "jibun_addr": "경기 안양시 동안구 관양동 1440-8",
-      "road_addr": "경기 안양시 동안구 관악대로276번길 9-10",
-      "avail_gen_cnt": 6,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 2,
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "CA_광랜W(320)_구",
+          "method": "CA_광랜W(100)_구",
           "count": 1
         },
         {
           "method": "광랜FTTH(GB)",
           "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 5 STB)",
-          "count": 1
-        },
         {
           "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
-      "lat": 37.40174991,
-      "lng": 126.95428627
+      "lat": 37.40100369,
+      "lng": 126.94886842
     },
     {
-      "pnu": "4117310100110550001",
+      "pnu": "4117310100110580014",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "열린주유소",
-      "jibun_addr": "경기 안양시 동안구 비산동 1055-1",
-      "road_addr": "경기 안양시 동안구 관악대로 248",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 비산동 1058-14",
+      "road_addr": "경기 안양시 동안구 관악대로276번길 14",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 1,
       "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40140874,
-      "lng": 126.95068452
+      "int_tech": [
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.40158464,
+      "lng": 126.95363215
     },
     {
       "pnu": "4117310200114430011",
@@ -2696,37 +2696,17 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 1
         }
       ],
       "tv_tech": [],
       "lat": 37.40269181,
       "lng": 126.9572171
-    },
-    {
-      "pnu": "4117310100110740000",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 44.42684923,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 안양시 동안구 비산동 1074",
-      "road_addr": "경기 안양시 동안구 관악대로 217-2",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.40073016,
-      "lng": 126.94737903
     },
     {
       "pnu": "4117310100110740000",
@@ -2747,6 +2727,26 @@
       "tv_tech": [],
       "lat": 37.39898959,
       "lng": 126.94332518
+    },
+    {
+      "pnu": "4117310100110740000",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 44.42684923,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 안양시 동안구 비산동 1074",
+      "road_addr": "경기 안양시 동안구 관악대로 217-2",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.40073016,
+      "lng": 126.94737903
     },
     {
       "pnu": "4117310200115220000",
@@ -2933,12 +2933,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 2
-        },
-        {
           "method": "Btv(CATV_QAM_HD)",
           "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
         }
       ],
       "lat": 37.40321862,
@@ -3170,11 +3170,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         }
       ],
@@ -3399,12 +3399,12 @@
       "int_tech": [],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_30",
-          "count": 2
-        },
-        {
           "method": "Btv(CATV_8VSB)_20",
           "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_30",
+          "count": 2
         },
         {
           "method": "Btv(CATV_8VSB)_60",
@@ -3631,11 +3631,11 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜W(800)",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜W(800)",
           "count": 1
         }
       ],
@@ -3749,12 +3749,12 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
-        },
-        {
           "method": "Btv(CATV_QAM_HD)",
           "count": 2
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
         }
       ],
       "lat": 37.40332507,
@@ -3887,7 +3887,7 @@
       "catv_8vsb_cnt": 2,
       "int_tech": [
         {
-          "method": "CA_광랜W(100)_구",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
@@ -3895,17 +3895,17 @@
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "CA_광랜W(100)_구",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_UHD)",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(CATV_QAM_UHD)",
           "count": 1
         },
         {
@@ -3913,12 +3913,12 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 2
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
         }
       ],
       "lat": 37.40270567,
@@ -3970,21 +3970,21 @@
           "count": 2
         },
         {
-          "method": "광랜E(GB)",
+          "method": "CA_광랜W(100)_구",
           "count": 1
         },
         {
-          "method": "CA_광랜W(100)_구",
+          "method": "광랜E(GB)",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(CATV_실속형_HD)_구",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
@@ -3992,11 +3992,11 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_실속형_HD)_구",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -4050,11 +4050,11 @@
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "CA_광랜W(320)_구",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "CA_광랜W(320)_구",
           "count": 1
         },
         {
@@ -4072,20 +4072,20 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_UHD2)",
+          "method": "Btv(IP-CATV AI2 STB)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
-        },
-        {
-          "method": "Btv(IP-CATV AI2 STB)",
+          "method": "Btv(CATV_QAM_UHD2)",
           "count": 1
         },
         {
           "method": "Btv(CATV_8VSB)_60",
           "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
         }
       ],
       "lat": 37.40352679,
@@ -4108,6 +4108,10 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
+          "method": "광랜E(GB)",
+          "count": 1
+        },
+        {
           "method": "광랜E",
           "count": 1
         },
@@ -4116,34 +4120,30 @@
           "count": 1
         },
         {
-          "method": "광랜PBOX",
-          "count": 1
-        },
-        {
-          "method": "광랜E(GB)",
-          "count": 1
-        },
-        {
           "method": "CA_광랜W(100)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜PBOX",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
         },
         {
           "method": "Btv(CATV_실속형_HD)_구",
           "count": 2
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 4
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
         },
         {
           "method": "Btv(CATV_QAM_UHD)",
@@ -4170,33 +4170,33 @@
       "catv_8vsb_cnt": 2,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 4
-        },
-        {
           "method": "광랜FTTH",
           "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 4
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
         },
         {
           "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
         },
         {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 2
-        },
-        {
-          "method": "Btv(IP-CATV_smart 3 STB)",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
           "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -4226,15 +4226,15 @@
       ],
       "tv_tech": [
         {
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
           "method": "Btv(CATV_QAM_HD)",
           "count": 2
         },
         {
           "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         }
       ],
@@ -4436,16 +4436,16 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 2
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 1
         },
         {
           "method": "Btv(단독IP-CATV_smart 3 STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 1
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 2
         }
       ],
       "lat": 37.40251037,
@@ -4580,11 +4580,11 @@
           "count": 2
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜W(800)",
           "count": 1
         },
         {
-          "method": "광랜W(800)",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
@@ -4594,12 +4594,12 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 4
-        },
-        {
           "method": "Btv(IP-CATV_smart 3 STB)",
           "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 4
         },
         {
           "method": "Btv(IPTV_UHD4 STB)",
@@ -4664,26 +4664,26 @@
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
           "method": "광랜W(800)",
           "count": 1
         },
         {
           "method": "CA_광랜W(100)_구",
           "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(CATV_QAM_HD)",
           "count": 3
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
         },
         {
           "method": "Btv(CATV_8VSB)_60",
@@ -4714,6 +4714,10 @@
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
+          "method": "광랜FTTH",
+          "count": 1
+        },
+        {
           "method": "광랜FTTH(GB)",
           "count": 1
         },
@@ -4724,15 +4728,19 @@
         {
           "method": "CA_광랜W(100)_구",
           "count": 1
-        },
-        {
-          "method": "광랜FTTH",
-          "count": 1
         }
       ],
       "tv_tech": [
         {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
+        },
+        {
           "method": "Btv(CATV_QAM_HD)",
+          "count": 2
+        },
+        {
+          "method": "Btv(단독IP-CATV_smart 3 STB)",
           "count": 2
         },
         {
@@ -4740,16 +4748,8 @@
           "count": 1
         },
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
-        },
-        {
           "method": "Btv(CATV_실속형_HD)_구",
           "count": 1
-        },
-        {
-          "method": "Btv(단독IP-CATV_smart 3 STB)",
-          "count": 2
         }
       ],
       "lat": 37.40257467,
@@ -5044,7 +5044,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(단독IPTV_smart 3 STB)",
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         },
         {
@@ -5052,15 +5056,11 @@
           "count": 2
         },
         {
-          "method": "Btv(CATV_실속형_HD)_구",
+          "method": "Btv(단독IPTV_smart 3 STB)",
           "count": 1
         },
         {
           "method": "Btv(CATV_QAM_Android)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
@@ -5085,15 +5085,15 @@
       "int_tech": [],
       "tv_tech": [
         {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        },
-        {
           "method": "Btv(CATV_QAM_HD)",
           "count": 2
         },
         {
           "method": "Btv(CATV_QAM_UHD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
           "count": 1
         }
       ],
@@ -5117,18 +5117,18 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
+          "method": "광랜FTTH",
           "count": 2
         },
         {
-          "method": "광랜FTTH",
+          "method": "광랜FTTH(GB)",
           "count": 2
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 2
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 1
         },
         {
           "method": "Btv(IPTV)",
@@ -5139,8 +5139,8 @@
           "count": 3
         },
         {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 1
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 2
         }
       ],
       "lat": 37.40336592,

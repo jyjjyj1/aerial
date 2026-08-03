@@ -71,34 +71,207 @@
   },
   "buildings": [
     {
-      "pnu": "4146125321107930002",
+      "pnu": "4146125321107990002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 793-2",
-      "road_addr": "경기 용인시 처인구 백옥대로2384번길 21-26",
+      "bld_nm": "모현약국",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 799-2",
+      "road_addr": "경기 용인시 처인구 백옥대로 2390",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜PBOX(GB)",
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_스마트3미니STB)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
-      "lat": 37.33688265,
-      "lng": 127.25087508
+      "lat": 37.33695254,
+      "lng": 127.24982497
+    },
+    {
+      "pnu": "4146125321107900003",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "모현스포츠",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 790-3",
+      "road_addr": "경기 용인시 처인구 외대로 6",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 4,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 3,
+      "catv_internet_cnt": 2,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
+        },
+        {
+          "method": "광랜W",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 3
+        },
+        {
+          "method": "Btv(CATV_8VSB)_90",
+          "count": 1
+        }
+      ],
+      "lat": 37.33717846,
+      "lng": 127.25009516
+    },
+    {
+      "pnu": "4146125321109260005",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 926-5",
+      "road_addr": "경기 용인시 처인구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.33730779,
+      "lng": 127.24990769
+    },
+    {
+      "pnu": "4146125321108010001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "경희한의원",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 801-1",
+      "road_addr": "경기 용인시 처인구 백옥대로 2386",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.33651974,
+      "lng": 127.24975867
+    },
+    {
+      "pnu": "4146125321107960001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "현대정형외과",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 796-1",
+      "road_addr": "경기 용인시 처인구 백옥대로 2388",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 2,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        }
+      ],
+      "lat": 37.33672708,
+      "lng": 127.24976927
+    },
+    {
+      "pnu": "4146125321107930002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 793-2",
+      "road_addr": "경기 용인시 처인구 외대로 12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
+      "tv_tech": [],
+      "lat": 37.33678335,
+      "lng": 127.25080767
+    },
+    {
+      "pnu": "4146125321107940019",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 794-19",
+      "road_addr": "경기 용인시 처인구 백옥대로2384번길 21-33",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.33665635,
+      "lng": 127.25042427
     },
     {
       "pnu": "4146125321107940007",
@@ -131,53 +304,71 @@
       "lng": 127.25001853
     },
     {
-      "pnu": "4146125321107960001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "현대정형외과",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 796-1",
-      "road_addr": "경기 용인시 처인구 백옥대로 2388",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        }
-      ],
-      "lat": 37.33672708,
-      "lng": 127.24976927
-    },
-    {
-      "pnu": "4146125321109260005",
+      "pnu": "4146125321107950000",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 926-5",
-      "road_addr": "경기 용인시 처인구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 795",
+      "road_addr": "경기 용인시 처인구 백옥대로2384번길 21-41",
+      "avail_gen_cnt": 4,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 3,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 1,
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Smart)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        }
+      ],
+      "lat": 37.33664287,
+      "lng": 127.25000979
+    },
+    {
+      "pnu": "4146125321107930002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 793-2",
+      "road_addr": "경기 용인시 처인구 외대로 12",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 0,
       "skb_pop_cnt": 0,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [],
+      "int_tech": [
+        {
+          "method": "광랜FTTH(GB)",
+          "count": 1
+        }
+      ],
       "tv_tech": [],
-      "lat": 37.33730779,
-      "lng": 127.24990769
+      "lat": 37.33678335,
+      "lng": 127.25080767
     },
     {
       "pnu": "4146125321107920002",
@@ -214,6 +405,26 @@
       "lng": 127.25049054
     },
     {
+      "pnu": "4146125321107980002",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "이브자리",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 798-2",
+      "road_addr": "경기 용인시 처인구 백옥대로2384번길 21-42",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.33685363,
+      "lng": 127.24993819
+    },
+    {
       "pnu": "4146125321107930002",
       "match_type": "inside",
       "in_area": true,
@@ -244,13 +455,13 @@
       "lng": 127.25087508
     },
     {
-      "pnu": "4146125321107940001",
+      "pnu": "4146125321107900016",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 794-1",
-      "road_addr": "경기 용인시 처인구 #-#",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 790-16",
+      "road_addr": "경기 용인시 처인구 백옥대로2384번길 21-40",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 0,
       "tv_scrbr_cnt": 0,
@@ -260,62 +471,106 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [],
       "tv_tech": [],
-      "lat": 37.33651177,
-      "lng": 127.25025541
+      "lat": 37.33700744,
+      "lng": 127.25020861
     },
     {
-      "pnu": "4146125321107940020",
+      "pnu": "4146125321107930002",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 794-20",
-      "road_addr": "경기 용인시 처인구 백옥대로2384번길 21-31",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 793-2",
+      "road_addr": "경기 용인시 처인구 백옥대로2384번길 21-26",
       "avail_gen_cnt": 1,
       "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 3,
+      "tv_scrbr_cnt": 1,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 2,
+      "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 1,
+      "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "광랜FTTH",
+          "method": "광랜PBOX(GB)",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(IPTV_스마트3미니STB)",
           "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 2
         }
       ],
-      "lat": 37.33647605,
-      "lng": 127.25041357
+      "lat": 37.33688265,
+      "lng": 127.25087508
     },
     {
-      "pnu": "4146125321107940019",
+      "pnu": "4146125321107940018",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 794-19",
-      "road_addr": "경기 용인시 처인구 백옥대로2384번길 21-33",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 794-18",
+      "road_addr": "경기 용인시 처인구 백옥대로2384번길 3",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 2,
+      "tv_scrbr_cnt": 2,
       "skb_pop_cnt": 0,
+      "catv_digital_cnt": 1,
+      "catv_internet_cnt": 1,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [
+        {
+          "method": "광랜W(800)",
+          "count": 1
+        },
+        {
+          "method": "CA_광랜W(100)_구",
+          "count": 1
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IPTV_smart 3 STB)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        }
+      ],
+      "lat": 37.33638486,
+      "lng": 127.24991717
+    },
+    {
+      "pnu": "4146125321107940022",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "모현모텔",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 794-22",
+      "road_addr": "경기 용인시 처인구 백옥대로2384번길 21-27",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 17,
+      "tv_scrbr_cnt": 16,
+      "skb_pop_cnt": 16,
       "catv_digital_cnt": 0,
       "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.33665635,
-      "lng": 127.25042427
+      "int_tech": [
+        {
+          "method": "광랜E(GB)",
+          "count": 17
+        }
+      ],
+      "tv_tech": [
+        {
+          "method": "Btv(IP-CATV_smart 3 STB)",
+          "count": 16
+        }
+      ],
+      "lat": 37.33661195,
+      "lng": 127.2507405
     },
     {
       "pnu": "4146125321107940002",
@@ -373,153 +628,23 @@
       "lng": 127.250143
     },
     {
-      "pnu": "4146125321107940018",
+      "pnu": "4146125321107940020",
       "match_type": "inside",
       "in_area": true,
       "distance_meter": 0.0,
       "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 794-18",
-      "road_addr": "경기 용인시 처인구 백옥대로2384번길 3",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 794-20",
+      "road_addr": "경기 용인시 처인구 백옥대로2384번길 21-31",
       "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.33638486,
-      "lng": 127.24991717
-    },
-    {
-      "pnu": "4146125321107980002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "이브자리",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 798-2",
-      "road_addr": "경기 용인시 처인구 백옥대로2384번길 21-42",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.33685363,
-      "lng": 127.24993819
-    },
-    {
-      "pnu": "4146125321107940022",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "모현모텔",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 794-22",
-      "road_addr": "경기 용인시 처인구 백옥대로2384번길 21-27",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 17,
-      "tv_scrbr_cnt": 16,
-      "skb_pop_cnt": 16,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜E(GB)",
-          "count": 17
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IP-CATV_smart 3 STB)",
-          "count": 16
-        }
-      ],
-      "lat": 37.33661195,
-      "lng": 127.2507405
-    },
-    {
-      "pnu": "4146125321107990002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "모현약국",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 799-2",
-      "road_addr": "경기 용인시 처인구 백옥대로 2390",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 2,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_AI 4 vision STB)",
-          "count": 1
-        }
-      ],
-      "lat": 37.33695254,
-      "lng": 127.24982497
-    },
-    {
-      "pnu": "4146125321107950000",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 795",
-      "road_addr": "경기 용인시 처인구 백옥대로2384번길 21-41",
-      "avail_gen_cnt": 4,
-      "int_scrbr_cnt": 2,
+      "int_scrbr_cnt": 1,
       "tv_scrbr_cnt": 3,
       "skb_pop_cnt": 0,
-      "catv_digital_cnt": 1,
-      "catv_internet_cnt": 1,
+      "catv_digital_cnt": 2,
+      "catv_internet_cnt": 0,
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(100)_구",
+          "method": "광랜FTTH",
           "count": 1
         }
       ],
@@ -529,157 +654,12 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(IPTV_smart 3 STB)",
-          "count": 1
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 2
         }
       ],
-      "lat": 37.33664287,
-      "lng": 127.25000979
-    },
-    {
-      "pnu": "4146125321107930002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 793-2",
-      "road_addr": "경기 용인시 처인구 외대로 12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.33678335,
-      "lng": 127.25080767
-    },
-    {
-      "pnu": "4146125321107930002",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 793-2",
-      "road_addr": "경기 용인시 처인구 외대로 12",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 1,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.33678335,
-      "lng": 127.25080767
-    },
-    {
-      "pnu": "4146125321107900003",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "모현스포츠",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 790-3",
-      "road_addr": "경기 용인시 처인구 외대로 6",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 3,
-      "tv_scrbr_cnt": 4,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 3,
-      "catv_internet_cnt": 2,
-      "catv_8vsb_cnt": 1,
-      "int_tech": [
-        {
-          "method": "CA_광랜W(100)",
-          "count": 1
-        },
-        {
-          "method": "광랜W",
-          "count": 1
-        },
-        {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        }
-      ],
-      "tv_tech": [
-        {
-          "method": "Btv(CATV_8VSB)_90",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 3
-        }
-      ],
-      "lat": 37.33717846,
-      "lng": 127.25009516
-    },
-    {
-      "pnu": "4146125321107900016",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 790-16",
-      "road_addr": "경기 용인시 처인구 백옥대로2384번길 21-40",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.33700744,
-      "lng": 127.25020861
-    },
-    {
-      "pnu": "4146125321108010001",
-      "match_type": "inside",
-      "in_area": true,
-      "distance_meter": 0.0,
-      "bld_nm": "경희한의원",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 801-1",
-      "road_addr": "경기 용인시 처인구 백옥대로 2386",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 2,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [
-        {
-          "method": "광랜W(800)",
-          "count": 1
-        },
-        {
-          "method": "광랜FTTH(GB)",
-          "count": 1
-        }
-      ],
-      "tv_tech": [],
-      "lat": 37.33651974,
-      "lng": 127.24975867
+      "lat": 37.33647605,
+      "lng": 127.25041357
     },
     {
       "pnu": "4146125321107940023",
@@ -700,6 +680,26 @@
       "tv_tech": [],
       "lat": 37.33640272,
       "lng": 127.25073625
+    },
+    {
+      "pnu": "4146125321107940001",
+      "match_type": "inside",
+      "in_area": true,
+      "distance_meter": 0.0,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 794-1",
+      "road_addr": "경기 용인시 처인구 #-#",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.33651177,
+      "lng": 127.25025541
     },
     {
       "pnu": "4146125321107940067",
@@ -776,7 +776,7 @@
           "count": 1
         },
         {
-          "method": "CA_광랜W(320)_구",
+          "method": "CA_광랜W(100)_구",
           "count": 1
         },
         {
@@ -784,15 +784,11 @@
           "count": 1
         },
         {
-          "method": "CA_광랜W(100)_구",
+          "method": "CA_광랜W(320)_구",
           "count": 1
         }
       ],
       "tv_tech": [
-        {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 1
-        },
         {
           "method": "Btv(IPTVon기업회선)_M",
           "count": 14
@@ -802,16 +798,20 @@
           "count": 4
         },
         {
-          "method": "Btv(CATV_QAM_Android)",
-          "count": 1
+          "method": "Btv(IPTV_UHD_STB)",
+          "count": 7
         },
         {
           "method": "Btv(CATV_8VSB)_60",
           "count": 2
         },
         {
-          "method": "Btv(IPTV_UHD_STB)",
-          "count": 7
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_QAM_Android)",
+          "count": 1
         }
       ],
       "lat": 37.33606232,
@@ -1195,26 +1195,6 @@
       "match_type": "100m",
       "in_area": false,
       "distance_meter": 29.17502763,
-      "bld_nm": "모현철물",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 799-26",
-      "road_addr": "경기 용인시 처인구 백옥대로 2393",
-      "avail_gen_cnt": 1,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.33726733,
-      "lng": 127.24949655
-    },
-    {
-      "pnu": "4146125321107990026",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 29.17502763,
       "bld_nm": "N/A",
       "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 799-26",
       "road_addr": "경기 용인시 처인구 #-#",
@@ -1229,6 +1209,26 @@
       "tv_tech": [],
       "lat": 37.33731031,
       "lng": 127.24948967
+    },
+    {
+      "pnu": "4146125321107990026",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 29.17502763,
+      "bld_nm": "모현철물",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 799-26",
+      "road_addr": "경기 용인시 처인구 백옥대로 2393",
+      "avail_gen_cnt": 1,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.33726733,
+      "lng": 127.24949655
     },
     {
       "pnu": "4146125321105050000",
@@ -1334,26 +1334,6 @@
       "match_type": "100m",
       "in_area": false,
       "distance_meter": 30.54988483,
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 799-26",
-      "road_addr": "경기 용인시 처인구 #-#",
-      "avail_gen_cnt": 0,
-      "int_scrbr_cnt": 0,
-      "tv_scrbr_cnt": 0,
-      "skb_pop_cnt": 0,
-      "catv_digital_cnt": 0,
-      "catv_internet_cnt": 0,
-      "catv_8vsb_cnt": 0,
-      "int_tech": [],
-      "tv_tech": [],
-      "lat": 37.33731031,
-      "lng": 127.24948967
-    },
-    {
-      "pnu": "4146125321107990026",
-      "match_type": "100m",
-      "in_area": false,
-      "distance_meter": 30.54988483,
       "bld_nm": "모현철물",
       "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 799-26",
       "road_addr": "경기 용인시 처인구 백옥대로 2393",
@@ -1368,6 +1348,26 @@
       "tv_tech": [],
       "lat": 37.33726733,
       "lng": 127.24949655
+    },
+    {
+      "pnu": "4146125321107990026",
+      "match_type": "100m",
+      "in_area": false,
+      "distance_meter": 30.54988483,
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 용인시 처인구 모현읍 왕산리 799-26",
+      "road_addr": "경기 용인시 처인구 #-#",
+      "avail_gen_cnt": 0,
+      "int_scrbr_cnt": 0,
+      "tv_scrbr_cnt": 0,
+      "skb_pop_cnt": 0,
+      "catv_digital_cnt": 0,
+      "catv_internet_cnt": 0,
+      "catv_8vsb_cnt": 0,
+      "int_tech": [],
+      "tv_tech": [],
+      "lat": 37.33731031,
+      "lng": 127.24948967
     },
     {
       "pnu": "4146125321107990040",
@@ -1635,12 +1635,12 @@
       "catv_8vsb_cnt": 15,
       "int_tech": [
         {
-          "method": "CA_비즈_메트로_광랜_구",
-          "count": 5
-        },
-        {
           "method": "CA_비즈_메트로_광랜_IP추가_구",
           "count": 12
+        },
+        {
+          "method": "CA_비즈_메트로_광랜_구",
+          "count": 5
         }
       ],
       "tv_tech": [
@@ -1785,17 +1785,17 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        },
-        {
           "method": "광랜W(800)",
           "count": 2
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 2
         },
         {
@@ -1803,7 +1803,7 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 2
         }
       ],
@@ -1898,16 +1898,16 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 4
-        },
-        {
           "method": "Btv(CATV_8VSB)_90",
           "count": 1
         },
         {
           "method": "Btv(IPTVon기업회선)",
           "count": 12
+        },
+        {
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 4
         }
       ],
       "lat": 37.33660469,
@@ -1971,7 +1971,7 @@
       "int_tech": [],
       "tv_tech": [
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(CATV_실속형_HD)_구",
           "count": 1
         },
         {
@@ -1979,7 +1979,7 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_실속형_HD)_구",
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         }
       ],
@@ -2143,7 +2143,7 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "CA_광랜W(100)_구",
+          "method": "광랜E(GB)",
           "count": 2
         },
         {
@@ -2151,21 +2151,21 @@
           "count": 1
         },
         {
-          "method": "광랜E(GB)",
+          "method": "CA_광랜W(100)_구",
           "count": 2
         }
       ],
       "tv_tech": [
         {
+          "method": "Btv(CATV_실속형_Smart)_구",
+          "count": 1
+        },
+        {
           "method": "Btv(CATV_QAM_Android)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_Smart)_구",
-          "count": 1
-        },
-        {
-          "method": "Btv(CATV_실속형_Smart)_구",
+          "method": "Btv(CATV_QAM_UHD2)",
           "count": 1
         },
         {
@@ -2173,7 +2173,7 @@
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_UHD2)",
+          "method": "Btv(CATV_QAM_Smart)_구",
           "count": 1
         }
       ],
@@ -2233,11 +2233,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_실속형_HD)_구",
+          "method": "Btv(CATV_QAM_HD)",
           "count": 1
         },
         {
-          "method": "Btv(CATV_QAM_HD)",
+          "method": "Btv(CATV_실속형_HD)_구",
           "count": 1
         }
       ],
@@ -2460,12 +2460,12 @@
       "catv_8vsb_cnt": 0,
       "int_tech": [
         {
-          "method": "CA_광랜W(320)_구",
-          "count": 1
-        },
-        {
           "method": "CA_광랜W(100)_구",
           "count": 2
+        },
+        {
+          "method": "CA_광랜W(320)_구",
+          "count": 1
         },
         {
           "method": "광랜W",
@@ -2474,16 +2474,16 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(CATV_QAM_HD)",
-          "count": 3
+          "method": "Btv(CATV_실속형_HD)_구",
+          "count": 2
         },
         {
           "method": "Btv(CATV_QAM_Smart)_구",
           "count": 1
         },
         {
-          "method": "Btv(CATV_실속형_HD)_구",
-          "count": 2
+          "method": "Btv(CATV_QAM_HD)",
+          "count": 3
         }
       ],
       "lat": 37.33806198,
@@ -2612,16 +2612,16 @@
       "int_tech": [],
       "tv_tech": [
         {
+          "method": "Btv(CATV_8VSB)_60",
+          "count": 1
+        },
+        {
           "method": "Btv(CATV_QAM_HD)_S",
           "count": 3
         },
         {
           "method": "Btv(CATV_8VSB_Biz)_S",
           "count": 7
-        },
-        {
-          "method": "Btv(CATV_8VSB)_60",
-          "count": 1
         },
         {
           "method": "Btv(CATV_QAM_HD)",
@@ -2751,29 +2751,29 @@
       "catv_8vsb_cnt": 1,
       "int_tech": [
         {
-          "method": "CA_광랜W(100)_구",
+          "method": "광랜FTTH",
           "count": 1
         },
         {
-          "method": "광랜FTTH",
+          "method": "CA_광랜W(100)_구",
           "count": 1
         }
       ],
       "tv_tech": [
         {
-          "method": "Btv(단독IPTV_smart 3 STB)",
-          "count": 1
-        },
-        {
           "method": "Btv(CATV_QAM_Smart)_구",
           "count": 1
         },
         {
-          "method": "Btv(CATV_8VSB)_60",
+          "method": "Btv(단독IPTV_smart 3 STB)",
           "count": 1
         },
         {
           "method": "Btv(CATV_QAM_HD)",
+          "count": 1
+        },
+        {
+          "method": "Btv(CATV_8VSB)_60",
           "count": 1
         },
         {
@@ -2807,11 +2807,11 @@
       ],
       "tv_tech": [
         {
-          "method": "Btv(IPTV_smart 3 STB)",
+          "method": "Btv(IPTV_AI 4 vision STB)",
           "count": 1
         },
         {
-          "method": "Btv(IPTV_AI 4 vision STB)",
+          "method": "Btv(IPTV_smart 3 STB)",
           "count": 1
         }
       ],
