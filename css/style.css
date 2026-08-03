@@ -918,3 +918,104 @@ select:focus {
         right: 16px;
     }
 }
+
+/* --- 접속 인증 오버레이 --- */
+.auth-overlay {
+    position: fixed;
+    inset: 0;
+    background: var(--bg-app);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    padding: 20px;
+}
+
+.auth-card {
+    background: var(--bg-card);
+    backdrop-filter: var(--glass-blur);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    padding: 40px 32px;
+    width: 100%;
+    max-width: 320px;
+    text-align: center;
+    box-shadow: var(--shadow-main);
+}
+
+.auth-card .logo-b {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    background: var(--skb-blue);
+    color: #ffffff;
+    font-family: var(--font-en);
+    font-weight: 800;
+    font-size: 24px;
+    border-radius: 10px;
+    margin-bottom: 16px;
+}
+
+.auth-card h2 {
+    font-family: var(--font-ko);
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin: 0 0 8px;
+}
+
+.auth-card p {
+    font-family: var(--font-ko);
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin: 0 0 20px;
+}
+
+.auth-card input {
+    width: 100%;
+    height: 46px;
+    background: var(--bg-input);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    color: var(--text-primary);
+    font-family: var(--font-en);
+    font-size: 16px;
+    letter-spacing: 4px;
+    text-align: center;
+    padding: 0 12px;
+    margin-bottom: 14px;
+    box-sizing: border-box;
+}
+
+.auth-card input:focus {
+    outline: none;
+    border-color: var(--border-color-focus);
+}
+
+.auth-card button {
+    width: 100%;
+    height: 46px;
+    background: var(--skb-blue);
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    font-family: var(--font-ko);
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: var(--transition-smooth);
+}
+
+.auth-card button:hover {
+    opacity: 0.9;
+}
+
+.auth-error {
+    display: none;
+    margin-top: 12px;
+    color: var(--skb-red);
+    font-family: var(--font-ko);
+    font-size: 12px;
+}
