@@ -63,34 +63,604 @@
   },
   "buildings": [
     {
+      "pnu": "4113510700104950000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 495",
+      "road_addr": "경기 성남시 분당구 판교로610번길 25",
+      "enc_subscriber": "9lWuVXjOsYocCiR8:lN+JlkhZ8bV238EATdnKKy5YWWYrgCeGSomBPvKzGrk9sHxDr+zVreyAlVFgZ4evxFfb80DL/TuxMbJK4wmap7wZRsbthyHFUUsFhhM1EQy15w4cjkQ=",
+      "lat": 37.40710682,
+      "lng": 127.1382018
+    },
+    {
+      "pnu": "4113510700106070003",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 607-3",
+      "road_addr": "경기 성남시 분당구 판교로592번길 36",
+      "enc_subscriber": "ANvjw0+qEgJ0D67q:wrVXQfbmjn17dsjwXkpcvFKxnDXtPvJZkbsP/xFT7JY1EUSyKSMt+q8KCnMWq2FxtkHgSIUkU0T5jAnIpgF+UROtfA6lUJ1u1II8UXFs7ser4WPMIcE=",
+      "lat": 37.40538886,
+      "lng": 127.13645869
+    },
+    {
+      "pnu": "4113510700105060003",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 506-3",
+      "road_addr": "경기 성남시 분당구 판교로610번길 12",
+      "enc_subscriber": "kodCH7ysp19esEAi:XrElCpSVER3npiw11BfZoBQ9IMelzLSjgX4MPJjkiOTX08Q+UtnSVkEOcM6Hd0Sa0GoJm76WxGmfroVOilFVm8SmAIgMl52EWAQlriqCx7sa0pH2xMc=",
+      "lat": 37.40724658,
+      "lng": 127.13969266
+    },
+    {
+      "pnu": "4113510700104050001",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 405-1",
+      "road_addr": "경기 성남시 분당구 판교로610번길 1",
+      "enc_subscriber": "Jwfz2kTSj7bU2Xnk:EpQ6u4FX1tycpSGuc+CQA3675yxtEr6Chc+bExUveEVjkS3e998V1T1VqKx/MSupsvVZ1e9sxc/euT9mvcsjypE2Rq6xMjrI/K55ut+UpQ7dq/m6pZ8=",
+      "lat": 37.40707337,
+      "lng": 127.14058737
+    },
+    {
+      "pnu": "4113510700104990000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 499",
+      "road_addr": "경기 성남시 분당구 판교로610번길 22",
+      "enc_subscriber": "HaP9ESfkKYPwb+Qx:qEYOZDf6HY2ckXOJsk2BCP/v63O2lLpcGDBZLCdkonbd5bdFhD0KlHnbmHSuwPqOoLalyE94Ch5yH83MnVGKpZFCaba1ARqXwlaf6z042+nLLoOBFPE=",
+      "lat": 37.40727963,
+      "lng": 127.13870945
+    },
+    {
+      "pnu": "4113510700104930003",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 493-3",
+      "road_addr": "경기 성남시 분당구 판교로552번길 27",
+      "enc_subscriber": "mjRWQoRFFkHXbFqH:qDOmxat4ZKTL3nN5Bs2TNpW/MlkE2oZgiZIkqQJBFgCnl31elBIhLynFo4TwWZLirKhAiDG9Iqf2/tW4kj9Mqq824d0wKSFksLbyANaimxFI6RlFmL4=",
+      "lat": 37.40696021,
+      "lng": 127.13742285
+    },
+    {
+      "pnu": "4113510700104790002",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 479-2",
+      "road_addr": "경기 성남시 분당구 판교로562번길 9",
+      "enc_subscriber": "1oQ6vVZQsn6o1/Hb:SPS01UpsEPSFhYGJoqz0ZtTrnMdYFgoNTysxmQp7zLc7YWihTKsEwg2nKK5GzaTzpvpRg6DjQ/6Nl2tDKgZwSExKDXDdNJTV6L9UpVQ5yy3JBIAiPfc=",
+      "lat": 37.40672103,
+      "lng": 127.13585338
+    },
+    {
+      "pnu": "4113510700104820003",
+      "match_type": "inside",
+      "bld_nm": "탑마을",
+      "jibun_addr": "경기 성남시 분당구 야탑동 482-3",
+      "road_addr": "경기 성남시 분당구 판교로 572",
+      "enc_subscriber": "a32qEvXIE/75+tLn:3vEi48rJB40pkEvt4hATGFaXV43h5Ul50uAR7pgcC+JEL6NpS5CeYxgEZB7OApG/pNdmqQ+x9v9quYqzaESrq6XxZfHwzkBAm9sBPY6mAofx+Cc2WnQ=",
+      "lat": 37.40742649,
+      "lng": 127.13662963
+    },
+    {
+      "pnu": "4113510700105060004",
+      "match_type": "inside",
+      "bld_nm": "성림프라스틱",
+      "jibun_addr": "경기 성남시 분당구 야탑동 506-4",
+      "road_addr": "경기 성남시 분당구 판교로 596",
+      "enc_subscriber": "MDu0rwZmiUzkL7iv:YwBJcinppr3pM8AB2MXGzpijyJksvRaQAYdQjCr5nHklqok9hjdwEIaJ9O3fFu7IZxjZxnlNcU/v4zBXJiJk1Kp08ifealXCZ182Q6nDXfXbFWzopWM=",
+      "lat": 37.40721881,
+      "lng": 127.1394555
+    },
+    {
+      "pnu": "4113510700104050015",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 405-15",
+      "road_addr": "경기 성남시 분당구 판교로592번길 7",
+      "enc_subscriber": "GqGyIQKU3zkjkExO:QZb8nQjPZDOFK8sIGyKxd9o63K51OKxz/AgyXxmQ+mAVcKHB/kTmsTKjR5jP3HeaGmFlWfRAXd9hrPNOWHP/yf0NgIBTb1UbXVLqTdoZeQ+LoW665jk=",
+      "lat": 37.40696422,
+      "lng": 127.13873356
+    },
+    {
+      "pnu": "4113510700106060001",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 606-1",
+      "road_addr": "경기 성남시 분당구 판교로592번길 47",
+      "enc_subscriber": "ogfpzXNslVCtXt3k:0eIF7P5O7xQXkzK2FrUjJSCGSeOH7I7BWejGd89coTRBHN3wxURDKcw7mxycokaNVWNBNfMmzKdsDl9OuX492xjQ+p/PjWcJFw1JdP9paHlnpNDKbEM=",
+      "lat": 37.40522463,
+      "lng": 127.13581543
+    },
+    {
+      "pnu": "4113510700105070000",
+      "match_type": "inside",
+      "bld_nm": "윤의민상가",
+      "jibun_addr": "경기 성남시 분당구 야탑동 507",
+      "road_addr": "경기 성남시 분당구 판교로610번길 18",
+      "enc_subscriber": "1UXFJjkucdWGYtDz:XeoqUe1jsk9fHh1tg24o5dOZZ6ySuCyJ4LxZHX4a9RM5GC9nv7KJgzoPpLo6gb36hXL7GLQCoCS5VXmNADsSXKnyZLMoJsFh+WTWkVYl3BvEfJx+ThY=",
+      "lat": 37.4072988,
+      "lng": 127.13908224
+    },
+    {
+      "pnu": "4113510700106060013",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 606-13",
+      "road_addr": "경기 성남시 분당구 판교로592번길 40",
+      "enc_subscriber": "WHtVLMgg2aGi6jAB:Wy3XXoVjN1aICh/NZbs17aflfuNT7pjW6MVE4ZqMo2nCfo/iJ/a9u0ZA8YzpLjES5rI/AfqpFeijVc67XSy4mqOA0QP8UqztBunOwD1CWFI7+rRYC9Q=",
+      "lat": 37.40500026,
+      "lng": 127.13613289
+    },
+    {
+      "pnu": "4113510700106060012",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 606-12",
+      "road_addr": "경기 성남시 분당구 판교로592번길 38",
+      "enc_subscriber": "I51nX8shRfrw4o2P:S9zRHQAwIYib6pHe/oJrRnaUTRu54NPSK10AWUFJ+9Q583dhhlMfoYROQS9NJDPwsccK/s3xtczn1TKmNPaeNN8IPnoUih0AcWQufGszGP82OGbUi1Y=",
+      "lat": 37.40520789,
+      "lng": 127.13623358
+    },
+    {
+      "pnu": "4113510700104720003",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 472-3",
+      "road_addr": "경기 성남시 분당구 판교로552번길 26-1",
+      "enc_subscriber": "vP9cHKKv1eX2DxxB:L1bOUB7udUZJ5H2clUvASXkvo9ib9HJaTCEjA5zQWtcZlha3ex+YmPnIMs4PqyM8+bDBjhfzbcNg5XQnup0y8Q56h9VVff0H2cM2iGq48T8eKjPzbR0=",
+      "lat": 37.40661728,
+      "lng": 127.13728891
+    },
+    {
+      "pnu": "4113510700104950025",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 495-25",
+      "road_addr": "경기 성남시 분당구 판교로610번길 21",
+      "enc_subscriber": "vKpQKQiHTGjfVg+R:Fyf4Id7d+4R58pxomFUloU15ykHUDcuTDvsxSVx039s/P5BEsd93GwSxPDv+8wiMDRYsNXe90tHpr4QBG6xKOs7O0150Pcg0/LJpnVJvSzf/EF3QdE4=",
+      "lat": 37.40704469,
+      "lng": 127.13851848
+    },
+    {
+      "pnu": "4113510700104050012",
+      "match_type": "inside",
+      "bld_nm": "조창빌라",
+      "jibun_addr": "경기 성남시 분당구 야탑동 405-12",
+      "road_addr": "경기 성남시 분당구 판교로592번길 9-6",
+      "enc_subscriber": "RW0+GrodRMarshs1:USYCcXxzIa9XktK70yuixsvmeXeoR81AE56M/+w2QlwuD5NfgfNvJn+KmXbEql4ESIQ1WcjhuWZzjgiqB3O0qJV8brMY0QmDBpr2/bfJL6tPyCZ3Evw=",
+      "lat": 37.40678499,
+      "lng": 127.1390734
+    },
+    {
+      "pnu": "4113510700104820002",
+      "match_type": "inside",
+      "bld_nm": "무교동낙지전문점",
+      "jibun_addr": "경기 성남시 분당구 야탑동 482-2",
+      "road_addr": "경기 성남시 분당구 판교로 570",
+      "enc_subscriber": "5XnDu2sbOoRlQyVE:xIJDYwPVc3gz2sl0Zw0R97GRbMyp7WQljImnv22r9V6KonIrxs1JcVdk49Bug/Q8C37GpjC4Bf/z5dBvLA0KX0vQugPafC4A/s71225qH/bcZDkyaOI=",
+      "lat": 37.40748896,
+      "lng": 127.13642594
+    },
+    {
+      "pnu": "4113510700104930007",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 493-7",
+      "road_addr": "경기 성남시 분당구 판교로572번길 12",
+      "enc_subscriber": "1wFn3gRCYIMZIQ84:+PWS31zo/tNRLVwjHBQvddrwfs+wA9EvZPR9cWxnxbdZXKzGI57hP2+XSIxj4zIeKoRN3STcYhtRYFZw2qi8rotabPpwBcQ3x174iw/xTmuXr+w8Y/w=",
+      "lat": 37.40701519,
+      "lng": 127.13771637
+    },
+    {
+      "pnu": "4113510700104790005",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 479-5",
+      "road_addr": "경기 성남시 분당구 판교로552번길 18",
+      "enc_subscriber": "nmyXnxOVeCbQmAbV:PsSiNCGADVwqrO9OcrOjhOlBG97GY+kWaSWMKxlqNB26pWHKKPIkOxd7140YU3+bKA6QnHiUhbV0M14ohRPLU+hrDVy/d2hVmXC2EP5K33/lPED2jxo=",
+      "lat": 37.40689417,
+      "lng": 127.13646271
+    },
+    {
+      "pnu": "4113510700104960000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 496",
+      "road_addr": "경기 성남시 분당구 판교로610번길 26",
+      "enc_subscriber": "aLX+RvjZceWdq3H2:5OnkO65lZmiXmETB7zYbeANeeKTqI6xt6E4zEtli6oXUcPaaLNP+9K6J7F1AcUBzKiatzngKC4SH+WgUDfnoZi0NQu1qKx1YbQ73+Qpv09TtcVXxIOM=",
+      "lat": 37.40729635,
+      "lng": 127.13827999
+    },
+    {
+      "pnu": "4113510700106070002",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 607-2",
+      "road_addr": "경기 성남시 분당구 판교로592번길 53",
+      "enc_subscriber": "fDVZaDYuBi53oAYY:tBBXUbG03kIdpZTYzQ8Qi067RjaT5IbNEWBET4PEnYx0H2EvRUjo6l2OZKYs+YkChm4jX5GCdYdtPehxbQfaIXvosciLe4xAalH3mZrSmD1Yew0bRHI=",
+      "lat": 37.40553248,
+      "lng": 127.13626591
+    },
+    {
+      "pnu": "4113510700104050003",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 405-3",
+      "road_addr": "경기 성남시 분당구 판교로610번길 3",
+      "enc_subscriber": "q2xa8MaS8eimoaEb:twAR9MlsNxDJ4OA3BElrsm3kPSPcQm7cbqmF5iM6A4BRYGAPOc+WG+gUPBSv6+skYKTap9NqQnVfoL/r/4q4cru6ih/OLwG3eMdzPbndZ/OOngPPl3s=",
+      "lat": 37.40704153,
+      "lng": 127.1404394
+    },
+    {
+      "pnu": "4113510700104050018",
+      "match_type": "inside",
+      "bld_nm": "경기탑프라자",
+      "jibun_addr": "경기 성남시 분당구 야탑동 405-18",
+      "road_addr": "경기 성남시 분당구 판교로592번길 9",
+      "enc_subscriber": "d+BsM5It2mMgjg73:U5qREpaE387CVxZt88doTDjLuHLiYZXkNfmpkTr8TQrSelFwsm0UUQhTezDWB2l+WydDcxWFXb7hE+GmhF9O9rc4eOms8b8k1GAZe1Vmk2uYWX2DOAM=",
+      "lat": 37.40652238,
+      "lng": 127.13867918
+    },
+    {
+      "pnu": "4113510700104930004",
+      "match_type": "inside",
+      "bld_nm": "백강빌딩",
+      "jibun_addr": "경기 성남시 분당구 야탑동 493-4",
+      "road_addr": "경기 성남시 분당구 판교로572번길 11",
+      "enc_subscriber": "O7036h0Fw5a4iIwc:PhU3YRg4yYDu37MAR6enmSlQcvWYuSCTP3efYT2Nj8IZA1275k72pUvnb6bWoBFBI2/Noe6GRF/1O4FR1hGXy9pzw8DjiaPriza4Rn86AKwUx5ECjW0=",
+      "lat": 37.4070882,
+      "lng": 127.1380098
+    },
+    {
+      "pnu": "4113510700104760000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 476",
+      "road_addr": "경기 성남시 분당구 판교로592번길 30",
+      "enc_subscriber": "h84f3qwIiV4aycvg:wtqBqn6CBxOgATkSfmqlLjDi6SECzli1Bsri28RHCjJsS3Ur6tVa2J57OMlbO+X8FSyN8xH4iwroZCox0z/Zv8CKmWLStcB79ThidGhVxSvfz+Gb9Q0=",
+      "lat": 37.40554348,
+      "lng": 127.13690991
+    },
+    {
+      "pnu": "4113510700104770002",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 477-2",
+      "road_addr": "경기 성남시 분당구 판교로552번길 26-8",
+      "enc_subscriber": "bRLMz4jjWnSaY1/a:t4bgpjF5pGphbs5GWkTH6hXW//rb3W1gF0StsBvNp1mkmfXKiDlnO0v+frFaiPPqc/ocToaiJkqvTJeepOJjz1yZKbgFZuQQ35fR4Ri+qa3KSVS7c34=",
+      "lat": 37.40612011,
+      "lng": 127.13682803
+    },
+    {
+      "pnu": "4113510700104780000",
+      "match_type": "inside",
+      "bld_nm": "버섯속에낙지찜",
+      "jibun_addr": "경기 성남시 분당구 야탑동 478",
+      "road_addr": "경기 성남시 분당구 판교로552번길 26",
+      "enc_subscriber": "pb8XxJzy66dvzs6v:WjllR6KTVLIVE284k0z0JT0GTzZnMwdoSpCKbZ87ngpwt4L/YwkX4xVQomB8cZtmBQoQxn1q0UBpbZQlz7O8mpXZ1jn9xsrgZO9NyW2uuuF/gsU/Bdw=",
+      "lat": 37.4067503,
+      "lng": 127.1365764
+    },
+    {
+      "pnu": "4113510700105970000",
+      "match_type": "inside",
+      "bld_nm": "야탑프라자",
+      "jibun_addr": "경기 성남시 분당구 야탑동 597",
+      "road_addr": "경기 성남시 분당구 판교로562번길 2",
+      "enc_subscriber": "oxzzpNa3n1ImiMb6:DjRcuagKs+lX4Ky/v0LVkoIUg0wl/GLNN4UoIgGVrsc8J0aJW3YQMWMkODcILNSdQnKXuwGNwUSgYA/Q4n3Oe7KvPMl1Zm53Ioqe/DXvDN/6vHUjXGQ=",
+      "lat": 37.40737781,
+      "lng": 127.13545472
+    },
+    {
+      "pnu": "4113510700104770004",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 477-4",
+      "road_addr": "경기 성남시 분당구 판교로592번길 28",
+      "enc_subscriber": "92HVWyu6XxMzGfzb:tfeHcMv9Y6NTwMmK+mmKK8Ub/eImB1Eeqb+vromWOQ1ejl+pgll0X6EqhyOOb52ZbCkiSR2C8P6xuUK/T4xDfElnoG6dcKmYVYzegM1GuQdujBZaWwE=",
+      "lat": 37.40574192,
+      "lng": 127.13695415
+    },
+    {
+      "pnu": "4113510700105000000",
+      "match_type": "inside",
+      "bld_nm": "은경빌딩",
+      "jibun_addr": "경기 성남시 분당구 야탑동 500",
+      "road_addr": "경기 성남시 분당구 판교로 588",
+      "enc_subscriber": "f12i+ysJB2IUYu6o:jjsD+YpSO3pWr9XlVLyx33OiP5RdyWUmft0hlcHjyTNJSQ2SQqhJtSfTkHu1PQgrmgST9TrziDdls3vpTcqyxhn7d5H7W5yD5V+yKR4ESfms4GxUoyI=",
+      "lat": 37.40741442,
+      "lng": 127.1385732
+    },
+    {
+      "pnu": "4113510700104930008",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 493-8",
+      "road_addr": "경기 성남시 분당구 판교로572번길 9",
+      "enc_subscriber": "/vnnxLqHnKVjzVUI:05vP1A2Qh4Xa7b27w0U+FbK9lAdIga1c5/h3aslOf+yOc3SMZjFRlobiLQ1/RGYqBDwJXZ2B/6B3Ge6D1DdeN06mEPUlsRkWKM9qbDYCVnf5pUaWD3c=",
+      "lat": 37.40716891,
+      "lng": 127.13787382
+    },
+    {
+      "pnu": "4113510700106070000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 607",
+      "road_addr": "경기 성남시 분당구 판교로592번길 51",
+      "enc_subscriber": "6S8Y7HpckV3Z7n48:0+YyzO1aIbbol/dSnaPtypk0lf5h2y2nSMrj5GCFk5a45zmstAHvpcM8L0J9KFDGLnTHTsd9lcMEIs27Mr8TvmuVPFD0b3RZAs60VcQjz5iRBKosCvQ=",
+      "lat": 37.40548679,
+      "lng": 127.13606274
+    },
+    {
+      "pnu": "4113510700104930015",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 493-15",
+      "road_addr": "경기 성남시 분당구 판교로572번길 10",
+      "enc_subscriber": "nV6/DCgUCBnSDOs1:8GdfWAVXb/l0C+8wddxh6zc1r3SoUU7/dcZPFiKEoC0FibUbApf5zkxdtcAwfUuw4lpMsz7F5qTXxir/kN1oRmXOPACD+jLL2XjNfcpQVklxutD2TOg=",
+      "lat": 37.4071678,
+      "lng": 127.13751224
+    },
+    {
+      "pnu": "4113510700104720001",
+      "match_type": "inside",
+      "bld_nm": "야탑동건물",
+      "jibun_addr": "경기 성남시 분당구 야탑동 472-1",
+      "road_addr": "경기 성남시 분당구 판교로572번길 18",
+      "enc_subscriber": "PC9OkJmTSD3tzWP/:Nd5fMvYFJ0uXAgo2yRR3sh7zFt6pDfsdTF5fkBqpd1aTQOzD3qAsOetQA4WX8m3+/PwAuh99TsYY+YHkuuWYRh5YrVNSKv8Q1NtYigvt92OBQvDoCk8=",
+      "lat": 37.40650135,
+      "lng": 127.13769624
+    },
+    {
+      "pnu": "4113510700104750001",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 475-1",
+      "road_addr": "경기 성남시 분당구 판교로592번길 34",
+      "enc_subscriber": "4B7P6PRpMKR3TGdW:PRXru3Tkb7NeB7zaDFZrwuaQ/auaJMA//hpsyQDKiaGO1q53uP5MbCArfVhAFlVh+Xg9rBOfjvf8IPPmwFCO5aAxGPGQxQ9851rvyQIHoh20zFC4qPw=",
+      "lat": 37.40538962,
+      "lng": 127.13670727
+    },
+    {
+      "pnu": "4113510700104910000",
+      "match_type": "inside",
+      "bld_nm": "현대야탑써비스",
+      "jibun_addr": "경기 성남시 분당구 야탑동 491",
+      "road_addr": "경기 성남시 분당구 판교로 582",
+      "enc_subscriber": "ZDgXbZjVuEJpV8kx:i82tyecPI7u9CRoLsrTwYhDzRzFneQ9uUfc+p61W2zCRxEH5CMLCKslwLqGioqLeH2RwMZ/qZXyFT3PJu0mMQbDUWoRR2nuNTnN4WIJ+EfJX3itRvrs=",
+      "lat": 37.40744816,
+      "lng": 127.13781598
+    },
+    {
+      "pnu": "4113510700104720015",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 472-15",
+      "road_addr": "경기 성남시 분당구 판교로552번길 26-5",
+      "enc_subscriber": "QOGVTqd0X6prYbJA:CwMEUzvuWnpn27gu/16xloaGN++FkmZW7c5mQG+fIzbYoXPlNJc+Gvd5CuXtDPP/JZELriKnY4gb4p21L/qFJITpyPWPtVOKIWwHOzqWzYrpZSA4EHw=",
+      "lat": 37.40629303,
+      "lng": 127.13736956
+    },
+    {
+      "pnu": "4113510700104900001",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 490-1",
+      "road_addr": "경기 성남시 분당구 판교로 584",
+      "enc_subscriber": "C88MXTtkxxLOiDsE:iyic8aGdQyPPoaszjRc4Hv5+E6zslASSCihv0SSjK5b+6EMetfiNihZNyIwPUfrab6rqBnoCh3oy3MVF7DFS9X8Ft6qV7E16zTXe9o5MDxjLnZXdTzg=",
+      "lat": 37.40744906,
+      "lng": 127.13810976
+    },
+    {
+      "pnu": "4113510700104050010",
+      "match_type": "inside",
+      "bld_nm": "야탑타운",
+      "jibun_addr": "경기 성남시 분당구 야탑동 405-10",
+      "road_addr": "경기 성남시 분당구 판교로610번길 15",
+      "enc_subscriber": "gNqBiEO9RZ+R+1v2:ON3wi3ldYhzr72FYEjrL/uuIvzBKn0Z3+cmOKeNrxaGVOhk06pBwIfz5v1U8eNhDev01n8VIMZxdUvXtqnFLLxYKxbDsCr+ykwsFACQxiaauv3mvucI=",
+      "lat": 37.40702877,
+      "lng": 127.13920783
+    },
+    {
+      "pnu": "4113510700104720014",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 472-14",
+      "road_addr": "경기 성남시 분당구 판교로552번길 26-3",
+      "enc_subscriber": "Cui3jEOfSDGLlOoX:X6Zh5ZhnJdP4FuCyCIk0CqNzarSuVQkmKQaEsbAD5FAyPhYojiXPY+Om0H+FzQkhrSjMB29yAcS4kZhap7Qari7AuFEnaB01RCAV16l3/mQhEiOWcIs=",
+      "lat": 37.40647313,
+      "lng": 127.1373122
+    },
+    {
+      "pnu": "4113510700104050009",
+      "match_type": "inside",
+      "bld_nm": "태광맨션",
+      "jibun_addr": "경기 성남시 분당구 야탑동 405-9",
+      "road_addr": "경기 성남시 분당구 판교로610번길 13",
+      "enc_subscriber": "o/NS8nryIu6KrYPf:eWSrHFG5NvsaMjHq8NtUVf/tOFkrG1hGmNzdSW5pPNnyb/QHc0U5hBdKjfjO7pQbMR/nr0idVGPHHlo37EXBm5aXpEGy9amW9OtDnUkgEqZOYH1Zt60=",
+      "lat": 37.4069483,
+      "lng": 127.1394229
+    },
+    {
+      "pnu": "4113510700104050017",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 405-17",
+      "road_addr": "경기 성남시 분당구 판교로592번길 9-2",
+      "enc_subscriber": "c5HwCGsRIBXRpgEl:C8TF4nAm7569rhCQoSi5wzXC5Dkq4FfXVi0llJ+WTDwc5QkakKBlbnmZimnHTZVYCqrtyGvexIrfIiGB7XBKRT3EMbj670RneJdN/Edc9vJo/dV7LYw=",
+      "lat": 37.40677435,
+      "lng": 127.13854238
+    },
+    {
+      "pnu": "4113510700104940000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 494",
+      "road_addr": "경기 성남시 분당구 판교로592번길 10",
+      "enc_subscriber": "PTMW4WogjYbTz66a:MlvOpxYQ2xNlc9OIUFp57bxoJiID9Bnyjn6h9HC4OqznhDtYlC/Bqosbb6poSzJsXmPBRJZmvSNxYFdF5zbdZqoctFPFsjUww4N9z4knRRFmvMXeQPQ=",
+      "lat": 37.40693591,
+      "lng": 127.13831562
+    },
+    {
+      "pnu": "4113510700104580002",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 458-2",
+      "road_addr": "경기 성남시 분당구 판교로592번길 25",
+      "enc_subscriber": "AKDa2wsrL62QEk62:hjGNgr1+aDnhXbMfWjZBAM1rJqr2MWX5gm93Bm2J+Vh6OAIGHyBqqcR6nCdt0cXwNp54JuVz/KfjoKAJ8vZ/IXZSIvHhI1+Fa/6729H4m7Rd39FR/Mk=",
+      "lat": 37.40584457,
+      "lng": 127.1374404
+    },
+    {
+      "pnu": "4113510700104770000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 477",
+      "road_addr": "경기 성남시 분당구 판교로552번길 26-4",
+      "enc_subscriber": "CT8K0k3TabYi8/bo:3kjV1L3N1/Qu/tH7g6AgNkM5fEzyHQJA+pFiz1bLMtAc2f1ZFfx0Yz69NwMdYeL767toBehkOZE4q+BxpV5b1w+ywEWxUkUebFn+6TE53PJYHeD7feE=",
+      "lat": 37.40657984,
+      "lng": 127.13683711
+    },
+    {
+      "pnu": "4113510700104740000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 474",
+      "road_addr": "경기 성남시 분당구 판교로552번길 26-9",
+      "enc_subscriber": "i0xSBdDE1m81v1hq:hIKlqjz9Kgi3hCoQ/fdiKQ5DGxu+RJ3YUiG3gBvdhaZExOZ+qEAUwZUyMduTNasmspzHhUmr1AqC9XAPhEpiTmoeWJIJKrWXsB524y2fvu06FCU0uDo=",
+      "lat": 37.40600027,
+      "lng": 127.13735212
+    },
+    {
+      "pnu": "4113510700104800005",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 480-5",
+      "road_addr": "경기 성남시 분당구 판교로552번길 17",
+      "enc_subscriber": "n7ndpX4Uu+YLBa9a:rOoxfkK7doVVGlm3r1tHIa7FnmSv2qaYF1KzqJVRdDfYx+XC9YbDjuxAvQx3I27t9P2nQYyIGnusar8YApeYFGpxFtkZWcgZN8cNn99+uAIW4YfW5Nc=",
+      "lat": 37.40735289,
+      "lng": 127.13614411
+    },
+    {
+      "pnu": "4113510700104050007",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 405-7",
+      "road_addr": "경기 성남시 분당구 판교로610번길 9-1",
+      "enc_subscriber": "NEvdZ1GOtjyFcx2u:a5ivAt6AX8VM07OrfRMtT/GRdYykepxMyu8WDF5cMY2/M4O5DnWIi3enuBu3sVZiRCSTO3VGpLo6ltuJmvuZfOVfbqu0C9k/6vB29NHrBiv7er8PV5M=",
+      "lat": 37.4069407,
+      "lng": 127.13988621
+    },
+    {
+      "pnu": "4113510700104600000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 460",
+      "road_addr": "경기 성남시 분당구 판교로592번길 19",
+      "enc_subscriber": "vhz0qsZ6rSIqS+fS:ADjkdPRtfUb/Vdj2asWn7kCgjPTZH0qyG09YxmgQwu/+vGM6d6J1l9helEeM5YU8DXyERcv3YN95lEdAH0IfLy/a4FYkVI1PFyduReXQUzLMVSPv5Ek=",
+      "lat": 37.40612264,
+      "lng": 127.13765287
+    },
+    {
       "pnu": "4113510700104820007",
       "match_type": "inside",
       "bld_nm": "야탑벨리",
       "jibun_addr": "경기 성남시 분당구 야탑동 482-7",
       "road_addr": "경기 성남시 분당구 판교로572번길 2",
-      "enc_subscriber": "O4Y2AVxHcYqcgyFs:L06SiMpP34eGFZNNG6/dvs9Z/V9ebwwzA8aMp8f/5OYAgzL6vF5h0OA/r7VQhPxOxif07U5dN2ScHGJBedX3lioNUMqeoqV2TsaZvT/aK3u0waJCzQLzwIJxwwusfhhe95sZTRZ5om1wPFusBF90zvLLXLqjRd7iPm35hwawX+m3xwFKTZjTQP/AiIp3zBDoM2OBpE/+ILYXk13Vcqvnxw4ZSEhEplF53Kbl5G1X",
+      "enc_subscriber": "kg8nc6i92aLyLQFo:WMXgyzkpuddkuIVD4ITA5/W7tz4Y9PtKXBKei6pQ8xz0LVHIbGy3Amx6ffZadc/8tgk3PWS6BZ4nvrJ4J+GB7IllfqAkxXfNs9taPdoDSWOGupRDMls=",
       "lat": 37.40731011,
       "lng": 127.13689008
     },
     {
-      "pnu": "4113510700104800006",
+      "pnu": "4113510700104010002",
       "match_type": "inside",
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 480-6",
-      "road_addr": "경기 성남시 분당구 판교로552번길 15",
-      "enc_subscriber": "ekjZucBiHho5/aXe:p8r2gL1nbJaLsBoXsIoxgqajXw1bRlCZdzFyL8CrVOaVhQgUtPgDrWC5odXWhC8d6GR3NIjZal639KW0+bimWpsrzAnQ1duru0X8AGYOWAArc7QMA1KPyy9B9tzy2nMAFxrUYc85qFiuEUecBHXDsfuRWOeS4+EV7Ic1T/h80pVPp0CsEZ78fBuyzGYrzN+q54g8CxhNB4fzu5Wh8A3z4SgHfZi29RUd0LvuiWY=",
-      "lat": 37.40719103,
-      "lng": 127.13626919
+      "jibun_addr": "경기 성남시 분당구 야탑동 401-2",
+      "road_addr": "경기 성남시 분당구 판교로610번길 1-2",
+      "enc_subscriber": "byfs/uV9Sj+gwKik:EF3HuqzVkFfdwXYrzzBzyrKI9cczbIVj2Cm5yRjqtj7G3NzRN1IvIvWefk7/k+rUkMSigRTgZBgF7KONYHy4+zjoZ3zEWzkuhTDhv3hIb2CfjLkG4+g=",
+      "lat": 37.40689735,
+      "lng": 127.14045139
     },
     {
-      "pnu": "4113510700104940001",
+      "pnu": "4113510700104790004",
       "match_type": "inside",
-      "bld_nm": "제일하이빌",
-      "jibun_addr": "경기 성남시 분당구 야탑동 494-1",
-      "road_addr": "경기 성남시 분당구 판교로572번길 15",
-      "enc_subscriber": "UqM0VOiy9yScnsiF:gN5+Afg8aaGThhQ/KQMThzeLQ0LJ4AWw4RE1fxXoUCc6qZccL9BLdF6sNSHQoaDKxxDf5ekIrhh+cL8b3JTbsm0jw2S06SHa5VPNa5Bmv0NaiMXZfFE=",
-      "lat": 37.40687226,
-      "lng": 127.13813513
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 479-4",
+      "road_addr": "경기 성남시 분당구 판교로552번길 14",
+      "enc_subscriber": "UGU0g2mi0wMgTnEu:VdLnTTECCiIpXyDV2nTKhRhcRhKzYDbLMRQwiScZMLmscw8DiUTysdcWnp236Y8xRcftAV24dWYxdkQaqYjVXdymw6LXIb2uMclgVSvEBb4uBYksmJA=",
+      "lat": 37.40673084,
+      "lng": 127.13611322
+    },
+    {
+      "pnu": "4113510700104050008",
+      "match_type": "inside",
+      "bld_nm": "북분당어학원",
+      "jibun_addr": "경기 성남시 분당구 야탑동 405-8",
+      "road_addr": "경기 성남시 분당구 판교로610번길 11",
+      "enc_subscriber": "58gFI+G8QyL0ZAXK:nNlHg+CjTs4GW2AkXpohTKfwpaBaCYlAwrfFYHQ+qz5i+71axOhMgNzwtsHGx7lQA30Ih/crsvJy+CNnuIF1oPi9bB6VEB2NCKDKBBYmFk4Hm70Q4GI=",
+      "lat": 37.40695807,
+      "lng": 127.13967144
+    },
+    {
+      "pnu": "4113510700104050035",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 405-35",
+      "road_addr": "경기 성남시 분당구 판교로592번길 7-1",
+      "enc_subscriber": "ZZbVIXeJB4bq2Rr5:R6QZn81qkua/aPSTNx/xVjYG4mqd7tUZE02y75AyqhLe4sLwP/dPXW6aJchg3qNNHjuALmDboSZlVCAggiYGow8dL2cBxbcDZTQ5fhsEtHqS+GpU20U=",
+      "lat": 37.40687385,
+      "lng": 127.1386549
+    },
+    {
+      "pnu": "4113510700104770003",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 477-3",
+      "road_addr": "경기 성남시 분당구 판교로552번길 26-10",
+      "enc_subscriber": "knZYKswoel4l0YFk:SUN7IiiA5dkOClQYipVst+NHm6V5iBYSmOItdKSkSOF4EciD9MsOYF41RnwUn+TzMo+Y52BEbTMWrDhWXlOljXcLKq5YZ6xyIkW6wqszGO7rlURa86Q=",
+      "lat": 37.4059311,
+      "lng": 127.13691934
+    },
+    {
+      "pnu": "4113510700104680000",
+      "match_type": "inside",
+      "bld_nm": "더하임",
+      "jibun_addr": "경기 성남시 분당구 야탑동 468",
+      "road_addr": "경기 성남시 분당구 판교로592번길 11",
+      "enc_subscriber": "wYnUt47ImpEB9qGW:yBCnuY9+ZYF26/Od9+6E4KLsWeGpeJRBAECYQkkPj4mYn8YwBbP74H6g++nwVtFtwM3uXEUmreGHhqYnCOX9s4CcuI+qlE3mvQzSIG+q8lCq0KAL01bA",
+      "lat": 37.40628851,
+      "lng": 127.1388385
+    },
+    {
+      "pnu": "4113510700104770001",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 477-1",
+      "road_addr": "경기 성남시 분당구 판교로552번길 26-6",
+      "enc_subscriber": "q78byQcVkK/hKOin:MwuvrFmKTGPcfh1vz3thqYFYnHESIImwphQ1NkOvrKH4HD2vptaWhOT8FEmIokML7knvOSwPg7tEd3pUMCVU9PH1FaL/ElUFlOOFg5K0Jqj9+0SoAh4=",
+      "lat": 37.40633643,
+      "lng": 127.13682699
+    },
+    {
+      "pnu": "4113510700106000002",
+      "match_type": "inside",
+      "bld_nm": "매화동산",
+      "jibun_addr": "경기 성남시 분당구 야탑동 600-2",
+      "road_addr": "경기 성남시 분당구 판교로562번길 10",
+      "enc_subscriber": "FTplGyblWE+Jg5Ur:XOD6YLkeMD6FgRqVHCk/x4qODHNCSMTFbmKyIaw9Q2gjr7gV2sj7OwD9l8tf69hGMcoZ/JAWOcmxFEKlcQkeBhv0WJzUBFgmNSt7WgqNBNQocVJjocA=",
+      "lat": 37.4068271,
+      "lng": 127.13517491
+    },
+    {
+      "pnu": "4113510700104050016",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 405-16",
+      "road_addr": "경기 성남시 분당구 판교로592번길 9-4",
+      "enc_subscriber": "58/WEgDKES0Xqsfj:FFHumJfmZ1K9PgSrB7JZYqGOpfkszCIHwadbJXxEriEA9V9j1TbTE9blqNy4OdPT/eMETXLYeztyLEDcN80eL5yprvZpKSml5S9uF2YgIZVXQt3fMvc=",
+      "lat": 37.40665818,
+      "lng": 127.13887062
     },
     {
       "pnu": "4113510700104050038",
@@ -98,49 +668,19 @@
       "bld_nm": "에이원빌딩",
       "jibun_addr": "경기 성남시 분당구 야탑동 405-38",
       "road_addr": "경기 성남시 분당구 판교로610번길 7",
-      "enc_subscriber": "SbD8FPQPgzsXEiOB:ua7bCbGbit1U2afLqCS9Fz54f9QnX36IPHCBE4xP2KcNht6A7Ja5XxilFAahdfmirCFTPX4SpUGgB6bOX06AixX3JiMPmPrdg3wieM4tx3lddmkkzGI=",
+      "enc_subscriber": "GyFstBTxd9zl2owt:4YBZUZRKbRGgTXWoB+temX56Jf3eprCVj03bnoy6IL7CFQctEN1NeVmr+9ILlONzcDcSrD83S2F19bji4cQOMV387orj8vrFl4p7lQtgi1FoPDoz3Fg=",
       "lat": 37.40700441,
       "lng": 127.1400893
     },
     {
-      "pnu": "4113510700104840001",
+      "pnu": "4113510700104050014",
       "match_type": "inside",
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 484-1",
-      "road_addr": "경기 성남시 분당구 판교로572번길 5",
-      "enc_subscriber": "y4JQ8RLmmcpA3CNS:YB3ahJB9vdG/vAOXYOuc9Gr3a5qC+B47zBwI09ZsVk9UKIoPk2gpTCblzlrb28RzCN/bUGwbFbQtYy+90LWcPxBMPdNyxXz91Qxptn659O43aQOqSkU=",
-      "lat": 37.40745634,
-      "lng": 127.13754475
-    },
-    {
-      "pnu": "4113510700106060000",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 606",
-      "road_addr": "경기 성남시 분당구 판교로592번길 49",
-      "enc_subscriber": "hV7LRLKDncS6YTxU:tkfYbGDYXnb7xpPqnXBorggxYmTiik4OmXOcAwNgjtwlMaE7uuNhlXD2bP+aqBIpbu/GaLcv/WeUILzJia4WSdPsib530TocQw2G9pgQajxmvlbRhcM=",
-      "lat": 37.405378,
-      "lng": 127.13585988
-    },
-    {
-      "pnu": "4113510700104790000",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 479",
-      "road_addr": "경기 성남시 분당구 판교로562번길 7",
-      "enc_subscriber": "lquIn5svQwtc2KcM:IOJBIl09XUVNrH4J02B9L80b9pDNrIfnL5oIPnEM/U+neE39/kbo+ISly8NL1XXT1Qxq9E+//0jhBfGF4aebUtjW8OgHA+UvrpLrYWPPPadntT/7Fy4UhbRG2D0YOWiMMUnVjP9bP+7VY0FWB9JeGcoOks7LGCdAwde3x2HeaHoZh7mnyHBvtCBIDXyf7NmWvYcaj6Kz5DIQ7UdTAKrjRuu60ZW5CXdU/jhDhCWcD67UoI4im1sl/6GEf/CZRCHJSlMAqTqQLzZOt0KSAPBt6vQp4A==",
-      "lat": 37.40692831,
-      "lng": 127.13584108
-    },
-    {
-      "pnu": "4113510700104050004",
-      "match_type": "inside",
-      "bld_nm": "삼오빌딩",
-      "jibun_addr": "경기 성남시 분당구 야탑동 405-4",
-      "road_addr": "경기 성남시 분당구 판교로610번길 5",
-      "enc_subscriber": "PP/Svwoguccx0/Fs:mQHyV1W3geQqszXwsbRaLFn/uxz7L1FbA1BNejz3qwseSVQRMFxLj111FSf46WATTT0RFjj7wujJzYP/HS8qxwDYSZ0kLnwpt0j3QBUEKyXWeh1RveY=",
-      "lat": 37.40706799,
-      "lng": 127.14024719
+      "jibun_addr": "경기 성남시 분당구 야탑동 405-14",
+      "road_addr": "경기 성남시 분당구 판교로592번길 9-5",
+      "enc_subscriber": "p8CtyE+ZVxThJaC2:Rt5lKWtICZC8MhS2pFpORGJcXA830ny2+oGBEeOkdl7P2UTTuQlHp2Wk2mS6zcoHyNOGC8VFCe2aBH5SkatHeJmWK60qOhOJDa85rK95cZm434nTOnc=",
+      "lat": 37.40690154,
+      "lng": 127.13886945
     },
     {
       "pnu": "4113510700104950017",
@@ -148,7 +688,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 495-17",
       "road_addr": "경기 성남시 분당구 판교로610번길 23",
-      "enc_subscriber": "yMlPIrcyvnRWua7U:rBTY3DGBwVnqWCOJJuA00VmXzVNT3ggfEV5KsiWnu/Q6dSaNP0GJK7uS7ItQBkUutMpD3bN6n75G3c5tZPn0ZHOP0UqcmB1RkShNDTjxo8cUro26HQ0v9ciJBXe3+py/fd/K5YmMydaAlz0D8j2JhEqSdTPHuZuI2Cj2qXwM",
+      "enc_subscriber": "ZE2MaCxuOa/U4VBR:g0zb5iQVPFAaUUBX5GHrmxTJKLH5JKVdwp9Cvp870O7JEtshWs0KpyYzd74ItX5cZucU6oi3OPCHEuS05xUsyGvATTSFhneKUvGn0eLKpJbA44uuzes=",
       "lat": 37.40714346,
       "lng": 127.13839371
     },
@@ -158,619 +698,9 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 405-13",
       "road_addr": "경기 성남시 분당구 판교로610번길 19-3",
-      "enc_subscriber": "Ctk6VnsU03LOSDuT:zhHnIUmH/iz7lB7wUz3v7E+9aZeeNgRnj4EIOnHWaEnlA/LJk5F3cU18ICm39hFg+2XBfcCT52irsN68ONdz2V7SGTAF4up7KCEZVdxJvoMs3K7VrP8=",
+      "enc_subscriber": "MDNjKUgHOc2ggVyh:PjPHeNZNfNtB+JBc7CRMnHYYp6OHUHyCgfljvjNDgedvE96YylCYZv02GFK6Hnj/RHDxqsD+6lkPoxjyMOENd4EqxSMMwCZgaPPEhEuIBHbohGK8uNo=",
       "lat": 37.40705529,
       "lng": 127.13903821
-    },
-    {
-      "pnu": "4113510700105980000",
-      "match_type": "inside",
-      "bld_nm": "세종빌딩소말뚝건물",
-      "jibun_addr": "경기 성남시 분당구 야탑동 598",
-      "road_addr": "경기 성남시 분당구 판교로552번길 1",
-      "enc_subscriber": "woo6J81cj0m/ipbg:yeW6BI12hJLhPRO3wlAJ+/KB4GnOxac6wWdam7Qc6Ca1T/AEIdOnsiGF/6DtCKfxF4jULGq7ZcN/yx9FqLF1ueBz7iAo2JfJ0a8G1NTxUf0ghQRZw6I=",
-      "lat": 37.40733107,
-      "lng": 127.13491257
-    },
-    {
-      "pnu": "4113510700104050016",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 405-16",
-      "road_addr": "경기 성남시 분당구 판교로592번길 9-4",
-      "enc_subscriber": "n9IVz6vP8UXoGLMR:qqxh1Sbp+FsgCG3D8bpks4qFdFrpoSzFdY9TzWakXx2omiLf2P9mhXrXixVNJy5QiBOCmGTYc/hNo8IUgi5htO1uaWwpuFrXy5tMgSQOyjeObeR+MshyOdhRxtXwKcU9dp1PpAsHKPfA1xXPCkuQI2VemidHbnsqT7c=",
-      "lat": 37.40665818,
-      "lng": 127.13887062
-    },
-    {
-      "pnu": "4113510700106060012",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 606-12",
-      "road_addr": "경기 성남시 분당구 판교로592번길 38",
-      "enc_subscriber": "K4U15Xbmm/TLN5y+:GkkZRUQHM8tsgVD7EcBJ9U43EjXRCXSjlfGLGyfwjMeCMhD12J65MxeoQdayZRPxt7zgeNZ3+kPI2viudeUVqOM87mwJ/tgKqsnpgCYDc8TIym/TO3Y=",
-      "lat": 37.40520789,
-      "lng": 127.13623358
-    },
-    {
-      "pnu": "4113510700104050015",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 405-15",
-      "road_addr": "경기 성남시 분당구 판교로592번길 7",
-      "enc_subscriber": "WkVrS4RnQg64rXAi:p8W5EgVLCxWxjtCTbGyfPs1kfR6cr9Y5YFZZ0X/oUgAx8WNNKTEW11ketm3KKKDNKrXbYLta/FYxqnwWPA006V+H7Q64B6/Ud/9Nc8gAvngU4HCuAIks9HzFB37pa2deDVUfm7ySF+oB1Cbvcn1ObmcF69Yj51lq2fyq8fx/zrPudjdSzeJauYssrB+4rhqb1xqE+/wSRjLOq9fTI1fY+8JC11k3hp/y9whNle0egPRWWBdzGTUFADiR/x17J+fSXQSNWPxFZB+CpF/IIzo4qVJH/A==",
-      "lat": 37.40696422,
-      "lng": 127.13873356
-    },
-    {
-      "pnu": "4113510700104930007",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 493-7",
-      "road_addr": "경기 성남시 분당구 판교로572번길 12",
-      "enc_subscriber": "cJu97qzGKwYs7gr8:S/iDxvtsLd9TvOofmk64HdZZPL14ROoDl3fjv1gf9+cH+USZt9uFO1vnN26zcL/17dbwj76qW1eYo3XwR1jmY00E2LLF4zhwR6kHKwWq87ZU/WSH01h+/XVoGLAQ/yHixpXai2vvPofzafRn5vCUFhEfqra4ZpNpzOnFL4cOk7OYuAVucf1Wxi01m325tf1ct4W48Sbg/0jvAD8ncjzX3Tu/lJBQgWgMyntLSQshWEcMR+4ekg==",
-      "lat": 37.40701519,
-      "lng": 127.13771637
-    },
-    {
-      "pnu": "4113510700104050012",
-      "match_type": "inside",
-      "bld_nm": "조창빌라",
-      "jibun_addr": "경기 성남시 분당구 야탑동 405-12",
-      "road_addr": "경기 성남시 분당구 판교로592번길 9-6",
-      "enc_subscriber": "MXUDbAGux6P0pMtR:G/W6vfkwp8wLGFV6+YF7ylatwCFVHjd3rIWrRJrmuadrN6fsiuimkgq0rFp49gTZWaKdR34hbVMqiQyY+DE9vmQgPF0VbEUYp2+rxLaM76hqSnPzeUaPrZ/eGNNdgM+GbO4E5icRTqhUf5u+vu7tZnk8pjaQBIjSRJKADqHILgw5YOAbrP2srYsh658sp6GbBjtH2YBU5hgrYJbc5p9dRpwHlxhWwNN2o0GFRb3MKcYVTELjaDHKtHrUH8pISncrXz7EsYM3zLHl53w9quosWtyKYQ==",
-      "lat": 37.40678499,
-      "lng": 127.1390734
-    },
-    {
-      "pnu": "4113510700106060013",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 606-13",
-      "road_addr": "경기 성남시 분당구 판교로592번길 40",
-      "enc_subscriber": "OoIgPyrjywEgLBXR:XBo2HOPIX2PN8pdZDVEZlYuyucNCwt2Tbyf0S9TXjva9qRUUUwpqIRd77ni1tkPpsJ7uCT1cSbpLywOXoqdG/xwEYKyD6MhEIhQCvG3CxyaDS7Tx4YU=",
-      "lat": 37.40500026,
-      "lng": 127.13613289
-    },
-    {
-      "pnu": "4113510700105060004",
-      "match_type": "inside",
-      "bld_nm": "성림프라스틱",
-      "jibun_addr": "경기 성남시 분당구 야탑동 506-4",
-      "road_addr": "경기 성남시 분당구 판교로 596",
-      "enc_subscriber": "a1fEBueknQSKnhka:X1VsUnZe8NOqG5YAjBP+TMkBeylQgc2IyV4PO65IyoRSKOPmAbEF9uo5TeOKUzCO4zTCfXXDfETrevWmmSPmD/EIzrYspWdtRaiSn6A0MC/ttUJ4Uw0=",
-      "lat": 37.40721881,
-      "lng": 127.1394555
-    },
-    {
-      "pnu": "4113510700104720003",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 472-3",
-      "road_addr": "경기 성남시 분당구 판교로552번길 26-1",
-      "enc_subscriber": "dQAwRcvpDLTPydCQ:VqyMHOqfgBVDw6V2/MGEpp0nRBVUR3AX99LtfdZ3vEo4rFEGZWmkk8TmCY/g0psGRfSmNdC8qlmdyoTv/xC6ux8H6wPpZ6KD1GF8CVFb3JkALcChrXBmXRP4SX/tR0306XMquBhu2n212GWeilnPZaxLoZdGrqxRb0w=",
-      "lat": 37.40661728,
-      "lng": 127.13728891
-    },
-    {
-      "pnu": "4113510700104820002",
-      "match_type": "inside",
-      "bld_nm": "무교동낙지전문점",
-      "jibun_addr": "경기 성남시 분당구 야탑동 482-2",
-      "road_addr": "경기 성남시 분당구 판교로 570",
-      "enc_subscriber": "PbrsHNSvNwIGQHWV:6CATdDB1XyOcauIy8bYsEY78CHYVF24f6VxdWhIK+VRtgoJS2B4Ayx1TPWjPqoCPKc49GkeWq7PPEFfwqC5UVt/stgTXCrtKHyEw9Elplmy2JMgVYy8=",
-      "lat": 37.40748896,
-      "lng": 127.13642594
-    },
-    {
-      "pnu": "4113510700104820003",
-      "match_type": "inside",
-      "bld_nm": "탑마을",
-      "jibun_addr": "경기 성남시 분당구 야탑동 482-3",
-      "road_addr": "경기 성남시 분당구 판교로 572",
-      "enc_subscriber": "loczNSILlGCfL6aa:5Ev8EBNqXmU6ory9bHIioAE0nkO4DLnumozEXE4coJbi2LCfARmsdQLLeDjTja1bFGPndnZ56adW0s6S/FoMwmaCNxN7PKDLqTklU8KYD/WN5OOlxlw=",
-      "lat": 37.40742649,
-      "lng": 127.13662963
-    },
-    {
-      "pnu": "4113510700104950025",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 495-25",
-      "road_addr": "경기 성남시 분당구 판교로610번길 21",
-      "enc_subscriber": "FlQwEyJN99bgLpeL:9zirAFkYaV7w6Ntn/EqlplVAR6Rxjy7ST0TjpDGRuE+WEqZHDx3KB3sFmlzFJ98jVOENNNRQRX+PWLWR6A7U6k0HVrYWU47JXmIN2pnLgr68sXFS+EMGKvH5gtMv7YJrm74gxoSi/TwvsWDvGt+0iA8HoUxWx9p2VWPpOLTx",
-      "lat": 37.40704469,
-      "lng": 127.13851848
-    },
-    {
-      "pnu": "4113510700104790002",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 479-2",
-      "road_addr": "경기 성남시 분당구 판교로562번길 9",
-      "enc_subscriber": "i/ygrETZzDCNtYtv:J/o3fJaqy6PH4JwOtAj+U/sQVxkfZbNTEWxSoKST3icygv8GIAPke4knyhSa7hCm47i8SPieU79XQP2xXdOOfsx8o53TbTzuFJN83LC5Lcm7ozsfGqPMypJhucv1uER3MYQHYCNQ3ANLfT0/8a+hCAOpQfSd2/G+spOpCjIOn+/Wk38IixYp9CwSlPvjBkBc1KIn2tyyuKp3YgMhaDD2EHlOTTTINdehOTBSmxHhrhs3gX6IOOIzEwJ/0EBMkby5aaNKJk6oM84YTVrYTfojcJwlnA==",
-      "lat": 37.40672103,
-      "lng": 127.13585338
-    },
-    {
-      "pnu": "4113510700104820017",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 482-17",
-      "road_addr": "경기 성남시 분당구 판교로572번길 6",
-      "enc_subscriber": "nonnRA7PEw2j1uzr:EBfZ4k4Rcdigi09K5TRH9fk+UHaEKMxVoCw7Q25R0AhP8F+46PU9nlUDD693os/hzWK/F8HNWznvEujpwnME8zij9QEdiPZX/J75no0iFWf3LhLQAps=",
-      "lat": 37.40729316,
-      "lng": 127.13724045
-    },
-    {
-      "pnu": "4113510700104930003",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 493-3",
-      "road_addr": "경기 성남시 분당구 판교로552번길 27",
-      "enc_subscriber": "gz1aroyaTkusYg/w:4bAYTTBwQNGfEetirNPnGb5EJbZaszcl06qoN/14JGJrBDrXFElxnE53fMhmmp9mzDeb6IWIK9RFD/W56S38OY8xSQ0VEHzRlOD4rFC9Ovxy/3/ZIyY=",
-      "lat": 37.40696021,
-      "lng": 127.13742285
-    },
-    {
-      "pnu": "4113510700105070000",
-      "match_type": "inside",
-      "bld_nm": "윤의민상가",
-      "jibun_addr": "경기 성남시 분당구 야탑동 507",
-      "road_addr": "경기 성남시 분당구 판교로610번길 18",
-      "enc_subscriber": "y5SR0CKajS3Ry5HQ:AlHPuBlAyWmsx2ikayLgDTo8tABHIrfDcpVOz6+TUZU5keCJmvIqAxHPsn2+wJqUFGzo/LrU7y8JAbBhhspxnSx5KlTfM4Vq+G+rpnVc42kS08vPdU5G4aYSoM9R4FFD8VwHEF3/+FoG1ZH6F7e3n+xiGTc9MCT47SnW/dI7Af6pPOAdH+bcpMU5TQmX0AxCB0rlC//ocpkt7U4BGajltmhR6Vx6PiZyoys=",
-      "lat": 37.4072988,
-      "lng": 127.13908224
-    },
-    {
-      "pnu": "4113510700106060001",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 606-1",
-      "road_addr": "경기 성남시 분당구 판교로592번길 47",
-      "enc_subscriber": "wNn+lpOk11g8sRcT:lCZi8ZeERIFwkNN77nNG3WVE+f2fPD/QSA0SNkMllozSkhE4K0Tvas0qLz7vkzE2JbQyEZhsUwECvQXijRzrus/yGGxVzEM+cOavDc697BFgtmxTIGY=",
-      "lat": 37.40522463,
-      "lng": 127.13581543
-    },
-    {
-      "pnu": "4113510700104580002",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 458-2",
-      "road_addr": "경기 성남시 분당구 판교로592번길 25",
-      "enc_subscriber": "Zw3E11p8mH9nhlEl:pQbKY+K36CKuabpmUQsMo2uZVs8hFJRbhtJVnkWkPIuTcF8hnZVZdo3H99ZEdjrug7yqsemcs49ey7dVEqfpJmQFeQ0cDJYnf7vydWuhNHLjxCqSI4I=",
-      "lat": 37.40584457,
-      "lng": 127.1374404
-    },
-    {
-      "pnu": "4113510700104940000",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 494",
-      "road_addr": "경기 성남시 분당구 판교로592번길 10",
-      "enc_subscriber": "rJhO0J2+zHTMP0nL:HP4g8ezO8SYEezppTiPfG/XA4dy4K5RRPD0WAkt1giJ1cnteRK1jeiwB+wcOK8+xqmFJ94Z9vUS6jl8g08t3U3EBUT7E4xU4jWCeXRM0f91keiJkSVwocUYp7iJ20Hidk6nTfSMboNluZpBck0rNl1GRCpVOoveNQKCPS/koWjIplEVF8LImlwL1YEMqtjXNfzGGbzHfoLh7shNbp1FbEseeZtVoS0FxVcb98L6YUEtuZQPhONgLOqcsz5yDuioXSjPle0g1KG2rNOiW7l/pH+0EAj4Rw/PaeEUKdKGBUaKZAF7gos5giEbG4vXE9zoRxNf8z6g7Tdry4qFetxnAUzvIu5pJeJGEqTlGS1rMh2bWt0nl+zYjI+OGryomcIbKlib5lyC/k4xGqjeQ/Rzt9vUQAVKxMdSsTYY=",
-      "lat": 37.40693591,
-      "lng": 127.13831562
-    },
-    {
-      "pnu": "4113510700104050010",
-      "match_type": "inside",
-      "bld_nm": "야탑타운",
-      "jibun_addr": "경기 성남시 분당구 야탑동 405-10",
-      "road_addr": "경기 성남시 분당구 판교로610번길 15",
-      "enc_subscriber": "maOKL0/7b6RcB3JE:7oWGX7ka1Wmto5l9IAYb0QELvx/v5DEmwf9t2WM4BYdrTwrJvrzFxcheDlszYa/18VpULdwMuJZFor9sW9W3zegsjFqxXFWco1YCWJqy5Gu4bp7yo/cdR1OV5PmcCXFCFx224lhOx+kHrzSaMmtKCSCDFrTiBLR+VvmFEtOTmgHjNOsQjqYrn4IlfdY1A7SPo4hDvIE9s/H/xpBzp3JqCSAriAPxgMoLkg==",
-      "lat": 37.40702877,
-      "lng": 127.13920783
-    },
-    {
-      "pnu": "4113510700104050009",
-      "match_type": "inside",
-      "bld_nm": "태광맨션",
-      "jibun_addr": "경기 성남시 분당구 야탑동 405-9",
-      "road_addr": "경기 성남시 분당구 판교로610번길 13",
-      "enc_subscriber": "PQuU5wnej1eaDbva:zNs4Ek9Q6uQcT0zzdfOpZXoh6J0C1WbV8a2YWsiHE2r4lfEZL+nI9HcAee5fV/LkfSRdC0CYa7jxzycYpt4+BRgWxiUfn69U8VcTSZV/pnXGapEOePUro388tr3gguWrshH/80IWq52jGyKscMfYLkkTBMVl79TWeGhzAEX6526MqcmM6NOdIFc8/RVjtKvahU1TqN4royDWxtRd7ZX76bEU5hwNilVo1/Jkysu1hgm+k7WXfZKktDxcT17LL00x5GwwbEfVa+CmM5B4HvdbcoOXT7YoPO2BX2aH3bCVlov2dB5YtfoD2cvSN3SVxKlIxBq5k0A1ZVaPhpS0o8551Ne3Zq9numxSTsr/Ia4ynPiUEgzfvK/YYrEW",
-      "lat": 37.4069483,
-      "lng": 127.1394229
-    },
-    {
-      "pnu": "4113510700104770000",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 477",
-      "road_addr": "경기 성남시 분당구 판교로552번길 26-4",
-      "enc_subscriber": "i3GuOnj3xf+DrDNX:/NcZQz4a3/0SfZshgmRoS3DSB3Q9CtLiIPIjYXGIxgZqs/6w38Rwi7cNwnlU9pdWA6Tg8StexCeuATJC1se4a3bK122/t+FkFgYvRM8VSawl7HtrSrTG8uvUk5d9Onwqv6TJOYKoSglcoy3DOxj65ljcPHYnBI1OcnGo0vdP",
-      "lat": 37.40657984,
-      "lng": 127.13683711
-    },
-    {
-      "pnu": "4113510700104050017",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 405-17",
-      "road_addr": "경기 성남시 분당구 판교로592번길 9-2",
-      "enc_subscriber": "wIuLIc0E1oVV2xhS:wVwUVX1eJ55gjxRyzz/xV5JOy+BX5XH4OCm6pCgsSaPhNLR0qI1USHEoa0lMTQz0dmxQF5pUo8+9pTYQBdLNLtiVLPaUsdDwEFfNxz8zb8Eltg38JAsWF9Dx6M6F4vb4Msn1NDcl7HBa/Kcw/ElPqMXRmkx0BxKzYlJObVot8GesAONUp24tkUSDPJ9iZeWNsxoubdS0hTCRM7Ld4K0y2qbEkbf4CHiXg5OpmhunPskhegWI20BtVK09Z6nWbv3Re7U8I5gNTAkDr8fcUgYhCu1M0EM/YiuvKSjY/amOvGrv7Aopepr4f3YclzgkEMayig9EOxo80Z77qBTWmsGpEG2Q3qfIERDxrAfyZ4jUTvOuBdoVSLv2oTVvOEQfW8IZukEeZeFxBABJO4Ewhg4=",
-      "lat": 37.40677435,
-      "lng": 127.13854238
-    },
-    {
-      "pnu": "4113510700104900001",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 490-1",
-      "road_addr": "경기 성남시 분당구 판교로 584",
-      "enc_subscriber": "mhIoqoDwv1uw5NtA:pVGByjGi3u7oyhSJ08HlyVES7Y+8D7jwp9MpC80GaYdsDz96AmwJrk3O/8t6dQ7uVTl+UI5kjX1UlsQSHi8n5kxpLpThK0E+y6ydHCzQCJN6+DKXQIY=",
-      "lat": 37.40744906,
-      "lng": 127.13810976
-    },
-    {
-      "pnu": "4113510700104050001",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 405-1",
-      "road_addr": "경기 성남시 분당구 판교로610번길 1",
-      "enc_subscriber": "hEQkSLbfupzjwTo4:41NCGTdB6Xr76RwvDHrkVvKtxz/CXMgx0E9bpQTP1G6AMHNCdIM+cnJMlyL8rUZBWaQ4dy1ZmjzHUaG4H5rOOJW8z7dmAvnGDC2ohej/7lKmwpgCeYI=",
-      "lat": 37.40707337,
-      "lng": 127.14058737
-    },
-    {
-      "pnu": "4113510700104720015",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 472-15",
-      "road_addr": "경기 성남시 분당구 판교로552번길 26-5",
-      "enc_subscriber": "fv7gsGAAkzeUzkdF:O/UIIFlYZq3jfoNF+Ll/mOe2qiEkY779btaYYL8MgqAZW47P3/SPE7Iuba8WnCc+XtlzGDX0oWZ94FI/yXpTJ/IWhiIQYyfq/IEy7Sw45bGslviKGGtYmTLPzo1UcHqkQRYIdrpv4KzJJpazNZ9PAPeGfgRnGlCqxLNKTF20m8K3eZ1CA4Z5oPsSm3OPjA2rTz6rmTQ7boMr6c2lGXvYPGdk55OnCZaVbUZTxTFBv2bMSBPhYlNwKpJ3Mp7ygyrDujpBNMjx1cyQEVQSGxu36Er07A==",
-      "lat": 37.40629303,
-      "lng": 127.13736956
-    },
-    {
-      "pnu": "4113510700104930015",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 493-15",
-      "road_addr": "경기 성남시 분당구 판교로572번길 10",
-      "enc_subscriber": "MPexPGus2Z+lGemt:oFrB490zVU8B1p9ly51j2haBazn3jMrOVdKayswCee++hZsOzMjg3VLiavI0E5oUCBY3JeXf2+VD7vygCMVfVkMyhQIXD+O3kZ7DXYOkTTAx+LghFuw=",
-      "lat": 37.4071678,
-      "lng": 127.13751224
-    },
-    {
-      "pnu": "4113510700104930008",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 493-8",
-      "road_addr": "경기 성남시 분당구 판교로572번길 9",
-      "enc_subscriber": "PicUKBW/YwkYkoej:KFDR8HNhbFbqWl2WGfhkPSKaj4s7aykrbICSd7bexscKLORF+vdkL/KOWTUC7lGBZ63L2L6i1dtNqto1+5X12ELC0DJlM3UtuiCZ0bUP5Owz+iABdSUjdlGFqD2xpG3+eX4EuxMwTvgDAzx5YkG//TfmOQ9IdlozPxNJoFrukXq8ffqdc8prznbHjQOinIb4VYmVOPnxI8+tqOPdFUHiFcBDSSFh/6u74Y0NjIgRNZ57osKFnDYv+qjTkYy89AFADxS43okgOIigoYfhYfbDGzM4bVWfBOMNxwEUbkTI3Ydqc5BXKg/d1uYA4+TArW5sWKDsnHVQkOUK3ixOwZ+cems=",
-      "lat": 37.40716891,
-      "lng": 127.13787382
-    },
-    {
-      "pnu": "4113510700104990000",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 499",
-      "road_addr": "경기 성남시 분당구 판교로610번길 22",
-      "enc_subscriber": "AnklzFhuxjMNYzFd:IGKkReOg3zQkKNqX7bFSCRXwILY6tRMSyX3E1mAbMypbZvzh7Ldw3YH0UwP0xvGhhRrzV9hAqoM8TqhhdQcc1TN5fAp1oE5eAeVEpVRysJgqbLAHDwU=",
-      "lat": 37.40727963,
-      "lng": 127.13870945
-    },
-    {
-      "pnu": "4113510700106070000",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 607",
-      "road_addr": "경기 성남시 분당구 판교로592번길 51",
-      "enc_subscriber": "QFtz+VhOfn9FMKVb:sPjBFBImN+2DnlyxdESit8FXX3GYFWsnvrD3ywv1mwJCuUajTWcODB/SEGyq8vg3Adtuvbc2NQHzAjlQwOoejWgf/jLO2ExIqyTZPiKgvJ9VxpX4jVM=",
-      "lat": 37.40548679,
-      "lng": 127.13606274
-    },
-    {
-      "pnu": "4113510700104720001",
-      "match_type": "inside",
-      "bld_nm": "야탑동건물",
-      "jibun_addr": "경기 성남시 분당구 야탑동 472-1",
-      "road_addr": "경기 성남시 분당구 판교로572번길 18",
-      "enc_subscriber": "mNJOeNSWiqaknXaG:3iAIyfw6KLv1WQLN+c5SO4FR6z6n6lX+sUeIrienkp6qDoy+P7O958P4OV0HxiumZTZlXw2B62xtDjc+AQDEz5ryt9YIDJ0ZbQvzU8+c15tzg7K6yY01Ty63XTCHGE63HhwEeIpqrIpEeYn8r8rs8jhxJD/d7SVrQGbJLUyG9ZHp1gZNNW/6",
-      "lat": 37.40650135,
-      "lng": 127.13769624
-    },
-    {
-      "pnu": "4113510700104910000",
-      "match_type": "inside",
-      "bld_nm": "현대야탑써비스",
-      "jibun_addr": "경기 성남시 분당구 야탑동 491",
-      "road_addr": "경기 성남시 분당구 판교로 582",
-      "enc_subscriber": "39Zm2H6Y34Xs0KBQ:Cdb6tFnKzbPhOd+nEE0i5UO8G+DocjbqWu5kGCV8OWGTrMVkcLZX5jHVzSWq5+nx0jLq8UVMRuKl/Z2mzz30GwAEOkWDZeqJEOR0zCryD/mE2I8N/9I=",
-      "lat": 37.40744816,
-      "lng": 127.13781598
-    },
-    {
-      "pnu": "4113510700106070003",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 607-3",
-      "road_addr": "경기 성남시 분당구 판교로592번길 36",
-      "enc_subscriber": "lUvNjVuobqBvKipV:/Rwa+TYRZ2SYLctwrEALwqB/3cKPcALDBwI+hLH34og97Sl2c5P9xbZ+/+JhPFvTGea3tB/JJyj4D0pRu3oKZO+qsoqvRlVXeNGzUZbR8QVNjfqMmag=",
-      "lat": 37.40538886,
-      "lng": 127.13645869
-    },
-    {
-      "pnu": "4113510700104750001",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 475-1",
-      "road_addr": "경기 성남시 분당구 판교로592번길 34",
-      "enc_subscriber": "J0jnfWPE6OMmygdD:7l4NRG3dq1a0hOtlhHi3RX6SWvUcfauPs4B/j8l5iHlUoRTTGIh3XesflZbGRSv/icvDA3ZIB2Spm5QauqxPN4ePjH5+DVsbbYbiaIUWsRrGy+kkPrc=",
-      "lat": 37.40538962,
-      "lng": 127.13670727
-    },
-    {
-      "pnu": "4113510700105060003",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 506-3",
-      "road_addr": "경기 성남시 분당구 판교로610번길 12",
-      "enc_subscriber": "lZt0Lib1KT/ktsGJ:BRYQuOFBOGH4cGXA/vCTqBI/rElRE0omeVw+DDt9yB6KJRKbk3vKYL22FY3V4XLRLhddPF7vNtDXlTLCi/g+a5g6YP0kJmY4G18ATsmjIQVJl4g3kT8=",
-      "lat": 37.40724658,
-      "lng": 127.13969266
-    },
-    {
-      "pnu": "4113510700104720014",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 472-14",
-      "road_addr": "경기 성남시 분당구 판교로552번길 26-3",
-      "enc_subscriber": "wpCqKmYeiGz2PhBO:+OJqzbegEzbGo2EXk31+ZDns4RgkpnU9E5Uk2ufmqh/6yhXH7N2EFwW8XycC71u3ncTilDfd4yOjbcW71Wqw9IbH7TZy5N0MamL6cRgChplATx+6wFE=",
-      "lat": 37.40647313,
-      "lng": 127.1373122
-    },
-    {
-      "pnu": "4113510700104600000",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 460",
-      "road_addr": "경기 성남시 분당구 판교로592번길 19",
-      "enc_subscriber": "J0e2VABLe8dS4VUl:CAb/1iqN3vXFN3P8nCoT1BjB+SYHeJG+dWYa2AA/FGpFnnEdF61/SnQRHtzHdMZW/xlSrgv4eUazyD9fUSVY1sqC99cFRc/K/w0gGBZ5RlEOWrrJ9fc=",
-      "lat": 37.40612264,
-      "lng": 127.13765287
-    },
-    {
-      "pnu": "4113510700104790004",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 479-4",
-      "road_addr": "경기 성남시 분당구 판교로552번길 14",
-      "enc_subscriber": "9aCqDlHTTz2ZF1aC:s9y0O2XuiH6hZZ1j/TMxYAvA2gEHFvC9dlD/UM54835/DMKCH/DukGGV91BCS5RyHTEYwMPVbhovSeBPpSpAToZHUDq5pyzzVe6GGhMg7wj5oRHSOtbzcsk41QoaZSU8IgcZhA+osrw0tolSo2TPVm+H4VaDhi+E6TNG+n1wgNoSOXHRN7str4YIaYVCEA68uqDf37KDGxkJtCFXZWY1xGzOJEtRdkHIApiq6Pg6qkk8h4Bauf9cP3Kw1Timpb9TvaE1VUToduPYuBGmgTTAekzWRA==",
-      "lat": 37.40673084,
-      "lng": 127.13611322
-    },
-    {
-      "pnu": "4113510700104950000",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 495",
-      "road_addr": "경기 성남시 분당구 판교로610번길 25",
-      "enc_subscriber": "d/0Y2CCtPZzlSslp:cofqdSbrtATtIJIpuiiuicRHlvQpCcGtyJIYAudx/Ssg4aZzizY3JGwZx2cvj2+rEe35a8YtlGhOvfmRJ5EA+NtmaCH+4UCdKScNxp5WxjDJMSB8+fqYgKGEhd5A4mFfmbRJBWtBPfxF0Iyg2woWfQjtlB5HPPO4CMiMihWU/1Cv773TeLcCsH+7KAr6u4cqewVuFDR3jMzE/97l+zi6/7gSwKsbk59FT9/GxtozYmF8S2jOo9n3bj6ajvShlsoWi0TATkZ8i9qEejNsm4lSYMKCyO2PLKBYBB4Fj87aP8IVlo1J",
-      "lat": 37.40710682,
-      "lng": 127.1382018
-    },
-    {
-      "pnu": "4113510700104050007",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 405-7",
-      "road_addr": "경기 성남시 분당구 판교로610번길 9-1",
-      "enc_subscriber": "CTaQ55Hcff1CUv+W:iuKkUQTlsA1MOMUfM+pf1tuH9GTu77HeWI2ryC7ZKCl0FWoozIfc0ju/mblYvmmFFv+u4mwdQBJlClG6HvDHgJuwCaAg5FJdnBMY1rmIbL3d2iQH2hiYxjohvTJye42KCLCNosuDiVfyo3MC50j112moSmcUEZA+gbdyJIXNxy5M7Bt+jFJfhfhx86qrWXK5deB3Zfe4QtWFg4gGNAlC9B6AojU9q8eN81ExxSw=",
-      "lat": 37.4069407,
-      "lng": 127.13988621
-    },
-    {
-      "pnu": "4113510700104010002",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 401-2",
-      "road_addr": "경기 성남시 분당구 판교로610번길 1-2",
-      "enc_subscriber": "s9o/2lZSgDYvAkFB:EYNQGWr+Xb0UXDJltyeM6nDSpHFbcYFNB9etZ42j4qw/YM5qPiUELoU60HGS82SB3/JwWw1vXrhvFo3qJp6u+LqKIltkflqFa8w2cy5CGnjT1BvV1G0=",
-      "lat": 37.40689735,
-      "lng": 127.14045139
-    },
-    {
-      "pnu": "4113510700104680000",
-      "match_type": "inside",
-      "bld_nm": "더하임",
-      "jibun_addr": "경기 성남시 분당구 야탑동 468",
-      "road_addr": "경기 성남시 분당구 판교로592번길 11",
-      "enc_subscriber": "TYOeaSbAjKvhQ0LK:S7VjppJiyWMHFcD9z+/A0NhdcSTMQ+a5L2zKTbXxI0oEJoCc8pc2GzzLr3eCnR4TIm80z5AvucoT51U6OzAAt7dIQ9OLxKsGPGXcUGJG3qZBWfcD24JWyyDGl5QHA1HniAEJZlAFjSzr9f8bqf5uGRfj/s9/FSISQ0t6YvdPOVJ5hN7dW+RTGFyumHt/XHx2ok8C7DJuWXxPLohxjioZrLY6uNps9a4VdoIK7q9O6XzUrqpkrhmPAeoLjroZv778pjUrAppyECz3WFZ5kXQzpflDwAlO9gR94Y7d3BjJwvg87j5hKMEbScIC6g/8LmrYnSlG7clJ2RqEYhx1Yz1H2KKNTlOCyWDnHYK3lXomP2l+5j2BIJo3UPSPdYP4u40VzqfA2VUj4AM6",
-      "lat": 37.40628851,
-      "lng": 127.1388385
-    },
-    {
-      "pnu": "4113510700104770003",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 477-3",
-      "road_addr": "경기 성남시 분당구 판교로552번길 26-10",
-      "enc_subscriber": "V5Ifya7ft/80EHfg:0Ar0vJzr7cQG9V5VriwZj+b3ks1Jbm/GgZDyMFCLu87LVx9Uf+tvoQlurjB+gCTC1LuhDdgeC1cT9YmsDkO7+06YVo9bahvFOXh3/3qtIZdTzLCdt4KSzvhber7MPEXxt1ons3BCXYXT0uAZTcOtiwyVWLoD4ZQxG1NBF6BWkR9USuVv56ewPACRrW3nxf3dQE66poiR83F5otbzI8llMyvLrGMMaHG6BENLOKH1KxyUjgRlcKKQo0JFaULaXukjNzsQU91w7MiBLGvYsq0q0olq2Q==",
-      "lat": 37.4059311,
-      "lng": 127.13691934
-    },
-    {
-      "pnu": "4113510700104740000",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 474",
-      "road_addr": "경기 성남시 분당구 판교로552번길 26-9",
-      "enc_subscriber": "FtQypYa+xuLW+1Pp:1xUCoJRk2QOclAVbvRueU0n4qqdKMvDEzJNQetcU9FDVHhz4Q4j61j6gJCLtJwnxf79VPVXKscZwpqIXHTbGmpTm6fPFBnKQ4ygIckI/FrSr0jl8oys=",
-      "lat": 37.40600027,
-      "lng": 127.13735212
-    },
-    {
-      "pnu": "4113510700104050035",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 405-35",
-      "road_addr": "경기 성남시 분당구 판교로592번길 7-1",
-      "enc_subscriber": "ZJnIiWw3RiuvE0Zw:HoxFzhC3aBmIWA/d7R39Sex8GX33WrhV28c09Fg2YIKFOsxx1TwgP+hywVezXeeoK+ERYAH5peBw30BH462aAJuDReDTVlI/yxSzVmv2O/xayZwHvVQ=",
-      "lat": 37.40687385,
-      "lng": 127.1386549
-    },
-    {
-      "pnu": "4113510700104800005",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 480-5",
-      "road_addr": "경기 성남시 분당구 판교로552번길 17",
-      "enc_subscriber": "U41HUBYnD1vKlQYz:U9aUFd33UHcA3eUpheu8D+wqYM+fBMPeTt+0B2P1T1wLlv9JS1/8EQv003ZfFh6ItREHQuTUIOuhnlYLS13fncNNHns27tPdLMlzbLecaTn05WiwcMUdXZUXR2Gz6Wt3CH1MhSd6v2JfmeA98DH0+m5ctsGs4TriQJo=",
-      "lat": 37.40735289,
-      "lng": 127.13614411
-    },
-    {
-      "pnu": "4113510700104050008",
-      "match_type": "inside",
-      "bld_nm": "북분당어학원",
-      "jibun_addr": "경기 성남시 분당구 야탑동 405-8",
-      "road_addr": "경기 성남시 분당구 판교로610번길 11",
-      "enc_subscriber": "QSuVuefpA5cmy0a8:thc1YwFEd78Iztkz5lS6QaaRcCXNhxla7T7+7tHjDEsRbthRGLx0yNf4w0VH9Qrqj83R84jcjL0O53bbarX2UGG/UdQu26o+SIup05RKg9HQZ6dYJHw=",
-      "lat": 37.40695807,
-      "lng": 127.13967144
-    },
-    {
-      "pnu": "4113510700104050018",
-      "match_type": "inside",
-      "bld_nm": "경기탑프라자",
-      "jibun_addr": "경기 성남시 분당구 야탑동 405-18",
-      "road_addr": "경기 성남시 분당구 판교로592번길 9",
-      "enc_subscriber": "FZTKyVjfcz/HskB8:XJ0tLwm0t+cSZh5ute4sSguQvmfKySdRnsHq8UxKsxMYAoi695/0Nt/0wuxll29xV6VvUMBjVoX/BasKcKdGtg4Acfp+siOdEvQQoDRJsFMGTq5mwhU=",
-      "lat": 37.40652238,
-      "lng": 127.13867918
-    },
-    {
-      "pnu": "4113510700104760000",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 476",
-      "road_addr": "경기 성남시 분당구 판교로592번길 30",
-      "enc_subscriber": "pTTQFRSw/9t7LFal:RLYzq3qid6x96fTMJT6Zo9T3D8sSAagy0z+5uTohDaLtRHvMYPUm7o2KUMX5CqQiTcIWJERtYE2I/hVb+y7NTbYCKX+/NcnlBxtc5Kfsq8Qurt3KNwh6KOLj5gK09KN2oPq1+sgppol8ph5GRNtiYjMDTcaYHtoffRucxxAohWt3pH1fsjDMtWrLGTsExZ7DZS01qOTevD5ubJdqG80w/m09/to=",
-      "lat": 37.40554348,
-      "lng": 127.13690991
-    },
-    {
-      "pnu": "4113510700104770004",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 477-4",
-      "road_addr": "경기 성남시 분당구 판교로592번길 28",
-      "enc_subscriber": "GRUR8NwlT08keceS:d0gHsVC55dN/aIOmSLcIlo7s94xSLMeUM4Qk8dYA7wq9N2ascTScGNXNRzhX8FpNfXThD3AjbM8f5VF3R4N8JRcIQEziHI0j7ZBhaJVRbob263fVeEUTUGYQ+elCIFvgybhgUeptkNkqi2WU3UBYDgAkiYHD9MxBbsQDIWJtsdHyPQ93CpI6iP0DRZZevM/QHJugndg7HFcZEpyFPv5MuVw35HVmjJY8DL8deK/u6z8IYPLiP41XuUITCgLo9HfpAapG7AxD1d0SmU2JWk+x/Vl8Ay2SGPj79eIn2wyWf5w5QwNvkwWKZWWzxf37W0aB/Dq/02EQpuCmUFpjSpBurNo=",
-      "lat": 37.40574192,
-      "lng": 127.13695415
-    },
-    {
-      "pnu": "4113510700104960000",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 496",
-      "road_addr": "경기 성남시 분당구 판교로610번길 26",
-      "enc_subscriber": "ZZGHUAez4d6xvEeb:cii+JwB0ykiNNLUN6Fr3Wl86mAZccf/4tANTygCTgYIu6K65MOgLxTj9UUyUzrxbAQZXpCoza1yiNFIKBSZ9iudOpjtesYrCA+taXil8h/fXp4twvgUdqERjHLm1jRzJLcWTxopnbOFfVnz5sanbdx+WKTHE+XkQWbxyEUSumCckuN3t35C5Nld7ZrM+AlTXbnmAe/mu3rK5L/bvD6QA28I/8EDuNa3L/De1zvZqE0py",
-      "lat": 37.40729635,
-      "lng": 127.13827999
-    },
-    {
-      "pnu": "4113510700104770002",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 477-2",
-      "road_addr": "경기 성남시 분당구 판교로552번길 26-8",
-      "enc_subscriber": "OaIFfWN/fGWtiDGe:jLWG9RgtVBZYFv4Ec0HocHKQBEK9N6RZt/3gz5w8bizvNw27ud/n/fiaK0jX6Ah84tlzVimy1GP5un4ASI0x8ixSI20eMEnHlQeSegKb0rLvavuAdRmnjsMCByKUXtIoAKx3td7fP0X/FCs6fPLNhLyRq2UhBP1eDt5UNP9fwQHv9HfmqlodpBYKNfWSf8wlGXbcYSyTD7L1RzQVadKmlMZKcjqQssQxieSgx/qWeJm4jKDrLFpQ0jpN+P5/wm4exqCb9dzLRCLE/CE1hBuwpJLQa593GjVH+75bnKxcEfp5qD/S6FNjHp27hV1eK8HZ997tyXdSoeEiSo+NvrIo1YAH4aBn2phnan0iATO8HCMNf3qzPH+F1yW0tRZCpdUEdTDqzVx5F506jhwtoE81zTIDrSEWgkwbEw==",
-      "lat": 37.40612011,
-      "lng": 127.13682803
-    },
-    {
-      "pnu": "4113510700104930004",
-      "match_type": "inside",
-      "bld_nm": "백강빌딩",
-      "jibun_addr": "경기 성남시 분당구 야탑동 493-4",
-      "road_addr": "경기 성남시 분당구 판교로572번길 11",
-      "enc_subscriber": "eaztfJUNgoZtQs5f:LipUrbb7jk9znIeduGLcx7vjY8SNW9+tDPtn31XBxL86JqnfCweYFl4mncO5Jt4NokOohxub2XM4KcCYubknTi1JuWy81cJT8sje9JL7nYD3QKcZFC0=",
-      "lat": 37.4070882,
-      "lng": 127.1380098
-    },
-    {
-      "pnu": "4113510700105970000",
-      "match_type": "inside",
-      "bld_nm": "야탑프라자",
-      "jibun_addr": "경기 성남시 분당구 야탑동 597",
-      "road_addr": "경기 성남시 분당구 판교로562번길 2",
-      "enc_subscriber": "ml0aWs1GjILSbJYy:7UKcyfano2lJNIKtGuQG5smt0GUIyE1AZ9LSb3O6/uErmCHNKj/ELtZBnoWBAKxr2rwm5tOW39gx0NV0Vcn6qryIOYNpqHuv57oISZRWL21P3HC06U3ST6Y0CxjOW8VQdusDp4MDSR8n6i6/hrpdSvIaKFIif5+rbRlX3AoiPB+BxwbMqROckul1NRl6lNHbXXJ/XstASo3lLSI6CHbag02a7LTTAUQwwUV84DA=",
-      "lat": 37.40737781,
-      "lng": 127.13545472
-    },
-    {
-      "pnu": "4113510700104790005",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 479-5",
-      "road_addr": "경기 성남시 분당구 판교로552번길 18",
-      "enc_subscriber": "aLdQhmTRJ/Ucp9y0:AH5fqYB/2KJNhn7vITjjHBfepzzzgR1fAc8HtK+yff/V9OSbjWRHJh33fKukILkI0E3zlXOmSPQJZTlIN4l2xRJbtAVZb3A/YpIOYE2fKqp0gyoUIFYQ5cgtDcZMCtrSmv7URxmVef7G/fdB8Wxt9y2tYzFfJx7WFtxmF5Qb3+yHhN3IK6Ko3/IfKIE5Gb0XLciVZOpT6v0TJm6QQ1Al9PaVsAFpppiXLDwj1M5bmak4bMj0gu9CAdXIRGphIn2Uup6+UbKlJR73Du4Yi05SMwQa5g==",
-      "lat": 37.40689417,
-      "lng": 127.13646271
-    },
-    {
-      "pnu": "4113510700106070002",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 607-2",
-      "road_addr": "경기 성남시 분당구 판교로592번길 53",
-      "enc_subscriber": "HWRHiXpTvnyJ5Q1n:oNMa4LQN8SiiAwzujgehFF9OO3aaizE8hk6rMq41RMvtCNzsmieK33uHVdHqe8/+EKtHyoci3AYQHweNHEWf8CbkXsEYzOqrrFqIerYbqAO0fOXDHuo=",
-      "lat": 37.40553248,
-      "lng": 127.13626591
-    },
-    {
-      "pnu": "4113510700104780000",
-      "match_type": "inside",
-      "bld_nm": "버섯속에낙지찜",
-      "jibun_addr": "경기 성남시 분당구 야탑동 478",
-      "road_addr": "경기 성남시 분당구 판교로552번길 26",
-      "enc_subscriber": "E7O6KclgMHrE9y9x:kR3PTLXscaOJzEoXSjJt7xK6OvLlLPQwY/AbYlGcLygL0yjEKhogBbHNeuq2WvVJTZgly7J6BzvI/GA1zPixNWrZa1cflztBbJI6ebWWB2FzFLskTrqc6Y7jxYtWuSC6mViNtme128uw9niz3pxK5Tas2snTUp00F7USky1yQ13EA67OsCfQweWI3evCaE783jS5no9lmeflHmdYfuayjMZpwDIwRbrk/vKQ0V7zRnrRtH1oTanoFnwgKBIKorg5NgLKEOmavNDFxH1KZcdXxFhxmw2UD/INOHLB8G5zlu7M72TfQxBjYVb3ihu6SaGZG7BxtKLbQKIa+xH/EmDmww==",
-      "lat": 37.4067503,
-      "lng": 127.1365764
-    },
-    {
-      "pnu": "4113510700105000000",
-      "match_type": "inside",
-      "bld_nm": "은경빌딩",
-      "jibun_addr": "경기 성남시 분당구 야탑동 500",
-      "road_addr": "경기 성남시 분당구 판교로 588",
-      "enc_subscriber": "9VV9NL2DojthftqE:tYuff54vjW58HgVquvcvbnIVeuIE0+wLd62zJxxfxgJyPhtOZpUxrKaEa2iadxguuLLWROsITu9fl8vySEggR0OkBaKUxfJwk/t9svnpe5IpVAsiVxw=",
-      "lat": 37.40741442,
-      "lng": 127.1385732
-    },
-    {
-      "pnu": "4113510700104050003",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 405-3",
-      "road_addr": "경기 성남시 분당구 판교로610번길 3",
-      "enc_subscriber": "esZSMgqWBsLXqbPs:RULE3zmfu8Dp4azqJEnKYyBMiCk+ZMwOomJiEJRWTNVeKthdVWH9HNGJYFmaqTthXM87v860UBVj+wJKPzLf3AP7vrLfF5HyQ0dK3TlVhlTbGyFgy1o=",
-      "lat": 37.40704153,
-      "lng": 127.1404394
-    },
-    {
-      "pnu": "4113510700104050014",
-      "match_type": "inside",
-      "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 405-14",
-      "road_addr": "경기 성남시 분당구 판교로592번길 9-5",
-      "enc_subscriber": "eYkcN7635LjzjLOi:GA0Kd3bjInBuripsor8zSjCPvLVhSeny4QMEEULSvElbPzsxl/kgpR4aFV3lgZ9TSn+2PIZFuJAVG3RUADolcqm1bzjo3W4jCLAghGqUYWYgS5LWjb0sECEeGle4icm7WvmSl68OuOSs5YnbSJ23Ex6AQWnQlrgZ4Rn+VvVjox84hKrPCPFnMXxoeNgP3XDAmy9dyad65mJbzkHJdN5ypXhyP+I=",
-      "lat": 37.40690154,
-      "lng": 127.13886945
-    },
-    {
-      "pnu": "4113510700104800007",
-      "match_type": "inside",
-      "bld_nm": "중일에이스빌2",
-      "jibun_addr": "경기 성남시 분당구 야탑동 480-7",
-      "road_addr": "경기 성남시 분당구 판교로572번길 8",
-      "enc_subscriber": "3yEFzI/Gua6fpGpd:KF5wx0GqAcZ8Err899hYfsaGZctFYrCobQl982gn5wFIxlvI/lT+kNgem8GhX/8MUfgyMZwrbOx+M8QDLuNFAd3SUPVFxvWFpt6wDpnZZtusXVgHhbJllK4MBwi+4DO6F07gTxWvWfOsjwU4blkRfHuqX8elXZ/QISAy7ZorTl8bMDyXc3jmxSebTSw5OJAZOp8iJE18uX4MRwciO7Y+jvOy+wnsdrH4WSOf0ZG/9wkOCUKaw53loXDiLea4WbAKn6Vsk38HVlD5ygXmZC6Lx6awOHH05LuuEc6+",
-      "lat": 37.40716555,
-      "lng": 127.13677779
     },
     {
       "pnu": "4113510700104790003",
@@ -778,19 +708,29 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 479-3",
       "road_addr": "경기 성남시 분당구 판교로552번길 16",
-      "enc_subscriber": "6Nne9g3eENPbfsLb:VHV0vY83Tqyf/jbN6yEApteQbDNRKYiL0EV6kWyfhFt02OXP09UA6eClrCwxnqjEdQTAzaDhwR2GD0pxzwxQM96oZqtdyAA6i92rKnO25GHZ2gekXFzo0K0Mt5eCnLU7X+ZcHCMFqL919wop3kCzDcpnZoawCmXsdmfKPz5aszKDu3wqGvjt8wVwVb9sX1rmz3+ll+t8Sf69wvfu9idSqX8z4i7vGje/cQbU0yq5mHnEawO24kGng3tAsbqunDN/VPLT+Jyuv5rpNxk/nBqkU2CG3m6OCKXYGERv6AvVNmzOg2Xl5GhuNstve3W+KjZlxI1MIMdoLTDt3LPWnC+k1Lowgy6XpfcK",
+      "enc_subscriber": "LO4NLsvM++L0BSsq:sKrNhxX48EGP/qhjgyrTQUoc0Fo/N8l4V6Xb3e2sKgq9xeen0x7NyOkTza9oyxh/wI8sBq2DF+yBIh5cupZHu5SOtLaixVR7jmt1ZqjN24GnOX3Q9OY=",
       "lat": 37.40689323,
       "lng": 127.13615763
     },
     {
-      "pnu": "4113510700104770001",
+      "pnu": "4113510700104840001",
       "match_type": "inside",
       "bld_nm": "N/A",
-      "jibun_addr": "경기 성남시 분당구 야탑동 477-1",
-      "road_addr": "경기 성남시 분당구 판교로552번길 26-6",
-      "enc_subscriber": "WqVYeeWCu1vcN8Vk:EW6m7VDdF/Zstwtj3XCFPIDv3861/dJvRlpNHf41aDzm2e+5cc20qBq0lQfBYfavbpTCyXySxQbJbsoLrx9znSmW/L1+O1wHJZ0gXjHd6m7+ODeLklRKZe1XU6eFSO/dqGOVkwkuBJRoIA7rAYausdv5SSkOhzIfgnYyLJBHWKlykPACMB4+cnMcxcJRmDCwHIwEVowj4cD9uItnm36RWNH5z/w=",
-      "lat": 37.40633643,
-      "lng": 127.13682699
+      "jibun_addr": "경기 성남시 분당구 야탑동 484-1",
+      "road_addr": "경기 성남시 분당구 판교로572번길 5",
+      "enc_subscriber": "beKAy4M4UT4j22wL:QnUKjOvMiMuPl4upwKPTLwxH4GeNC4zjpUKay7xQ51vZOhZ/TUMAAsfCDvj8RFUQd6JYElycIUlCm/p6br68vKNGoegmQEtUt1HdrxX2G6zoWFWq8xw=",
+      "lat": 37.40745634,
+      "lng": 127.13754475
+    },
+    {
+      "pnu": "4113510700104800006",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 480-6",
+      "road_addr": "경기 성남시 분당구 판교로552번길 15",
+      "enc_subscriber": "f7pu2y8xegUNmFeJ:iaxbPL4R4Pe7Pi5YREXMzy4/qmbSWvFWeJEBOFf9+Q7T+7mKXe3rJnhmh9F/hyxWDcCfs0XzGfld/vYEQs5/iUUBlNrdzD4OD6GaYUADC6bbiTAFv+o=",
+      "lat": 37.40719103,
+      "lng": 127.13626919
     },
     {
       "pnu": "4113510700104080000",
@@ -798,19 +738,49 @@
       "bld_nm": "중일에이스빌1차",
       "jibun_addr": "경기 성남시 분당구 야탑동 408",
       "road_addr": "경기 성남시 분당구 판교로610번길 9",
-      "enc_subscriber": "Sn7mOwe/CZhZnhTO:iBdVnSnA6U6wvvSSOk5SD7Rl7adhmE0dQzpYk1HfVb/nfkjfEVWMGXtDk5hZ4Z1XBKTOH3bxEaFRdZkHh7u763LsLkC8srI1Zqz7ALuLnQC4Lfjeq0VcRo1/J6CTZrrYNGNADi2OGj4iJbIe+R+VCsaegNNOOVfu4cs+ER1/4Klb08RI6TK6WtJxvbuLEdM66f1rs7ZxHY4jyTgPYOrYmOzSCDz+UKEAKysm6gAR/qnqRk6+LjBWCEeoD8jGgjW0fgnMf9vcqmhlvfXHjAoseCZxfaRHb5/cDv5saKLVY/yt/KZZxUk=",
+      "enc_subscriber": "kN1LpwQTz4TqvheD:TmWo7uYSYXCr1BO4ktazMbcEor/FvSyJgCJexLtzPy0lBO9/p+sq7payyc8/MYe4ohvFFwnaGCFLmQSOx0LwO7evXqt6xTzPEuxKKI87c7cKFQGqk7g=",
       "lat": 37.40675048,
       "lng": 127.13958204
     },
     {
-      "pnu": "4113510700106000002",
+      "pnu": "4113510700104800007",
       "match_type": "inside",
-      "bld_nm": "매화동산",
-      "jibun_addr": "경기 성남시 분당구 야탑동 600-2",
-      "road_addr": "경기 성남시 분당구 판교로562번길 10",
-      "enc_subscriber": "AVDoFwTT+X82q+pE:WYLW+GfFfwnQQT69c7vYwpBuGh/dhZoUmKqEbpddsb4NXpnMPm58O7/pBh7yfrswkxYU3gJO7CfZbqDOJGnoBO+0xCRI5Ku+pCLb1Us6VutfzK3pcKgNLK38wAXcPGhnBj3Ru6NDm1zZepGQANvN+Eu4FRjXe3txXFJXxZCWbeRIQ3kUyg46MseHnrBWpmugLuFt7NGNALTjxADlX501ov6PBzsaoVD26CRCbPp2ipn0eLVw+pEA16Fvz0fcB4hTuaMN+lj8OwEfqu+/YKJ8dA==",
-      "lat": 37.4068271,
-      "lng": 127.13517491
+      "bld_nm": "중일에이스빌2",
+      "jibun_addr": "경기 성남시 분당구 야탑동 480-7",
+      "road_addr": "경기 성남시 분당구 판교로572번길 8",
+      "enc_subscriber": "WQQhjrWTjMQIHOYu:aIJ7bHzkvCgEc5PtumoP4ojMlzp97oj7FO/9jBTZvwWjcufezdRl4AhoKbCGoeKg6bbK24pbP5Pkg7FLzb8MK3Dp+ORNTjnubMGak95AsPQB/U2jZjM=",
+      "lat": 37.40716555,
+      "lng": 127.13677779
+    },
+    {
+      "pnu": "4113510700106060000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 606",
+      "road_addr": "경기 성남시 분당구 판교로592번길 49",
+      "enc_subscriber": "Jotj1hl9eQOLIedR:CSpdGZkYNk/AAWG9vwkOJ0mZwqQWFVcz4b+ds+sMsMflO0Yp9iqFzGc1tUrgyxCrGQF5YVT8STr57KzLXKVRz79Ostw/abdHquWsLhe7xgPxzduLvXc=",
+      "lat": 37.405378,
+      "lng": 127.13585988
+    },
+    {
+      "pnu": "4113510700105980000",
+      "match_type": "inside",
+      "bld_nm": "세종빌딩소말뚝건물",
+      "jibun_addr": "경기 성남시 분당구 야탑동 598",
+      "road_addr": "경기 성남시 분당구 판교로552번길 1",
+      "enc_subscriber": "8pG+2v9ZJlpSUFtK:OGMQunsx7Gb+GSW+u00WdQyJAECTMh5huhOrBDnTRJSM7YcXjWle/AdwEtVauyi1XJ7I1QRp2cH6N/hf+gACPZ0LmucRhyYzIwmePPQgzKUGy+YwFsQ=",
+      "lat": 37.40733107,
+      "lng": 127.13491257
+    },
+    {
+      "pnu": "4113510700104940001",
+      "match_type": "inside",
+      "bld_nm": "제일하이빌",
+      "jibun_addr": "경기 성남시 분당구 야탑동 494-1",
+      "road_addr": "경기 성남시 분당구 판교로572번길 15",
+      "enc_subscriber": "a+PzVlAaI5eGFNAE:csS/1SzM9E1kazm4LUPBsgNLDybKHIT0lluSeUPioKC1Yg1oM56EJAYmC+lfAFYd+Aw73tY2/TylRI2Ogsy+wQjV8dVbCg7tPLYl2wkv5FbrLm7Qhho=",
+      "lat": 37.40687226,
+      "lng": 127.13813513
     },
     {
       "pnu": "4113510700104800002",
@@ -818,9 +788,29 @@
       "bld_nm": "클리포드",
       "jibun_addr": "경기 성남시 분당구 야탑동 480-2",
       "road_addr": "경기 성남시 분당구 판교로562번길 1",
-      "enc_subscriber": "0EeU3d+kfD6EJxUx:XyOSEy3BiowQULG2Bzfhtz+yqDbGLaOEPqPjEt6lhbAiJDyGI9zP7sH1ADl5wto+4xPxtvMjJTFByMyBm9ioA4K4+uQQVS9acqnAMqIVrw8eYHLkbgA=",
+      "enc_subscriber": "bEy/cMGioYD5cRHQ:XD/jcE9UbpgY6BiblSrJ6rY7y6/si8CWalAGSABjrnyy8T1wHjJXIWULpgB7mzaiD9SkLRYptOcV9QJozL2FMWGwm1R4Qti2Pd0jXw6DDfiNe88NWMo=",
       "lat": 37.40737892,
       "lng": 127.1358163
+    },
+    {
+      "pnu": "4113510700104050004",
+      "match_type": "inside",
+      "bld_nm": "삼오빌딩",
+      "jibun_addr": "경기 성남시 분당구 야탑동 405-4",
+      "road_addr": "경기 성남시 분당구 판교로610번길 5",
+      "enc_subscriber": "RmcR6c23MRggl7Xz:P5WZgkGf86+XWDTV3xiqa/ZCBnCTYrtlyVPL96OFby9xOazus4avX0DMYzromAofjvw89cqvxOBWFEM2VGsCKpRu6EePyMRoWSYFC8Qc03m+2GQV/pI=",
+      "lat": 37.40706799,
+      "lng": 127.14024719
+    },
+    {
+      "pnu": "4113510700104790000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 479",
+      "road_addr": "경기 성남시 분당구 판교로562번길 7",
+      "enc_subscriber": "P5WAcV3n91Bz9DRb:OSJdVdZHYqdUEJA9DikPzg8GoR5o7pmx/k/y2OaDYvIteuthwane8jtwIlTNesZfLjnECLZT23Xfkh0Ys3mUMGerc0XcX8Ij25VU/rBVYzuAL3JsCnk=",
+      "lat": 37.40692831,
+      "lng": 127.13584108
     },
     {
       "pnu": "4113510700105060002",
@@ -828,9 +818,19 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 506-2",
       "road_addr": "경기 성남시 분당구 판교로610번길 10",
-      "enc_subscriber": "2eM6R2umtQWFsMLB:ikSIBgB/sQ0iwf+Bdw3tFrlgJgQRD/pevo64W74j8/oGrlu1yBaQYSrmCdSm0SUaeO7QZkuLTLyFaMM8D+F+qQD4XJEC4N5hhvznU9EjvEE+gLiOhMQ=",
+      "enc_subscriber": "xkn/mA13BcyvaUY8:9d/wI73U/hSMWvNgEW9aHJxM/qz596cssmrKu3cmCEAlVAGZrv0W3B4sKECrJJqVY2hJA216+qvWQhjnwRdFqxpP/1Wlx4L8Imhl9RIoE/oI1aFMZ60=",
       "lat": 37.40721995,
       "lng": 127.13982838
+    },
+    {
+      "pnu": "4113510700104820017",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 야탑동 482-17",
+      "road_addr": "경기 성남시 분당구 판교로572번길 6",
+      "enc_subscriber": "NNmwZgtZD8pBP4KU:MjmGyUHCWj4NBtKQUAnY1E1b2sNefQ0ZMU/PHXfDP0uMvkFZiKMla/sLCTxIDEnHzSBw9vghV+QROv20TN5VfjIKr3mXHiRdNq9UlqIGcC0ZmmBKyhQ=",
+      "lat": 37.40729316,
+      "lng": 127.13724045
     },
     {
       "pnu": "4113510700104590000",
@@ -838,7 +838,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 459",
       "road_addr": "경기 성남시 분당구 판교로592번길 21",
-      "enc_subscriber": "PNpX2CgcddKebUQh:epu7ivDtzUhIkLT3qhwTOIQaK/CSeW5YeWsGwPQUjnwvXkvivn0ggjARzKOIL01ffWirQgis5WBHRRropQOb4SKrTWzHH1wCuODEffN4ZMo39La3JG4=",
+      "enc_subscriber": "kDZLP7wHkna1lDmo:UdDxlPTl37fy+U/zlGOpxPQYHxYMxD8raBxkPqhjtNqAp+KK0poz1pBwiIysc8UOoVY9ULWVztTyNyxBuFh2ANImHJ2N38Ccsnt960kXHSNthXe+yco=",
       "lat": 37.4060207,
       "lng": 127.13778768
     },
@@ -848,7 +848,7 @@
       "bld_nm": "야탑동건물",
       "jibun_addr": "경기 성남시 분당구 야탑동 401",
       "road_addr": "경기 성남시 분당구 판교로610번길 1-4",
-      "enc_subscriber": "RHIoCKxPoJ9e5dc+:iNr0GJP/aaAXuYs5r4YcqR7YJKFP/1ED7uVen1LTmI9ZdhaB3J4BCaAmiPncfLe8bMb7CQ2s+CW1NsFvA8qn+IohC5JEEEk5fZaFlC3LWLqB1X+Fsb0=",
+      "enc_subscriber": "CQY+u/9Sb2xBtHDu:aVGcw/vy0DdX6loO1n4XfBHIsJwN53JQq1PDz4MIpiiX9USOaZ/JfkY9p9XVDfUc65ht0M+MRuRvY8c3Py+fV/psLgk1iBj22sy3t/ZCE1MknMTNefo=",
       "lat": 37.4067715,
       "lng": 127.14056499
     },
@@ -858,7 +858,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 602-6",
       "road_addr": "경기 성남시 분당구 판교로562번길 17",
-      "enc_subscriber": "LBRT5xn0rbcspouz:kWeF9oC+kwfD/6lq9467k4Ye6+ZAc9WR9dr5txi9Na+4S83i7Ctf1bDYr30qVJGsipudAcivPYZFMu4meNAtTJ6C9AT4mIY6DtUmSU8iOI4X4L/0dPeaU5LaYxvL9fobBcjzPT176Li2BpNeNn2fF1cZVPUyTQAbChTxuT1ZZkUvH71VdxXfjK/HrjxMaLzgSpR3teKzZH2Ziv6ZR7+ekG+1xbGygULEoMa8nMKbguUFi02NHdKb8Go7Ug4hBI4yhPEvUEpR4PAsbF58dkuqK5+gGA==",
+      "enc_subscriber": "+0WfKXwl38U/RY55:WKPxM2OgMNo0lpqsb+z6iJSPD7KqRrZuLHhn4hTGzGsRCGMjNA2qW9RU2sXWrfJWo2K2BRy/6UjnKABc12zXOUQTQFAR6SyDsBxsKJ9kE71Sy06A0dI=",
       "lat": 37.40607929,
       "lng": 127.13528023
     },
@@ -868,7 +868,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 458-1",
       "road_addr": "경기 성남시 분당구 #-#",
-      "enc_subscriber": "BYxNOO/4rz7S/Vl/:1d5lpBqS3xbL/mFTOmtgjWJFy/iWs2/Ujs3M1BplSutHKN32scVuthx4Ji1ZiMIMohTXB3MyQAZzLzki9vA1rT6ACECTBznZrE8mVgZjx2dDOAIu7EI=",
+      "enc_subscriber": "3W0x0xe5eq8DzPeU:8YaY10wJoWseIf2oxTYYUzHTWSh3vN5tzgjk3jQ+tk/UZthX20pRbHROWK5b9wbt4ycOtncU/gorM1YTZ5sJWPz1fDZszaGTJ//bGqnW1Lo+4asU7Do=",
       "lat": 37.40574985,
       "lng": 127.13760217
     },
@@ -878,7 +878,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 608-1",
       "road_addr": "경기 성남시 분당구 판교로592번길 33",
-      "enc_subscriber": "TyqNdYT4QPiDVCaH:z7ux1CQ+M/6l3ZOUFlswjRhZJfQmctYVQK3r9jbkuxvvUOUblT+EgOCtatNcv37O7WRt0q6dmi8Hlj/wzEoZcpnHkx1TnjJ5jplHY1CLbpPszwQeqhg=",
+      "enc_subscriber": "tX0jfHc1LeH9wENn:sRT5nPpwXcyIXG5BW6NGmAaCCZJzGm6t4YVT67oW4lvmFQ80zOT13sDr+458FC6DUw3MAn33YoPaHCd+uAmApv2guFOw/3ohxr8Bzs8X5cP/u0SQCSo=",
       "lat": 37.405092,
       "lng": 127.13665221
     },
@@ -888,7 +888,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 608-12",
       "road_addr": "경기 성남시 분당구 판교로592번길 35",
-      "enc_subscriber": "TrTVAc45Q9CVGRaX:GNUHIG4f+n0mmDjYv9h1iGCS58G2bsSYviyl2s8mK7UfRXsOUOX4Q9reTSgXtWjVMoYsI1YiOXcMKlNjtlN2zfvP5R5DATuhHBqoKS7NcStWQP+uU1o=",
+      "enc_subscriber": "z66dBBV3sss5CZg0:1zXLmQSsZIdPQd7G/DQhjy0wP3Oe4vIScBbCSdZ/DDmOIQor9MPt4OJJmIkaKQYDkyy5yXEEIRy6drAnDciCGtZKo3lIZEZYsoshUda8uFZ0DbombZw=",
       "lat": 37.40495627,
       "lng": 127.13648338
     },
@@ -898,7 +898,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 600-12",
       "road_addr": "경기 성남시 분당구 판교로562번길 14",
-      "enc_subscriber": "gVIAFVrPafdiWfMY:SVu8unmnYVGcQzrSBYjFLybcCliw+HhMEgtN6nZST0sYExyVGCLmqbbiyaRU7fZHekxYJ7nPWZzNGDoKj2hizu3smElZMF217l/u+4QTGiYkAKpX/11gtZ9rG3adRorTnRKLNj+XPbCSURJbakwTd+uAGT2ec4w9Dp/K9MySW6IhDvtLFBX4l8SF+w4Lxss9Di/WVNib+/7YgDYn6LwqDGKRYcoGWuOUGYjBE8EsNawuSC/87qwoPxcMRcCVhsvTp65ej+WlDrBw0pIejqbE8e1OQA==",
+      "enc_subscriber": "tsN9WFpNKB3Cmq6L:WjCq1GVX9TySolgDIlnGEt2hram1nFHgpFRPJ0wr+zN5h3DR/GkptmqSOSPorv663mdNqrHbSQ6GM3yFOi/TQBoBrwhDJu+wbBLdgh+gRRH0TIdu6lQ=",
       "lat": 37.40659219,
       "lng": 127.13499525
     },
@@ -908,7 +908,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 606-5",
       "road_addr": "경기 성남시 분당구 판교로592번길 41",
-      "enc_subscriber": "4odQ8LW0YX/dz5i/:qwnHQzqNWUjlNUy+fwHsxdujBLN6H8SQ5hecudYHk3FukHPPRwV/hqsQh4g85wlvk+hbxTA1AVAckK2cC976tT2GXsXneMUQWOa9VBxtta6af70jrY0=",
+      "enc_subscriber": "DwTKiJE7TifrHNjG:nQa0r36QrVRM/8EsdEwbx7XldTPlx7SiCz5iTvCUsFgUALkZwNCMz7Vnr4DFMcE9jVI56xxMD/9ahNAV9SlbPWPCyt7q8H6r8lHmPwaAVYqGEohzbxw=",
       "lat": 37.40471085,
       "lng": 127.13581792
     },
@@ -918,7 +918,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 600-4",
       "road_addr": "경기 성남시 분당구 판교로562번길 12",
-      "enc_subscriber": "BOp+ft99LzBthVAi:ldrbotxsHcBOLBdFr1UvpM99tAWXgyVFUArjJ6lL5/HJyGO+7lNo/8cvJvyynTWf115kEIozvLdJ+PD569zcVL38l084zaHt7V+pNeaB/h+xy1NOr+9RKsKpDCmx8Cxie6t4tlVjABgxez8L4H9xgAMuplcuBhW+7jgjpNoLjy4SgkdzFrfLwm6EifiZGCzM16OsMjx9/m2KPPdEjNZ2PKM8LtaFnIEg6xklWlwqHcjMtJrW9hVc5xw696oRfBSMrDjBuzK2JxdVhSXhM1lSDprkeuqiaDkvvihZpdGHCYVZKRkkh4aICMkNuELojTPLLs/S6PiDOxtbbS1MqGXuxXpigAVOG+DS4nk95uoL3hVN90+PqGyw9lI2VYlvy64mvtyaAty5V2O9BZqpcmTECOY+/jZEYPojVKAQHoNH69I=",
+      "enc_subscriber": "mTfIiNQ4kifRzOQJ:aWo1pj8eXHZ4VcVjr0YiNnbtGnwqNOBvqGB4hcIwy8KveAMjwTcxbqkV3IUMdleivwLWzF31TUXY2uAyPZ8jgPCzawCCfHnVb3qsrjQa2x5sDf9pdkE=",
       "lat": 37.40681715,
       "lng": 127.13486987
     },
@@ -928,7 +928,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 606-8",
       "road_addr": "경기 성남시 분당구 판교로592번길 45",
-      "enc_subscriber": "+Uf1rpfw4usbjWM9:onvCHCfVxdWEO/W+gdJmFfdCgbb+EL4whqz9925U/y6DS8IPvznpkXL3wO7oIeu8witv+jVqc1u6GEYhSoMU3TFcd8LhIsUrqTTHIqlYA0h108sTObU=",
+      "enc_subscriber": "Q+fW9WGydZUjh+EO:azhXzMjrDX8QDrSlHJqNlfMLi/YAZJZssYmvUdFeqpvVhcQqS/oblyK12P0bXK+BsHw6GnaVbY0T/sJE3f2D/R/0vQ6OSxP4m8uX1w5JWux4gbyvn4A=",
       "lat": 37.40496282,
       "lng": 127.13568111
     },
@@ -938,7 +938,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 608-5",
       "road_addr": "경기 성남시 분당구 판교로592번길 37",
-      "enc_subscriber": "Kz3L7O+Sf/diQrat:He9Q35Kh5O7XHlibUsIUEa0HWsiAmh/l4qODtaCqrg6fRwuP+ph7Eessxv9OuYRK80PVGjdZunE1UGLi4rZedFvE8xa9Nve5mzHXuKcdqBRq3Ti9ML0=",
+      "enc_subscriber": "D3xyS26QNIDPpDGe:g2gh34B8dJJhZ9zQdYH+CL+Ie6G4PfaFGy9k32ndTS0V+xtW2TXbgIlpLmezTrbhFiUadfbevMdt/4TGbrbJVsA8mHpddZuL72Mt/TPeqb2Xyp8C44w=",
       "lat": 37.40478453,
       "lng": 127.13632602
     },
@@ -948,7 +948,7 @@
       "bld_nm": "클리포드빌딩",
       "jibun_addr": "경기 성남시 분당구 야탑동 599-1",
       "road_addr": "경기 성남시 분당구 판교로552번길 6",
-      "enc_subscriber": "ojMKEoJ6tBDsDI0o:1krhn+BKxktv3izustCrj86GMjn+I2MB9MF3WTycWPpSRgl6mWDMVtyJ8pS9GsL6VXKL6IXr1BXtJGqmZb6KHjOS2pXDjylfuECitNLQUPFr9tgN1PU=",
+      "enc_subscriber": "Lpbcl6gotr0ALNrN:M29aIj9c4pnwHPp3g6a9H0hctNJFyV6V1e1U2DEv8ZILJhwRuhLvaqCfwpsPT1tG1DyAVPsGbbB6d1CsXHe4kV1MXX24gsG8Bwkq9xJz8bVCIvpRYtc=",
       "lat": 37.40706003,
       "lng": 127.1347105
     },
@@ -958,7 +958,7 @@
       "bld_nm": "드림플라자",
       "jibun_addr": "경기 성남시 분당구 야탑동 602",
       "road_addr": "경기 성남시 분당구 판교로562번길 16",
-      "enc_subscriber": "3NToigk1Mbr2gnCq:NoH8KCcSrXgX8DI9L+Mn9xylcTs2oD29GOu3E/ToFAO9b4+EmP978ZnP7UXXL5tsaGj1dIQE83DJJMdGAbHNcMdNy+GB0/Vpi85ReOdL54n5eEtrGq8=",
+      "enc_subscriber": "DjD31MUpYrgFIq6v:pHhrc1Ds6OLe6xPi5i1ox7SKMXda6bSmMxH0VfbwFLrQ/iieiGACfTEAxaMbLpd7SCoL1/knK2zkjtanqdAJUXdkT05AoAcmQrvQVBJNacpRP4vKKB0=",
       "lat": 37.40635777,
       "lng": 127.13497379
     },
@@ -968,7 +968,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 606-9",
       "road_addr": "경기 성남시 분당구 판교로592번길 43",
-      "enc_subscriber": "CYlfM74xcYWRwhUQ:QGM15HTvyFlh0zsnWr/Ji2Jz0+KjVnKYB8NEkP/q95r5oJJEgenBCYs+5OXv8FEkQXKH4dK6tmqKpWEl/9ghrYZOcDGA0xHbTbW1619ONbihimRjccE=",
+      "enc_subscriber": "/MS3O6wDdMior7Pe:TzmMdO1boLi8EODwtmjsCtkIX+gru7+plgKRaZzj3JwQDNXvl4nUuYN8Fe4obhJ505Ijp+SpSsyj2mi3ESCphEnF2OweKpqtLb0XwhpdUiHgbFZvC/A=",
       "lat": 37.40482512,
       "lng": 127.13566516
     },
@@ -978,7 +978,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 387-3",
       "road_addr": "경기 성남시 분당구 판교로610번길 1-3",
-      "enc_subscriber": "mtMIfprynRgx+Xwj:0L8gmtlsR+ZBYS68cbx/FQw+XpxVn2f7TPKe1Hvt8rvjxHRs0aDeuyKLVP0BfmTQ9BZMiM3JdUfCtRIgj8bXYMVu7IPWOuxEOZ44KRdftKkphxqLj5U=",
+      "enc_subscriber": "jVUG142ZF1r5tjDr:GYZUivZRFxHqxMDE0PvHOggpvCnK7tPQvwXa9eHK81MAL7fwYoK5E518351xSa680qKNwjf4ogbFrQZV+8RwWZq9fCw9LfmW952sKd/95oiHZR//aaU=",
       "lat": 37.40683659,
       "lng": 127.14122004
     },
@@ -988,7 +988,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 601-3",
       "road_addr": "경기 성남시 분당구 판교로 548",
-      "enc_subscriber": "0WeKiODVHob5USsr:0rWMoNV1zgi8M+Cj0e/4z/Rgw3mWoG++GkVxWcENecbL/gnEPg68DA1qzhFyojmyi2AW5LuSn5RBsE4kus4YrK5AiW2XF4e+dZ4TZG3VIomrDvkLIVo=",
+      "enc_subscriber": "Pu2on8EC2FL1g3eB:KnacC+z0fhHEOy26y2A4hXHM3+YHi/1ciXTYnvVYjBdNPhq9Q/hRG2lzIzHs29w5sw7cv+UZvsTfs0T81MUlSJ2ytEMU2u6czL3rRIM8N/lFS3tdYP8=",
       "lat": 37.40654622,
       "lng": 127.13470169
     },
@@ -998,7 +998,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 599-4",
       "road_addr": "경기 성남시 분당구 판교로552번길 2",
-      "enc_subscriber": "nRKxIMLT/DmLfVgw:nPH2r/ecvMt++I9zZiUIOgpm6KvnWdsav9eyI+kva4GP5u7cvs1F5RdG73wGQ+tuAmhICqlhpHNF3MKsGW02boZUfd0YjrrVP3AWKnOZ/nQTSUUaZcLAxb11pBNjAY3/Kq99b/Ez0S984H1eDQR3MUsE3jKM6tz2dcaTyRCxzO/1zCuwGey1m87CrDwLobB08cA0xka9iILhdOYCnPdeb8MuK4geAMjU9Lv/6Us=",
+      "enc_subscriber": "7aKPkoMMJ1i6vUWZ:EGoVa+sgKADrHTVFVG9k3Gnl+SMyp2Hwa8IB6Op683q5/v13zz2+sLLBt2wvEFB1+iJaKtHmaOYuUdnpjJjOLBS5phteTMl620KhpcZ6bFnMgtZHW/Y=",
       "lat": 37.40721242,
       "lng": 127.13443857
     },
@@ -1008,7 +1008,7 @@
       "bld_nm": "전주관",
       "jibun_addr": "경기 성남시 분당구 야탑동 401-1",
       "road_addr": "경기 성남시 분당구 판교로610번길 1-6",
-      "enc_subscriber": "qNYEnPbzI41zPl/C:+EEmtIvXm7Ka+/8Ho3UHXu6MywyBD7gVmtO7j5qSVEhC8eB7GQQbwRTK8r8XAyvFojo6OWJTbPN4USnL34xZSx0VAeQFiGJU/yvmtCsaVjpca0jYBqU=",
+      "enc_subscriber": "vq48+xgSwFJel2gj:KVXV/M/2VUm4cwDkYCwQkNEY7XrEQbG92amTp55uEdtYHDgdJZWiSo2NojnSZqsCx9GlmV1YGB5xyDoFFSu1SJFofUNcbVK+Vq6mCI2w7nvLyJU3HZ8=",
       "lat": 37.40654716,
       "lng": 127.14089374
     },
@@ -1018,7 +1018,7 @@
       "bld_nm": "탑마을",
       "jibun_addr": "경기 성남시 분당구 야탑동 601-4",
       "road_addr": "경기 성남시 분당구 판교로 548-1",
-      "enc_subscriber": "XVTNTe49x1E/rM1E:/cHCXoIBktPkZizTlt3e5nPRKzCZBeppmjh924NVao60KbV+AQZx4t2giUUMcoOsGj6QCyK8XNwXVVzKkwFvVY8wClsyMcoJxFIQ+AxcjVmotRFaNvc=",
+      "enc_subscriber": "C3WdzdCEWB9e/hgO:GN2M9FE+2AOHmR4Z1OJ3ikLAEM15KV9e1oob5rx64YF78PETvl8TSsdvl7YMFUdB2muRvq68UVWWARNIpzczGPBNYaYTzI47jfpHbhI81r0gUvRb1JU=",
       "lat": 37.40686117,
       "lng": 127.13453067
     },
@@ -1027,20 +1027,20 @@
       "match_type": "100m",
       "bld_nm": "목련마을주공1단지아파트",
       "jibun_addr": "경기 성남시 분당구 야탑동 165",
-      "road_addr": "경기 성남시 분당구 벌말로 10",
-      "enc_subscriber": "yGVVKFwidl3V2IID:9rQrHwfb++uL77Fk6d8rmIgHN5S3r39DIZ4Q8wfvrPJDFgDN2iVYP0/C+NasvrURYcMAzke++d5psIG4h44rtqWd5eHlREPf57ov0TyoHZ5RUPFXG5OK5ed37eBw5Trr9ooAAzkU/gz9P6OHw5XoSd9Z5jrtwK3tymNGAF79OWU2DEZAVoDNYous3i+duNC481jh7WHA/offxD9BublJXe8dbRR262nWtB49gS5VgrTWigNk3efJBB6Dh8QfrjljzZYsWUTEtM0wt3knO6B64q3lh9FuK+hLjSuvGgo7CPkKuVt2bvuHBj4QXcdoka6fp0oDStoob12ppYmqC+/6sGGt7FDq+MaGUVeyRcTJ+8pARwXy0YT1sE4zXJ3PcP0CzAvAAFk+86HUzaO8jRJ12u8vtqE7wKTauALfwbsui6j7q0wTV5JZO03CRCjv3w1Pd1r3M/GfFe3KVQCt6Bm0x8lJl7UsYUG11qySVnzxL+He0HoWuCU1r5Dfb+0bTZcs3Cw+p5IKEhiVvxFTRWLKEhTpnC9QeO+PUWk1EPqwgz8+q4gICYmTOEPbHNtdps51YCRvlR9367Leuqx2+82RbCefDGx4kzQ/OG8t4Aj9p7TEBMKAu0temufwSpxL3InTZjermBXU9xl8YKD5wbna+nhv4qskA9pVFEaWSrJFzvyEZa0810HujKzbzFUrHRTKOrmn6Dbd5eSD0vsUGldGKCsMcu68PlA8HdMcBFohhF/H048DZJyaNvw7ulvPZMqbRZwizYVJdrNkKXTP5r3K2rNpyx0I7xZQMXnXBczJTjc54KkD23STPVkKboVB/E5VXlmupqGxgsARvNK1tGnBZrXgL5yDsoEDA6Y5s+Tq+QrBZItK7Gy2dtxNfmDClqWSJAXctEzE9Vg95K3bEdIcSVl7pSysDGy5pZ4bbK/Q6vE1swdG5NeFNVDbU6TMvrWy+0h5blKEwnYUo2dip4NvBvWDnSCtnTdk89PuSlQT9rIlUNVDRwV/wEZGPtOBNWHRL8cmT1ttC5Udd70+e3aIbxYTlVnPmuVIbUBuP5eAbY2vJyqyqXbcKp0NxOa4cS+295deKoAVWhyM4XizOm4qBYP5Upg0JqLkEhoonfNq",
-      "lat": 37.40859123,
-      "lng": 127.1402173
+      "road_addr": "경기 성남시 분당구 판교로 607",
+      "enc_subscriber": "TcIjIvdx4vk+vtwt:W083TCE25zuZ2qRPupcPb9les7IwKhjaqeV+/K28EpdbPP2jzL/DXngN34pRmhWTt/yb7DAqvYdsbyyL9cGHr2cdxuun8xGmxT8dCX7ZpZOlMqKNjIfqyUc=",
+      "lat": 37.40786074,
+      "lng": 127.1400965
     },
     {
       "pnu": "4113510700101650000",
       "match_type": "100m",
       "bld_nm": "목련마을주공1단지아파트",
       "jibun_addr": "경기 성남시 분당구 야탑동 165",
-      "road_addr": "경기 성남시 분당구 판교로 607",
-      "enc_subscriber": "p2d298m7NQUHinhN:QauPBOl3+CqRt4jiXL5QG+JpH0u/0pwbiGbJ34Ft+Wk6V10h1ClIxg+j7KwkLREh6ch7iJJsxLZ2Qw2aYEh96D9YXY2K+npY/p4JlZIs8xKKPY0TmSveznA2euJpq0gOUeFeBS8IXocq9pmaOeM964kTyItwb3CNdnmR+vkuMSrk9XpKRp7+nwWg47TOkl2PxPbNWwlnHSbO/2U8sxGlSoKYIp2J9WPL9BrnPnXgfp8kzVpEH2eBCcMTD+/jWwEcCd4tVyhz8zw4VBo1I28/XUHd0IKRG8tCJXdOyeHoKwvoZ6p5bvOWVA6RyyyAZVxmRH+S5UJ9pLcOLySunpQ9eaYfH1qaj7rAOyNbUZEDvG4GoPb02rj6mGV2dL1vb6GYEsRXG8BHonNbYEpexWkxyHBh7MjDfzA7bjNDHbFbJC3l0ghdcXi6/N+aPkBMMO6cDLh9Rx3Bz7qrkGJbzR8QGDlSpJdX8L2tKfIRzbm0vsyys+VMoEQW1UCAcDO+nQ39VhnAxiFNn2MSKuHsbsRbfqkULKamEh8qftXX/BOknBel4k+nqjOWmQx40BY80dJkSraxY9bJyz3VI40WvWyl+zEsC05edD8qVJ62+9jBRfmBOYJKcN5MsyxqrT7/+I0M64t2fWUwuQccJ/MYcIR2vAwm8zZHgwIYlepeXVnd8GfiLeYB2knulZJPspI5sBzhASQIT/bFDTMGTMqmFEDZXHJXkZoyO+ThyBDrmEW9uNwrmOk3VN4OzCw40WpmQC5/W2WW5FNdbX8ZJ3iQIygmUr+skgKDCPrHHfi9ED59vUJgOvyOTNTeMN4aPR4e6ViOz8AhGKGPKNsJmjTLlwIOOXHPfrBJ9tgJaXkra++/bYJbBQdC8OLKIKltyXP/hPLqIh99hlBvHQ17VtMqNsX6jg65D78SVdJv5Pv/dWDm63KufRV+rbHf7K0h2eRNBmvqP7Wd8WgAWcASyhzHsuProijcS7QYWo55PjhfCxushi4D90vhz6RgTwZGWiKdgEC1rrBJHG0+CAHXJVWE4hw3YzRRnSbJGFo8689elYnC0K3SWTgwbGbAvIGQDbfvEDPXfWFQ1WgrZPUjbgvFVcvTNRPsblOL21swC97kYP58sAe65PXeO8Rk9ibKCws/E5+j9dPGDoWnPGMNEi1igYIa",
-      "lat": 37.40786074,
-      "lng": 127.1400965
+      "road_addr": "경기 성남시 분당구 벌말로 10",
+      "enc_subscriber": "z9W38qDc+QP9OK3V:tBM13uhOKJFBi/3NjriUxfoS38EBTWtSHIHeH9wflJK5zRXaqSDBTVHMFKhBNHKxdwqeS+73Bp8YncPMag63UDLLyrcv1JJrwlbT6D3cdewqYihtveqt0Q==",
+      "lat": 37.40859123,
+      "lng": 127.1402173
     },
     {
       "pnu": "4113510700105210000",
@@ -1048,7 +1048,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 521",
       "road_addr": "경기 성남시 분당구 탑골공원길 20",
-      "enc_subscriber": "r9i4b7IQbubhut1w:w61zJfxO1kJc6T0xssoM9GjfNvnuy7qLlgjeZVSVYKnS1OJOY+oOQjWmQE/s12VijCtHWksUkcPxRNx4Oa9cVvwsO7WLN9ZMEVb6Jqzoxf5iQy6in7Y=",
+      "enc_subscriber": "5en/zUivsymhKzig:y4RE/Mv6ujC631Fdh6nkzKHrnmysqiqCo6oI1A5exJSVTpsEH9f7Nhd25IK+rjMiqAP+LPUacQ+C8FjuE4ka7yVHUZbeDkfTjX15iYrmX3rW5W0gDdI=",
       "lat": 37.40817476,
       "lng": 127.13630455
     },
@@ -1058,7 +1058,7 @@
       "bld_nm": "분당JP2327",
       "jibun_addr": "경기 성남시 분당구 야탑동 168-4",
       "road_addr": "경기 성남시 분당구 #-#",
-      "enc_subscriber": "KbGybXLnhr/PYgL1:8uUvo2e0gT2PQSqOIL2d8Nban8C+L5Ye3SSLGHIeho876A055ibW9mvqqgFO9UOBR3KN7DmBGZYCsXBmHVroZF4xN0b+o7mhBDZKjZXuXOUUsh8Y/b4=",
+      "enc_subscriber": "GUYnVtbpOmveYXYJ:xJoxRbB+GxeZ/0a5XvQOP62T8+DPlSDr3tlHpVJR5uRYVT9HNaIv6MnKe4wOJWN7LN58iEKGPrOq0kP989mMbAYQEtQYS9RIct9wYxAL4+yDUa2o8AE=",
       "lat": 37.40676585,
       "lng": 127.14167235
     },
@@ -1068,7 +1068,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 400",
       "road_addr": "경기 성남시 분당구 판교로610번길 1-10",
-      "enc_subscriber": "FhzUvK9zHbZX8QCf:vx9v4dtaUfA0T0KOucWl8/8Ar/Qgb9n9e02eyT27TNh6Ru8T8q5w0zV9Mt/Q60yQy0veXSKXecevePnjlrTv4/brvWkhRRQn/O3YoDv255f8ndVtM4A=",
+      "enc_subscriber": "cX9anm7sWvHd0cdg:5ph4bkV7tsoIFQePSDXdkIrOfwTXTD+V3A9LvN/hFGZfcQuqwcnMe0EpF48HLhLEsxanNfaQdIPTTQkJA2BTR4E33DCAuIO3Mn36y2QqAQf7I3RjrC0=",
       "lat": 37.40663942,
       "lng": 127.14159386
     },
@@ -1078,7 +1078,7 @@
       "bld_nm": "N/A",
       "jibun_addr": "경기 성남시 분당구 야탑동 400-2",
       "road_addr": "경기 성남시 분당구 판교로610번길 1-8",
-      "enc_subscriber": "4A4vSPyOreJPzD3P:7zJzEs0mVHE07qePpYByQ2ZDQFcEZ5mPWRCyE5n3tmpLE+KCFD0jxXNb8w1VL77HH4xHroLRfsMn3f8pyX+YBuQ2WH3muezooknloe6jv7mGMAjuSrM=",
+      "enc_subscriber": "3EOXX1boBWPvBQG4:naPmOlmGP1XhkhcZ+sG70SKdSZysOU6V3UyhYu6Cds1r2FxQGQdWe+IY7oPwtLpQjG1Kkq1mu17AJ5OhOaGs57HYu4QRRoQHaTQUPnzHb5sVIx1pWwg=",
       "lat": 37.40652717,
       "lng": 127.14152922
     },
@@ -1088,7 +1088,7 @@
       "bld_nm": "중앙도서관",
       "jibun_addr": "경기 성남시 분당구 야탑동 610",
       "road_addr": "경기 성남시 분당구 판교로 546",
-      "enc_subscriber": "SCguxU4+11WFXITx:tSxM4wODo/Jqv2Z3+PaRQJu4LW3O3DU9YHXyu6RMGUzR4U4EAGEaZzwUHT0N1djVsmWsVJU/wzN/2JGnOIe0jdL+ep7daQHvwY7TJu+nonCmVTcs0a4=",
+      "enc_subscriber": "VcOWoPR7aOouPBQX:SzpAm7cfJ1mYWaRqIZK+fX9P0tkJohuNfzISWSgwzUtsxjIPecc43oJj7jnu+ahKTumlSkHsIRqSVDDXrv4Fmk3JcaW5coDAxBZ7B5agfk6wVQ6cqYQ=",
       "lat": 37.40541026,
       "lng": 127.13462812
     }
