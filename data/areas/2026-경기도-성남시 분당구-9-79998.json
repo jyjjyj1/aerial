@@ -73,5 +73,856 @@
     "inside_count": 4,
     "near_count": 81
   },
-  "buildings": []
+  "buildings": [
+    {
+      "pnu": "4113510600100320004",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 32-4",
+      "road_addr": "경기 성남시 분당구 방아로55번길 6",
+      "enc_subscriber": "0yI20tWLCOKK1TTO:wh5qa6CMPQIVf9OhJgYAnDQjanE3xz7CxtoI9Dd6PoHcwH+Q+4ZQMxvmaDgmo8lrG6yg7QlTbS231OkOR42zo6M2SVVX9il97DquZN2hso/teAZ9BKs=",
+      "lat": 37.39882387,
+      "lng": 127.1350607
+    },
+    {
+      "pnu": "4113510600100320000",
+      "match_type": "inside",
+      "bld_nm": "이맥스빌리지II",
+      "jibun_addr": "경기 성남시 분당구 이매동 32",
+      "road_addr": "경기 성남시 분당구 방아로 55",
+      "enc_subscriber": "qBPmGK/YZb0oGobf:Sm8hTJv0BlSWzRj9J2Ib2LiR/QgqSbmXs853aga9tt0dkOCNIGPKClBtatIqJEvZ/uHab6ayhMR5vG7/tW/8ZKxx0IVSNHrxWv+hfZl6yXy8ltdyZ18=",
+      "lat": 37.39915479,
+      "lng": 127.13465849
+    },
+    {
+      "pnu": "4113510600100820025",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 82-25",
+      "road_addr": "경기 성남시 분당구 방아로 37",
+      "enc_subscriber": "GRUE/m5k7OM20Lsl:RSPwexldEGVmTctAdVSSgsBiQctlw/ImKGnBmyxRGzOtRP5Bwa+S4LX9gg4Z+1n1aQG8LkSxaRKFWmTlbylTtl9GfbE1Bd23Zpb8wr0gIdO6BQ4IEUw=",
+      "lat": 37.39877073,
+      "lng": 127.13288653
+    },
+    {
+      "pnu": "4113510600100320003",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 32-3",
+      "road_addr": "경기 성남시 분당구 방아로 57",
+      "enc_subscriber": "MTo+wetHqcqtkI4X:2EuM30iVLt9KzAwHl2VUYtfoVyDu6HKOlSBgWQERibKbwbc+AuGfL+1B3oBaO9HbKdjScv4vvRdaLjp4NDGrhwQ2fAW4Uo5DdL797S8yOgU4+b4nlK0=",
+      "lat": 37.39891195,
+      "lng": 127.13482914
+    },
+    {
+      "pnu": "4113510600100610001",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 61-1",
+      "road_addr": "경기 성남시 분당구 방아로46번길 22",
+      "enc_subscriber": "y7HTtWp8ou7O3TR+:AX26wXtG9ZQ+8dYDnmAsM/C0awbFvNCHl4TAuKy0yhF+o67NGlXM/cSxDkNrprU3U796m5C8NSDbjsSqtIO4WZ3HXM7ZFbLVikhZ4HO0kcxrVl23/Tk=",
+      "lat": 37.39706178,
+      "lng": 127.13406986
+    },
+    {
+      "pnu": "4113510600100810003",
+      "match_type": "100m",
+      "bld_nm": "숲",
+      "jibun_addr": "경기 성남시 분당구 이매동 81-3",
+      "road_addr": "경기 성남시 분당구 방아로 38",
+      "enc_subscriber": "L0HCzZ8CwzibCy3E:gYIZn3FFxg/1yROv69RgBBAw0YyAaaUOrEdtjQ/nXuvW5IVbiJPAy7Akc6J9CNNSNMyHaURa0di6U214YqPANL5Bp+JFOdvLNkubPgzUkWtgXDEYERE=",
+      "lat": 37.39847279,
+      "lng": 127.13272981
+    },
+    {
+      "pnu": "4113510600100270000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 27",
+      "road_addr": "경기 성남시 분당구 방아로 50",
+      "enc_subscriber": "A+H4v2KzN7GlsQbI:1Fqu8HJ1o04yOyv89a+zA2HIhKpOjvrXFFraIGRTDTlLGi+BQUsnZRinnQx45cmtJYwXIR7LYa1GIbt/hbLpDEUjfqzMnf6LB+CbOwAEDGHlQxqSkCA=",
+      "lat": 37.39891936,
+      "lng": 127.13430938
+    },
+    {
+      "pnu": "4113510600100300002",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 30-2",
+      "road_addr": "경기 성남시 분당구 방아로 60",
+      "enc_subscriber": "Y+vzjiUbWTqWbOmV:5boK4M1s/t75YY7ik/L1e6v7BTEc1ta5J814Nwj/XCvQFHHZJi1a172k5TJIeIYjIinvLJ6+qy2cFA7ZmNA2VF804s2S/mYR1y7bWjVNXec5pW+W3z0=",
+      "lat": 37.39863747,
+      "lng": 127.13483058
+    },
+    {
+      "pnu": "4113510600100280000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 28",
+      "road_addr": "경기 성남시 분당구 방아로 46",
+      "enc_subscriber": "hgisO4eYedGh3XGL:ukbQ38+LWcPDeiU9SJmIOjZpaMqyr6OYVlkTJ9hHqgkfYP/tLMzJjnC9HpWbzcqEpLUTetdzOJHFO/p6xNVv9j+Juw4ccobIGG3Ee0JfSWSZkRRx40w=",
+      "lat": 37.39871096,
+      "lng": 127.13396015
+    },
+    {
+      "pnu": "4113510600100450002",
+      "match_type": "100m",
+      "bld_nm": "이매동교회",
+      "jibun_addr": "경기 성남시 분당구 이매동 45-2",
+      "road_addr": "경기 성남시 분당구 방아로46번길 7",
+      "enc_subscriber": "Qs/He7FntVFdLhwP:PEEFYFtz578QKM4Fo7k1gsll9U0//LF/3rsV4uEr/Tz6hQzzXi0GjnnoXd5jpqoajNkxZNyEHzg8v/uumknGynS9/fo1RfxdwAXA2xLyMSvfghPAirQ=",
+      "lat": 37.3981706,
+      "lng": 127.13410966
+    },
+    {
+      "pnu": "4113510600100810015",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 81-15",
+      "road_addr": "경기 성남시 분당구 방아로 40",
+      "enc_subscriber": "SbaU1rLZfarR92EZ:cmlzwEmo838z36IpWrdj1aFhHBjU/7VN9ddv++6KYWg2lqMbrLmWItkD2K0FhvsYHBwyXgARe49jDjCjtquZkeXzHqJ8aRnr8cd/qqbZsyGD1xJFyrM=",
+      "lat": 37.39848278,
+      "lng": 127.13304611
+    },
+    {
+      "pnu": "4113510600100810008",
+      "match_type": "100m",
+      "bld_nm": "샛별선교원",
+      "jibun_addr": "경기 성남시 분당구 이매동 81-8",
+      "road_addr": "경기 성남시 분당구 방아로 42",
+      "enc_subscriber": "6mNwDQt2+AakJdU4:5n/MPEJlNAkGAlTRk/hPm9PNz1kpARlGdHv3yXV1nddn3KKPeTSXMGq40VMnWZ6GfE7WSVPpw81OdmkDu5lklhrgAq27/xgUKW8Gu+8n+iBFOx9W1Gs=",
+      "lat": 37.39851091,
+      "lng": 127.13339622
+    },
+    {
+      "pnu": "4113510600100290000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 29",
+      "road_addr": "경기 성남시 분당구 방아로46번길 3",
+      "enc_subscriber": "yTQ4yiLXr0nsVo0D:Erm+C+38XpDqd+zWI8RJDPh+Pq6euxs4x8fT7EA4THLgiitA5bZOFH5APMK22NCQmFRwoWdjahH/e2kcmI92wwwMlxqu6Suq/GEaFmDU9MYuHLAHeZU=",
+      "lat": 37.39854906,
+      "lng": 127.13407392
+    },
+    {
+      "pnu": "4113510600100290002",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 29-2",
+      "road_addr": "경기 성남시 분당구 방아로 58",
+      "enc_subscriber": "fOvl5qBcJbMuJn5W:ILfKP6ncO2MHRbmXCwDqCoISWCOWgFMz6s/ymPYDNi46gC8793k8Fa9uchTlW+KxEMViP2OF8fDWgMpAiaAvf5csztAGxgcwRsRp2kn0m1Zgq2BDDMM=",
+      "lat": 37.39872137,
+      "lng": 127.13441203
+    },
+    {
+      "pnu": "4113510600100320010",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 32-10",
+      "road_addr": "경기 성남시 분당구 방아로 53",
+      "enc_subscriber": "HH+L9kDMLF5Y1t2Z:x3+JFhOKY8iVNLTc3pUEr64ep3XJlWsX0Idq6fAill6UEAidF5du9QJ9fF1pA1jZidRVylAmBNbura7g8ZrKIFGE4mVqVlVd+uuvOz3VCyc03s3d8e0=",
+      "lat": 37.39929926,
+      "lng": 127.13473687
+    },
+    {
+      "pnu": "4113510600100610003",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 61-3",
+      "road_addr": "경기 성남시 분당구 방아로46번길 18",
+      "enc_subscriber": "zBr8KPXxUtvYg4zn:jYPUzw6iCslRUuNisrmcSZtC5g/d+qc3l8WwBCyqjI2iyUxhxpEdA1y0svPFWNdMKEz4YIxizgzRpkje6INLxPSyFbLehHKEasLtg9+7feQTm5r+E84=",
+      "lat": 37.39728628,
+      "lng": 127.13379761
+    },
+    {
+      "pnu": "4113510600100320005",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 32-5",
+      "road_addr": "경기 성남시 분당구 방아로55번길 8",
+      "enc_subscriber": "C7MAm5/cSkqJc97A:xo71cKtXshkXvtehgLhr887OvQq2rNP2rV908gMunTvAB4gpHuCnTQBqYNgOHzvJcoHryY6LCJlSXjrOOlkKdT9z6IgL0NMk/23JoGjVp52RGBKFRHU=",
+      "lat": 37.39896784,
+      "lng": 127.13541637
+    },
+    {
+      "pnu": "4113510600100810006",
+      "match_type": "100m",
+      "bld_nm": "성환빌",
+      "jibun_addr": "경기 성남시 분당구 이매동 81-6",
+      "road_addr": "경기 성남시 분당구 방아로 34",
+      "enc_subscriber": "iH4cjQTbyN7yqE8U:qLWpE/lTh+C6fPKBlf8eahEMoSISUiBgGlqfdwAaFpygZfv5R1BCl+3WQ038PiI5LvMln6CsoGlmrS7UCzVp+IiM8uL7UlQB3GxNAk+5BFEFJVFG6BM=",
+      "lat": 37.39849874,
+      "lng": 127.13237944
+    },
+    {
+      "pnu": "4113510600100410003",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 41-3",
+      "road_addr": "경기 성남시 분당구 방아로 63",
+      "enc_subscriber": "3P3JsRuHs3CegRb2:qe/MQwgAROLRQx0ZOLnO6b3vwZLJLLQ3B/0rnYUloQkNhnnULoMbHnrHB/UAd47RKbsUE3B5+PdEmLTjg3kFbPOHpBHqyHCnGKaR4Lm1zEeRW8g0LT0=",
+      "lat": 37.39868909,
+      "lng": 127.1354944
+    },
+    {
+      "pnu": "4113510600100810002",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 81-2",
+      "road_addr": "경기 성남시 분당구 방아로46번길 4",
+      "enc_subscriber": "of9gg7CeT454x40Z:jbqTdhav8lG9JgC17qbe0wPOFpRGwtUccXVY0BVpEbPNz1UXq5vzFFz6NQCI1jN2bqxc5NjClevssu0BZg6pmoduA8rmRmNuID4YcOKxMHs4sDe88ZA=",
+      "lat": 37.3983386,
+      "lng": 127.13305811
+    },
+    {
+      "pnu": "4113510600100470001",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 47-1",
+      "road_addr": "경기 성남시 분당구 방아로46번길 10",
+      "enc_subscriber": "ZjclD30Hn4wn1Apv:9V0cKXjvEn8/kKQVYHELgURkFZWt/5d2JIP4dhpo3zxrv6PzwQIjbv+s5hARox4jRIPfps3DVPAqrw1xEiQtRngVp9CxAlQNtBVMHVNomEKDWCC8AsM=",
+      "lat": 37.39783548,
+      "lng": 127.13359158
+    },
+    {
+      "pnu": "4113510600100820013",
+      "match_type": "100m",
+      "bld_nm": "이매동베스티아",
+      "jibun_addr": "경기 성남시 분당구 이매동 82-13",
+      "road_addr": "경기 성남시 분당구 방아로29번길 6",
+      "enc_subscriber": "fQvT1z/jE4n9AQje:oD+QLeBpqUieytmNph62Geq2NEP+2IRajj87jvxyfgyOVeXmiZqYHc+94wMFizEpdB6Jws2m2jBcSUZguL7f+aUm/XoaSyBN4SQp5H4dA1wSM28BCGE=",
+      "lat": 37.39897702,
+      "lng": 127.13255788
+    },
+    {
+      "pnu": "4113510600100440000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 44",
+      "road_addr": "경기 성남시 분당구 방아로 64",
+      "enc_subscriber": "GifrfHQ1/rDSMRQF:Z0h3KFVhSuEHsedr8Y0YxfXc44mWHKasEmyML0sG/a0CVWqBsXJoGVwD7XvoFsYI4Qc3WQPCmELDvyrjLsyjnfLCFRpiohdSSH8Kh0q145RSJ0FUBpg=",
+      "lat": 37.39836323,
+      "lng": 127.13519334
+    },
+    {
+      "pnu": "4113510600100480000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 48",
+      "road_addr": "경기 성남시 분당구 방아로46번길 17",
+      "enc_subscriber": "vz0ml2f1p4/liSPO:cz+D5QUTPPmwIiXbBf1LaEbrlACr9DABp2rq/hFp0RR67mPlKVP5ffUxV9BNSK8BV6qlkfZEWAoOEPHolW1aab/KBobn95lwuW02FRoM0eEfMzWoGjs=",
+      "lat": 37.39745985,
+      "lng": 127.13454244
+    },
+    {
+      "pnu": "4113510600100610002",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 61-2",
+      "road_addr": "경기 성남시 분당구 방아로46번길 24",
+      "enc_subscriber": "hu7Vo8Tz6Q1+zXgN:cyfcRdYRQjU9kV7T0wk8k9WX6FnRsZcfStId8jUOZG6wwfuS/SqmGsqpb8h35vR0FggoDa4/9GNbQCD0YrqJbWoIj7KwDV+OKbeAdCxIIgjl9Eoc1uw=",
+      "lat": 37.39697985,
+      "lng": 127.1338104
+    },
+    {
+      "pnu": "4113510600100320012",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 32-12",
+      "road_addr": "경기 성남시 분당구 방아로55번길 3",
+      "enc_subscriber": "x2f01MaZW8V/DcgL:nLAMpsSZua1U8c+AzmlhNacQKJJFvLRL4MqfVa7dZ4m5zWyJnFCTF64c+EzYYo6cJEAuCd1mkWZ3S5DOf1mAQJGA52aNuyWueBbYVTt6erGQyoE0w18=",
+      "lat": 37.39930002,
+      "lng": 127.13498543
+    },
+    {
+      "pnu": "4113510600100490005",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 49-5",
+      "road_addr": "경기 성남시 분당구 방아로46번길 21-7",
+      "enc_subscriber": "sJiJVhW0ruX1j2PP:e5bv5s0iDdwtpABSTYBUgObXuvcEUcipkkqfroyTDbQB61BEC7ej2ZAbfC3vInXxD/kVxkpjvnXfQdfTjKJ7K2/WQ1dPAfBpCykLGWY5J2EKvBurC1ib",
+      "lat": 37.39693747,
+      "lng": 127.13468055
+    },
+    {
+      "pnu": "4113510600100410021",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 41-21",
+      "road_addr": "경기 성남시 분당구 #-#",
+      "enc_subscriber": "zTw63SckkQt1lZDl:H5pgGl9eQem2jqbRBaqtwfJInPHuAnq70OtFvwwOb0JXtWcCePRg4lkkgw8oT9nPRGtKFq5SMLxKaiDJ3FgdKpN7Pv207FE/qiz9JeFrzU89/H5Nvio=",
+      "lat": 37.39864328,
+      "lng": 127.13562803
+    },
+    {
+      "pnu": "4113510600100330000",
+      "match_type": "100m",
+      "bld_nm": "동문휴파크",
+      "jibun_addr": "경기 성남시 분당구 이매동 33",
+      "road_addr": "경기 성남시 분당구 방아로55번길 10",
+      "enc_subscriber": "6erD34fQr05PD3sX:o3SDrv0bdAS5SwJ/gM7eXjmChv8rEMV4PF7MlYIHYPbTz2pJ7FJPYnhMCoFDlzlZUc1O/qei2xP5pQIhrVIjxiHMuGwLgvBS4YwzZ8KxJIRNdFHtalg=",
+      "lat": 37.39899555,
+      "lng": 127.13563091
+    },
+    {
+      "pnu": "4113510600100320007",
+      "match_type": "100m",
+      "bld_nm": "이맥스빌리지",
+      "jibun_addr": "경기 성남시 분당구 이매동 32-7",
+      "road_addr": "경기 성남시 분당구 방아로55번길 7",
+      "enc_subscriber": "0GLSP5X0eUg0FDZF:j/Jx0YDSqnp15d4VYfZLx5Siyg08AHERGhRoE+tMzSRs/02vG/hphQtWfMXIea3i2eOJU38wONrF4Zw89bRzaAUx5VzGwRzvJ55OMeLpI8gnP3yjcyk=",
+      "lat": 37.39916597,
+      "lng": 127.13535892
+    },
+    {
+      "pnu": "4113510600100410040",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 41-40",
+      "road_addr": "경기 성남시 분당구 방아로 65-1",
+      "enc_subscriber": "PdPZRhP015oL3dmd:N1QKHNseMcdALVbS3mC+suM9RRgtG4L1izjOaZRD6QigHGE6ehR2ai1+TZtBLZSKCQZPp5eXZDG6ckOy/RqRf9o1f6obUwSOqbzGXotggJabFOl2dOE=",
+      "lat": 37.39848142,
+      "lng": 127.13552041
+    },
+    {
+      "pnu": "4113510600100420005",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 42-5",
+      "road_addr": "경기 성남시 분당구 방아로 66",
+      "enc_subscriber": "EV5WbkCIL2Hs+sGl:nRd0353V7BgvLmIzE0+M3Ihx04DND7hWxXaYI1cT46dH1S0Ami11rtwOpZ/jZWtEEt/RsOSscuMTYVxkTJdCtgbAdaSf0qpu4Or18ubKl9cjLiil12s=",
+      "lat": 37.39824616,
+      "lng": 127.1352278
+    },
+    {
+      "pnu": "4113510600100490004",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 49-4",
+      "road_addr": "경기 성남시 분당구 방아로46번길 21-9",
+      "enc_subscriber": "JnCz8Tj7wHpmybCP:EEvKSDsvqnKR+ePiAI2SvNXCId7rzjOGl5tJXWUS6EW2nOytNBZA3OzjjLn5VabrZ+EeB3V8LTiaV47aKvzewlX+LBKdCAOcSPKhxIhzHx53rJTy6Lc=",
+      "lat": 37.39710908,
+      "lng": 127.13479269
+    },
+    {
+      "pnu": "4113510600100320013",
+      "match_type": "100m",
+      "bld_nm": "이맥스빌리지",
+      "jibun_addr": "경기 성남시 분당구 이매동 32-13",
+      "road_addr": "경기 성남시 분당구 방아로55번길 5",
+      "enc_subscriber": "tprucliUWyjlKhu7:UT5o24xpGdIlhhQRWFgXUGpKF/8Ral/rbvSUqNYTVBjlNZFSMUEL4AKAEF8jy3sbyFYL05OSj0RYwN0CiwpBEmqHZfx7kpDDBLUD3NMIWXwV51OEYZs=",
+      "lat": 37.39929167,
+      "lng": 127.13520014
+    },
+    {
+      "pnu": "4113510600100600001",
+      "match_type": "100m",
+      "bld_nm": "하얀마음선원",
+      "jibun_addr": "경기 성남시 분당구 이매동 60-1",
+      "road_addr": "경기 성남시 분당구 방아로46번길 26",
+      "enc_subscriber": "WjKG2g6K45KZO8te:AkDkQDp8ifWUONOXRc0xL3bXvQCjraXnZHZtT5W5MeQUJwC9Xx7u+FwE9tTA/1F1N4uCmgT10MUg3oRQWtd/8hYcWOU8DNI9Tu3CXa9sDDtTBnQQtus=",
+      "lat": 37.39668216,
+      "lng": 127.13373276
+    },
+    {
+      "pnu": "4113510600100410041",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 41-41",
+      "road_addr": "경기 성남시 분당구 방아로 67",
+      "enc_subscriber": "TzH/Xo19Ef1Epxzf:OTgLR+NH2xHed43x6Jk4tCqJNC84ytJ/KBSTNvLI+56Rh5oHaRO5TS/VJzF4y8FquPxHedXOy2/dtnlx7iJGy2lV+6v5+/QXf3eYOtYM+77q7V70FrY=",
+      "lat": 37.39850072,
+      "lng": 127.13569983
+    },
+    {
+      "pnu": "4113510600100410037",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 41-37",
+      "road_addr": "경기 성남시 분당구 방아로69번길 3",
+      "enc_subscriber": "Fpkc4AUYOiQNbY4O:YFH1EKFdBXltV4UMliTiIeaKUWrLv3ZqtFArTE580TzsWw63/R3GHtjpNueZyKHlQazTy1aC3EdEjfM9kXshlVYRrc/BWm0BahGnk+Tcb/hTAR2CFNI=",
+      "lat": 37.39868099,
+      "lng": 127.13584119
+    },
+    {
+      "pnu": "4113510600100630000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 63",
+      "road_addr": "경기 성남시 분당구 방아로46번길 16",
+      "enc_subscriber": "JiP/Z8lq9+Glm6kw:q9sFRWL+DA21PqPXHXgcY5kSFzXhwYFt3iSI09Ybzj18sFnYgH/OnOhqKnVPcKpBdcb0+hHKRw7q93Q4NN5o46CjqXdSDQ1umFJj4L9J2aYkcFx17UA=",
+      "lat": 37.3973122,
+      "lng": 127.13343595
+    },
+    {
+      "pnu": "4113510600100490003",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 49-3",
+      "road_addr": "경기 성남시 분당구 방아로46번길 21-13",
+      "enc_subscriber": "Jnjj+OpWV6m7OfM5:Kcqsj2g2niPvjPA5qtLBIOhfw2ks5kjHWtMyUHtlbtPRcm/iQKrlPiDEaGcd4OS0gFNL3LuhGFtDHZYYwyng0zNR7lcgY3uq4LX/Pje7cq8g8nT2RbU=",
+      "lat": 37.39726259,
+      "lng": 127.13488233
+    },
+    {
+      "pnu": "4113510600100340006",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 34-6",
+      "road_addr": "경기 성남시 분당구 방아로55번길 14",
+      "enc_subscriber": "ezsvhPbBeEGjlIfd:S1VDH5aVEueIURhzxeHwu/JCKmQGi+aMUffYGiYlaRb062DXKjVD3Qg8M/ZvxrJg3EMhrnobt1Wd8afcFLkJlUwkxIoL/cenYa1CPxySEhVDpZsBPUQ=",
+      "lat": 37.3990054,
+      "lng": 127.13590202
+    },
+    {
+      "pnu": "4113510600100450001",
+      "match_type": "100m",
+      "bld_nm": "성남금천교회",
+      "jibun_addr": "경기 성남시 분당구 이매동 45-1",
+      "road_addr": "경기 성남시 분당구 방아로 62",
+      "enc_subscriber": "9f+XSHHh9tJhRHmo:o66aCP5Ogq8Riuoi+o+8S0/u8e5dwsiLtdDjdI/axuj1J+KY+6sMT2dVd0BEg3WUEULkq7GOb7h+Hp9YM+FtF3mkJCiG+j1UsyT5F4Uvb0z1oulM8FY=",
+      "lat": 37.39810942,
+      "lng": 127.13473135
+    },
+    {
+      "pnu": "4113510600100410038",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 41-38",
+      "road_addr": "경기 성남시 분당구 방아로69번길 5-1",
+      "enc_subscriber": "rEqhI5BBjbwBaR2s:EMrcO09BE3sLNeSLfC0VI0+B95ylyPpWynoGIRP4+BA+QAwuoXtNrVjWsltrFxbnf1bhyFBTtmZnGt0RGxaqNG5/lIGJM8WH0TL9/cqNN92MiF7gekE=",
+      "lat": 37.39870146,
+      "lng": 127.13596763
+    },
+    {
+      "pnu": "4113510600100790008",
+      "match_type": "100m",
+      "bld_nm": "하이디빌",
+      "jibun_addr": "경기 성남시 분당구 이매동 79-8",
+      "road_addr": "경기 성남시 분당구 방아로 28",
+      "enc_subscriber": "5gi0/xgNHkj8g7C7:jZKqDSfocj9RlguPYIJzplOHB4yAmcxsE/AepYNwp4hXEZqgYpNuiQ2ZjM2HorLmg+z5R2uu1dipFg9aH6qkQtO+Qn6oHMq/NDGuKZbE7H0lDTGEC8k=",
+      "lat": 37.39828115,
+      "lng": 127.13197378
+    },
+    {
+      "pnu": "4113510600100490000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 49",
+      "road_addr": "경기 성남시 분당구 방아로46번길 21-15",
+      "enc_subscriber": "CpX0hyHDWqAz2197:eWyU3Za1DApch/RZaMuQ2BgMh0SPBpCgLZwudl3VyijIYkITf/qctlOVPlXN4UWeNv5Y/iWXHvRLIl4nn31IwR0CADmiYTIiTkW57/KEZOS6hu1auJY=",
+      "lat": 37.3974341,
+      "lng": 127.13496059
+    },
+    {
+      "pnu": "4113510600100420006",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 42-6",
+      "road_addr": "경기 성남시 분당구 방아로 68",
+      "enc_subscriber": "afpjw3IfUyiKLziG:HzfLl9zg2Fbb3oO4CPIIkHoQ8u4Po7lF2eQyLg8VRQiq8PmVV1OZo1FRPllDDRWunL8HPgyo70aMMeZBfRGb/GtVOcia1xSNlaWuFouxksplZ9gu9ZI=",
+      "lat": 37.39805726,
+      "lng": 127.135353
+    },
+    {
+      "pnu": "4113510600100410017",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 41-17",
+      "road_addr": "경기 성남시 분당구 방아로 69",
+      "enc_subscriber": "MIWUbFW/nFy2WU1w:zVA+OZOE85MuMR83i6B+mh4JevXSBKfmGcLZkjjRMeAm8tn1U+6IA3lZsCJqnTNTkQj7sbU4bILeM70/JDPrb0LSqkq+UlMJbBiFr7DV8F5UNzJnwK4=",
+      "lat": 37.39836306,
+      "lng": 127.13575147
+    },
+    {
+      "pnu": "4113510600100590000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 59",
+      "road_addr": "경기 성남시 분당구 방아로46번길 28",
+      "enc_subscriber": "Cbt2+TMrJdWSge/X:61noRiYIVwdkCiUSxt/RTPbm6h0EL44R+ccRamB/8N+PFIjXkGwFXIG2/UaKgi+2N2Ei4nvjowk1Ip0YgNOpxpaEF5UAP4e9Umn8bBOw7jgO3iCk+HU=",
+      "lat": 37.39638541,
+      "lng": 127.13396017
+    },
+    {
+      "pnu": "4113510600100820022",
+      "match_type": "100m",
+      "bld_nm": "세덴",
+      "jibun_addr": "경기 성남시 분당구 이매동 82-22",
+      "road_addr": "경기 성남시 분당구 방아로 29",
+      "enc_subscriber": "bERWI0VdO2u05B6p:uQY1pj84hgUlSeFeT8B137dOPlI8ceYYMhb6l1HRWdaYvZ3qi1mOidJb/ubO6W0+e+KoYE1Ad6hIWKU4Jl68PhefUgfbuJALKrSn1xboO1Bo8mOjjnA=",
+      "lat": 37.39867754,
+      "lng": 127.13190405
+    },
+    {
+      "pnu": "4113510600100100020",
+      "match_type": "100m",
+      "bld_nm": "동양파크빌",
+      "jibun_addr": "경기 성남시 분당구 이매동 10-20",
+      "road_addr": "경기 성남시 분당구 방아로29번길 5",
+      "enc_subscriber": "xDmxe6htxk7E97pX:Pta26Pspx2C3ftDzS07sZ60if6Wi6ULdbupS5JPLTZkb4M9nt/fKZm2l57j/C8ZJxPYQvf8B8rDvrsB24ydLE9Bwuv+i/Z58XGoSUkKn78INY+Q8Lgc=",
+      "lat": 37.39911061,
+      "lng": 127.13203751
+    },
+    {
+      "pnu": "4113510600100560000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 56",
+      "road_addr": "경기 성남시 분당구 방아로46번길 27",
+      "enc_subscriber": "j3vscQzRZnsciVZA:i6mWVUHq8WDRgKHZAvRbVQLrX+jAM/bK/Kr56k4BWorbuXmQ2dhWtCqRxOXM5ayihgh2oTUhw71xShlnP3L5HPJVK0YqZorS5YbZv1uWwahl11mkIvs=",
+      "lat": 37.3963686,
+      "lng": 127.13435567
+    },
+    {
+      "pnu": "4113510600100490002",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 49-2",
+      "road_addr": "경기 성남시 분당구 방아로46번길 21-10",
+      "enc_subscriber": "Eg/oqcYX0C7usLcx:tC26Ri8uNkxyhwlTevy5QuGJI/TMGJAZOAFCh4Y9cyrDgqRbu4uziHjeQ7GcLMl569KeWRc3WVtdC7DK493IPE3CL6p3rJWoqr7fes/LUxGpVJ/dbWc=",
+      "lat": 37.39674015,
+      "lng": 127.13499785
+    },
+    {
+      "pnu": "4113510600100540000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 54",
+      "road_addr": "경기 성남시 분당구 방아로46번길 23",
+      "enc_subscriber": "9Iv90ZWfGDHNYslh:AVxF4xlqGOSMeoSFNZ2dsYLYP5i70emXshVzeMVifJYVx7whbOuvXKOEHX0a6NK5R6YuassKda5dkFh5LfNLQwKeLGr5eAjW5vbjq/XjLlVTML0zfhc=",
+      "lat": 37.39652295,
+      "lng": 127.13471645
+    },
+    {
+      "pnu": "4113510600100490010",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 49-10",
+      "road_addr": "경기 성남시 분당구 방아로46번길 21-12",
+      "enc_subscriber": "CdZhhKONAISF2SjG:tCv4xrlLEF3BlS6nXGOAfyDLw4BIaf/jehhv6aWOtr7k1QCsKpPCQvttQszZq/kCowNdAtvbwoU9FzrYNxYqH0HbYsny18tcssViJwWGCl+Mcd1fBGU=",
+      "lat": 37.39698394,
+      "lng": 127.13513224
+    },
+    {
+      "pnu": "4113510600100100019",
+      "match_type": "100m",
+      "bld_nm": "동양파크빌",
+      "jibun_addr": "경기 성남시 분당구 이매동 10-19",
+      "road_addr": "경기 성남시 분당구 방아로29번길 7",
+      "enc_subscriber": "a/T2RhZeR8k4E0h6:nkwETGXaeGEO1M2jW6ug2re8Hzk+hh9a3bUSrdyOq7COK4/lXOiu/bcEA9RWo3JypKVuYZHuyxgUYtU6vxgDfP+IpFk3xVLdQ6RyNsx7cmjJZfRin5E=",
+      "lat": 37.39892971,
+      "lng": 127.13183503
+    },
+    {
+      "pnu": "4113510600100420009",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 42-9",
+      "road_addr": "경기 성남시 분당구 방아로 70",
+      "enc_subscriber": "SBwM+WU8LdesnaZS:Vufz9RNOVTuX+zFlexnf2yzzDJB9zPhygPDEIRUiLP0aLW5LHr85M085QCo7heuZfHLl9Kq9QXgvEIWaug4HHaSNK93G5+NyOiJmlFDLI6jT3ZJaB3E=",
+      "lat": 37.39799437,
+      "lng": 127.13542109
+    },
+    {
+      "pnu": "4113510600100010000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 1",
+      "road_addr": "경기 성남시 분당구 방아로 51",
+      "enc_subscriber": "YCUzB+OfNGms+v1v:6sZi6gThj6t64PlwbZbNRlskvaqrw+JocfVHPovCq7kGsCTnNzftC1mtjKO6dkmJyd3TIRpaV5CEPXhd4hqlIBOL5cofdl+oim5IWGBpZbEoH4GWh/M=",
+      "lat": 37.39980447,
+      "lng": 127.1348813
+    },
+    {
+      "pnu": "4113510600100410026",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 41-26",
+      "road_addr": "경기 성남시 분당구 방아로69번길 5",
+      "enc_subscriber": "TZXRP/iJautwStQb:QIRyva1YpaBT+jiN6jhPKGT1lEUIy6OO3lSKLrxcpkDedAfXcH75z5+ESwfoQMTw3Qm1ofhox+RWdJ+eMoKVDTaTuHM1dKrlAgTFT8LqYxRXMLIOSTA=",
+      "lat": 37.39878976,
+      "lng": 127.13612902
+    },
+    {
+      "pnu": "4113510600100370000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 37",
+      "road_addr": "경기 성남시 분당구 방아로55번길 13",
+      "enc_subscriber": "E7OUmBBcIUYcbwf9:IRFos2yCn4KiWjVlpmq7l89jWTi5r7JBs1GZDvvZtYqwg1RnB1QC1e7WC8/4pNyxd/7yYLSmZg6TVhKPgx6Ry+NL7QpYLWwfXK2kwaCh62E6d94SPgg=",
+      "lat": 37.39925785,
+      "lng": 127.13592339
+    },
+    {
+      "pnu": "4113510600100410032",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 41-32",
+      "road_addr": "경기 성남시 분당구 #-#",
+      "enc_subscriber": "F4xZrvMRaDtV9FEu:06WSaz3Xoa8nfH6F1lMmqUhqrNkvinsC0iaom3WV+sB91vtPKd6+exi0ZgPhc0jZey+JIjvWIEUR4ijSADdpqz7zjnnjWAPPfmKvEc9aELV1L2KmLfk=",
+      "lat": 37.39847788,
+      "lng": 127.13602596
+    },
+    {
+      "pnu": "4113510600100640002",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 64-2",
+      "road_addr": "경기 성남시 분당구 방아로46번길 14-8",
+      "enc_subscriber": "kOGIWk1weYoOpOrc:+GUfJ12sUNasftshWhKfTo0c5NjlIxJCpHziI6bWir2I3SU+bxMCDRbyu10a6It8s8yucllqXi5hJamfvuGXNvACCRvoVmhS+9zV69bpmVqUPOLxYo8=",
+      "lat": 37.39774345,
+      "lng": 127.13298193
+    },
+    {
+      "pnu": "4113510600100600000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 60",
+      "road_addr": "경기 성남시 분당구 방아로46번길 20",
+      "enc_subscriber": "5gCR7VP7ZXnNswbi:c2c7kdLr1XNUt95nsrxw7+W3hrvFJtyht683kLopvjrxXNC90ZLmZLSjSxtRirC/qMK+tvrGPmzF7DnHgRudqiszEsfeEUDGnCG0YgZZLdG083EITlc=",
+      "lat": 37.39699602,
+      "lng": 127.13321153
+    },
+    {
+      "pnu": "4113510600100490009",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 49-9",
+      "road_addr": "경기 성남시 분당구 방아로46번길 21-14",
+      "enc_subscriber": "aG2NHuV9GyTqFj/3:dSpTBipRm+kRDE/YmFFLEp4aZqz5g74iF/Ek+A4l8ouc7RKVBqquTYBEk0o6GkeW34IaLpu0z55714FShigvsf1FBJPFVfQumsv1JYBjQGgRLtaKneI=",
+      "lat": 37.39715555,
+      "lng": 127.13524439
+    },
+    {
+      "pnu": "4113510600100430021",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 43-21",
+      "road_addr": "경기 성남시 분당구 방아로 74",
+      "enc_subscriber": "AQKP2VEL7HCt4UBv:mBYbfSwdfX6nyeLUfBRRsAJPwFx0XF8vlRlKbqp9usPQLYlv22O/qDFqGbe/A6kMYdGoPZzDBDQNUNBj8I7/UIZM/5Pva0DQJefYMybHHK5gdm3DFtU=",
+      "lat": 37.39773902,
+      "lng": 127.13508873
+    },
+    {
+      "pnu": "4113510600100590013",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 59-13",
+      "road_addr": "경기 성남시 분당구 방아로46번길 30",
+      "enc_subscriber": "b+BMwl8rshJqdEWi:PD4OXQnoGUV0Ct9veNOYSnU3aIJQ1qThqAJssY2IApx7OrMEvwGI4Xa+oMHucAx/KDBaGhP9f5Pczt7wiTM0FJr0IKEgbv60EUTrjwJ/XZoW6AMUPP0=",
+      "lat": 37.3962495,
+      "lng": 127.13373487
+    },
+    {
+      "pnu": "4113510600100430009",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 43-9",
+      "road_addr": "경기 성남시 분당구 방아로 72",
+      "enc_subscriber": "YTBg+EVh8cKqxDA9:V7xPKjZJdlLJLqnFcBHkQZlnudm0gO+ex0avZ5tiMoUCpGUOa8ICNwdPM4nZUQJtVerOiTYD3h3t6CPe38vNFMb9bSjH7v0EoHT/GhROamLDGBQ6H20=",
+      "lat": 37.39789543,
+      "lng": 127.13548936
+    },
+    {
+      "pnu": "4113510600100640006",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 64-6",
+      "road_addr": "경기 성남시 분당구 방아로46번길 14-3",
+      "enc_subscriber": "EXZ8eJDqpsb3Agrx:1wrNnYnISfBfKKyC00kChWCiRRFYl1j06yrqLG7ftHeV3jfQfCjh30h4fPmHLzY1SceEK0BrYnvSjJQbQE/LqPZMNeZ4u5G8euJOGU/SVJhY5MVLKWM=",
+      "lat": 37.39737403,
+      "lng": 127.13302892
+    },
+    {
+      "pnu": "4113510600100640008",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 64-8",
+      "road_addr": "경기 성남시 분당구 방아로46번길 14-10",
+      "enc_subscriber": "u7hxW/VpuEwNj+/A:U+jgnB7xvloK1/8AnF7dZAqiiV08GuGqrN6vKhw3euz+6j8SxUR6DOzjwRnApANUyaVHzvViQOQ8Vhl4LUg1aSXcGWRbBzMQz59lB3cbo6h95flZLf4=",
+      "lat": 37.39773377,
+      "lng": 127.13276731
+    },
+    {
+      "pnu": "4113510600100640001",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 64-1",
+      "road_addr": "경기 성남시 분당구 방아로46번길 14-12",
+      "enc_subscriber": "KNYI6z2ttsOFlStB:baVIHLJw0z2vCVOcgKkwJ1imzwjUSh8qx1W/F6wqeS6F2uk2PM8EpXmouRjqUVh77uxqnZsaYznNvOjptSDKzA/wuDPHZ37IFXxmMiDVC8UnLeXjjzs=",
+      "lat": 37.3977148,
+      "lng": 127.13246236
+    },
+    {
+      "pnu": "4113510600100520023",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 52-23",
+      "road_addr": "경기 성남시 분당구 방아로46번길 21-6",
+      "enc_subscriber": "9wA/+DumiF+zIyfz:VH+WrS0Yf++s2RT5GHeGGY7lvltjHqHiHm1oUcUNG+gnl6iutcdbusS1+NM5XObl/rOnV2kRJs5BN2I9Zjd3RxzFA5jGCT3AKyVwKcX0O+sF8q247LU=",
+      "lat": 37.3964245,
+      "lng": 127.13494289
+    },
+    {
+      "pnu": "4113510600100340002",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 34-2",
+      "road_addr": "경기 성남시 분당구 방아로55번길 18",
+      "enc_subscriber": "rSBP/Nlz+VPgQ510:BhrNB4k18IA+mw5ui5WVcFKivI7FFtatqVqWRXWKTJEkv0lvsJ0gohohjnsd7mJLGQJFtwJjqElCjjnlnYtv2gE9brhQHq/R0D/cQ5Cmp9lIStLqUXw=",
+      "lat": 37.39903351,
+      "lng": 127.13625213
+    },
+    {
+      "pnu": "4113510600100790002",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 79-2",
+      "road_addr": "경기 성남시 분당구 방아로 26",
+      "enc_subscriber": "Dle5nVZzaGyp6D6U:a5W/GVzXKguJLrdp8JFlIKCZI72VwxxEELRiP+k08BzoBggOAN0IyXwkXOwdN9XUfILbLzGjaJXFHVc07KsLWE6vQRQoX5005l91goybuCkBf/MuCiI=",
+      "lat": 37.39837023,
+      "lng": 127.1316344
+    },
+    {
+      "pnu": "4113510600100410035",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 41-35",
+      "road_addr": "경기 성남시 분당구 방아로69번길 7",
+      "enc_subscriber": "HB7BVTZQwxk839r5:qu98pzZVdVEs12mqPwHcmv6yl0S1LMDFHM6zFBOh4ZgST0UNddsLJGwC7Nsa9hafFq70S5Dqz2V9AnB+bPcq0pvCafxbCIFHBm9KPVQ17oyotbpG5d4=",
+      "lat": 37.39870961,
+      "lng": 127.13629261
+    },
+    {
+      "pnu": "4113510600100100006",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 10-6",
+      "road_addr": "경기 성남시 분당구 방아로29번길 9-1",
+      "enc_subscriber": "UTHBIqTJ3ZdXn+Ou:G3eGUUFGH1ckBkagP9hSlZSBRtFhDRO+Hf7rBZm33C4ql52wJA85nCUgzbH5UiVKeaA6H5PkoPXjC5FWU6B0m3L65fG7ctUib+xiQH9fW98O2X1VwXQ=",
+      "lat": 37.39937169,
+      "lng": 127.13193455
+    },
+    {
+      "pnu": "4113510600100100018",
+      "match_type": "100m",
+      "bld_nm": "동양파크빌",
+      "jibun_addr": "경기 성남시 분당구 이매동 10-18",
+      "road_addr": "경기 성남시 분당구 방아로29번길 3",
+      "enc_subscriber": "ag9ciA5tfPKLjzzh:4X98+FO8fYvHyFyC6wRuQeYAQoKt8UN52NlyYj7ijt7JGyhG32iLdEYG7ssS0k2EysEp62ELtI4uSiBZfykhIKP3v2fuQV6r65wNxiLwQ6exOibLN5U=",
+      "lat": 37.39879373,
+      "lng": 127.13158713
+    },
+    {
+      "pnu": "4113510600100220005",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 22-5",
+      "road_addr": "경기 성남시 분당구 방아로55번길 11-1",
+      "enc_subscriber": "kHDPYG+Jpq3s3ILz:TXkq/rIXrNyen5uM2NvK6NcvCLCo/rhtVKWujg1GsstkbAk4ZmEgslLHSuG63rK3BdycCe/ZcYZaXSTWA+E6E9zktaQT43FTPpz1ozpLPrR5f7IykJY=",
+      "lat": 37.39953689,
+      "lng": 127.13579776
+    },
+    {
+      "pnu": "4113510600100640029",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 64-29",
+      "road_addr": "경기 성남시 분당구 방아로46번길 14-5",
+      "enc_subscriber": "pA7g6arbveuIZZ9b:Deei1b6PlRLQ9IYBkEUnSC66htB+E/qoBErTR2CYbIijex57XSFtSrU5z5UU6aqp9TGS6o3iSLIU5f0Yqfo3eGgqs2vIa8daC8SDQ/NzBCYtV+5BsOs=",
+      "lat": 37.39716658,
+      "lng": 127.13298474
+    },
+    {
+      "pnu": "4113510600100490001",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 49-1",
+      "road_addr": "경기 성남시 분당구 방아로46번길 21-16",
+      "enc_subscriber": "fJCyoaPwHttdWnqR:VrwUdKae5ycfDf/kgP542ul0QpORhZA8uAKwHCF1HobKPaxH5HgDGRDuTcErAio3V3t7ek+Vvf1xD8TULZCguPETTJSDBMvb7uf/pt+sepR349TLDSI=",
+      "lat": 37.39732726,
+      "lng": 127.13539043
+    },
+    {
+      "pnu": "4113510600100100017",
+      "match_type": "100m",
+      "bld_nm": "동양파크빌",
+      "jibun_addr": "경기 성남시 분당구 이매동 10-17",
+      "road_addr": "경기 성남시 분당구 방아로29번길 9",
+      "enc_subscriber": "JDG21/sf02l2F07g:wMray3N9LhhTVwBWBK+RrR9BxUJF80LZS5Zad+SJjkX5avnHomDaI9+tVSDKxWKeylxUBapT+Y0S9u44bUtR6sECoRIwkTufOnrcJav3KfXG21nY8Ag=",
+      "lat": 37.39902801,
+      "lng": 127.13156339
+    },
+    {
+      "pnu": "4113510600100520049",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 52-49",
+      "road_addr": "경기 성남시 분당구 방아로46번길 21-8",
+      "enc_subscriber": "L01UDwyjzeOEqppr:FFlY0PknfQ5szXGnyqqxDXX5vM705LhhmCeXW4C0EVyV+AB3EDccyZbcFjwWBn0yNeolGMwjKnPakNwH+lktf163NYxAdCLqO2orkv7aTpAftqt/448=",
+      "lat": 37.39675038,
+      "lng": 127.13539322
+    },
+    {
+      "pnu": "4113510600100410019",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 41-19",
+      "road_addr": "경기 성남시 분당구 #-#",
+      "enc_subscriber": "zcn/6TOOGVMpkHZC:FvYvaREZafGT3U2f+z3IC3AqWM9/fpILDC7PQNjbFZqEcsE1LwRt/khChn+fpS8CqdMWOY94d6W1+1TfKj35zewc3bP3mZ37IClWUqobnN6tYajSZD4=",
+      "lat": 37.39822712,
+      "lng": 127.13613614
+    },
+    {
+      "pnu": "4113510600100820003",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 82-3",
+      "road_addr": "경기 성남시 분당구 방아로 25",
+      "enc_subscriber": "TvvJ1CN5901qGLpb:+hWqI0qiAZ/ITh3sDEWKx1rhTWy9wP8PQ6IJrrQXTf1PkFerh2y5XlQBKlufhD/DT1AAoBsglG3rqNjObc5fT5gzDzySk4shVIuu79SPYP9j7XYmdjc=",
+      "lat": 37.39862219,
+      "lng": 127.13149758
+    },
+    {
+      "pnu": "4113510600100520000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 52",
+      "road_addr": "경기 성남시 분당구 방아로46번길 21-2",
+      "enc_subscriber": "p47G7hwpr4T4oDue:RxqdoVcQru+jquNaQAqnPano5nvBa/gYJ7TG6MzcGzk+EdsJGf9CfND92x//PpYFUF7/Hefj6dz2fAA4seewh/8m4BzfkTImcAjb7xWXwgyassiMNdc=",
+      "lat": 37.39622582,
+      "lng": 127.13481958
+    },
+    {
+      "pnu": "4113510600100410039",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 41-39",
+      "road_addr": "경기 성남시 분당구 방아로69번길 4",
+      "enc_subscriber": "aC2CuppETVfIPg4w:NO8urjT/WMhkTr3Su+HxFXPOy3CzHaoGAh427EkK6bew0orJNdKfzsTtVcHQ56WwuAFiJZZXiLay404Uz+mX6BnYOIL00PNdEBqOcGpvC1Ba01YPQWo=",
+      "lat": 37.39821997,
+      "lng": 127.13614648
+    },
+    {
+      "pnu": "4113510600100100003",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 10-3",
+      "road_addr": "경기 성남시 분당구 방아로23번길 8",
+      "enc_subscriber": "mW6V/y4x/2rcCQpB:BHAjwlJwaxRlDBqcGPpi5zwNtbZRn7J0bm4jbStQEREQ8puCSGD+B0MPj/qAsVqmszPjaPvd9uU2O0d6j32WHCePn1Z8kAGZP9fAJnOGasKgFLa7d9Y=",
+      "lat": 37.39926268,
+      "lng": 127.13166392
+    },
+    {
+      "pnu": "4113510600100410012",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 이매동 41-12",
+      "road_addr": "경기 성남시 분당구 #-#",
+      "enc_subscriber": "7OQ7QBObdozpH2LR:moU9mCUHA5kb4eaIENJJT0v/T2R2uKvOptZWdR/KTgAotrFJuvod+LojjB1D+eSNHRiEjIVgWrbS5Rw7KovyFoOuKR5ojqQyt/M30GzISKg4goE1Ays=",
+      "lat": 37.39803993,
+      "lng": 127.13598581
+    }
+  ]
 }
