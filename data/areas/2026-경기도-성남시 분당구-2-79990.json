@@ -61,5 +61,826 @@
     "inside_count": 37,
     "near_count": 45
   },
-  "buildings": []
+  "buildings": [
+    {
+      "pnu": "4113510500101810000",
+      "match_type": "inside",
+      "bld_nm": "한길포레스트",
+      "jibun_addr": "경기 성남시 분당구 서현동 181",
+      "road_addr": "경기 성남시 분당구 안골로 35",
+      "enc_subscriber": "9MdfOV7GpSOurEBI:M5UhxM9gridRe4IXMkp+AyEBf/8u6b05BDOUpbP79oisGqFNJ34C9gWYM07jl02NBbsPWlMeDVj6QTn+Pa0ZlzrfZzxVjHI4YigOACK0VgjH2vqLU2A=",
+      "lat": 37.38612386,
+      "lng": 127.1351984
+    },
+    {
+      "pnu": "4113510500101880003",
+      "match_type": "inside",
+      "bld_nm": "모닝빌",
+      "jibun_addr": "경기 성남시 분당구 서현동 188-3",
+      "road_addr": "경기 성남시 분당구 안골로 42",
+      "enc_subscriber": "6Li5qil+ct9iHCqn:Sv0z7kJvS0Rm8WoSvwSTZp8mhWzNnoDBCJH3ebme/Y4VbfMszvfhv6MggYs8KKzSEquVnmLGef6V0Zk3oH9d5Pvq4BBwLos8B1GzlWq3gAuHSubIIAIxKw==",
+      "lat": 37.38559284,
+      "lng": 127.13588781
+    },
+    {
+      "pnu": "4113510500101880001",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 188-1",
+      "road_addr": "경기 성남시 분당구 안골로 46",
+      "enc_subscriber": "YS/AQzJHZHEBNjpJ:hwCNcbxOCf59cMBEUOGyL6wtUYzhyYe81hXUSjlP4KlIao2m7HzikXrn0rtFYVt9oGahMB6tEEun1qVheE2OW2nom+Rj4FFRi0yKQzCoYGYa5sk/Tnk=",
+      "lat": 37.3858471,
+      "lng": 127.13649658
+    },
+    {
+      "pnu": "4113510500101940002",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 194-2",
+      "road_addr": "경기 성남시 분당구 안골로 28-2",
+      "enc_subscriber": "WZHfoFZaVQakbti2:7FaiLqWT7p3+Au4mN+ohjudXop+l2HkSjsMPgNDeVue+DQSkMQlRsKHbcXXK8jWaQQKCWed2Tp9HG21PiJ8pzd52zip4LxNi7+ECBXd4Xie+JwVS7B4=",
+      "lat": 37.3850681,
+      "lng": 127.13525776
+    },
+    {
+      "pnu": "4113510500101940005",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 194-5",
+      "road_addr": "경기 성남시 분당구 안골로 28-1",
+      "enc_subscriber": "cZRYFUn8D/T3Eya2:LEYb7BHBroA7P48AVmI/rR+MFM/G6UIovwU3KgMdy6GpFDJYsWfsddF5Ak5OqBAfmTZwPDAMqropZsWOD++xf/DYG2RpXQUY0KbVrIsiJ+IaIeNRy6U=",
+      "lat": 37.38498743,
+      "lng": 127.135405
+    },
+    {
+      "pnu": "4113510500101880007",
+      "match_type": "inside",
+      "bld_nm": "숲속빌리지",
+      "jibun_addr": "경기 성남시 분당구 서현동 188-7",
+      "road_addr": "경기 성남시 분당구 안골로48번길 8",
+      "enc_subscriber": "IyE83JdpKgM5LfCL:FuFKTzdwG0Rx0trgheg2aVUYmAr1ioeVy8m3S5JbNviJbA/FBXKO5/v+fSQNgg43DzQTtCdNpcWTmlDL9x06PbaTlL1NpsDwgugOsObG2N6CS35MoIM=",
+      "lat": 37.38519788,
+      "lng": 127.13642064
+    },
+    {
+      "pnu": "4113510500101670000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 167",
+      "road_addr": "경기 성남시 분당구 안골로 52",
+      "enc_subscriber": "zg4XoHGOe8pTUPDx:gOyugJKC5UBedbAHz5TVH+MNlFVppStDkenZFjZp45bYqxL17zfEzOc6b87D3etWcngM7gg3kgha6Fu5sw5AyODFfhrlkNUglXrq293hhrM/Ev91Iss=",
+      "lat": 37.38634393,
+      "lng": 127.13684437
+    },
+    {
+      "pnu": "4113510500101650004",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 165-4",
+      "road_addr": "경기 성남시 분당구 안골로 50-8",
+      "enc_subscriber": "7wWPf7AOCWeKz0HU:PHNZjoRhJsTs4Jgt8jROfULdKOj56df95pouXQ5MEkrYSSZbWAtaa1FK4As+VQ23IYw0xefhmKa0ANuhNj202CM0602WUVJA7T00soDyWfh5LgvfeCo=",
+      "lat": 37.3860939,
+      "lng": 127.13761372
+    },
+    {
+      "pnu": "4113510500101890000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 189",
+      "road_addr": "경기 성남시 분당구 안골로48번길 10",
+      "enc_subscriber": "/0frf1S7E1l3qpNC:QsVI5tkRNGxfA+lXYKFPMRAFlkR/vik1RqfSwyP6cBDYhBoJp6oJkzuJ/RrP93NXaCnlzbmVhTxnCQKKdIJrYbUnXvNk3vLGE0i/D9mWLSD3ymfkFtY=",
+      "lat": 37.38517174,
+      "lng": 127.13671446
+    },
+    {
+      "pnu": "4113510500101820001",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 182-1",
+      "road_addr": "경기 성남시 분당구 안골로 33",
+      "enc_subscriber": "vyqrNDuRtEnrCWbx:F7G8MsmbFsF73l3HJZ9+mm+r2qv5oMMK7tn13Ahar+cjmjevPgZHg60BuPSSVKuo35WyaHY44KvPDg4K8bzoYGVA6gphvynwaNoNF8sMlI4ClLksVsk=",
+      "lat": 37.3857799,
+      "lng": 127.13516395
+    },
+    {
+      "pnu": "4113510500101650003",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 165-3",
+      "road_addr": "경기 성남시 분당구 안골로 50-7",
+      "enc_subscriber": "xyqAKKhIRoljI0NO:Z0CkP1qcMqrmsdJeqPyjyU4v2Rip7N1ApRyh8F11VLLPybLmaCijBcLJV2zDjcDkPG/W47Lu1qML+j0J36kJ8r/ZnofY4V4nbD3DRTx2PRKoeOV09Ls=",
+      "lat": 37.38620155,
+      "lng": 127.13744376
+    },
+    {
+      "pnu": "4113510500101950002",
+      "match_type": "inside",
+      "bld_nm": "청주한씨장헌공파종중",
+      "jibun_addr": "경기 성남시 분당구 서현동 195-2",
+      "road_addr": "경기 성남시 분당구 안골로 24",
+      "enc_subscriber": "GgVQolCtSNQ85nC0:YbwLxJbmJb81PM/UvwWzz9pqyQsxwlLrC/5HCGgpofUKcp+L5M+i4lrozr3BY4gq7Deb6WhHmobJdHCRvW+x1dQ4ufGNNrlWK0yIzwFA1S2IvmASxik=",
+      "lat": 37.38468845,
+      "lng": 127.13490942
+    },
+    {
+      "pnu": "4113510500101940007",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 194-7",
+      "road_addr": "경기 성남시 분당구 안골로 26-1",
+      "enc_subscriber": "4hYFNCI+iDTKhHzD:nfi5cbEd7yz3y9cWPwEWgeIBcMnTnv4odeCJDD7yeTc16rYDu1aTOiyZaKzJ9jcxrq2k+fsun/3NXyp/Rxwrffq8yNGuT8FO+I69yq+dOBb3XwzPfkg=",
+      "lat": 37.38477037,
+      "lng": 127.13516884
+    },
+    {
+      "pnu": "4113510500101650000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 165",
+      "road_addr": "경기 성남시 분당구 안골로 50-3",
+      "enc_subscriber": "Bs5edpUx+uNXEJV8:6FPXhMHadEGMp9wNz51rBSVmUhiZgNL2DKBpMO/FaE9GIfPq6EXkpe4fqynXz6Oo/BkjMT2TLBGcx6rRb8Ml1r0fh1RZ8QoByWGHSVkhM7G7DWTrQ1w=",
+      "lat": 37.38621867,
+      "lng": 127.13714997
+    },
+    {
+      "pnu": "4113510500101900002",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 190-2",
+      "road_addr": "경기 성남시 분당구 안골로48번길 16",
+      "enc_subscriber": "Al3xT8TEyZNKrgzm:JKroa9IfdX3qMix0M9zDL/lUhQdrbGBzKsl3ykFQBmYPxCD7EAGKTm2CgUbUqD4fHaavPl1wcsvOyZSo+U1OzBpxNwX6dm5tVdEXF0Rt6iY9aKblDM8=",
+      "lat": 37.38478502,
+      "lng": 127.13699873
+    },
+    {
+      "pnu": "4113510500101790002",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 179-2",
+      "road_addr": "경기 성남시 분당구 안골로 37",
+      "enc_subscriber": "ZAIVVSATF+hzLiA1:bczoEyH86/JQYmkdCucCA1jWFWSNraFr9b0HIJ7aAuVOftzetwAnSq+UcHJhegtTKGzA73b60iIyLrNkorQKnH1dquOo5ZU9gn6wXD/JPCgXtSKKCqo=",
+      "lat": 37.38603329,
+      "lng": 127.13549031
+    },
+    {
+      "pnu": "4113510500101630002",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 163-2",
+      "road_addr": "경기 성남시 분당구 안골로48번길 7",
+      "enc_subscriber": "HgDusD/hda3V3geT:Qadm4It7GNSQ3YE6nfERbMFYrlBbvEN+9cIdF3kOpRwlgIkWD77VSHd137McEri/vil++RfN2NUNJGYZVb6KycCEfm7BP3kgIm1mw7zrKxmvN+x1rhE=",
+      "lat": 37.38567761,
+      "lng": 127.1370735
+    },
+    {
+      "pnu": "4113510500101670001",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 167-1",
+      "road_addr": "경기 성남시 분당구 안골로 54",
+      "enc_subscriber": "xpzVo+Xi3RxSFTZ3:1Rykr0w+yp83x6L5CjA15mjVNHoUr0HHE3n0hqijT+GzpD6lVpAD954oA79+UeqlMShFGDBRa2PCB8stOJFVzLZgi89Hk4UiGoStB4bW5QNE2iaCOnk=",
+      "lat": 37.38648881,
+      "lng": 127.1370583
+    },
+    {
+      "pnu": "4113510500101940008",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 194-8",
+      "road_addr": "경기 성남시 분당구 안골로 26",
+      "enc_subscriber": "VwR9YBoaKc9Brzg9:5vG5o/BvTUP36/7YcbiDTFJ3L73xCiwOsgqQeLRHoNDrv9DzgoxTJ5f9l2zN5EkTHRi2wgOYO0YC3B8tpuXvs1L04tz3Av9MM68GhnEi8THUMvQWNJ4=",
+      "lat": 37.38490516,
+      "lng": 127.13503263
+    },
+    {
+      "pnu": "4113510500101630001",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 163-1",
+      "road_addr": "경기 성남시 분당구 안골로48번길 5",
+      "enc_subscriber": "Focuj3tGM/oGM06i:kfReGntKotqBo+9Psiy0t+Z4ZeWhL6kdwjXtecQ+bYx9keXhhDUseNPBpJ/1Ni28MnieW+eaH3jU0dA95p3gr6xGZme++LRaJekGwZ/KTo5EnKGjLXI=",
+      "lat": 37.38590275,
+      "lng": 127.13700464
+    },
+    {
+      "pnu": "4113510500101940006",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 194-6",
+      "road_addr": "경기 성남시 분당구 안골로 28",
+      "enc_subscriber": "zM3GsSy6sfr+/58O:N9dL4EW6AL7B9aQbn9purt16tJStE3q3QkCPUY1y107vfD6aWGf7jDij1aFprjUiVqzQNJ95RDt9k0wM2RguubhrNhVj0h+Dh3lMEpAzh4Q2R2zBVlY=",
+      "lat": 37.38482532,
+      "lng": 127.13545097
+    },
+    {
+      "pnu": "4113510500101880028",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 188-28",
+      "road_addr": "경기 성남시 분당구 안골로48번길 6",
+      "enc_subscriber": "ZD+OvTnB7rxqwh08:lpL4zndYD7+TPTua56BxbSxtwZsvK+BJr4QqYuiHEtgFm1lGIcl8j/dkQ/yBOTV7OYFSTiFoESBdJxWCuWph7G+TTeSVhArs7F2eb6sfwNpUT837FFs=",
+      "lat": 37.38543299,
+      "lng": 127.13666802
+    },
+    {
+      "pnu": "4113510500101870001",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 187-1",
+      "road_addr": "경기 성남시 분당구 안골로 34",
+      "enc_subscriber": "PLWvi8draEMGq6er:0Zunk53SI5YMBAEVOK42/HwHihRBCk234+grwmx9IriqUe0nOojD/cQTtX6BaJ6FZy9jBHeshtv5byHSMTv5dYJKWjCVbvdivWDClkvrp0tYz2PntG0=",
+      "lat": 37.38552787,
+      "lng": 127.13527813
+    },
+    {
+      "pnu": "4113510500101740003",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 174-3",
+      "road_addr": "경기 성남시 분당구 안골로 55-1",
+      "enc_subscriber": "OoZd9odUrAVgjvq1:Q6Vx+4If9ZNHS/nDe6hjDwv97+IWJVri/UNzX+BY+ZyAL4dlUP938yUj05UEN99gKoFpwBcLSWIHJHzQm7a/xlh3zWeJn4YenmHcxMiyvnNakeeRenI=",
+      "lat": 37.38678208,
+      "lng": 127.13669701
+    },
+    {
+      "pnu": "4113510500101620000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 162",
+      "road_addr": "경기 성남시 분당구 안골로48번길 11",
+      "enc_subscriber": "u2/e60WQqqomDpPo:UQmRbjkIGHydqMv0eZhfyBN+ACdGv0yKUjNp9w1fsoCfY8ALuQdbDb6kl9qxJ2HBOJ8dkOK9TZrGgE5zqA50aSG2pPAI18c5UdYe6lzcRzCucgCORuw=",
+      "lat": 37.38541629,
+      "lng": 127.13709736
+    },
+    {
+      "pnu": "4113510500101860000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 186",
+      "road_addr": "경기 성남시 분당구 안골로 30",
+      "enc_subscriber": "7seLNpK0S4K6GyDN:ku1xKcVCmrMRfQlU5Wevq5JB6muPVd+kpYzyp52WcJRmGpG+qkZF7zOevJsgL74+8dVB+H3psgccO+C8JEcDnJ65EuvRvkqqe57sIav0uShw8348+7Y=",
+      "lat": 37.38539207,
+      "lng": 127.13508675
+    },
+    {
+      "pnu": "4113510500101910000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 191",
+      "road_addr": "경기 성남시 분당구 안골로48번길 14",
+      "enc_subscriber": "CulZjbtRPk7/rg4M:vPlq1rC+yisU9D/86nOERt3xUZvagKlXJcoBQHW2Ixsjh4eoONIfIIDGpQvZOkeS0E+/6fHGlhFgRbPTpxL7nDGv+GSSZQF+epl5zdzBcFfG/BFLRuo=",
+      "lat": 37.38491093,
+      "lng": 127.13690776
+    },
+    {
+      "pnu": "4113510500101880032",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 188-32",
+      "road_addr": "경기 성남시 분당구 안골로48번길 6-1",
+      "enc_subscriber": "4J0sALiBT9wOdC6U:6BFG6RaB2DKCkQlVJfYu/ydfvFjYc8WfFNItpwS0vnZF7ZGDyE1L44gsmq1IfL10n8LqB7OJ56hZrWPOXm4JTfuRqI5WqzkUowjEXgDNXZ+r/ISFVXM=",
+      "lat": 37.3855681,
+      "lng": 127.13663348
+    },
+    {
+      "pnu": "4113510500101640002",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 164-2",
+      "road_addr": "경기 성남시 분당구 안골로 50-6",
+      "enc_subscriber": "S9dtZW7/bp99hs3s:xpxqgb+hkrMdyhI7WIkPFlqoCxMwpS4fLkZAclOCtx4rCsp7w2uww4THD8n9eZqlW6q+uc5TFMyhN6N4/Y0M+UZxIyJhHcDKSyS+b3RTYwsRGlyy5s4=",
+      "lat": 37.3858046,
+      "lng": 127.13733271
+    },
+    {
+      "pnu": "4113510500102030004",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 203-4",
+      "road_addr": "경기 성남시 분당구 안골로 25",
+      "enc_subscriber": "hI64RpHm9XCzUyoY:mxED/KJg6kOUz3YfPM0/37wPqeYL5Zks5pQAnS866YhcFdChRyI1mr5fSiuZ9ZeOAPLxHSoZ1XpRsl0OhSJ7t+awt1o4sdOhNlsXqqYIOgriZh6hcRA=",
+      "lat": 37.38516527,
+      "lng": 127.13447227
+    },
+    {
+      "pnu": "4113510500101880030",
+      "match_type": "inside",
+      "bld_nm": "베스티아",
+      "jibun_addr": "경기 성남시 분당구 서현동 188-30",
+      "road_addr": "경기 성남시 분당구 안골로48번길 4",
+      "enc_subscriber": "0OhFEKl8GCxw7QRQ:juctKc/w9ChwO/xAvRutlWS2L5+JVFnID54AMjzudcx8LVhUYue2ZRRj95L5lREVPqUryilviFlLvhQQ5nByRVIhy4yciyAioUKF0DjHeXBKftB//ws=",
+      "lat": 37.3857033,
+      "lng": 127.13663283
+    },
+    {
+      "pnu": "4113510500101640000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 164",
+      "road_addr": "경기 성남시 분당구 #-#",
+      "enc_subscriber": "A1cl9jOBjpSAvNlw:+DT5DgqxEwIzGTk/tGMkHvw1dciYZDvaf199oSRlRdiM3kZVPQsu+Ivh8PRWXczXMOqVP1t5EwSsbbChoFtzFxC7Y5Y2K2xL+4wOOuRzwQ1ZaXhNxFw=",
+      "lat": 37.38614577,
+      "lng": 127.13689051
+    },
+    {
+      "pnu": "4113510500101780000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 178",
+      "road_addr": "경기 성남시 분당구 안골로 49",
+      "enc_subscriber": "Ew0KBwsT+KZtYOvN:Ce8DUpsvqlw+V1Ce8kn+113e5tjiHR6wN0GZFNepvzXux0jmqwfylZKIO70uM+prSHWr6LzUdQG+bucoOPxKtT+xtBZktY2sIcep/IdmaJJmsPQIb1I=",
+      "lat": 37.38617132,
+      "lng": 127.13640464
+    },
+    {
+      "pnu": "4113510500101740000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 174",
+      "road_addr": "경기 성남시 분당구 안골로 55",
+      "enc_subscriber": "VsdKz1B+Y0Hqj9Bc:64HaFtAGIBbDufR9hSd1Yfx1fAIoQ6rRwCAfboz7CDSiUMI0lmT2GIi1RkL4o/2z0qrMm+J2U4gvKtBSoAHp9c/Ll3EUjsJRzqEvyB8WeZzN/NUnCt20Xg==",
+      "lat": 37.38673075,
+      "lng": 127.13659398
+    },
+    {
+      "pnu": "4113510500101880002",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 188-2",
+      "road_addr": "경기 성남시 분당구 안골로 43",
+      "enc_subscriber": "aBkfkx/bcgMrnGlr:guYPbSWExtv1StsB9Ccu28eNP9MXgaCDp3XVS+0a67ruTFnNyRFu9M9oWmcg9hCm/3J5BNmMLPnUkeO5SFGM6TRXQgPJTroW/GqQamGHc1+lPtTHIdU=",
+      "lat": 37.38585452,
+      "lng": 127.13597691
+    },
+    {
+      "pnu": "4113510500101900000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 190",
+      "road_addr": "경기 성남시 분당구 안골로48번길 12",
+      "enc_subscriber": "4rFHPpVo0AJ8xFxn:D+nsq7i8uC4CNpoAOCDmsgfMtrymFxOnNSxOybC1jRoDZ4gaPfWVltjKGA/aFtnnEikFroWbicGYYg3dGcstjbTEtnj+A6drbB3Aln5Q6uBkV864VKY=",
+      "lat": 37.3850279,
+      "lng": 127.13683942
+    },
+    {
+      "pnu": "4113510500101630000",
+      "match_type": "inside",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 163",
+      "road_addr": "경기 성남시 분당구 안골로48번길 1",
+      "enc_subscriber": "SzIm5B3uqyzeKEE5:Yj2vl1DbFn2Z27gPcfkv3mmdeTQaN8fOkZKa5QdlyC+Pk6GqQ0sU/C8nFEd18EmCn/7HelUZ/pepYVm0YhuDM0EKBDwBKM15QHtHCl6tt0Np7i7pkdg=",
+      "lat": 37.38600124,
+      "lng": 127.13678954
+    },
+    {
+      "pnu": "4113510500102020005",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 202-5",
+      "road_addr": "경기 성남시 분당구 안골로 17",
+      "enc_subscriber": "aAG53fD6NB+J/Eiz:IooIgMs8ZCxQVMAFZc9lF7KmYPRpDRPBYfxN997xkyezifEqQarbgLX3ftFY6ioPm1iGQbPhM1LfbAFJ72tdqIirq8xQtuLZSpuuka3KoIwchcxfFpI=",
+      "lat": 37.38488416,
+      "lng": 127.13407256
+    },
+    {
+      "pnu": "4113510500102030005",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 203-5",
+      "road_addr": "경기 성남시 분당구 안골로 21",
+      "enc_subscriber": "tJlmNDYCPpP/ERKm:ltigPOFKLf1GVwf7P5upAPxfxU3zFkYNXyuL6pEvgaZW8HNH9w2X8fS/GAuLaEr/dW2v/ER6Zd5srumM01cRrVXSm79Cw5wBZxkxjGevKZHA+GCeU/o=",
+      "lat": 37.38512963,
+      "lng": 127.13426806
+    },
+    {
+      "pnu": "4113510500101680000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 168",
+      "road_addr": "경기 성남시 분당구 안골로 56",
+      "enc_subscriber": "ZB6l/YOApp2trjpF:PjLpuZefMleeVcyVvv1qEHEuQ+dDx6nkL72czyidhQPNcQZTfq1d4rCLOcSOTDLlb9Q/Mv9OxGZYR/7dYsVxCk4dGITUC/2bFcQb6mMkfUg6Fjx7t4Q=",
+      "lat": 37.38678636,
+      "lng": 127.13709075
+    },
+    {
+      "pnu": "4113510500101990005",
+      "match_type": "100m",
+      "bld_nm": "서현빌라",
+      "jibun_addr": "경기 성남시 분당구 서현동 199-5",
+      "road_addr": "경기 성남시 분당구 안골로 18",
+      "enc_subscriber": "9vEJZPbp5/La8qXy:3npN8Cg1n+LY1b9kqiJCBSOqdYkICg5ubMpSCOqyk1o+fADTT+dnrc0gE55khBN74JpSzAbaOE0O1J6KKi9hyHvOVsOaazSn5soL3EBhub1IvciwMt4=",
+      "lat": 37.3844964,
+      "lng": 127.13401797
+    },
+    {
+      "pnu": "4113510500101760000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 176",
+      "road_addr": "경기 성남시 분당구 안골로 39",
+      "enc_subscriber": "yaqgfDXiYNXH5B1u:Uvo1X5iThoaQsbrU5UKtw2Ard2fzb+NMq8vcHJXgsVvC1GaNlc3blSs01EoouPOeKOsIg/d3/+ndqFr+G+5riP76bbHb4gfIYuAKunq1R/JgTvRpW20=",
+      "lat": 37.38638664,
+      "lng": 127.13607601
+    },
+    {
+      "pnu": "4113510500102030001",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 203-1",
+      "road_addr": "경기 성남시 분당구 안골로 27",
+      "enc_subscriber": "LliEQWzufzndIpK+:Fik1VXaqOp8Fc0j8LjS2bJSZJqpjkR4kHNxCUo8/QlOnpP25nPKWWzDCYb6OslBn9l5a3qxy/cX1FwFQBzmWfLCThV4ia8gWseok8OPSfBQl0TE2YcE=",
+      "lat": 37.38529953,
+      "lng": 127.13430776
+    },
+    {
+      "pnu": "4113510500102020004",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 202-4",
+      "road_addr": "경기 성남시 분당구 안골로 17-6",
+      "enc_subscriber": "ymvRm7+kNK0dMuFw:O2fghlyRa2DZAgjO+Qu8CdEoHeFf9t2eJ58LVjv8xYgq5ITboTsXXuTH/w8BTCZEsIiuZWwlhEl/goeGojvWlOm5EujTX3mWwDhIm12fzGkvZgvshlw=",
+      "lat": 37.38526267,
+      "lng": 127.13404813
+    },
+    {
+      "pnu": "4113510500102010002",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 201-2",
+      "road_addr": "경기 성남시 분당구 안골로 17-1",
+      "enc_subscriber": "AfTYeAgk8UuoxJqG:ntWCDSFe3XdDH5q9BC5CH5Twl369ExHMwnlMOZaw00l/IXSQzPaYXWiWQk/bd4Pd3ZvE4et0smiGkCfrd/LckKmqAoJjxJdsh9AePAsa8itcoOAKxIM=",
+      "lat": 37.38491129,
+      "lng": 127.13372169
+    },
+    {
+      "pnu": "4113510500101990001",
+      "match_type": "100m",
+      "bld_nm": "서현빌라",
+      "jibun_addr": "경기 성남시 분당구 서현동 199-1",
+      "road_addr": "경기 성남시 분당구 안골로 16",
+      "enc_subscriber": "MUtT7m4sMnv/+xQR:/nO5f1oMajB/E7LYx8nIQ8Op6hp7EYh4ULdogUO7vhZNe1pnbdx9yda+4CtdGVTebrBBkYCnwqQF8yNNHVkZO53fULpj0ILWIHf82qB//jprb7Uy5VA=",
+      "lat": 37.38452267,
+      "lng": 127.13376933
+    },
+    {
+      "pnu": "4113510500101980005",
+      "match_type": "100m",
+      "bld_nm": "동양프라자B동",
+      "jibun_addr": "경기 성남시 분당구 서현동 198-5",
+      "road_addr": "경기 성남시 분당구 안골로 12-6",
+      "enc_subscriber": "xJaCo29o7USJPAX9:rrrsNbRKWdub17sbVmOBxPx8UZNCYcDJALKPb/UeXT9mopW+QA7b8MVKC2p6G9JBdB0uwJ0u/saxygKPKBJ8l1BC/dan9EtD96xhD0ayzcyH1pc2sGM=",
+      "lat": 37.38429807,
+      "lng": 127.13400764
+    },
+    {
+      "pnu": "4113510500101610005",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 161-5",
+      "road_addr": "경기 성남시 분당구 돌마로 585",
+      "enc_subscriber": "6OYxyag2nyEXQiwk:L3iopqG75iMiCuknKBYtjr69uJXYzRO087V+Kk+KQM9gCAJZH5YOBJAgrdvw0WbooZXL4hN2mzdyI4c1s7LXAajWrYC4qlwHwtCKohA0qBQAKezdgq8=",
+      "lat": 37.38521143,
+      "lng": 127.13790037
+    },
+    {
+      "pnu": "4113510500102040000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 204",
+      "road_addr": "경기 성남시 분당구 #-#",
+      "enc_subscriber": "xw+scW9bb5nvh7Wp:Cv6XB9fG2sOSlKOUw5ZYHUIoPUArLL6N1flblLZm+Bkx/sLiMcuG/Lm8l7+thzOo2xo+g7wD8CjgQOXfUj0mzXnOMPK4CuZUPNcwRajtgsvyPVRoM84=",
+      "lat": 37.38568856,
+      "lng": 127.13427497
+    },
+    {
+      "pnu": "4113510500101390000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 139",
+      "road_addr": "경기 성남시 분당구 새마을로51번길 17",
+      "enc_subscriber": "lx3TEPsoCmQKY/fA:4q8AMy1Ls3DCTFfFd7f7nOKUIEQz+9I7yrB7tzX/2KW6/htEGD175yLhiqFOuJNwzTG/0xnofuQA1GhfmJR38nFurs7HY5dyzU4P09c1Pj7R6dmRSSU=",
+      "lat": 37.38437177,
+      "lng": 127.13745257
+    },
+    {
+      "pnu": "4113510500101500000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 150",
+      "road_addr": "경기 성남시 분당구 새마을로51번길 20",
+      "enc_subscriber": "g7Ba3sqcylIsPkqE:JvhRcP1TiIjGDHeJ/yd+dWLkndbljJsXmpUl1DoPQGSrbTexL3CviLMSkjtg526Jv8Xan5+whI6KgWo6MqADLhfuMVHZrJfq4PklhmONkKYSO1nvIek=",
+      "lat": 37.38452605,
+      "lng": 127.13779071
+    },
+    {
+      "pnu": "4113510500102060029",
+      "match_type": "100m",
+      "bld_nm": "해뜨는집2",
+      "jibun_addr": "경기 성남시 분당구 서현동 206-29",
+      "road_addr": "경기 성남시 분당구 안골로 17-8",
+      "enc_subscriber": "Bb+yEwt7LFNQ7Nk4:kyxfVQVDleojHs1A//vdtTReE07LvFWmuB9ZyCVhdpOKr/FQ4HGSJH3pnhAkHjxlip8xqvLa/gkR3x5wXf8omI8ITRTT8LIf9G7UB3XhvzU8408km0U=",
+      "lat": 37.38547009,
+      "lng": 127.13408101
+    },
+    {
+      "pnu": "4113510500101390002",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 139-2",
+      "road_addr": "경기 성남시 분당구 새마을로51번길 9-4",
+      "enc_subscriber": "uF6hbcJeQ6jtMMtu:0ih23syP7dknjEa0shO78JXLf0+15C03YqepKaBlRuonQWJdW/P/CxNVz7AmXf5ZXig/X0Kw8MLugVk7bC4OViu0kvtWw07UcfU1wOZ7pFfn5v4mTkw=",
+      "lat": 37.38429873,
+      "lng": 127.13714793
+    },
+    {
+      "pnu": "4113510500102020000",
+      "match_type": "100m",
+      "bld_nm": "프라임빌",
+      "jibun_addr": "경기 성남시 분당구 서현동 202",
+      "road_addr": "경기 성남시 분당구 안골로 17-5",
+      "enc_subscriber": "ocyDOxVkfmK1V1DT:Z+PYxvj1VmV9YLig+66Uq/9CqxqYqNMUHNdwiQc24d8dYqEPHfAYs9So8jo9S0wBFE2k59V7pNgMIaGoFBHSUFydjul4hM8YrNF3834/I3s7aCipsHA=",
+      "lat": 37.38522567,
+      "lng": 127.13374331
+    },
+    {
+      "pnu": "4113510500101980001",
+      "match_type": "100m",
+      "bld_nm": "동양프라자",
+      "jibun_addr": "경기 성남시 분당구 서현동 198-1",
+      "road_addr": "경기 성남시 분당구 안골로 12-4",
+      "enc_subscriber": "Ced71Xpf/mFD2jUI:48NtHpk7EDCn5QcQsG17dweX4pbWl8Vx14X4BVROw0eTQJV/GKQVwXjIjk3Gjl0mB8p2l/SfsrYbe4+iY3EW+X60p7cHft+Cr+IpCViTetMbN0ghW3I=",
+      "lat": 37.38436004,
+      "lng": 127.13364586
+    },
+    {
+      "pnu": "4113510500102000001",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 200-1",
+      "road_addr": "경기 성남시 분당구 안골로 13",
+      "enc_subscriber": "HA1Pbyaw4qncPTPc:iM3f3bgZpV2QRUT+xE7zbTC901qG+ox2sRzeaxFgVPjjzMqTm9XvCMgSKK0LzSM8YI1e+PUvmS7nZ2OU9hh/fgYa292euO2pJjHaGofLNav3QJwjDWY=",
+      "lat": 37.38484636,
+      "lng": 127.13350794
+    },
+    {
+      "pnu": "4113510500101380000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 138",
+      "road_addr": "경기 성남시 분당구 새마을로51번길 9-5",
+      "enc_subscriber": "LV95f+sRRqlFet8Q:4YFi45a+CwLSdRdDDMfC5b3Tn4f1FnvzkGxoMYCPhhrk1a0ujQV9lqBUXnNP4AlJVV8JWzekc4Q9nMiA8rIDIs9e3MEi4xQbJ3HrpI46NU1eBdTrfsg=",
+      "lat": 37.38425286,
+      "lng": 127.13688834
+    },
+    {
+      "pnu": "4113510500101400003",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 140-3",
+      "road_addr": "경기 성남시 분당구 새마을로51번길 15",
+      "enc_subscriber": "5GuBCK+UJcKqDga1:v8MytJIOPJ8alh1YYaQ5Ps1JYi8L5zVEwogIfI1CvgCV56TCl7e/hr4g2vCpznTU5WXzUT1y1hsfBkKyajjdWi+sNXyeYhpPnYsJoXj7zMXSDNRW05I=",
+      "lat": 37.38419164,
+      "lng": 127.13749862
+    },
+    {
+      "pnu": "4113510500102060002",
+      "match_type": "100m",
+      "bld_nm": "동양파크빌",
+      "jibun_addr": "경기 성남시 분당구 서현동 206-2",
+      "road_addr": "경기 성남시 분당구 안골로11번길 16",
+      "enc_subscriber": "KC3U6JM9YwIyNlCq:OkD0PqmMBAsXzd31Jx/617jYRlIPNHB+I9Ufmv8+DwKsiMqF8zM0O9+iSaKu4gJHL49BL07LJ55NB/uGDb8HTfRKv/ZE+gCYavOt2/WGrpiZ6wO9joc=",
+      "lat": 37.38583049,
+      "lng": 127.13403408
+    },
+    {
+      "pnu": "4113510500101400013",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 140-13",
+      "road_addr": "경기 성남시 분당구 새마을로51번길 11",
+      "enc_subscriber": "Xmqzd0VJxlXPVfQR:yyT3UAVszmKqVZavYpp/+cgesr3Gc37tlCVqnjIRDZpQsoi4AGXYAGuRAPp9QatBoaxaUQjtPzPKkTbIzSAGOsaptCmx3oX0Gja7LoNIAgEf2VUTEDU=",
+      "lat": 37.384137,
+      "lng": 127.13731814
+    },
+    {
+      "pnu": "4113510500102060026",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 206-26",
+      "road_addr": "경기 성남시 분당구 안골로11번길 10",
+      "enc_subscriber": "0QspEsDq+brTvlmF:1s6O0/UHdQ+QxUK86kzTkOgxV8CVgOIcVG6j6kl3X9k02vk3w6NOoGpKOAR7SwqdcSvHB6sBQIltMd18DKxGHeYOp0o0Dcfk2thegbigVL0KMx1qidg=",
+      "lat": 37.38551411,
+      "lng": 127.13374191
+    },
+    {
+      "pnu": "4113510500101400002",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 140-2",
+      "road_addr": "경기 성남시 분당구 새마을로51번길 18",
+      "enc_subscriber": "HhptEzuELBNjhDfF:6n+VHmdkzXrDSu5I57L/qGsILMmHy/Al1alZt8MZjy5Uq1cqJAvbxF3zvNFCIYKxCjSwZH2EdlwMQL/QuxjR+SCL5GwZM9qf3WCYuK0faPp5jp+i0F0=",
+      "lat": 37.38417448,
+      "lng": 127.1377811
+    },
+    {
+      "pnu": "4113510500101970001",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 197-1",
+      "road_addr": "경기 성남시 분당구 새마을로 31",
+      "enc_subscriber": "wfnuGUut/q7dZZT/:0YgRL7M2/H8m3tHa2us+/gV0q2FQPL5c40Vn3Wx+t628VjhjFedjjYR2gwmJMzSKxb32Kv0iY3OlmxtEH7uPjL+TfoniGViQbGFox9jrlEh1feoJedbH",
+      "lat": 37.38395635,
+      "lng": 127.1342691
+    },
+    {
+      "pnu": "4113510500101960021",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 196-21",
+      "road_addr": "경기 성남시 분당구 새마을로 43",
+      "enc_subscriber": "0fLcAeVZoFBBI+zN:3g2oV3dSEyaJ9cL0dOSmvAfX+g1vM1VA5c99+DZqQM+CbsnEmPYHjsR1KBxb5aeIsiIYVCIUGsDry9YsSvNzULP6hIv1U16g69FW7zxQHtoV8RJO6z0=",
+      "lat": 37.38403814,
+      "lng": 127.1353925
+    },
+    {
+      "pnu": "4113510500102110002",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 211-2",
+      "road_addr": "경기 성남시 분당구 안골로11번길 5",
+      "enc_subscriber": "hGuj40MdyYG4JG4B:bui6jscXSiMdhDRAaLXlniWAmvoVDq3rY+7GO7SsgpBvULsGZ+fl9iyTR9HTeqXEyDxY0i+IYHYuYOOKsdknpbkZOqWLpCFd8njzeUvRaULH9i1gbgg=",
+      "lat": 37.38503488,
+      "lng": 127.13325851
+    },
+    {
+      "pnu": "4113510500101360003",
+      "match_type": "100m",
+      "bld_nm": "서현동상가",
+      "jibun_addr": "경기 성남시 분당구 서현동 136-3",
+      "road_addr": "경기 성남시 분당구 새마을로51번길 9-3",
+      "enc_subscriber": "DI2h6o7kSHo3qgGN:nJz457/CiilHonqCqZwnYl8iJYrmh9/ntB3JXbS+Sq6LWwLy/FdsY0IqDR0jHLV8uWUtal4PjVH/M1LaMcCfEr1W7zhyE+OLm72hHxolLQCEAe7ZX38=",
+      "lat": 37.38401865,
+      "lng": 127.13693465
+    },
+    {
+      "pnu": "4113510500102060006",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 206-6",
+      "road_addr": "경기 성남시 분당구 안골로 17-7",
+      "enc_subscriber": "Fu57pnqY8h1nprT+:0gdRK/4+At8pRo0GUDbJQTqCErAfvtIOVZcDPDKVv89Av5mXNQFeMZFebnVMCpqTPWu2bIaKmzPz04Q1EbiH8w3Wo7xrEz6jMYj/mN323ytafOmls7I=",
+      "lat": 37.38567649,
+      "lng": 127.13378631
+    },
+    {
+      "pnu": "4113510500102120000",
+      "match_type": "100m",
+      "bld_nm": "서현빌라트",
+      "jibun_addr": "경기 성남시 분당구 서현동 212",
+      "road_addr": "경기 성남시 분당구 안골로11번길 1",
+      "enc_subscriber": "8TmaT0Fv2EmdGPfF:rPpNuMJlwBVcSUGarVmaM2vBRolKSVoAsNpPRpTqm7y0Df+Eu8tSi9nOfpAnSw9JQtHvjTwThrszqnwjFZZI7v45dRZicUwbXPpY4JxYZ+AzbauTXNQ=",
+      "lat": 37.38469211,
+      "lng": 127.13318111
+    },
+    {
+      "pnu": "4113510500101960005",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 196-5",
+      "road_addr": "경기 성남시 분당구 새마을로 35",
+      "enc_subscriber": "wqhBSIlaJ1PClRSM:ohnarRt7udOo6fL5M9VrKGSGIvVm8TbYSm298o8jjCvBSmwQXy9Du90cNPVpnwj/eoeJ0tc1R85A7pen2JXivUeph4Vyy4kvizovcjN8kCAcNqU9MOU=",
+      "lat": 37.38391296,
+      "lng": 127.13481152
+    },
+    {
+      "pnu": "4113510500102110001",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 211-1",
+      "road_addr": "경기 성남시 분당구 안골로11번길 7",
+      "enc_subscriber": "TqtBBIKfomIEyswi:i/S5DbJZ+IW/7FC4U7z9mOAwiwnEJsIcu6ENxu5HJAqgZTCvs51x/PMvboeVF9KyoyYrUwAq7CFp1l/9xWDM2+Ys/J+6/eV1mR3OPTQFWvp6UbnavHQ=",
+      "lat": 37.38519705,
+      "lng": 127.13323513
+    },
+    {
+      "pnu": "4113510500102310020",
+      "match_type": "100m",
+      "bld_nm": "분당공원주유소",
+      "jibun_addr": "경기 성남시 분당구 서현동 231-20",
+      "road_addr": "경기 성남시 분당구 새마을로 27",
+      "enc_subscriber": "NTI6GYaiY9/ilou7:v7/DTW8EEONcQkXlRXfAUCwXvgwcM0kLT/tF7cQpd7bLsoZ6qV9yYDMdu8PS8RDY/dOgNs76yziMae7cBy4iBt1Rq1ajshm0/OGn7BYq96jQy9vZm6w=",
+      "lat": 37.38407988,
+      "lng": 127.13341001
+    },
+    {
+      "pnu": "4113510500102050000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 205",
+      "road_addr": "경기 성남시 분당구 #-#",
+      "enc_subscriber": "CCHEFLZ0Rvn4bdA5:zQM5Znnxp6FysHPLvPhYtobVB3FuuavkQs1DX/7x6xDSN0CupxY3p28XQ7KgoR4/PiCncRYHRs4qILkOy/sJUAU84DDTYYGjVeIYzHlWJGZJBN7BL78=",
+      "lat": 37.38590258,
+      "lng": 127.13381505
+    },
+    {
+      "pnu": "4113510500101480000",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 148",
+      "road_addr": "경기 성남시 분당구 새마을로51번길 16",
+      "enc_subscriber": "Oi++G8b88lWbohfh:rR4W+zmp61kndbHbfPm/ki44SJ6QR7UB05oMu1kWsK0bQdRQ20F9VDumnFg2doQxj74SfDnqSOcshWM9GjVDIbjFb4vzQEF3BORq+YopPDGGiaQYfDo=",
+      "lat": 37.38421154,
+      "lng": 127.13810851
+    },
+    {
+      "pnu": "4113510500200130001",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 13-1",
+      "road_addr": "경기 성남시 분당구 안골로 59-1",
+      "enc_subscriber": "e6YMqP216nbkIWPW:3wZse5tmFIDYlCua9Y7OaLHMLFz5bykunmmfZePrWlcdSix/nGm8hR74CJ0JGO8YvqsaX3qhf0UFIQSzBcxgdwSxHWNaHSxHUWIT0sy9xfdrqTO/kk8=",
+      "lat": 37.38718777,
+      "lng": 127.13572195
+    },
+    {
+      "pnu": "4113510500101360007",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 136-7",
+      "road_addr": "경기 성남시 분당구 새마을로51번길 9",
+      "enc_subscriber": "VFAoE2FtOu9l9rfa:U+CnScVwTolCMSV+4BJuO5L9EYxeHA4FJbMXoeVrUAtWzvqHY+7lEw2GLNXk0wNGzcAuDx2WpL/CgNDswiVjW4PHGJV2KradMj0/Qk4bPN529EOOT9o=",
+      "lat": 37.38391048,
+      "lng": 127.13693517
+    },
+    {
+      "pnu": "4113510500101750007",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 175-7",
+      "road_addr": "경기 성남시 분당구 안골로 59",
+      "enc_subscriber": "PgHRKEguH9QclbTv:ki+YDErbm6peFvJfI715rdZICX8WeEBxkFNG6G1dBXzSCDL5dScTPhwskWeFkjMEcELzimFguL6c/cQcHXUmuYyZunSlULujZvHPd1zrPljSUIHFNAU=",
+      "lat": 37.38731414,
+      "lng": 127.13577782
+    },
+    {
+      "pnu": "4113510500101410003",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 141-3",
+      "road_addr": "경기 성남시 분당구 새마을로51번길 14",
+      "enc_subscriber": "f8YSMxuG9NySJLxf:3tVGkV5DQmogQgm+uWZlwGPolhP8OkAU1T0FEwylEkqVOUceiLH+FHCukwQLKu7Odlo6lEbS0RUgFsOE4jkTGQvC9wHClC4/RnhdLuefTw521vfGV/I=",
+      "lat": 37.38396737,
+      "lng": 127.13784987
+    },
+    {
+      "pnu": "4113510500101960013",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 196-13",
+      "road_addr": "경기 성남시 분당구 새마을로 37",
+      "enc_subscriber": "SVvdPBeVTfTJyNxn:kqcvaApKmVs3dTQjDOQjblvg26mGyfkuRAQYaO5z2I4UsyHIzGBLirSQ7R6sq9wPOJPBvA9iqAFQCI8/I78Cbdb4GV7tfWNAf5jwzEhVz5KNHBZ57I8=",
+      "lat": 37.38382335,
+      "lng": 127.13498139
+    },
+    {
+      "pnu": "4113510500102060005",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 206-5",
+      "road_addr": "경기 성남시 분당구 안골로11번길 12",
+      "enc_subscriber": "rkeqW3iRQLcCqoG9:v90BrrjWWCpv/PwN1/MEnEhTR5JoqPdiyQC53G+Vl9EJdXtzWpjSmswrbQQl7ZrBAR4g5AuE0U+hF4YZQ39t43JodLlcDALqsx9lqUGtGka1uL8whOM=",
+      "lat": 37.38556728,
+      "lng": 127.13344795
+    },
+    {
+      "pnu": "4113510500102060004",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 206-4",
+      "road_addr": "경기 성남시 분당구 안골로11번길 14",
+      "enc_subscriber": "EZo+d7Q86E2CPkfd:ujTovCnRlpfmmJiksPq9cg6mM8vlvOEhRDkhugH1ArHrRA5SjuaPZ6kw2RFe2z/k7G0JxdTt8BQg+j+NoD0yO0kv0ukcDdcFiW9S+AatgMqfPnSc9AA=",
+      "lat": 37.38571199,
+      "lng": 127.13360539
+    },
+    {
+      "pnu": "4113510500102130002",
+      "match_type": "100m",
+      "bld_nm": "N/A",
+      "jibun_addr": "경기 성남시 분당구 서현동 213-2",
+      "road_addr": "경기 성남시 분당구 안골로 7",
+      "enc_subscriber": "O1X1gsFUZk63nmt0:OqJn6ZIBNmj1VO0oRAYelIdshzglS1FB7Ju5nTw7G0dvd2P+7UudDgfyNd8OiMGrmcGnOxJ4miOSu89ilRyKYpIrWmRMSUuMyez6laKyrNfUcSftNWc=",
+      "lat": 37.38444843,
+      "lng": 127.13308063
+    },
+    {
+      "pnu": "4113510500101420000",
+      "match_type": "100m",
+      "bld_nm": "스모일식",
+      "jibun_addr": "경기 성남시 분당구 서현동 142",
+      "road_addr": "경기 성남시 분당구 새마을로51번길 12",
+      "enc_subscriber": "NXUrHvLPhL/2uKxB:qImwR9Hf2iwTKvPnNREHPqbIHZ7+hcwGRNx0gOp2Qs0nbo1OmjkS+MsLuiQdEy+J4EMGmxu5sUauiHmG1KCGlu0ggWZWrMQpU/N6T/c2lTPZCmqtFwk=",
+      "lat": 37.3838676,
+      "lng": 127.13764703
+    }
+  ]
 }
