@@ -17,6 +17,16 @@ let myLocationButtonEl = null;
 let myLocationIconEl = null;
 
 /**
+ * CARTO Basemaps API Key
+ * CARTO 정책 변경으로 basemaps.cartocdn.com 타일은 API 키가 없으면
+ * "API KEY REQUIRED" 워터마크가 찍혀서 나옵니다.
+ * https://carto.com/basemaps/apikey/ 에서 이메일 + 배포 도메인만 입력하면
+ * 무료 키(월 5백만 타일)를 즉시 이메일로 받을 수 있습니다(계정 가입 불필요).
+ * 발급받은 키를 아래에 넣어주세요.
+ */
+const CARTO_API_KEY = 'cb1_2oj5_1_ff65a9d5523ea08a008efb21';
+
+/**
  * 터치 기기(폰/태블릿) 여부 판별.
  * 터치 기기는 탭 한 번에 mouseover(툴팁)와 click(상세팝업)이 같이 발생해서
  * 툴팁이 잠깐 떴다가 그 위에 상세팝업이 겹쳐 보이는 문제가 있어, 이 경우 툴팁을 아예 안 붙임.
@@ -89,6 +99,10 @@ export function setMapTheme(theme) {
         attribution = '&copy; OpenStreetMap contributors &copy; CARTO';
         document.body.classList.remove('dark-theme');
         document.body.classList.add('light-theme');
+    }
+
+    if (CARTO_API_KEY) {
+        tileUrl += (tileUrl.includes('?') ? '&' : '?') + 'key=' + CARTO_API_KEY;
     }
 
     tileLayer = L.tileLayer(tileUrl, {
